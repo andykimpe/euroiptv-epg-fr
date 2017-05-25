@@ -7,4 +7,5 @@ channel 6 M6;http://euroiptv.myftp.biz:8000/logo/m6.png
 channel 7 Arte;http://euroiptv.myftp.biz:8000/logo/arte.png
 channel 8 C8;http://euroiptv.myftp.biz:8000/logo/c8.png
 channel 9 W9;http://euroiptv.myftp.biz:8000/logo/w9.png
+channel 10 TMC;http://euroiptv.myftp.biz:8000/logo/TMCHD.png
 
