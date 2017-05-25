@@ -31,7 +31,7 @@ ARCH=$(uname -m)
 
 echo "Detected : $OS  $VER  $ARCH"
 
-if [["$OS" = "Ubuntu" && ("$VER" = "12.04" || "$VER" = "14.04" ) || "$VER" = "16.04" )]] ; then
+if [["$OS" = "Ubuntu" && ("$VER" = "12.04" || "$VER" = "14.04" || "$VER" = "16.04" )]] ; then
     echo "Ok."
 else
     echo "Sorry, this OS is not supported by epg generator." 
