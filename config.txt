@@ -14,3 +14,4 @@ channel 14 LCP/Public Senat;http://euroiptv.myftp.biz:8000/logo/lcp-ps.png
 channel 13 France 4;http://euroiptv.myftp.biz:8000/logo/france4.png
 channel 15 BFM TV;http://euroiptv.myftp.biz:8000/logo/BFM_TV.svg.png
 channel 16 Cnews;http://euroiptv.myftp.biz:8000/logo/CNews_Logo.jpg
+channel 17 CStar;http://euroiptv.myftp.biz:8000/logo/cstar.png
