@@ -16,3 +16,4 @@ cp /root/euroiptv.xml /home/xtreamcodes/xmltv/guide.xml
 gzip /home/xtreamcodes/xmltv/guide.xml
 chmod -R 777 /home/xtreamcodes/xmltv/*
 chown xtreamcodes:xtreamcodes /home/xtreamcodes/xmltv/*
+/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg.php
