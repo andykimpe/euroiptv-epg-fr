@@ -10,3 +10,9 @@ tv_grab_fr_telerama --config-file config.txt --output /root/euroiptv.xml --days 
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/sed.sh
 chmod +x sed.sh
 /root/sed.sh
+rm -rf /home/xtreamcodes/xmltv/
+mkdir -p /home/xtreamcodes/xmltv/
+cp /root/euroiptv.xml /home/xtreamcodes/xmltv/guide.xml
+gzip /home/xtreamcodes/xmltv/guide.xml
+chmod -R 777 /home/xtreamcodes/xmltv/*
+chown xtreamcodes:xtreamcodes /home/xtreamcodes/xmltv/*
