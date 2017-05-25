@@ -19,3 +19,4 @@ channel 18 Gulli;http://euroiptv.myftp.biz:8000/logo/Logo-Gulli.svg.png
 channel 119 France Ô;http://euroiptv.myftp.biz:8000/logo/franceO.png
 channel 4131 HD1;http://euroiptv.myftp.biz:8000/logo/hd1.png
 channel 4132 L’Equipe 21;http://euroiptv.myftp.biz:8000/logo/lequipe21.png
+channel 4133 6ter;http://euroiptv.myftp.biz:8000/logo/6ter.png
