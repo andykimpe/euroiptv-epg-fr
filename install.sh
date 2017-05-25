@@ -55,7 +55,7 @@ apt-get update
 apt-get install -y python-software-properties
 
 
-if [["$OS" = "Ubuntu" && ("$VER" = "14.04" ) || "$VER" = "16.04" )]] ; then
+if [[ "$OS" = "Ubuntu" && ("$VER" = "14.04" || "$VER" = "16.04" ) ]] ; then
 apt-get -y install software-properties-common
 apt-get install -y python3-software-properties
 fi
