@@ -1,3 +1,4 @@
 channel 1 TF1;http://euroiptv.myftp.biz:8000/logo/tf1.png
 channel 2 France 2;http://euroiptv.myftp.biz:8000/logo/france2.png
 channel 3 France 3;http://euroiptv.myftp.biz:8000/logo/france3.png
+channel 4 Canal+;http://euroiptv.myftp.biz:8000/logo/canal+.png
