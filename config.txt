@@ -3,3 +3,5 @@ channel 2 France 2;http://euroiptv.myftp.biz:8000/logo/france2.png
 channel 3 France 3;http://euroiptv.myftp.biz:8000/logo/france3.png
 channel 4 Canal+;http://euroiptv.myftp.biz:8000/logo/canal+.png
 channel 5 France 5;http://euroiptv.myftp.biz:8000/logo/france5.png
+channel 6 M6;http://euroiptv.myftp.biz:8000/logo/m6.png
+
