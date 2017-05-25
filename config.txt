@@ -9,4 +9,5 @@ channel 8 C8;http://euroiptv.myftp.biz:8000/logo/c8.png
 channel 9 W9;http://euroiptv.myftp.biz:8000/logo/w9.png
 channel 10 TMC;http://euroiptv.myftp.biz:8000/logo/4526861-le-nouvel-habillage-de-tmc-620x345-2.jpg
 channel 11 NT1;http://euroiptv.myftp.biz:8000/logo/nt1.png
+channel 12 NRJ 12;http://euroiptv.myftp.biz:8000/logo/NRJ12.png
 
