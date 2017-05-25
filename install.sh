@@ -52,6 +52,7 @@ exec > >(tee "$logfile")
 exec 2>&1
 
 apt-get update
+apt-get -y dist-upgrade
 apt-get install -y python-software-properties
 
 
