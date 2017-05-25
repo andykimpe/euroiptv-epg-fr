@@ -16,3 +16,4 @@ channel 15 BFM TV;http://euroiptv.myftp.biz:8000/logo/BFM_TV.svg.png
 channel 16 Cnews;http://euroiptv.myftp.biz:8000/logo/CNews_Logo.jpg
 channel 17 CStar;http://euroiptv.myftp.biz:8000/logo/cstar.png
 channel 18 Gulli;http://euroiptv.myftp.biz:8000/logo/Logo-Gulli.svg.png
+channel 119 France Ô;http://euroiptv.myftp.biz:8000/logo/franceO.png
