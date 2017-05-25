@@ -1,1 +1,1 @@
-channel 1 TF1;http://euroiptv.myftp.biz:8000/logo/
+channel 1 TF1;http://euroiptv.myftp.biz:8000/logo/tf1.png
