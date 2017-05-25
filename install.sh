@@ -7,9 +7,9 @@ EPG_INSTALLER_VERSION="1.0"
 #--- Display the 'welcome' splash/user warning info..
 echo ""
 echo "############################################################"
-echo "#  Welcome to the Official Sentora Installer $SENTORA_INSTALLER_VERSION  #"
+echo "#  Welcome to the epg generator Installer $EPG_INSTALLER_VERSION  #"
 echo "############################################################"
-
+sleep 5
 echo -e "\nChecking that minimal requirements are ok"
 
 # Ensure the OS is compatible with the launcher
@@ -30,7 +30,7 @@ fi
 ARCH=$(uname -m)
 
 echo "Detected : $OS  $VER  $ARCH"
-
+sleep 5
 if [[ "$OS" = "Ubuntu" && ("$VER" = "12.04" || "$VER" = "14.04" || "$VER" = "16.04" ) ]] ; then
     echo "Ok."
 else
@@ -64,7 +64,7 @@ fi
 
 add-apt-repository -y ppa:mythbuntu/xmltv
 apt-get update
-apt-get -y install xmltv wget git cron
+apt-get -y install xmltv wget git cron curl
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/tv_grab_fr_telerama -O /usr/bin/tv_grab_fr_telerama
 chmod +x /usr/bin/tv_grab_fr_telerama
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/genupdate.sh
