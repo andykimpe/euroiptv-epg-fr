@@ -65,8 +65,8 @@ fi
 add-apt-repository -y ppa:mythbuntu/xmltv
 apt-get update
 apt-get -y install xmltv wget git cron
-wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/tv_grab_telerama -O /usr/bin/tv_grab_telerama
-chmod +x /usr/bin/tv_grab_telerama
+wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/tv_grab_fr_telerama -O /usr/bin/tv_grab_fr_telerama
+chmod +x /usr/bin/tv_grab_fr_telerama
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/genupdate.sh
 chmod +x genupdate.sh
 if ! grep -q "01 00 * * * root /bin/bash /root/genupdate.sh" /etc/crontab; then
