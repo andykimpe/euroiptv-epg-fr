@@ -21,3 +21,4 @@ channel 4131 HD1;http://euroiptv.myftp.biz:8000/logo/hd1.png
 channel 4132 L’Equipe 21;http://euroiptv.myftp.biz:8000/logo/lequipe21.png
 channel 4133 6ter;http://euroiptv.myftp.biz:8000/logo/6ter.png
 channel 4134 Numéro 23;http://euroiptv.myftp.biz:8000/logo/numero23.png
+channel 4135 RMC Découverte;http://euroiptv.myftp.biz:8000/logo/rmcdecouverte.png
