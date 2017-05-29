@@ -25,3 +25,4 @@ channel 4135 RMC Découverte;http://euroiptv.myftp.biz:8000/logo/rmcdecouverte.p
 channel 4136 Chérie 25;http://euroiptv.myftp.biz:8000/logo/cherie25.png
 channel 133 LCI;http://euroiptv.myftp.biz:8000/logo/lci.png
 channel 2111 Franceinfo;http://euroiptv.myftp.biz:8000/logo/Franceinfo.png
+channel 227 Téva;http://euroiptv.myftp.biz:8000/logo/teva.png
