@@ -28,3 +28,4 @@ channel 2111 Franceinfo;http://euroiptv.myftp.biz:8000/logo/Franceinfo.png
 channel 227 Téva;http://euroiptv.myftp.biz:8000/logo/teva.png
 channel 23 AB1;http://euroiptv.myftp.biz:8000/logo/20120704091229!AB1_logo_2011.png
 channel 24 AB3;http://euroiptv.myftp.biz:8000/logo/498px-Logo_AB3.svg.png
+channel 199 RTL 9;http://euroiptv.myftp.biz:8000/logo/rtl9.png
