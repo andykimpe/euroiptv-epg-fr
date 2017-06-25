@@ -29,3 +29,4 @@ channel 227 Téva;http://euroiptv.myftp.biz:8000/logo/teva.png
 channel 23 AB1;http://euroiptv.myftp.biz:8000/logo/20120704091229!AB1_logo_2011.png
 channel 24 AB3;http://euroiptv.myftp.biz:8000/logo/498px-Logo_AB3.svg.png
 channel 199 RTL 9;http://euroiptv.myftp.biz:8000/logo/rtl9.png
+channel 186 Paris Première;http://euroiptv.myftp.biz:8000/logo/800px-Paris_premi%C3%A8re_1997_logo.svg.png
