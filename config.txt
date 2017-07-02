@@ -38,3 +38,4 @@ channel 44 Canal+ Décalé;http://euroiptv.myftp.biz:8000/logo/CanalPlusDecale.p
 channel 62 Ciné+ Premier;http://euroiptv.myftp.biz:8000/logo/Ciné+Premier.jpg
 channel 64 Ciné+ Frisson;http://euroiptv.myftp.biz:8000/logo/Ciné+Frisson.png
 channel 60 Ciné Cinéma Famiz;http://euroiptv.myftp.biz:8000/logo/logo-cine-famiz-plus.jpg
+channel 59 Ciné Cinéma Emotion;http://euroiptv.myftp.biz:8000/logo/Ciné+Emotion.png
