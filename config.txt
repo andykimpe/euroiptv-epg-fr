@@ -32,3 +32,4 @@ channel 199 RTL 9;http://euroiptv.myftp.biz:8000/logo/rtl9.png
 channel 186 Paris Première;http://euroiptv.myftp.biz:8000/logo/800px-Paris_premi%C3%A8re_1997_logo.svg.png
 channel 243 Tv Breizh;http://euroiptv.myftp.biz:8000/logo/TVBreizh.png
 channel 43 CANAL+ CINEMA;http://euroiptv.myftp.biz:8000/logo/CanalPlusCinema.png
+channel 4138 Canal+ Séries;http://euroiptv.myftp.biz:8000/logo/Canal+Séries.png
