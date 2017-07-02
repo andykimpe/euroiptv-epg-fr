@@ -35,3 +35,4 @@ channel 43 CANAL+ CINEMA;http://euroiptv.myftp.biz:8000/logo/CanalPlusCinema.png
 channel 4138 Canal+ Séries;http://euroiptv.myftp.biz:8000/logo/Canal+Séries.png
 channel 45 Canal+ Family;http://euroiptv.myftp.biz:8000/logo/CanalPlusFamily.png
 channel 44 Canal+ Décalé;http://euroiptv.myftp.biz:8000/logo/CanalPlusDecale.png
+channel 62 Ciné+ Premier;http://euroiptv.myftp.biz:8000/logo/Ciné+Premier.jpg
