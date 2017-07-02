@@ -34,3 +34,4 @@ channel 243 Tv Breizh;http://euroiptv.myftp.biz:8000/logo/TVBreizh.png
 channel 43 CANAL+ CINEMA;http://euroiptv.myftp.biz:8000/logo/CanalPlusCinema.png
 channel 4138 Canal+ Séries;http://euroiptv.myftp.biz:8000/logo/Canal+Séries.png
 channel 45 Canal+ Family;http://euroiptv.myftp.biz:8000/logo/CanalPlusFamily.png
+channel 44 Canal+ Décalé;http://euroiptv.myftp.biz:8000/logo/CanalPlusDecale.png
