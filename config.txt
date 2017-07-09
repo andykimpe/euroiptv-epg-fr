@@ -41,3 +41,4 @@ channel 60 Ciné+ Famiz;http://euroiptv.myftp.biz:8000/logo/logo-cine-famiz-plus
 channel 59 Ciné+ Emotion;http://euroiptv.myftp.biz:8000/logo/Ciné+Emotion.png
 channel 56 Ciné+ Classic;http://euroiptv.myftp.biz:8000/logo/CinePlusClassic.png
 channel 58 Ciné+ Club;http://euroiptv.myftp.biz:8000/logo/CinePlusClub.png
+channel 68 Comédie+;http://euroiptv.myftp.biz:8000/logo/ComediePlus.png
