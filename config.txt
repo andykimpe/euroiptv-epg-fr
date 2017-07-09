@@ -42,3 +42,4 @@ channel 59 Ciné+ Emotion;http://euroiptv.myftp.biz:8000/logo/Ciné+Emotion.png
 channel 56 Ciné+ Classic;http://euroiptv.myftp.biz:8000/logo/CinePlusClassic.png
 channel 58 Ciné+ Club;http://euroiptv.myftp.biz:8000/logo/CinePlusClub.png
 channel 68 Comédie+;http://euroiptv.myftp.biz:8000/logo/ComediePlus.png
+channel 203 Série club;http://euroiptv.myftp.biz:8000/logo/Serieclub.png
