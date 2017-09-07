@@ -53,7 +53,7 @@
 		<channel update="i" site="telerama.fr" site_id="ab-4,303" xmltv_id="AB4.be">AB 4</channel>
 		<channel update="i" site="telerama.fr" site_id="canal-series,1563" xmltv_id="CanalplusSeries.fr">Canal+ Séries</channel>
 		<channel update="i" site="telerama.fr" site_id="comedie,54" xmltv_id="Comedie.fr">Comédie+</channel>
-		<channel update="i" site="telerama.fr" site_id="e,405" xmltv_id=Eentertainment.fr">E !</channel>
+		<channel update="i" site="telerama.fr" site_id="e,405" xmltv_id="Eentertainment.fr">E !</channel>
 		<channel update="i" site="telerama.fr" site_id="paris-premiere,145" xmltv_id="ParisPremiere.fr">Paris Première</channel>
 		<channel update="i" site="telerama.fr" site_id="rtl-9,115" xmltv_id="RTL9.fr">RTL 9</channel>
 		<channel update="i" site="telerama.fr" site_id="serieclub,49" xmltv_id="SerieClub.fr">Série Club</channel>
