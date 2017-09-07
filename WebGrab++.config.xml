@@ -71,6 +71,7 @@
   <channel update="i" site="telerama.fr" site_id="ab-3,254" xmltv_id="AB3.be ">AB 3</channel>
   <channel update="i" site="telerama.fr" site_id="ab-4,303" xmltv_id="AB4.be">AB 4</channel>
   <channel update="i" site="telerama.fr" site_id="canal-series,1563" xmltv_id="CanalplusSeries.fr">Canal+ Séries</channel>
+  <channel update="i" site="telerama.fr" site_id="comedie,54" xmltv_id="Comedie.fr">Comédie+</channel>
   
 </settings>
 
