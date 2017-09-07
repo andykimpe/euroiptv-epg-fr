@@ -78,5 +78,6 @@
   <channel update="i" site="telerama.fr" site_id="serieclub,49" xmltv_id="SerieClub.fr">serieclub</channel>
   <channel update="i" site="telerama.fr" site_id="teva,191" xmltv_id="Teva.fr">Téva</channel>
   <channel update="i" site="telerama.fr" site_id="tvbreizh,225" xmltv_id="TVBreizh.fr">TvBreizh</channel>
+  <channel update="i" site="telerama.fr" site_id="animaux,12" xmltv_id="Animaux.fr">Animaux</channel>
 </settings>
 
