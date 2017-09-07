@@ -40,5 +40,6 @@
   <channel update="i" site="telerama.fr" site_id="la-chaine-parlementaire,234" xmltv_id="LCP.fr">La Chaîne parlementaire</channel>
   <channel update="i" site="telerama.fr" site_id="lci,112" xmltv_id="LCI.fr">LCI</channel>
   <channel update="i" site="telerama.fr" site_id="lequipe,1401" xmltv_id="L'Equipe">L'Equipe</channel>
+  <channel update="i" site="telerama.fr" site_id="m6,118" xmltv_id="M6.fr">M6</channel>
 </settings>
 
