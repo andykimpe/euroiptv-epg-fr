@@ -62,5 +62,6 @@
   <channel update="i" site="telerama.fr" site_id="cine-premier,282" xmltv_id="CCinecinemaPremier.fr">Ciné+ Premier</channel>
   <channel update="i" site="telerama.fr" site_id="ocs-choc,732" xmltv_id="OrangeCinechoc.fr">OCS Choc</channel>
   <channel update="i" site="telerama.fr" site_id="ocs-city,733" xmltv_id="OrangeCineHappy.fr">OCS City</channel>
+  <channel update="i" site="telerama.fr" site_id="ocs-geants,734" xmltv_id="OrangeCineGeants.fr">OCS Géants</channel>
 </settings>
 
