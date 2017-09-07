@@ -39,5 +39,6 @@
   <channel update="i" site="telerama.fr" site_id="cnews,226" xmltv_id="CNews.fr">CNEWS</channel>
   <channel update="i" site="telerama.fr" site_id="la-chaine-parlementaire,234" xmltv_id="LCP.fr">La Chaîne parlementaire</channel>
   <channel update="i" site="telerama.fr" site_id="lci,112" xmltv_id="LCI.fr">LCI</channel>
+  <channel update="i" site="telerama.fr" site_id="lequipe,1401" xmltv_id="L'Equipe">L'Equipe</channel>
 </settings>
 
