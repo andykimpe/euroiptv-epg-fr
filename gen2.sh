@@ -6,7 +6,6 @@ cp -f /root/euroiptv-epg-fr/logo/* /home/xtreamcodes/iptv_xtream_codes/wwwdir/lo
 cd /root/wg++
 rm -rf "WebGrab++.config.xml" "guide.xml" "/root/euroiptv-epg-fr"
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/WebGrab%2B%2B.config.xml"
-touch /root/wg++/./guide.xml
 ./run.sh
 rm -rf /home/xtreamcodes/xmltv/
 mkdir -p /home/xtreamcodes/xmltv/
