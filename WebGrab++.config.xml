@@ -70,6 +70,7 @@
   <channel update="i" site="telerama.fr" site_id="ab-1,5" xmltv_id="AB1.fr">AB 1</channel>
   <channel update="i" site="telerama.fr" site_id="ab-3,254" xmltv_id="AB3.be ">AB 3</channel>
   <channel update="i" site="telerama.fr" site_id="ab-4,303" xmltv_id="AB4.be">AB 4</channel>
+  <channel update="i" site="telerama.fr" site_id="canal-series,1563" xmltv_id="CanalplusSeries.fr">Canal+ Séries</channel>
   
 </settings>
 
