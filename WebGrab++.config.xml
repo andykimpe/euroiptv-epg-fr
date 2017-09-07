@@ -64,5 +64,6 @@
   <channel update="i" site="telerama.fr" site_id="ocs-city,733" xmltv_id="OrangeCineHappy.fr">OCS City</channel>
   <channel update="i" site="telerama.fr" site_id="ocs-geants,734" xmltv_id="OrangeCineGeants.fr">OCS Géants</channel>
   <channel update="i" site="telerama.fr" site_id="ocs-max,730" xmltv_id="OrangeCinemax.fr">OCS Max</channel>
+  <channel update="i" site="telerama.fr" site_id="paramount-channel,1562" xmltv_id="ParamountChannel.fr">Paramount Channel</channel>
 </settings>
 
