@@ -80,5 +80,6 @@
   <channel update="i" site="telerama.fr" site_id="tvbreizh,225" xmltv_id="TVBreizh.fr">TvBreizh</channel>
   <channel update="i" site="telerama.fr" site_id="animaux,12" xmltv_id="Animaux.fr">Animaux</channel>
   <channel update="i" site="telerama.fr" site_id="chasse-et-peche,38" xmltv_id="ChassePeche.fr">Chasse et pêche</channel>
+  <channel update="i" site="telerama.fr" site_id="discovery-channel,400" xmltv_id="Discovery.fr">Discovery Channel</channel>
 </settings>
 
