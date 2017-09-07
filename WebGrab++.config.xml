@@ -44,6 +44,7 @@
   <channel update="i" site="telerama.fr" site_id="nrj-12,444" xmltv_id="NRJ12.fr">NRJ 12</channel>
   <channel update="i" site="telerama.fr" site_id="nt-1,446" xmltv_id="NT1.fr">NT 1</channel>
   <channel update="i" site="telerama.fr" site_id="numero-23,1402" xmltv_id="Numero23.fr">Numéro 23</channel>
-   <channel update="i" site="telerama.fr" site_id="rmc-decouverte,1400" xmltv_id="RMCdecouverte.fr">RMC Découverte</channel>
+  <channel update="i" site="telerama.fr" site_id="rmc-decouverte,1400" xmltv_id="RMCdecouverte.fr">RMC Découverte</channel>
+  <channel update="i" site="telerama.fr" site_id="tmc,195" xmltv_id="TMC.fr">TMC</channel>
 </settings>
 
