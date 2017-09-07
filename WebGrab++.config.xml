@@ -24,5 +24,6 @@
   <channel update="i" site="telerama.fr" site_id="france-2,4" xmltv_id="France2.fr">France 2</channel>
   <channel update="i" site="telerama.fr" site_id="france-3,80" xmltv_id="France3.fr">France 3</channel>
   <channel update="i" site="telerama.fr" site_id="canal,34" xmltv_id="CANALplus.fr">Canal+</channel>
+  <channel update="i" site="telerama.fr" site_id="6ter,1403" xmltv_id="6ter.fr">6ter</channel>
 </settings>
 
