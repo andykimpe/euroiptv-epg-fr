@@ -58,7 +58,8 @@ apt-get install -y mono-complete wget git cron
 wget http://webgrabplus.com/sites/default/files/download/SW/V2.1.0/WebGrabPlus_V2.1_install.tar.gz
 tar -xvf WebGrabPlus_V2.1_install.tar.gz
 rm -f WebGrabPlus_V2.1_install.tar.gz
-cd .wg++
+mv .wg++ wg++
+cd wg++
 ./install.sh
 rm -f "siteini.pack/France/telerama.fr.channels.xml" "siteini.pack/France/telerama.fr.ini"
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/telerama.fr_.channels.xml" -O "siteini.pack/France/telerama.fr.channels.xml"
