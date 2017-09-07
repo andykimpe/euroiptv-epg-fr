@@ -64,7 +64,7 @@ cd wg++
 rm -f "siteini.user/France/telerama.fr.channels.xml" "siteini.user/France/telerama.fr.ini"
 mkdir -p "siteini.user/France"
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/telerama.fr_.channels.xml" -O "siteini.user/France/telerama.fr.channels.xml"
-wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/telerama.fr.ini" -O "siteini.user/France/telerama.fr.ini"
+wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/telerama.fr_.ini" -O "siteini.user/France/telerama.fr.ini"
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/genupdate.sh
 chmod +x genupdate.sh
 if ! grep -q "01 00 * * * root /bin/bash /root/genupdate.sh" /etc/crontab; then
