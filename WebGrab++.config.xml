@@ -60,5 +60,6 @@
   <channel update="i" site="telerama.fr" site_id="cine-famiz,401" xmltv_id="CinecinemaFamiz.fr">Ciné+ Famiz</channel>
   <channel update="i" site="telerama.fr" site_id="cine-frisson,284" xmltv_id="CinecinemaFrisson.fr">Ciné+ Frisson</channel>
   <channel update="i" site="telerama.fr" site_id="cine-premier,282" xmltv_id="CCinecinemaPremier.fr">Ciné+ Premier</channel>
+  <channel update="i" site="telerama.fr" site_id="ocs-choc,732" xmltv_id="OrangeCinechoc.fr">OCS Choc</channel>
 </settings>
 
