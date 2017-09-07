@@ -49,5 +49,6 @@
   <channel update="i" site="telerama.fr" site_id="w9,119" xmltv_id="W9.fr">W9</channel>
   <channel update="i" site="telerama.fr" site_id="idf1,701" xmltv_id="IDF1">IDF1</channel>
   <channel update="i" site="telerama.fr" site_id="action,10" xmltv_id="Action.fr">Action</channel>
+  <channel update="i" site="telerama.fr" site_id="canal-cinema,33" xmltv_id="CANALplusCINEMA.fr">Canal+ Cinéma</channel>
 </settings>
 
