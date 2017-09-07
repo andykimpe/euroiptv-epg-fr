@@ -65,6 +65,7 @@
   <channel update="i" site="telerama.fr" site_id="ocs-geants,734" xmltv_id="OrangeCineGeants.fr">OCS Géants</channel>
   <channel update="i" site="telerama.fr" site_id="ocs-max,730" xmltv_id="OrangeCinemax.fr">OCS Max</channel>
   <channel update="i" site="telerama.fr" site_id="paramount-channel,1562" xmltv_id="ParamountChannel.fr">Paramount Channel</channel>
-  channel update="i" site="telerama.fr" site_id="tcm-cinema,185" xmltv_id="TCM.fr">TCM Cinéma</channel>
+  <channel update="i" site="telerama.fr" site_id="tcm-cinema,185" xmltv_id="TCM.fr">TCM Cinéma</channel>
+  <channel update="i" site="telerama.fr" site_id="13e-rue,2" xmltv_id="13RUE.fr">13e Rue</channel>
 </settings>
 
