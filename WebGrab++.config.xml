@@ -56,5 +56,6 @@
   <channel update="i" site="telerama.fr" site_id="polar,289" xmltv_id="CinePolar.fr">Polar</channel>
   <channel update="i" site="telerama.fr" site_id="cine-classic,287" xmltv_id="CinecinemaClassic.fr">Ciné+ Classic</channel>
   <channel update="i" site="telerama.fr" site_id="cine-club,285" xmltv_id="CinecinemaClub.fr">Ciné+ Club</channel>
+  <channel update="i" site="telerama.fr" site_id="cine-emotion,283" xmltv_id="CinecinemaEmotion.fr">Ciné+ Emotion</channel>
 </settings>
 
