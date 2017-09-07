@@ -34,5 +34,6 @@
   <channel update="i" site="telerama.fr" site_id="france-5,47" xmltv_id="France5.fr">France 5</channel>
   <channel update="i" site="telerama.fr" site_id="france-o,160" xmltv_id="FranceO.fr">France Ô</channel>
   <channel update="i" site="telerama.fr" site_id="franceinfo,2111" xmltv_id="Franceinfo.fr">Franceinfo</channel>
+  <channel update="i" site="telerama.fr" site_id="gulli,482" xmltv_id="Gulli.fr">Gulli</channel>
 </settings>
 
