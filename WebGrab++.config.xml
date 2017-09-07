@@ -82,5 +82,6 @@
   <channel update="i" site="telerama.fr" site_id="chasse-et-peche,38" xmltv_id="ChassePeche.fr">Chasse et pêche</channel>
   <channel update="i" site="telerama.fr" site_id="discovery-channel,400" xmltv_id="Discovery.fr">Discovery Channel</channel>
   <channel update="i" site="telerama.fr" site_id="discovery-science,1374" xmltv_id="DiscoveryScience.fr">Discovery Science</channel>
+   <channel update="i" site="telerama.fr" site_id="equidia-life,1146" xmltv_id="EquidiaLife.fr">Equidia Life</channel>
 </settings>
 
