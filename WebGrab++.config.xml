@@ -67,6 +67,8 @@
   <channel update="i" site="telerama.fr" site_id="paramount-channel,1562" xmltv_id="ParamountChannel.fr">Paramount Channel</channel>
   <channel update="i" site="telerama.fr" site_id="tcm-cinema,185" xmltv_id="TCM.fr">TCM Cinéma</channel>
   <channel update="i" site="telerama.fr" site_id="13e-rue,2" xmltv_id="13RUE.fr">13e Rue</channel>
-   <channel update="i" site="telerama.fr" site_id="ab-1,5" xmltv_id="AB1.fr">AB 1</channel>
+  <channel update="i" site="telerama.fr" site_id="ab-1,5" xmltv_id="AB1.fr">AB 1</channel>
+  <channel update="i" site="telerama.fr" site_id="ab-3,254" xmltv_id="AB3.be ">AB 3</channel>
+  
 </settings>
 
