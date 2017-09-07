@@ -28,5 +28,6 @@
   <channel update="i" site="telerama.fr" site_id="arte,111" xmltv_id="ARTE.fr">Arte</channel>
   <channel update="i" site="telerama.fr" site_id="bfm-tv,481" xmltv_id="BFMTV.fr">BFM TV</channel>
   <channel update="i" site="telerama.fr" site_id="cherie-25,1399" xmltv_id="Cherie25.fr">Chérie 25</channel>
+  <channel update="i" site="telerama.fr" site_id="c8,445" xmltv_id="C8.fr">C8</channel>
 </settings>
 
