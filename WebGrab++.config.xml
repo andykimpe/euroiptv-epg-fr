@@ -69,6 +69,7 @@
   <channel update="i" site="telerama.fr" site_id="13e-rue,2" xmltv_id="13RUE.fr">13e Rue</channel>
   <channel update="i" site="telerama.fr" site_id="ab-1,5" xmltv_id="AB1.fr">AB 1</channel>
   <channel update="i" site="telerama.fr" site_id="ab-3,254" xmltv_id="AB3.be ">AB 3</channel>
+  <channel update="i" site="telerama.fr" site_id="ab-4,303" xmltv_id="AB4.be">AB 4</channel>
   
 </settings>
 
