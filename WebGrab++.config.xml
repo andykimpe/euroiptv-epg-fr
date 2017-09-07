@@ -39,7 +39,7 @@
   <channel update="i" site="telerama.fr" site_id="cnews,226" xmltv_id="CNews.fr">CNEWS</channel>
   <channel update="i" site="telerama.fr" site_id="la-chaine-parlementaire,234" xmltv_id="LCP.fr">La Chaîne parlementaire</channel>
   <channel update="i" site="telerama.fr" site_id="lci,112" xmltv_id="LCI.fr">LCI</channel>
-  <channel update="i" site="telerama.fr" site_id="lequipe,1401" xmltv_id="L'Equipe">L'Equipe</channel>
+  <channel update="i" site="telerama.fr" site_id="lequipe,1401" xmltv_id="EquipeTV.fr">L'Equipe 21</channel>
   <channel update="i" site="telerama.fr" site_id="m6,118" xmltv_id="M6.fr">M6</channel>
   <channel update="i" site="telerama.fr" site_id="nrj-12,444" xmltv_id="NRJ12.fr">NRJ 12</channel>
   <channel update="i" site="telerama.fr" site_id="nt-1,446" xmltv_id="NT1.fr">NT 1</channel>
@@ -47,7 +47,7 @@
   <channel update="i" site="telerama.fr" site_id="rmc-decouverte,1400" xmltv_id="RMCdecouverte.fr">RMC Découverte</channel>
   <channel update="i" site="telerama.fr" site_id="tmc,195" xmltv_id="TMC.fr">TMC</channel>
   <channel update="i" site="telerama.fr" site_id="w9,119" xmltv_id="W9.fr">W9</channel>
-  <channel update="i" site="telerama.fr" site_id="idf1,701" xmltv_id="IDF1">IDF1</channel>
+  <channel update="i" site="telerama.fr" site_id="idf1,701" xmltv_id="IDF1.fr">IDF1</channel>
   <channel update="i" site="telerama.fr" site_id="action,10" xmltv_id="Action.fr">Action</channel>
   <channel update="i" site="telerama.fr" site_id="canal-cinema,33" xmltv_id="CANALplusCINEMA.fr">Canal+ Cinéma</channel>
   <channel update="i" site="telerama.fr" site_id="canal-decale,30" xmltv_id="CANALplusDECALE.fr">Canal+ Décalé</channel>
@@ -56,32 +56,61 @@
   <channel update="i" site="telerama.fr" site_id="polar,289" xmltv_id="CinePolar.fr">Polar</channel>
   <channel update="i" site="telerama.fr" site_id="cine-classic,287" xmltv_id="CinecinemaClassic.fr">Ciné+ Classic</channel>
   <channel update="i" site="telerama.fr" site_id="cine-club,285" xmltv_id="CinecinemaClub.fr">Ciné+ Club</channel>
-  <channel update="i" site="telerama.fr" site_id="cine-emotion,283" xmltv_id="CinecinemaEmotion.fr">Ciné+ Emotion</channel>
-  <channel update="i" site="telerama.fr" site_id="cine-famiz,401" xmltv_id="CinecinemaFamiz.fr">Ciné+ Famiz</channel>
-  <channel update="i" site="telerama.fr" site_id="cine-frisson,284" xmltv_id="CinecinemaFrisson.fr">Ciné+ Frisson</channel>
-  <channel update="i" site="telerama.fr" site_id="cine-premier,282" xmltv_id="CCinecinemaPremier.fr">Ciné+ Premier</channel>
-  <channel update="i" site="telerama.fr" site_id="ocs-choc,732" xmltv_id="OrangeCinechoc.fr">OCS Choc</channel>
-  <channel update="i" site="telerama.fr" site_id="ocs-city,733" xmltv_id="OrangeCineHappy.fr">OCS City</channel>
-  <channel update="i" site="telerama.fr" site_id="ocs-geants,734" xmltv_id="OrangeCineGeants.fr">OCS Géants</channel>
-  <channel update="i" site="telerama.fr" site_id="ocs-max,730" xmltv_id="OrangeCinemax.fr">OCS Max</channel>
-  <channel update="i" site="telerama.fr" site_id="paramount-channel,1562" xmltv_id="ParamountChannel.fr">Paramount Channel</channel>
-  <channel update="i" site="telerama.fr" site_id="tcm-cinema,185" xmltv_id="TCM.fr">TCM Cinéma</channel>
-  <channel update="i" site="telerama.fr" site_id="13e-rue,2" xmltv_id="13RUE.fr">13e Rue</channel>
-  <channel update="i" site="telerama.fr" site_id="ab-1,5" xmltv_id="AB1.fr">AB 1</channel>
-  <channel update="i" site="telerama.fr" site_id="ab-3,254" xmltv_id="AB3.be ">AB 3</channel>
-  <channel update="i" site="telerama.fr" site_id="ab-4,303" xmltv_id="AB4.be">AB 4</channel>
-  <channel update="i" site="telerama.fr" site_id="canal-series,1563" xmltv_id="CanalplusSeries.fr">Canal+ Séries</channel>
-  <channel update="i" site="telerama.fr" site_id="comedie,54" xmltv_id="Comedie.fr">Comédie+</channel>
-  <channel update="i" site="telerama.fr" site_id="e,405" xmltv_id="Eentertainment.fr">E !</channel>
-  <channel update="i" site="telerama.fr" site_id="paris-premiere,145" xmltv_id="ParisPremiere.fr">Paris Première</channel>
-  <channel update="i" site="telerama.fr" site_id="rtl-9,115" xmltv_id="RTL9.fr">RTL 9</channel>
-  <channel update="i" site="telerama.fr" site_id="serieclub,49" xmltv_id="SerieClub.fr">serieclub</channel>
-  <channel update="i" site="telerama.fr" site_id="teva,191" xmltv_id="Teva.fr">Téva</channel>
-  <channel update="i" site="telerama.fr" site_id="tvbreizh,225" xmltv_id="TVBreizh.fr">TvBreizh</channel>
-  <channel update="i" site="telerama.fr" site_id="animaux,12" xmltv_id="Animaux.fr">Animaux</channel>
-  <channel update="i" site="telerama.fr" site_id="chasse-et-peche,38" xmltv_id="ChassePeche.fr">Chasse et pêche</channel>
-  <channel update="i" site="telerama.fr" site_id="discovery-channel,400" xmltv_id="Discovery.fr">Discovery Channel</channel>
-  <channel update="i" site="telerama.fr" site_id="discovery-science,1374" xmltv_id="DiscoveryScience.fr">Discovery Science</channel>
-   <channel update="i" site="telerama.fr" site_id="equidia-life,1146" xmltv_id="EquidiaLife.fr">Equidia Life</channel>
+	<channel update="i" site="telerama.fr" site_id="cine-emotion,283" xmltv_id="CinecinemaEmotion.fr">Ciné+ Emotion</channel>
+	<channel update="i" site="telerama.fr" site_id="cine-famiz,401" xmltv_id="CinecinemaFamiz.fr">Ciné+ Famiz</channel>
+   <channel update="i" site="telerama.fr" site_id="cine-frisson,284" xmltv_id="CinecinemaFrisson.fr">Ciné+ Frisson</channel>
+   <channel update="i" site="telerama.fr" site_id="cine-premier,282" xmltv_id="CinecinemaPremier.fr">Ciné+ Premier</channel>
+   <channel update="i" site="telerama.fr" site_id="ocs-choc,732" xmltv_id="OrangeCinechoc.fr">OCS Choc</channel>
+   <channel update="i" site="telerama.fr" site_id="ocs-city,733" xmltv_id="OrangeCineHappy.fr">OCS City</channel>
+   <channel update="i" site="telerama.fr" site_id="ocs-geants,734" xmltv_id="OrangeCineGeants.fr">OCS Géants</channel>
+    <channel update="i" site="telerama.fr" site_id="ocs-max,730" xmltv_id="OrangeCinemax.fr">OCS Max</channel>
+    <channel update="i" site="telerama.fr" site_id="paramount-channel,1562" xmltv_id="ParamountChannel.fr">Paramount Channel</channel>
+    <channel update="i" site="telerama.fr" site_id="tcm-cinema,185" xmltv_id="TCM.fr">TCM Cinéma</channel>
+    <channel update="i" site="telerama.fr" site_id="13e-rue,2" xmltv_id="13RUE.fr">13ème RUE</channel>
+    <channel update="i" site="telerama.fr" site_id="ab-1,5" xmltv_id="AB1.fr">AB 1</channel>
+    <channel update="i" site="telerama.fr" site_id="ab-3,254" xmltv_id="AB3.be">AB 3</channel>
+    <channel update="i" site="telerama.fr" site_id="ab-4,303" xmltv_id="AB4.be">AB 4</channel>
+    <channel update="i" site="telerama.fr" site_id="canal-series,1563" xmltv_id="CanalplusSeries.fr">Canal+ Séries</channel>
+    <channel update="i" site="telerama.fr" site_id="comedie,54" xmltv_id="Comedie.fr">Comédie+</channel>
+    <channel update="i" site="telerama.fr" site_id="e,405" xmltv_id=Eentertainment.fr">E !</channel>
+    <channel update="i" site="telerama.fr" site_id="paris-premiere,145" xmltv_id="ParisPremiere.fr">Paris Première</channel>
+    <channel update="i" site="telerama.fr" site_id="rtl-9,115" xmltv_id="RTL9.fr">RTL 9</channel>
+    <channel update="i" site="telerama.fr" site_id="serieclub,49" xmltv_id="SerieClub.fr">Série Club</channel>
+    <channel update="i" site="telerama.fr" site_id="teva,191" xmltv_id="Teva.fr">Téva</channel>
+    <channel update="i" site="telerama.fr" site_id="tvbreizh,225" xmltv_id="TVBreizh.fr">TV Breizh</channel>
+    <channel update="i" site="telerama.fr" site_id="animaux,12" xmltv_id="Animaux.fr">Animaux</channel>
+    <channel update="i" site="telerama.fr" site_id="chasse-et-peche,38" xmltv_id="ChassePeche.fr">Chasse et pêche</channel>
+    <channel update="i" site="telerama.fr" site_id="discovery-channel,400" xmltv_id="Discovery.fr">Discovery Channel</channel>
+    <channel update="i" site="telerama.fr" site_id="discovery-science,1374" xmltv_id="DiscoveryScience.fr">Discovery Science</channel>
+    <channel update="i" site="telerama.fr" site_id="equidia-life,1146" xmltv_id="EquidiaLife.fr">Equidia Life</channel>
+    <channel update="i" site="telerama.fr" site_id="equidia-live,64" xmltv_id="EquidiaLive.fr">Equidia Live</channel>
+    <channel update="i" site="telerama.fr" site_id="histoire,88" xmltv_id="Histoire.fr">Histoire</channel>
+    <channel update="i" site="telerama.fr" site_id="national-geographic,243" xmltv_id="NationalGeographic.fr">National Geographic</channel>
+    <channel update="i" site="telerama.fr" site_id="planete,147" xmltv_id="PLANETE.fr">Planète+</channel>
+    <channel update="i" site="telerama.fr" site_id="planete-action-experience,402" xmltv_id="PLANETEnoLIMIT.fr">Planète+ A &amp; E</channel>
+    <channel update="i" site="telerama.fr" site_id="planete-crime-investigation,662" xmltv_id="PLANETEJustice.fr">Planète+ C &amp; I</channel>
+    <channel update="i" site="telerama.fr" site_id="science-vie-tv,63" xmltv_id="ScienceVie.fr">Science &amp; Vie TV</channel>
+    <channel update="i" site="telerama.fr" site_id="seasons,173" xmltv_id="Seasons.fr">Seasons</channel>
+    <channel update="i" site="telerama.fr" site_id="toute-lhistoire,7" xmltv_id="TouteHistoire.fr">Toute l'histoire</channel>
+    <channel update="i" site="telerama.fr" site_id="ushuaia-tv,451" xmltv_id="UshuaiaTV.fr">Ushuaïa TV</channel>
+    <channel update="i" site="telerama.fr" site_id="voyage,212" xmltv_id="Voyage.fr">Voyage</channel>
+    <channel update="i" site="telerama.fr" site_id="bein-sports-1,1290" xmltv_id="beINSport1.fr">BeIN Sports 1</channel>
+    <channel update="i" site="telerama.fr" site_id="bein-sports-2,1304" xmltv_id="beINSport2.fr">BeIN Sports 2</channel>
+    <channel update="i" site="telerama.fr" site_id="bein-sports-3,1335" xmltv_id="beINSport3.fr">BeIN Sports 3</channel>
+    <channel update="i" site="telerama.fr" site_id="bein-sports-max-4,1336" xmltv_id="BeInSportMax4.fr">beIN SPORTS MAX 4</channel>
+    <channel update="i" site="telerama.fr" site_id="bein-sports-max-5,1337" xmltv_id="BeInSportMax5.fr">beIN SPORTS MAX 5</channel>
+    <channel update="i" site="telerama.fr" site_id="bein-sports-max-6,1338" xmltv_id="BeInSportMax6.fr">beIN SPORTS MAX 6</channel>
+    <channel update="i" site="telerama.fr" site_id="bein-sports-max-7,1339" xmltv_id="BeInSportMax7.fr">beIN SPORTS MAX 7</channel>
+    <channel update="i" site="telerama.fr" site_id="bein-sports-max-8,1340" xmltv_id="BeInSportMax8.fr">beIN SPORTS MAX 8</channel>
+    <channel update="i" site="telerama.fr" site_id="bein-sports-max-9,1341" xmltv_id="BeInSportMax9.fr">beIN SPORTS MAX 9</channel>
+    <channel update="i" site="telerama.fr" site_id="bein-sports-max-10,1342" xmltv_id="BeInSportMax10.fr">beIN SPORTS MAX 10</channel>
+    <channel update="i" site="telerama.fr" site_id="eurosport-1,76" xmltv_id="Eurosport1.fr">Eurosport 1</channel>
+    <channel update="i" site="telerama.fr" site_id="eurosport-2,439" xmltv_id="Eurosport2.fr">Eurosport 2</channel>
+    <channel update="i" site="telerama.fr" site_id="extreme-sports-channel,253" xmltv_id="ExtremeSports.fr">Extreme Sports Channel</channel>
+    <channel update="i" site="telerama.fr" site_id="infosport,94" xmltv_id="Infosport.fr">Infosport+</channel>
+    <channel update="i" site="telerama.fr" site_id="motorsport-tv,237" xmltv_id="MotorsportTV.fr">Motorsport TV</channel>
+    <channel update="i" site="telerama.fr" site_id="oltv,463" xmltv_id="OLTV.fr">OL TV</channel>
+    <channel update="i" site="telerama.fr" site_id="omtv,334" xmltv_id="OMTV.fr">OM TV</channel>
+    <channel update="i" site="telerama.fr" site_id="onzeo,517" xmltv_id="Onzeo.fr">Onzéo</channel>
 </settings>
 
