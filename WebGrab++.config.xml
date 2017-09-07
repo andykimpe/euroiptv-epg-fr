@@ -20,6 +20,6 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-  <channel update="i" site="telerama.fr.index-only" site_id="tf1,192" xmltv_id="TF1">TF1</channel>
+  <channel update="i" site="telerama.fr.index-only" site_id="tf1,192" xmltv_id="TF1.fr">TF1</channel>
 
 </settings>
