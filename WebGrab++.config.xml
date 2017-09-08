@@ -164,7 +164,6 @@
 		<channel update="i" site="telerama.fr" site_id="tvsud-marseille,492" xmltv_id="TVSUDMarseille.fr">TV SUD Marseille</channel>
 		<channel update="i" site="telerama.fr" site_id="lm-tv-sarthe,535" xmltv_id="LMTVSarthe.fr">LM TV Sarthe</channel>
 		<channel update="i" site="telerama.fr" site_id="telenantes,491" xmltv_id="Telenantes.fr">Télé nantes</channel>
-		<channel update="i" site="telerama.fr" site_id="tlm-%28tele-lyon-metropole%29,116" xmltv_id="TLM.fr">TLM</channel>
 		<channel update="i" site="telerama.fr" site_id="tvr-rennes-35-bretagne,539" xmltv_id="TVRRennes35Bretagne.fr">TVR Rennes 35 Bretagne</channel>
 		<channel update="i" site="telerama.fr" site_id="tv-tours,540" xmltv_id="TVTours.fr">TV Tours</channel>
 		<channel update="i" site="telerama.fr" site_id="demain-tv,57" xmltv_id="DemainTV.fr">Demain TV</channel>
