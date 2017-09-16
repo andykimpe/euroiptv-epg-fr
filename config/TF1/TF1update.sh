@@ -4,7 +4,7 @@ git clone https://github.com/andykimpe/euroiptv-epg-fr.git
 mkdir -p /home/xtreamcodes/iptv_xtream_codes/wwwdir/logo/
 cp -f /root/euroiptv-epg-fr/logo/* /home/xtreamcodes/iptv_xtream_codes/wwwdir/logo/
 cd /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/TF1
-rm -rf "WebGrab++.config.xml" "guide.xml" "/root/euroiptv-epg-fr"
+rm -rf "WebGrab++.config.xml" "guide.xml" "/root/euroiptv-epg-fr" /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/TF1/TF1.xml.gz
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/TF1/TF1.xml" -O "WebGrab++.config.xml"
 ./run.sh
 gzip /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/TF1/TF1.xml
