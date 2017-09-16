@@ -55,5 +55,10 @@ cd /root
 apt-get update
 apt-get -y dist-upgrade
 apt-get install -y mono-complete wget git cron
+apt-get install -y lsb-release nscd curl php5 php5-mysql php5-cli php5-curl unzip
+apt-get install -y php5-mcrypt
+php5enmod mcrypt
+service apache2 restart
+
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/install.sh)
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/install.sh)
