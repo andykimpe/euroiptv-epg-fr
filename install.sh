@@ -55,3 +55,5 @@ cd /root
 apt-get update
 apt-get -y dist-upgrade
 apt-get install -y mono-complete wget git cron
+bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/install.sh)
+bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/install.sh)
