@@ -1,9 +1,9 @@
-#!/usr/bin/env bash
+#!/bin/bash
 # installateur pour epg de euroiptv
 # Supported Operating Systems: 
 # Ubuntu server 12.04/14.04/16.04
 # 32bit and 64bit
-EPG_INSTALLER_VERSION="1.0"
+EPG_INSTALLER_VERSION="1.1"
 #--- Display the 'welcome' splash/user warning info..
 echo ""
 echo "############################################################"
@@ -54,21 +54,4 @@ exec 2>&1
 cd /root
 apt-get update
 apt-get -y dist-upgrade
-apt-get install -y python-software-properties
-
-
-if [[ "$OS" = "Ubuntu" && ("$VER" = "14.04" || "$VER" = "16.04" ) ]] ; then
-apt-get -y install software-properties-common
-apt-get install -y python3-software-properties
-fi
-
-add-apt-repository -y ppa:mythbuntu/xmltv
-apt-get update
-apt-get -y install xmltv wget git cron curl
-wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/tv_grab_fr_telerama -O /usr/bin/tv_grab_fr_telerama
-chmod +x /usr/bin/tv_grab_fr_telerama
-wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/genupdate.sh
-chmod +x genupdate.sh
-if ! grep -q "01 00 * * * root /bin/bash /root/genupdate.sh" /etc/crontab; then
-    echo "01 00 * * * root /bin/bash /root/genupdate.sh" >> /etc/crontab;
-fi
+apt-get install -y mono-complete wget git cron
