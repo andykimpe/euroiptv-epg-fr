@@ -1,7 +1,7 @@
 <?php
 
 $nb_fichier = 0;
-echo '<br/><br/><br/><br/><br/><center><ul>';
+echo '<br/><br/><br/><center><ul>';
 if($dossier = opendir('./'))
 {
 while(false !== ($fichier = readdir($dossier)))
