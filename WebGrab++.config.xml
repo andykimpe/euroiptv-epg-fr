@@ -227,4 +227,5 @@
 		<channel update="i" site="telerama.fr" site_id="alsace-20,524" xmltv_id="Alsace20.fr">Alsace 20</channel>
 		<channel update="i" site="telerama.fr" site_id="syfy,479" xmltv_id="Syfy.fr">Syfy</channel>
 		<channel update="i" site="telerama.fr" site_id="altice-studio,2320" xmltv_id="AlticeStudio.fr">Altice Studio</channel>
+		<channel update="i" site="telerama.fr" site_id="bet,1960" xmltv_id="BET.fr">BET</channel>
 </settings>
