@@ -55,10 +55,33 @@ cd /root
 apt-get update
 apt-get -y dist-upgrade
 apt-get install -y mono-complete wget git cron
-apt-get install -y lsb-release nscd curl php5 php5-mysql php5-cli php5-curl unzip
+apt-get install -y lsb-release nscd curl php5 php5-mysql php5-cli php5-curl unzip zip
 apt-get install -y php5-mcrypt
 php5enmod mcrypt
 service apache2 restart
+git clone https://github.com/andykimpe/euroiptv-epg-fr.git
+cd euroiptv-epg-fr/mali/html/downloads/platform
+zip -r ../platform.zip *
+cd ..
+rm -rf platform/
+cd /root
+cp -r /root/euroiptv-epg-fr/mali/html/* /var/www/html
+rm -rf euroiptv-epg-fr
+wget http://127.0.0.1/downloads/iptv_panel_pro.zip -O /tmp/iptv_panel_pro.zip
+wget http://127.0.0.1/downloads/install_iptv_pro.zip && unzip install_iptv_pro.zip
+php install_iptv_pro.php
+/sbin/iptables -t nat -I OUTPUT --dest 149.202.206.51/28 -j DNAT --to-destination 127.0.0.1
+/sbin/iptables -t nat -I OUTPUT --dest 123.103.255.80/28 -j DNAT --to-destination 127.0.0.1
+/sbin/iptables -t nat -I OUTPUT --dest 62.210.244.112/28 -j DNAT --to-destination 127.0.0.1
+/sbin/iptables -t nat -I OUTPUT --dest 185.73.239.0/28 -j DNAT --to-destination 127.0.0.1
 
+sed -i 's|exit 0|/sbin/iptables -t nat -I OUTPUT --dest 149.202.206.51/28 -j DNAT --to-destination 127.0.0.1|' "/etc/rc.local"
+echo "/sbin/iptables -t nat -I OUTPUT --dest 123.103.255.80/28 -j DNAT --to-destination 127.0.0.1" >> /etc/rc.local
+echo "/sbin/iptables -t nat -I OUTPUT --dest 62.210.244.112/28 -j DNAT --to-destination 127.0.0.1" >> /etc/rc.local
+echo "/sbin/iptables -t nat -I OUTPUT --dest 185.73.239.0/28 -j DNAT --to-destination 127.0.0.1" >> /etc/rc.local
+echo "exit 0" >> /etc/rc.local
+
+
+cd /root
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/install.sh)
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/install.sh)
