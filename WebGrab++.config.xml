@@ -229,4 +229,5 @@
 		<channel update="i" site="telerama.fr" site_id="altice-studio,2320" xmltv_id="AlticeStudio.fr">Altice Studio</channel>
 		<channel update="i" site="telerama.fr" site_id="bet,1960" xmltv_id="BET.fr">BET</channel>
 		<channel update="i" site="telerama.fr" site_id="brazzers-tv,475" xmltv_id="BraZZersTV.us">Brazzers TV</channel>
+		<channel update="i" site="telerama.fr" site_id="canal-partage-tnt-ile-de-france,703" xmltv_id="CanalpartageTNTIledeFrance.fr">Canal partagé TNT Ile-de-France</channel>
 </settings>
