@@ -1,18 +1,15 @@
 #!/usr/bin/env bash
 cd /root
-git clone https://github.com/andykimpe/euroiptv-epg-fr.git
-mkdir -p /home/xtreamcodes/iptv_xtream_codes/wwwdir/logo/
-cp -f /root/euroiptv-epg-fr/logo/* /home/xtreamcodes/iptv_xtream_codes/wwwdir/logo/
-rm -rf /root/euroiptv-epg-fr/ /root/config.txt /root/euroiptv.xml /root/sed.sh 
-#wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config.txt
-#tv_grab_fr_telerama --config-file config.txt --output /root/euroiptv.xml --days 11
-wget "http://racacaxtv.ga/xmltv.php" -O "/root/euroiptv.xml"
-bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/sed2.sh)
-rm -rf /home/xtreamcodes/xmltv/
-mkdir -p /home/xtreamcodes/xmltv/
-cp /root/euroiptv.xml /home/xtreamcodes/xmltv/guide.xml
-gzip /home/xtreamcodes/xmltv/guide.xml
-chmod -R 777 /home/xtreamcodes/xmltv/*
-chown xtreamcodes:xtreamcodes /home/xtreamcodes/xmltv/*
-/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg.php
-rm -f /root/config.txt /root/euroiptv.xml
+cat > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TF1.fr">
+    <display-name lang="fr">tF1</display-name>
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/tf1.png" />
+    <url>http://www.tv.orange.fr</url>
+  </channel>
+EOF
+cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
+</tv>
+EOF
