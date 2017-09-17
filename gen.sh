@@ -95,15 +95,6 @@ cat > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
     <url>http://www.tv.orange.fr</url>
   </channel>
 EOF
-
-
-
-
-
-
-
-
-
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France3/France3.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
@@ -122,6 +113,4 @@ cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/BFMTV/BFMTV.xml >> /
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/CNews/CNews.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/CStar/CStar.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/Gulli/Gulli.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
-cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
-</tv>
-EOF
+echo "</tv>" >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
