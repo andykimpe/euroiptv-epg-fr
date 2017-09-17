@@ -3,7 +3,7 @@
 # Supported Operating Systems: 
 # Ubuntu server 12.04/14.04/16.04
 # 32bit and 64bit
-EPG_INSTALLER_VERSION="1.1"
+EPG_INSTALLER_VERSION="1.2"
 #--- Display the 'welcome' splash/user warning info..
 echo ""
 echo "############################################################"
