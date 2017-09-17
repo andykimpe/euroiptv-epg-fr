@@ -85,3 +85,4 @@ echo "exit 0" >> /etc/rc.local
 cd /root
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/install.sh)
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/install.sh)
+bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France3/install.sh)
