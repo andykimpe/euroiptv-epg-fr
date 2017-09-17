@@ -7,7 +7,7 @@ EPG_INSTALLER_VERSION="1.1"
 #--- Display the 'welcome' splash/user warning info..
 echo ""
 echo "############################################################"
-echo "#  Welcome to the epg generator Installer $EPG_INSTALLER_VERSION  #"
+echo "#  Welcome to the epg generator Installer   #"
 echo "############################################################"
 sleep 5
 
@@ -15,7 +15,6 @@ cd /root
 mkdir -p /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France
 cd /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
-mkdir -p France
 cd France
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 wget http://webgrabplus.com/sites/default/files/download/SW/V2.1.0/WebGrabPlus_V2.1_install.tar.gz
