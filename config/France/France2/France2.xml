@@ -20,5 +20,5 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-		<channel update="i" site="telerama.fr" site_id="france-2,4" xmltv_id="France2.fr">France 2</channel>
+		<channel update="i" site="tv.orange.fr" site_id="france-2_CNT0000008o0k7.html" xmltv_id="France2.fr">France 2</channel>
 </settings>
