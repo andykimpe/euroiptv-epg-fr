@@ -20,5 +20,5 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-		<channel update="i" site="telerama.fr" site_id="canal,34" xmltv_id="CANALplus.fr">Canal+</channel>
+		<channel update="i" site="tv.orange.fr" site_id="canal_CNT0000008o0Cg.html" xmltv_id="CANALplus.fr">Canal+</channel>
 </settings>
