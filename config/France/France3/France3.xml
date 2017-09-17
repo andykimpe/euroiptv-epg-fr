@@ -3,7 +3,7 @@
 
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
 
-  <filename>France2.xml</filename>
+  <filename>France3.xml</filename>
   <mode></mode>
   <postprocess grab="y" run="n">mdb</postprocess>
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</user-agent>
