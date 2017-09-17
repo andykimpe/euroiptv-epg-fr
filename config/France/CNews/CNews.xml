@@ -20,7 +20,7 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-		<channel update="i" site="tv.orange.fr" site_id="cnews_CNT0000008o0AO.html" xmltv_id="CNews.fr">CNews</channel>
+		<channel update="i" site="tv.orange.fr" site_id="cnews_CNT0000008o0AO.html" xmltv_id="CNews.fr"> CNews</channel>
 </settings>
 
 
