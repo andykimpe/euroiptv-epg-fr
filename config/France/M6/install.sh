@@ -34,4 +34,4 @@ chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/M6/M6.sh
 if ! grep -q "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/M6/M6.sh" /etc/crontab; then
     echo "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/M6/M6.sh" >> /etc/crontab;
 fi
-/home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.sh
+/home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/M6/M6.sh
