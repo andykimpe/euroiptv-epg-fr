@@ -81,7 +81,7 @@ cat > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
   </channel>
   <channel id="CNews.fr">
     <display-name lang="fr">CNews</display-name>
-    <icon src="//media1.woopic.com/api/v1/images/201%2Fchannel%2F426%2F4ee%2F407b9e11501573d35eddb230c7%2Fcnews%7Cclair_226.png?facedetect=1&amp;quality=85" />
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/cnews.png" />
     <url>http://www.tv.orange.fr</url>
   </channel>
 EOF
