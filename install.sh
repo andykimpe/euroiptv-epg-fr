@@ -59,6 +59,7 @@ rm -rf /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
 mkdir -p /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/genupdate.sh -O /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh
 chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh
+service cron stop
 if ! grep -q "01 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh" /etc/crontab; then
     echo "01 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh" >> /etc/crontab;
 fi
@@ -80,3 +81,4 @@ bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/confi
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CNews/install.sh)
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CStar/install.sh)
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Gulli/install.sh)
+service cron start
