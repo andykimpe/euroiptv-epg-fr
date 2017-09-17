@@ -69,6 +69,11 @@ cat > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
     <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/lcp-ps.png" />
     <url>http://www.tv.orange.fr</url>
   </channel>
+  <channel id="France4.fr">
+    <display-name lang="fr">FRANCE 4</display-name>
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/france4.png" />
+    <url>http://www.tv.orange.fr</url>
+  </channel>
 EOF
 
 
@@ -92,6 +97,7 @@ cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TMC/TMC.xml >> /home
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/NT1/NT1.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/NRJ12/NRJ12.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/LCPPS/LCPPS.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France4/France4.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
 </tv>
 EOF
