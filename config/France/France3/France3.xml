@@ -20,5 +20,5 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-		<channel update="i" site="telerama.fr" site_id="france-3,80" xmltv_id="France3.fr">France 3</channel>
+		<channel update="i" site="tv.orange.fr" site_id="france-3_CNT0000008o0q4.html" xmltv_id="France3.fr">France 3</channel>
 </settings>
