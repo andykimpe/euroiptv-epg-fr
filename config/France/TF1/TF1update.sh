@@ -1,10 +1,12 @@
 #!/bin/bash
 cd /root
 cd /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1
-rm -rf "WebGrab++.config.xml" "guide.xml" "/root/euroiptv-epg-fr" /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml.gz
+rm -rf "WebGrab++.config.xml" "guide.xml" /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml.gz
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1.xml" -O "WebGrab++.config.xml"
 ./run.sh
+cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml.save
 gzip /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml
+mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml.save /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml
 chmod -R 777 /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/*
 chown xtreamcodes:xtreamcodes /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/*
 if [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg.php ]

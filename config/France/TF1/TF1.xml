@@ -20,6 +20,7 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-		
-		<channel update="i" site="tv.orange.fr" site_id="tf1_CNT0000008o0uz.html" xmltv_id="TF1.fr">TF1</channel>
+		<channel update="i" site="tv.orange.fr" site_id="tf1_CNT0000008o0uz.html" xmltv_id="TF1.fr">tF1</channel>
 </settings>
+
+
