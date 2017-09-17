@@ -79,6 +79,11 @@ cat > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
     <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/bfmtv.png" />
     <url>http://www.tv.orange.fr</url>
   </channel>
+  <channel id="CNews.fr">
+    <display-name lang="fr">CNews</display-name>
+    <icon src="//media1.woopic.com/api/v1/images/201%2Fchannel%2F426%2F4ee%2F407b9e11501573d35eddb230c7%2Fcnews%7Cclair_226.png?facedetect=1&amp;quality=85" />
+    <url>http://www.tv.orange.fr</url>
+  </channel>
 EOF
 
 
@@ -104,6 +109,7 @@ cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/NRJ12/NRJ12.xml >> /
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/LCPPS/LCPPS.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France4/France4.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/BFMTV/BFMTV.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/CNews/CNews.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
 </tv>
 EOF
