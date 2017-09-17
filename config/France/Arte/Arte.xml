@@ -20,7 +20,7 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-<channel update="i" site="tv.orange.fr" site_id="arte_CNT0000008o0wB.html" xmltv_id="ARTE.fr">Arte</channel>
+		<channel update="i" site="tv.orange.fr" site_id="arte_CNT0000008o0wB.html" xmltv_id="ARTE.fr">Arte</channel>
 </settings>
 
 
