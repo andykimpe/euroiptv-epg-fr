@@ -3,6 +3,7 @@ cd /root
 cd /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1
 rm -rf "WebGrab++.config.xml" "guide.xml" /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml.gz
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1.xml" -O "WebGrab++.config.xml"
+rm -f /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml
 ./run.sh
 cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml.save
 gzip /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml
