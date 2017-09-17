@@ -7,4 +7,4 @@ wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/ma
 gzip /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml
 chmod -R 777 /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/*
 chown xtreamcodes:xtreamcodes /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/*
-/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg.php
+/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php
