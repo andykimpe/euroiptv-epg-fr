@@ -56,6 +56,8 @@ apt-get update
 apt-get -y dist-upgrade
 apt-get install -y mono-complete wget git cron
 rm -rf /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
+mkdir -p /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/genupdate.sh -O /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/install.sh)
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/install.sh)
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France3/install.sh)
