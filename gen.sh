@@ -213,4 +213,12 @@ cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/LCI/LCI.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
+  <channel id="Franceinfo.fr">
+    <display-name lang="fr">Franceinfo</display-name>
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/tf1.png" />
+    <url>http://telerama.fr</url>
+  </channel>
+EOF
+cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/Franceinfo/Franceinfo.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 echo "</tv>" >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
