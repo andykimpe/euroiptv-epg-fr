@@ -224,4 +224,12 @@ cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/Franceinfo/Franceinf
 cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml.save
 gzip /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml.save /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
+  <channel id="FranceO.fr">
+    <display-name lang="fr">France O</display-name>
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/tf1.png" />
+    <url>http://tv.orange.fr</url>
+  </channel>
+EOF
+cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/FranceO/FranceO.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 echo "</tv>" >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
