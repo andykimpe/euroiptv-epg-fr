@@ -221,4 +221,7 @@ cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/RMCDecouverte/RMCDec
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/Cherie25/Cherie25.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/LCI/LCI.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/Franceinfo/Franceinfo.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml.save
+gzip /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml.save /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 echo "</tv>" >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
