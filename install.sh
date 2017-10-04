@@ -57,6 +57,7 @@ apt-get -y dist-upgrade
 apt-get install -y mono-complete wget git cron
 rm -rf /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
 mkdir -p /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
+cp /etc/crontab /etc/crontab.xtreamcodesinstallepg
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/genupdate.sh -O /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh
 chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh
 service cron stop
