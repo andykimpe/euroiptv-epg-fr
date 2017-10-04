@@ -1,4 +1,3 @@
-#!/bin/bash
 cd /root
 cd /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France4
 rm -rf "WebGrab++.config.xml" "guide.xml" /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France4/France4.xml.gz
