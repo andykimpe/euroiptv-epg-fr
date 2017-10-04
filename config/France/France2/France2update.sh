@@ -6,6 +6,7 @@ wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/ma
 rm -f /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml
 ./run.sh
 cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml.save
+rm -f /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml.gz
 gzip /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml
 mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml.save /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml
 sed '1d' /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml.tmp && mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml.tmp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml
