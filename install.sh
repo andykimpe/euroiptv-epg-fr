@@ -71,7 +71,7 @@ if ! grep -q "01 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/www
 fi
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/install.sh)
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/install.sh)
-#bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France3/install.sh)
+bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France3/install.sh)
 #bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CanalPlus/install.sh)
 #bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France5/install.sh)
 #bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/M6/install.sh)
