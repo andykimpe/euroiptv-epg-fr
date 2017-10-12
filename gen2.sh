@@ -77,6 +77,14 @@ cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/W9/W9.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
+  <channel id="TMC.fr">
+    <display-name lang="fr">FR TMC</display-name>
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/tmc.png" />
+    <url>http://programme-tv.orange.fr/</url>
+  </channel>
+EOF
+cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TMC/TMC.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml.save
 rm -f /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml.gz
 gzip /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
