@@ -31,10 +31,10 @@ ARCH=$(uname -m)
 
 echo "Detected : $OS  $VER  $ARCH"
 sleep 5
-if [[ "$OS" = "Ubuntu" && ("$VER" = "12.04" || "$VER" = "14.04" || "$VER" = "16.04" ) ]] ; then
+if [[ "$OS" = "Ubuntu" && ("$VER" = "14.04" || "$VER" = "16.04" || "$VER" = "18.04" ) ]] ; then
     echo "Ok."
 else
-    echo "Sorry, this OS is not supported by epg generator." 
+    echo "Sorry, this OS is not supported by epg generator. Please use actual Ubuntu LTS version on your main server" 
     exit 1
 fi
 
