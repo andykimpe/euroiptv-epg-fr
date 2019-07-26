@@ -1,16 +1,15 @@
 #!/bin/bash
 # installateur pour epg de euroiptv
 # Supported Operating Systems: 
-# Ubuntu server 12.04/14.04/16.04
+# Ubuntu server 12.04/14.04/16.04/18.04
 # 32bit and 64bit
-EPG_INSTALLER_VERSION="1.1"
+EPG_INSTALLER_VERSION="1.2"
 #--- Display the 'welcome' splash/user warning info..
 echo ""
 echo "############################################################"
-echo "#  Welcome to the epg generator Installer   #"
+echo "#          Welcome to the epg generator Installer          #"
 echo "############################################################"
 sleep 5
-
 cd /root
 mkdir -p /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France
 cd /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
