@@ -9,7 +9,7 @@
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</user-agent>
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>9</timespan>
+  <timespan>0</timespan>
   <update>f</update>
 
   <!--
@@ -18,9 +18,10 @@
   
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
-  -->
 
-		<channel update="i" site="tv.orange.fr" site_id="tf1_CNT0000008o0uz.html" xmltv_id="TF1.fr">TF1</channel>
+
+		<channel update="i" site="tv.orange.fr" site_id="tf1_CNT0000008o0uz.html" xmltv_id="TF1.fr">TF1</channel>-->
+		<channel update="i" site="telerama.fr" site_id="tf1,192" xmltv_id="TF1.fr">TF1</channel>
 </settings>
 
 
