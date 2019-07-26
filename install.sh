@@ -6,9 +6,9 @@
 EPG_INSTALLER_VERSION="1.2"
 #--- Display the 'welcome' splash/user warning info..
 echo ""
-echo "############################################################"
+echo "###################################################################"
 echo "#  Welcome to the epg generator Installer $EPG_INSTALLER_VERSION  #"
-echo "############################################################"
+echo "###################################################################"
 sleep 5
 echo -e "\nChecking that minimal requirements are ok"
 
@@ -31,10 +31,17 @@ ARCH=$(uname -m)
 
 echo "Detected : $OS  $VER  $ARCH"
 sleep 5
-if [[ "$OS" = "Ubuntu" && ("$VER" = "14.04" || "$VER" = "16.04" || "$VER" = "18.04" ) ]] ; then
+
+if [ -d "/home/xtreamcodes" ];then
+$xtreamcodes = "ok"
+fi
+
+if [[ "$OS" = "Ubuntu" && ("$VER" = "14.04" || "$VER" = "16.04" || "$VER" = "18.04" ) && $xtreamcodes == "ok" ]] ; then
     echo "Ok."
 else
-    echo "Sorry, this OS is not supported by epg generator. Please use actual Ubuntu LTS version on your main server" 
+    echo "Sorry, this OS is not supported by epg generator."
+    echo "Please install Ubuntu LTS version on your main server"
+    echo "and or install xtreamcodes v1 or v2"
     exit 1
 fi
 
