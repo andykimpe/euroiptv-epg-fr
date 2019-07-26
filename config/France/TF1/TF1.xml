@@ -22,7 +22,7 @@
 
 		<channel update="i" site="tv.orange.fr" site_id="tf1_CNT0000008o0uz.html" xmltv_id="TF1.fr">TF1</channel>
 		<channel update="i" site="telerama.fr" site_id="tf1,192" xmltv_id="TF1.fr">TF1</channel>-->
-		<channel update="i" site="telerama.fr.api" site_id="192" xmltv_id="TF1">TF1</channel>
+		<channel update="i" site="telerama.fr.index-only" site_id="192" xmltv_id="TF1">TF1</channel>
 </settings>
 
 
