@@ -33,7 +33,7 @@ echo "Detected : $OS  $VER  $ARCH"
 sleep 5
 
 if [ -d "/home/xtreamcodes" ];then
-$xtreamcodes == "ok"
+xtreamcodes = "ok"
 fi
 
 if [[ "$OS" = "Ubuntu" && ("$VER" = "14.04" || "$VER" = "16.04" || "$VER" = "18.04" ) && "$xtreamcodes" == "ok" ]] ; then
