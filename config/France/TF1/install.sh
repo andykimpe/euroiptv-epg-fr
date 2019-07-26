@@ -19,6 +19,7 @@ wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/ma
 wget http://webgrabplus.com/sites/default/files/download/SW/V2.1.0/WebGrabPlus_V2.1_install.tar.gz
 tar -xvf WebGrabPlus_V2.1_install.tar.gz
 rm -f WebGrabPlus_V2.1_install.tar.gz
+rm -rf TF1
 mv .wg++ TF1
 cd TF1
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
