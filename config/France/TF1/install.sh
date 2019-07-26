@@ -16,26 +16,22 @@ cd /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 cd France
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
-# stable
-#wget http://webgrabplus.com/sites/default/files/download/SW/V2.1.0/WebGrabPlus_V2.1_install.tar.gz
-#tar -xvf WebGrabPlus_V2.1_install.tar.gz
-#rm -f WebGrabPlus_V2.1_install.tar.gz
-#beta
-wget "http://webgrabplus.com/sites/default/files/download/SW/V2.1.10/WebGrabPlus_V2.1.10_beta_install.tar.gz" -O "WebGrabPlus_V2.1.10_beta_install.tar.gz"
-tar -xvf "WebGrabPlus_V2.1.10_beta_install.tar.gz"
-rm -f "WebGrabPlus_V2.1.10_beta_install.tar.gz"
 rm -rf TF1
-mv .wg++ TF1
+mkdir TF1
 cd TF1
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
-./install.sh
-rm -f "siteini.user/" "siteini.pack/"
-wget "http://webgrabplus.com/sites/default/files/download/ini/SiteIniPack_current.zip" -O "SiteIniPack_current.zip"
-unzip SiteIniPack_current.zip
-rm -f SiteIniPack_current.zip
-wget "http://www.webgrabplus.com/sites/default/files/download/ini/info/zip/France_telerama-sha1.sh.zip" -O "France_telerama-sha1.sh.zip"
-unzip "France_telerama-sha1.sh.zip"
-rm -f "France_telerama-sha1.sh.zip"
+apt-get -y install python python-minimal python2.7-minimal python3-minimal python3.6-minimal
+apt-get -y install python-pip python3-pip
+apt-get -y install python-lxml python3-lxml
+rm -f /usr/bin/python
+ln -s /usr/bin/python3.6 /usr/bin/python
+rm -f /usr/bin/pip
+ln -s /usr/bin/pip3 /usr/bin/pip
+pip install pytz
+apt-get -y install python-html2text python3-html2text
+wget https://github.com/melmorabity/tv_grab_fr_telerama/raw/master/tv_grab_fr_telerama.py -O /usr/bin/tv_grab_fr_telerama.py
+chmod +x /usr/bin/tv_grab_fr_telerama.py
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1TELERAMACONFIG.conf
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1.sh -O /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.sh
 chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.sh
 if ! grep -q "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.sh" /etc/crontab; then
