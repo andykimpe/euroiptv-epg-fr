@@ -21,6 +21,49 @@
   -->
 
     <channel update="i" site="m.tvtoday.de" site_id="ZDF" xmltv_id="ZDF.de">ZDF</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="13TH" xmltv_id="13thStreet.de">13th Street</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="3PLUS" xmltv_id="3plus.ch">3+</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="3SAT" xmltv_id="3sat.de">3sat</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="AETV" xmltv_id="AyE.de">A&amp;E</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ADULT" xmltv_id="AdultChannel.de">Adult Channel</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ALJAZ" xmltv_id="AlJazeera.nws">Al Jazeera</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="APLAN" xmltv_id="AnimalPlanet.de">Animal Planet</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ANIXE" xmltv_id="AnixeHD.de">ANIXE</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ALPHA" xmltv_id="ARD-alpha.de">ARD-alpha</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ARTE" xmltv_id="arte.de">ARTE</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ATV" xmltv_id="ATV.de">ATV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ATV2" xmltv_id="ATV2.at">ATV II</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="AMS" xmltv_id="AutoMotorSportChannel.de">Auto Motor Sport Channel</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="AXN" xmltv_id="AXN.de">AXN</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BBC-E" xmltv_id="BBCEntertainment.de">BBC Entertainment</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BBC" xmltv_id="BBCWorldNews.nws">BBC World News</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BUTV" xmltv_id="Beate-Uhse.TV.de">Beate-Uhse.TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BE1" xmltv_id="Belgienun.de">Belgien 1</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BIBEL" xmltv_id="BibelTV.de">Bibel TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BLIZZ" xmltv_id="Blizz.de">blizz</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BLM" xmltv_id="Bloomberg.nws">Bloomberg Europe TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BLUM" xmltv_id="BlueMovie1.de">Blue Movie</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BLUM2" xmltv_id="BlueMovie2.de">Blue Movie 2</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BLUM3" xmltv_id="BlueMovie3.de">Blue Movie 3</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="GUSTO" xmltv_id="BonGusto.de">BonGusto</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BOOM" xmltv_id="Boomerang.de">Boomerang</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="BR" xmltv_id="BR.de">BR</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="C-NET" xmltv_id="CartoonNetwork.de">Cartoon Network</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="CH21" xmltv_id="Channel21.de">Channel21</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="CLASS" xmltv_id="Classica.eu">Classica</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="CNBC" xmltv_id="CNBC.nws">CNBC</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="CNN" xmltv_id="CNN.nws">CNN International</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="CC" xmltv_id="ComedyCentralVIVA.de">COMEDY CENTRAL</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="ARD" xmltv_id="ARD.de">Das Erste</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DMC" xmltv_id="DeLuxeMusic.de">DELUXE MUSIC</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DATV" xmltv_id="WeltDerWunder.de">Der Aktionär TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DMF" xmltv_id="DeutschesMusikFernsehen.de">Deutsches Musik Fernsehen</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="HDDIS" xmltv_id="DiscoveryHD.de">Discovery HD</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DISNE" xmltv_id="disneychannel.de">Disney Channel</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DCM" xmltv_id="DisneyCinemagic.de">Disney Cinemagic</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DJUN" xmltv_id="DisneyJunior.de">Disney Junior</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DXD" xmltv_id="DisneyXD.de">Disney XD</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DMAX" xmltv_id="DMax.de">DMAX</channel>
 </settings>
 
 
