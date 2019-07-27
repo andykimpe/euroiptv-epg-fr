@@ -11,7 +11,7 @@ echo "#  Welcome to the epg generator Installer   #"
 echo "############################################################"
 sleep 5
 
-cd /root
+rm -rf /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland
 mkdir -p /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland
 cd /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
