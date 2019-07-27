@@ -20,7 +20,7 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-		<channel update="i" site="klack.de" site_id="5/ard" xmltv_id="ARD.de">ARD</channel>
+    <channel update="i" site="klack.de" site_id="5/ard" xmltv_id="ARD.de">ARD</channel>
     <channel update="i" site="klack.de" site_id="129/zdf" xmltv_id="ZDF.de">ZDF</channel>
 </settings>
 
