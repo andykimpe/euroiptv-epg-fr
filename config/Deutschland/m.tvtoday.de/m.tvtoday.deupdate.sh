@@ -19,4 +19,4 @@ then
 fi
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen.sh)
 rm -f /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland.xml
-cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland.xml
+cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/m.tvtoday.de.xml
