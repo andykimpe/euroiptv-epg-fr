@@ -3,7 +3,7 @@
 
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
 
-  <filename>all.xml</filename>
+  <filename>m.tvtoday.de.xml</filename>
   <mode></mode>
   <postprocess grab="y" run="n">mdb</postprocess>
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</user-agent>
@@ -104,5 +104,3 @@
     <channel update="i" site="m.tvtoday.de" site_id="MGM" xmltv_id="MGM HD.de">MGM HD</channel>
     <channel update="i" site="m.tvtoday.de" site_id="MOTOR" xmltv_id="MotorTV.de">Motors TV</channel>
 </settings>
-
-
