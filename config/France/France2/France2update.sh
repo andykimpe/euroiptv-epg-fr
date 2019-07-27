@@ -14,7 +14,7 @@ sed '1d' /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2
 sed '1d' /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml.tmp && mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml.tmp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml
 sed '1d' /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml.tmp && mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml.tmp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml
 head -n -1 /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml.tmp && mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml.tmp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml
-sed -i 's|192.tv.telerama.fr|France2.fr|' "/home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml"
+sed -i 's|4.tv.telerama.fr|France2.fr|' "/home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml"
 chmod -R 777 /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/*
 chown xtreamcodes:xtreamcodes /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/*
 if [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg.php ]
