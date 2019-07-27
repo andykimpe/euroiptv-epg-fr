@@ -18,4 +18,5 @@ then
 /home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php
 fi
 bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen.sh)
+rm -f /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland.xml
 cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland.xml
