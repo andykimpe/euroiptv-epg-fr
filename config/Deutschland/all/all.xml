@@ -64,6 +64,45 @@
     <channel update="i" site="m.tvtoday.de" site_id="DJUN" xmltv_id="DisneyJunior.de">Disney Junior</channel>
     <channel update="i" site="m.tvtoday.de" site_id="DXD" xmltv_id="DisneyXD.de">Disney XD</channel>
     <channel update="i" site="m.tvtoday.de" site_id="DMAX" xmltv_id="DMax.de">DMAX</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DR1" xmltv_id="DR1.dk">DR1</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="DWTV" xmltv_id="Dw(deutsch+).br">DW (Europe)</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="E!" xmltv_id="EEntertainment.de">E! Entertainm.</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="EURON" xmltv_id="EuronewsDE.nws">euronews</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="EURO" xmltv_id="Eurosport1.de">Eurosport 1</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="EURO2" xmltv_id="Eurosport2.de">Eurosport 2</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="EX-SP" xmltv_id="ExtremeSports.de">EXTREME SPORTS</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="FAMTV" xmltv_id="FamilyTV.de">Family TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="FATV" xmltv_id="FashionTV.eu">Fashion TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="FLN" xmltv_id="FineLiving.eu">Fine Living Network</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="FFTV" xmltv_id="FixFoxi.de">FIX &amp; FOXI</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="FOOD" xmltv_id="FoodNetwork.eu">Food Network</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="FOX" xmltv_id="Fox.de">FOX</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="FR24E" xmltv_id="france24">France 24 (engl.)</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="FR24F" xmltv_id="France24.fr">France 24 (franz.)</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="FUNDO" xmltv_id="FunDoradoTV.de">FunDorado TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="GEO" xmltv_id="GEO.de">GEO Television</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="GOLD" xmltv_id="GoldstarTV.de">GoldStar TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="LAUNE" xmltv_id="GuteLauneTV.de">Gute Laune TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="HH1" xmltv_id="Hamburg1.de">Hamburg 1</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="HEIMA" xmltv_id="Heimatkanal.de">Heimatkanal</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="HISHD" xmltv_id="HistoryHD.de">HISTORY HD</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="HR" xmltv_id="HR.de">HR</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="HSE" xmltv_id="HSE24.de">HSE24</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="JUKE" xmltv_id="Jukebox.de">Jukebox</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="JUNIO" xmltv_id="Junior.de">Junior</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="KTV" xmltv_id="KTV.de">K-TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="K1" xmltv_id="Kabel.de">kabel eins</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="K1CLA" xmltv_id="KabelEinsClassic.de">kabel eins CLASSICS</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="K1DOKU" xmltv_id="KabelEinsDoku.de">kabel eins Doku</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="KIKA" xmltv_id="Kika.de">KiKA</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="KINOW" xmltv_id="Kinowelt.de">KinoweltTV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="LEITV" xmltv_id="LeipzigFernsehen.de">Leipzig Fernsehen</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="LUSTP" xmltv_id="LustPur.de">LUST PUR</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="MAPO" xmltv_id="MarcoPoloTV.de">Marco Polo TV</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="MDR" xmltv_id="MDR.de">MDR</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="MEZZO" xmltv_id="Mezzo.de">Mezzo</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="MGM" xmltv_id="MGM HD.de">MGM HD</channel>
+    <channel update="i" site="m.tvtoday.de" site_id="MOTOR" xmltv_id="MotorTV.de">Motors TV</channel>
 </settings>
 
 
