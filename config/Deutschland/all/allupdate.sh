@@ -7,7 +7,7 @@ rm -f /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.xml
 ./run.sh
 cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.xml.save
 gzip /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.xml
-mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.save /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.xml
+mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.xml.save /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.xml
 chmod -R 777 /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/*
 chown xtreamcodes:xtreamcodes /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/*
 if [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg.php ]
