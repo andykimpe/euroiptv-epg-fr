@@ -90,3 +90,10 @@ cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml /home/xtreamcodes/
 rm -f /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml.gz
 gzip /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml.save /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+if [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg.php ]
+then
+/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg.php
+elif [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php ]
+then
+/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php
+fi
