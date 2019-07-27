@@ -2,4 +2,4 @@ SHELL=/bin/bash
 PATH=/sbin:/bin:/usr/sbin:/usr/bin
 MAILTO=root
 HOME=/
-*/5 * * * * !USER! nice -2 /usr/bin/php -q /etc/sentora/panel/bin/daemon.php > /var/sentora/logs/daemon-last-run.log 2>&1
+05 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh.log 2>&1
