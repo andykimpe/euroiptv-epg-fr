@@ -1,6 +1,6 @@
 #!/bin/bash
 cd /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1
-rm -rf "WebGrab++.config.xml" "TF1.xml" "TF1.xml.gz"
+rm -rf "TF1TELERAMACONFIG.conf" "TF1.xml" "TF1.xml.gz"
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1TELERAMACONFIG.conf" -O "TF1TELERAMACONFIG.conf"
 tv_grab_fr_telerama.py --config-file TF1TELERAMACONFIG.conf --output TF1.xml --days 13
 cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml.save
