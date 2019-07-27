@@ -20,18 +20,18 @@ wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/ma
 wget http://webgrabplus.com/sites/default/files/download/SW/V2.1.0/WebGrabPlus_V2.1_install.tar.gz
 tar -xvf WebGrabPlus_V2.1_install.tar.gz
 rm -f WebGrabPlus_V2.1_install.tar.gz
-mv .wg++ all
-cd all
+mv .wg++ m.tvtoday.de
+cd m.tvtoday.de
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
-./install.sh
+./instm.tvtoday.de.sh
 rm -rf "siteini.pack/"
 wget "http://webgrabplus.com/sites/default/files/download/ini/SiteIniPack_current.zip" -O "SiteIniPack_current.zip"
 unzip SiteIniPack_current.zip
 rm -f SiteIniPack_current.zip
 
-wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/Deutschland/all/all.sh -O /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.sh
-chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.sh
-if ! grep -q "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.sh" /etc/crontab; then
-    echo "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.sh" >> /etc/crontab;
+wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/Deutschland/m.tvtoday.de/m.tvtoday.de.sh -O /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh
+chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh
+if ! grep -q "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh" /etc/crontab; then
+    echo "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh" >> /etc/crontab;
 fi
-/home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/all/all.sh
+/home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh
