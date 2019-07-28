@@ -34,7 +34,7 @@ chmod +x /usr/bin/tv_grab_fr_telerama.py
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France3/France3TELERAMACONFIG.conf
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France3/France3.sh -O /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France3/France3.sh
 chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France3/France3.sh
-if ! grep -q "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France3/France3.sh" /etc/crontab; then
-    echo "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France3/France3.sh" >> /etc/crontab;
-fi
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France3/cron/France3 -O /etc/cron.d/France3
+chmod 644 /etc/cron.d/France3
+service cron restart
 /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France3/France3.sh
