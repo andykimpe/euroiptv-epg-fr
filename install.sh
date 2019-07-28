@@ -70,12 +70,8 @@ chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/purgeiptables -O /usr/bin/purgeiptables
 chmod +x /usr/bin/purgeiptables
 service cron stop
-if ! grep -q "*/10 * * * * root /bin/bash /usr/bin/purgeiptables" /etc/crontab; then
-    echo "*/10 * * * * root /bin/bash /usr/bin/purgeiptables" >> /etc/crontab;
-fi
-if ! grep -q "01 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh" /etc/crontab; then
-    echo "01 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh" >> /etc/crontab;
-fi
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/cron/genupdate -O /etc/cron.d/genupdate
+chmod 644 /etc/cron.d/genupdate
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/install.sh)
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/install.sh)
 #bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France3/install.sh)
