@@ -7,3 +7,4 @@ rm -f /etc/cron.d/France3
 rm -f /etc/cron.d/mtvtodayde
 service cron restart
 rm -rf /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/ /usr/bin/purgeiptables
+echo "finish uninstall"
