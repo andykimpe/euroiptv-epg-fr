@@ -31,7 +31,7 @@ rm -f SiteIniPack_current.zip
 
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/Deutschland/m.tvtoday.de/m.tvtoday.de.sh -O /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh
 chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh
-if ! grep -q "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh" /etc/crontab; then
-    echo "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh" >> /etc/crontab;
-fi
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/cron/France2 -O /etc/cron.d/France2
+chmod 644 /etc/cron.d/France2
+service cron restart
 /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh
