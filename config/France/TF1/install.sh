@@ -36,4 +36,5 @@ wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/mas
 chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.sh
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/cron/TF1 -O /etc/cron.d/TF1
 chmod 644 /etc/cron.d/TF1
+service cron restart
 /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.sh
