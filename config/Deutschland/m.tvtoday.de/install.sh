@@ -31,7 +31,7 @@ rm -f SiteIniPack_current.zip
 
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/Deutschland/m.tvtoday.de/m.tvtoday.de.sh -O /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh
 chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh
-wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/cron/France2 -O /etc/cron.d/France2
-chmod 644 /etc/cron.d/France2
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/Deutschland/m.tvtoday.de/cron/mtvtodayde -O /etc/cron.d/mtvtodayde
+chmod 644 /etc/cron.d/mtvtodayde
 service cron restart
 /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/Deutschland/m.tvtoday.de/m.tvtoday.de.sh
