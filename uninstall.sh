@@ -1,7 +1,7 @@
 #!/bin/bash
 rm -f /etc/cron.d/genupdate
 rm -f /etc/cron.d/purgeiptables
-rm -f /etc/cron.d/purgeiptables
+rm -f /etc/cron.d/TF1
 rm -f /etc/cron.d/purgeiptables
 rm -f /etc/cron.d/purgeiptables
 rm -f /etc/cron.d/purgeiptables
