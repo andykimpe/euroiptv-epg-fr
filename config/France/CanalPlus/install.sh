@@ -34,8 +34,8 @@ chmod +x /usr/bin/tv_grab_fr_telerama.py
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CanalPlus/CanalPlusTELERAMACONFIG.conf
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CanalPlus/CanalPlus.sh -O /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/CanalPlus/CanalPlus.sh
 chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/CanalPlus/CanalPlus.sh
-if ! grep -q "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/CanalPlus/CanalPlus.sh" /etc/crontab; then
-    echo "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/CanalPlus/CanalPlus.sh" >> /etc/crontab;
-fi
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CanalPlus/cron/CanalPlus -O /etc/cron.d/CanalPlus
+chmod 644 /etc/cron.d/CanalPlus
+service cron restart
 /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/CanalPlus/CanalPlus.sh
 
