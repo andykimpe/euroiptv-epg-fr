@@ -12,7 +12,7 @@
   <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="optional-password" />-->
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>2</timespan>
+  <timespan>9</timespan>
   <update>f</update>
  
   <!--
