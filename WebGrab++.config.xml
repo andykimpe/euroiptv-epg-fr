@@ -31,6 +31,7 @@
   <channel update="i" site="telerama.fr" site_id="m6,118" xmltv_id="M6.fr">M6</channel>
   <channel update="i" site="telerama.fr" site_id="arte,111" xmltv_id="ARTE.fr">Arte</channel>
   <channel update="i" site="telerama.fr" site_id="c8,445" xmltv_id="C8.fr">C8</channel>
+  <channel update="i" site="telerama.fr" site_id="w9,119" xmltv_id="W9.fr">W9</channel>
   <channel update="i" site="telerama.fr" site_id="proximus-11,1075" xmltv_id="Proximus11.be">Proximus 11</channel>
  
 </settings>
