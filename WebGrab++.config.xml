@@ -24,6 +24,7 @@
   -->
 
   <channel update="i" site="telerama.fr" site_id="tf1,192" xmltv_id="TF1.fr">TF1</channel>
+  <channel update="i" site="telerama.fr" site_id="france-2,4" xmltv_id="France2.fr">France 2</channel>
   <channel update="i" site="telerama.fr" site_id="proximus-11,1075" xmltv_id="Proximus11.be">Proximus 11</channel>
  
 </settings>
