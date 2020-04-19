@@ -34,6 +34,7 @@
   <channel update="i" site="telerama.fr" site_id="w9,119" xmltv_id="W9.fr">W9</channel>
   <channel update="i" site="telerama.fr" site_id="tmc,195" xmltv_id="TMC.fr">TMC</channel>
   <channel update="i" site="telerama.fr" site_id="tfx,446" xmltv_id="TFX.fr">TFX</channel>
+  <channel update="i" site="telerama.fr" site_id="nrj-12,444" xmltv_id="NRJ12.fr">NRJ 12</channel>
   <channel update="i" site="telerama.fr" site_id="proximus-11,1075" xmltv_id="Proximus11.be">Proximus 11</channel>
  
 </settings>
