@@ -39,7 +39,7 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/France3/France3.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/wwwdir/xmltv/guide.xml <<EOF
+cat >> $wwwdir/xmltv/guide.xml <<EOF
   <channel id="CANALplus.fr">
     <display-name lang="fr">FR Canal+</display-name>
     <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/canal%2B.png" />
