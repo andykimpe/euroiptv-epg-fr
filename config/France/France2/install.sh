@@ -17,7 +17,7 @@ wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/ma
 cd France
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 rm -rf France2
-mkdir TFrance2
+mkdir France2
 cd France2
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 apt-get -y install python python-minimal python2.7-minimal python3-minimal python3.6-minimal
