@@ -1,28 +1,59 @@
 #!/bin/bash
-cd /root
-cd /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5
-rm -rf "WebGrab++.config.xml" "guide.xml" /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.gz
-wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France5/France5.xml" -O "WebGrab++.config.xml"
-rm -f /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml
+if [ -d "/home/streamcreed" ];then
+xtreamcodes="ok"
+wwwdir="/home/streamcreed/wwwdir"
+crondir="cronstreamcreed"
+fi
+if [ -d "/home/xtreamcodes/iptv_xtream_codes" ];then
+xtreamcodes="ok"
+wwwdir="/home/xtreamcodes/iptv_xtream_codes/wwwdir"
+crondir="cronstreamcreed"
+fi
+cd $wwwdir/xmltv/France/France5
+rm -rf *
+wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
+wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France5/France5.sh -O $wwwdir/xmltv/France/France5/France5.sh
+chmod +x $wwwdir/xmltv/France/France5/France5.sh
+#wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France5/France5TELERAMACONFIG.conf" -O "France5TELERAMACONFIG.conf"
+#tv_grab_fr_telerama.py --config-file France5TELERAMACONFIG.conf --output France5.xml --days 13
+wget http://webgrabplus.com/sites/default/files/download/SW/V3.1.0/WebGrabPlus_V3.1_install.tar.gz
+tar -xvf WebGrabPlus_V3.1_install.tar.gz
+rm -f WebGrabPlus_V3.1_install.tar.gz
+mv .wg++/* ./
+rm -f .wg++/
+chmod +x install.sh
+./install.sh
+rm -rf siteini.pack
+wget http://webgrabplus.com/sites/default/files/download/ini/SiteIni.Pack_2021.02.11_231100.zip
+unzip SiteIni.Pack_2021.02.11_231100.zip
+rm -f WebGrab++.config.xml
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France5/France5.xml -O $wwwdir/xmltv/France/France5/WebGrab++.config.xml
 ./run.sh
-cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.save
-gzip /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml
-mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.save /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml
-sed '1d' /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp && mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml
-sed '1d' /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp && mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml
-sed '1d' /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp && mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml
-sed '1d' /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp && mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml
-sed '1d' /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp && mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml
-sed '1d' /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp && mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml
-sed '1d' /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp && mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml
-head -n -1 /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp && mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml.tmp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml
-chmod -R 777 /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/*
-chown xtreamcodes:xtreamcodes /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/*
-if [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg.php ]
+cp $wwwdir/xmltv/France/France5/France5.xml $wwwdir/xmltv/France/France5/France5.xml.save
+gzip $wwwdir/xmltv/France/France5/France5.xml
+mv $wwwdir/xmltv/France/France5/France5.xml.save $wwwdir/xmltv/France/France5/France5.xml
+sed '1d' $wwwdir/xmltv/France/France5/France5.xml > $wwwdir/xmltv/France/France5/France5.xml.tmp && mv $wwwdir/xmltv/France/France5/France5.xml.tmp $wwwdir/xmltv/France/France5/France5.xml
+sed '1d' $wwwdir/xmltv/France/France5/France5.xml > $wwwdir/xmltv/France/France5/France5.xml.tmp && mv $wwwdir/xmltv/France/France5/France5.xml.tmp $wwwdir/xmltv/France/France5/France5.xml
+sed '1d' $wwwdir/xmltv/France/France5/France5.xml > $wwwdir/xmltv/France/France5/France5.xml.tmp && mv $wwwdir/xmltv/France/France5/France5.xml.tmp $wwwdir/xmltv/France/France5/France5.xml
+sed '1d' $wwwdir/xmltv/France/France5/France5.xml > $wwwdir/xmltv/France/France5/France5.xml.tmp && mv $wwwdir/xmltv/France/France5/France5.xml.tmp $wwwdir/xmltv/France/France5/France5.xml
+sed '1d' $wwwdir/xmltv/France/France5/France5.xml > $wwwdir/xmltv/France/France5/France5.xml.tmp && mv $wwwdir/xmltv/France/France5/France5.xml.tmp $wwwdir/xmltv/France/France5/France5.xml
+sed '1d' $wwwdir/xmltv/France/France5/France5.xml > $wwwdir/xmltv/France/France5/France5.xml.tmp && mv $wwwdir/xmltv/France/France5/France5.xml.tmp $wwwdir/xmltv/France/France5/France5.xml
+#sed '1d' /home/streamcreed/wwwdir/xmltv/France/France5/France5.xml > /home/streamcreed/wwwdir/xmltv/France/France5/France5.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/France5/France5.xml.tmp /home/streamcreed/wwwdir/xmltv/France/France5/France5.xml
+head -n -1 $wwwdir/xmltv/France/France5/France5.xml > $wwwdir/xmltv/France/France5/France5.xml.tmp && mv $wwwdir/xmltv/France/France5/France5.xml.tmp $wwwdir/xmltv/France/France5/France5.xml
+#sed -i 's|192.tv.telerama.fr|France5.fr|' "/home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml"
+chmod -R 777 $wwwdir/xmltv/France/France5/*
+chown streamcreed:streamcreed $wwwdir/xmltv/France/France5/*
+if [ -f /home/streamcreed/crons/epg.php ]
+then
+/home/streamcreed/php/bin/php /home/streamcreed/crons/epg.php
+elif [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg.php ]
 then
 /home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg.php
+elif [ -f /home/streamcreed/crons/epg_checking.php ]
+then
+/home/streamcreed/php/bin/php /home/streamcreed/crons/epg_checking.php
 elif [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php ]
 then
 /home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php
 fi
-bash <(curl -L -Ss https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen.sh)
+bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen.sh)
