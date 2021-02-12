@@ -36,7 +36,7 @@ if [ -d "/home/streamcreed" ];then
 xtreamcodes="ok"
 fi
 
-if [[ "$OS" = "Ubuntu" && ("$VER" = "14.04" || "$VER" = "18.04" || "$VER" = "20.04" ) && "$xtreamcodes" == "ok" ]] ; then
+if [[ "$OS" = "Ubuntu" && ("$VER" = "14.04" || "$VER" = "18.04" || "$VER" = "20.04" ) ]] ; then
     echo "Ok."
 else
     echo "Sorry, this OS is not supported by epg generator."
