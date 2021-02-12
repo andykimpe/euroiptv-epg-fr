@@ -98,7 +98,15 @@ cat $wwwdir/xmltv/France/France2/France2.xml >> $wwwdir/xmltv/guide.xml
 cat >> $wwwdir/xmltv/guide.xml <<EOF
   <channel id="Multisports1.fr">
     <display-name lang="fr">|FR| Multisports+ 1</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/Multisports1.png" />
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/Multisports.png" />
+    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/Multisports1/Multisports2.xml >> $wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="Multisports2.fr">
+    <display-name lang="fr">|FR| Multisports+ 2</display-name>
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/Multisports.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
 EOF
