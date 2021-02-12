@@ -85,6 +85,14 @@ cat /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml >> /home/streamcre
 #  </channel>
 #EOF
 #cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TMC/TMC.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+cat >> /home/streamcreed/wwwdir/xmltv/guide.xml <<EOF
+  <channel id="Multisports1.fr">
+    <display-name lang="fr">|FR| Multisports+ 1</display-name>
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/Multisports1.png" />
+    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+  </channel>
+EOF
+cat /home/streamcreed/wwwdir/xmltv/France/Multisports1/Multisports1.xml >> /home/streamcreed/wwwdir/xmltv/guide.xml
 echo "</tv>" >> /home/streamcreed/wwwdir/xmltv/guide.xml
 cp /home/streamcreed/wwwdir/xmltv/guide.xml /home/streamcreed/wwwdir/xmltv/guide.xml.save
 rm -f /home/streamcreed/wwwdir/xmltv/guide.xml.gz
