@@ -21,14 +21,14 @@ wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/T
 cp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.save
 gzip /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
 mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.save /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
+sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
+sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
+sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
+sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
+sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
+sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
 #sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
-#sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
-#sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
-#sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
-#sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
-#sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
-#sed '1d' /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
-#head -n -1 /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
+head -n -1 /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml > /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml.tmp /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml
 #sed -i 's|192.tv.telerama.fr|TF1.fr|' "/home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml"
 chmod -R 777 /home/streamcreed/wwwdir/xmltv/France/TF1/*
 chown streamcreed:streamcreed /home/streamcreed/wwwdir/xmltv/France/TF1/*
