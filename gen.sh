@@ -47,14 +47,14 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/CanalPlus/CanalPlus.xml >> $wwwdir/xmltv/guide.xml
-#cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
-#  <channel id="France5.fr">
-#    <display-name lang="fr">FR France 5</display-name>
-#    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/france5.png" />
-#    <url>http://programme-tv.orange.fr/</url>
-#  </channel>
-#EOF
-#cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="France5.fr">
+    <display-name lang="fr">FR France 5</display-name>
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/france5.png" />
+    <url>http://programme-tv.orange.fr/</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/France5/France5.xml >> $wwwdir/xmltv/guide.xml
 #cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
 #  <channel id="M6.fr">
 #    <display-name lang="fr">FR M6</display-name>
