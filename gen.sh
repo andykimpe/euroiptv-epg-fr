@@ -38,7 +38,7 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
 EOF
-cat $wwwdir/xmltv/France/France3/France3.xml >> $wwwdir/wwwdir/xmltv/guide.xml
+cat $wwwdir/xmltv/France/France3/France3.xml >> $wwwdir/xmltv/guide.xml
 #cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
 #  <channel id="CANALplus.fr">
 #    <display-name lang="fr">FR Canal+</display-name>
