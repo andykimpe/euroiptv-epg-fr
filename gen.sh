@@ -1,26 +1,36 @@
 #!/usr/bin/env bash
+if [ -d "/home/streamcreed" ];then
+xtreamcodes="ok"
+wwwdir="/home/streamcreed/wwwdir"
+crondir="cronstreamcreed"
+fi
+if [ -d "/home/xtreamcodes/iptv_xtream_codes" ];then
+xtreamcodes="ok"
+wwwdir="/home/xtreamcodes/iptv_xtream_codes/wwwdir"
+crondir="cronstreamcreed"
+fi
 cd /root
-rm -f /home/streamcreed/wwwdir/xmltv/guide.xml
-cat > /home/streamcreed/wwwdir/xmltv/guide.xml <<EOF
+rm -f $wwwdir/xmltv/guide.xml
+cat > $wwwdir/xmltv/guide.xml <<EOF
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Euroiptv EPG" generator-info-url="https://github.com/andykimpe/euroiptv-epg-fr">
 EOF
-cat >> /home/streamcreed/wwwdir/xmltv/guide.xml <<EOF
+cat >> $wwwdir/xmltv/guide.xml <<EOF
   <channel id="TF1.fr">
     <display-name lang="fr">|FR| TF1</display-name>
     <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/tf1.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
 EOF
-cat /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml >> /home/streamcreed/wwwdir/xmltv/guide.xml
-cat >> /home/streamcreed/wwwdir/xmltv/guide.xml <<EOF
+cat $wwwdir/xmltv/France/TF1/TF1.xml >> $wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
   <channel id="France2.fr">
     <display-name lang="fr">|FR| France 2</display-name>
     <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/france2.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr/</url>
   </channel>
 EOF
-cat /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml >> /home/streamcreed/wwwdir/xmltv/guide.xml
+cat $wwwdir/xmltv/France/France2/France2.xml >> $wwwdir/xmltv/guide.xml
 #cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
 #  <channel id="France3.fr">
 #    <display-name lang="fr">FR France 3</display-name>
@@ -85,23 +95,29 @@ cat /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml >> /home/streamcre
 #  </channel>
 #EOF
 #cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TMC/TMC.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
-cat >> /home/streamcreed/wwwdir/xmltv/guide.xml <<EOF
+cat >> $wwwdir/xmltv/guide.xml <<EOF
   <channel id="Multisports1.fr">
     <display-name lang="fr">|FR| Multisports+ 1</display-name>
     <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/Multisports1.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
 EOF
-cat /home/streamcreed/wwwdir/xmltv/France/Multisports1/Multisports1.xml >> /home/streamcreed/wwwdir/xmltv/guide.xml
-echo "</tv>" >> /home/streamcreed/wwwdir/xmltv/guide.xml
-cp /home/streamcreed/wwwdir/xmltv/guide.xml /home/streamcreed/wwwdir/xmltv/guide.xml.save
-rm -f /home/streamcreed/wwwdir/xmltv/guide.xml.gz
-gzip /home/streamcreed/wwwdir/xmltv/guide.xml
-mv /home/streamcreed/wwwdir/xmltv/guide.xml.save /home/streamcreed/wwwdir/xmltv/guide.xml
+cat $wwwdir/xmltv/France/Multisports1/Multisports1.xml >> $wwwdir/xmltv/guide.xml
+echo "</tv>" >> $wwwdir/xmltv/guide.xml
+cp $wwwdir/xmltv/guide.xml $wwwdir/xmltv/guide.xml.save
+rm -f $wwwdir/xmltv/guide.xml.gz
+gzip $wwwdir/xmltv/guide.xml
+mv $wwwdir/xmltv/guide.xml.save $wwwdir/xmltv/guide.xml
 if [ -f /home/streamcreed/crons/epg.php ]
 then
 /home/streamcreed/php/bin/php /home/streamcreed/crons/epg.php
+elif [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg.php ]
+then
+/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg.php
 elif [ -f /home/streamcreed/crons/epg_checking.php ]
 then
 /home/streamcreed/php/bin/php /home/streamcreed/crons/epg_checking.php
+elif [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php ]
+then
+/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php
 fi
