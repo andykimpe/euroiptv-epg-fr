@@ -2,4 +2,4 @@ SHELL=/bin/bash
 PATH=/sbin:/bin:/usr/sbin:/usr/bin
 MAILTO=root
 HOME=/
-05 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh.log 2>&1
+05 05 * * * root /bin/bash /home/streamcreed/wwwdir/xmltv/genupdate.sh > /home/streamcreed/wwwdir/xmltv/genupdate.sh.log 2>&1
