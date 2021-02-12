@@ -1,36 +1,37 @@
 #!/bin/bash
 # installateur pour epg de euroiptv
 # Supported Operating Systems: 
-# Ubuntu server 12.04/14.04/16.04
+# Ubuntu server 12.04/14.04/16.04/18.04
 # 32bit and 64bit
-EPG_INSTALLER_VERSION="1.1"
+EPG_INSTALLER_VERSION="1.3"
+if [ -d "/home/streamcreed" ];then
+xtreamcodes="ok"
+wwwdir="/home/streamcreed/wwwdir"
+crondir="cronstreamcreed"
+fi
+if [ -d "/home/xtreamcodes/iptv_xtream_codes" ];then
+xtreamcodes="ok"
+wwwdir="/home/xtreamcodes/iptv_xtream_codes/wwwdir"
+crondir="cronstreamcreed"
+fi
 #--- Display the 'welcome' splash/user warning info..
 echo ""
 echo "############################################################"
-echo "#  Welcome to the epg generator Installer   #"
+echo "#          Welcome to the epg generator Installer          #"
 echo "############################################################"
 sleep 5
-
 cd /root
-mkdir -p /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France
-cd /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
+mkdir -p $wwwdir/xmltv/France
+cd $wwwdir/xmltv/
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 cd France
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
-wget http://webgrabplus.com/sites/default/files/download/SW/V2.1.0/WebGrabPlus_V2.1_install.tar.gz
-tar -xvf WebGrabPlus_V2.1_install.tar.gz
-rm -f WebGrabPlus_V2.1_install.tar.gz
-mv .wg++ France5
+rm -rf France5
+mkdir France5
 cd France5
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
-./install.sh
-rm -f "siteini.user/France/telerama.fr.channels.xml" "siteini.user/France/telerama.fr.ini"
-mkdir -p "siteini.user/France"
-wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/telerama.fr_.channels.xml" -O "siteini.user/France/telerama.fr.channels.xml"
-wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/telerama.fr_.ini" -O "siteini.user/France/telerama.fr.ini"
-wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France5/France5.sh -O /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.sh
-chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.sh
-if ! grep -q "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.sh" /etc/crontab; then
-    echo "00 05 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.sh" >> /etc/crontab;
-fi
-/home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France5/France5.sh
+wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France5/France5.sh -O $wwwdir/xmltv/France/France5/France5.sh
+chmod +x $wwwdir/xmltv/France/France5/France5.sh
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France5/$crondir/France5 -O /etc/cron.d/France5
+chmod 644 /etc/cron.d/France5
+$wwwdir/xmltv/France/France5/France5.sh
