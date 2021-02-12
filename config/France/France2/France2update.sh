@@ -13,6 +13,7 @@ rm -f .wg++/
 chmod +x install.sh
 ./install.sh
 wget http://webgrabplus.com/sites/default/files/download/ini/SiteIni.Pack_2021.02.11_231100.zip
+rm -rf 
 unzip SiteIni.Pack_2021.02.11_231100.zip
 rm -f WebGrab++.config.xml
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/France2.xml -O /home/streamcreed/wwwdir/xmltv/France/France2/WebGrab++.config.xml
@@ -23,7 +24,7 @@ mv /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.save /home/streamcr
 sed '1d' /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml > /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml
 sed '1d' /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml > /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml
 sed '1d' /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml > /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml
-sed '1d' /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml > /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp && mv /home/streamcreed/xmltv/France/France2/France2.xml.tmp /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml
+sed '1d' /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml > /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml
 sed '1d' /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml > /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml
 sed '1d' /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml > /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml
 sed '1d' /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml > /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp && mv /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml.tmp /home/streamcreed/wwwdir/xmltv/France/France2/France2.xml
