@@ -2,4 +2,4 @@ SHELL=/bin/bash
 PATH=/sbin:/bin:/usr/sbin:/usr/bin
 MAILTO=root
 HOME=/
-05 00 * * * root /bin/bash /home/streamcreed/wwwdir/xmltv/France/Multisports1/Multisports1.sh
+05 00 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/Multisports1/Multisports1.sh
