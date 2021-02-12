@@ -1,6 +1,7 @@
 #!/bin/bash
 cd /home/streamcreed/wwwdir/xmltv/France/TF1
 rm -rf *
+wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1.sh -O /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.sh
 chmod +x /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.sh
 #wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1TELERAMACONFIG.conf" -O "TF1TELERAMACONFIG.conf"
