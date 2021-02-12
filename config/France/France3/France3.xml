@@ -1,7 +1,16 @@
 <?xml version="1.0"?>
 <settings>
-
-  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <!-- This is a sample of an almost "ready to go" setup 
+	1. If required set full path for the output guide.xml 
+	2. Add correct decription key for siteini type .EK 
+	3. change your username and mail (used to register on the forum) and password (see license in forum profile) 
+	4. set timespan (number of days) it start with 0 so one week = 6 
+	5. create updated channel list setting <update>c</update> first, then set back to i or f
+	6. Below a setup to run an encrypted siteini and a regular one
+	-->
+   
+  <filename>France3.xml</filename>
 
   <mode>m n</mode>
   <postprocess grab="y" run="n">rex</postprocess>
@@ -25,8 +34,8 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-		<channel update="i" site="telepoche.fr" site_id="france3" xmltv_id="France3.fr">FRANCE 3</channel>
-		
+		<channel update="i" site="canalsat.fr" site_id="543" xmltv_id="France3.fr">FRANCE 3</channel>
+	
 </settings>
 
 
