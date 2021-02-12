@@ -77,7 +77,7 @@ chmod +x $wwwdir/xmltv/genupdate.sh
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/purgeiptables -O /usr/bin/purgeiptables
 chmod +x /usr/bin/purgeiptables
 service cron stop
-wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/cron/genupdate -O /etc/cron.d/genupdate
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/$crondir/genupdate -O /etc/cron.d/genupdate
 chmod 644 /etc/cron.d/genupdate
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/cron/purgeiptables -O /etc/cron.d/purgeiptables
 chmod 644 /etc/cron.d/purgeiptables
