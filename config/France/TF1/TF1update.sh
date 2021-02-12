@@ -1,6 +1,8 @@
 #!/bin/bash
 cd /home/streamcreed/wwwdir/xmltv/France/TF1
 rm -rf *
+wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1.sh -O /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.sh
+chmod +x /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.sh
 #wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1TELERAMACONFIG.conf" -O "TF1TELERAMACONFIG.conf"
 #tv_grab_fr_telerama.py --config-file TF1TELERAMACONFIG.conf --output TF1.xml --days 13
 wget http://webgrabplus.com/sites/default/files/download/SW/V3.1.0/WebGrabPlus_V3.1_install.tar.gz
