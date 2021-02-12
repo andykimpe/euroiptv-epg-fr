@@ -34,6 +34,13 @@ sleep 5
 
 if [ -d "/home/streamcreed" ];then
 xtreamcodes="ok"
+wwwdir="/home/streamcreed/wwwdir"
+crondir="cronstreamcreed"
+fi
+if [ -d "/home/xtreamcodes/iptv_xtream_codes" ];then
+xtreamcodes="ok"
+wwwdir="/home/xtreamcodes/iptv_xtream_codes/wwwdir"
+crondir="cronstreamcreed"
 fi
 
 if [[ "$OS" = "Ubuntu" && ("$VER" = "14.04" || "$VER" = "18.04" || "$VER" = "20.04" && "$xtreamcodes" == "ok" ) ]] ; then
@@ -62,11 +69,11 @@ cd /root
 apt-get update
 apt-get -y dist-upgrade
 apt-get install -y mono-complete wget git cron
-rm -rf /home/streamcreed/wwwdir/xmltv/
-mkdir -p /home/streamcreed/wwwdir/xmltv/
+rm -rf $wwwdir/xmltv/
+mkdir -p $wwwdir/xmltv/
 cp /etc/crontab /etc/crontab.xtreamcodesinstallepg
-wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/genupdate.sh -O /home/streamcreed/wwwdir/xmltv/genupdate.sh
-chmod +x /home/streamcreed/wwwdir/xmltv/genupdate.sh
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/genupdate.sh -O $wwwdir/xmltv/genupdate.sh
+chmod +x $wwwdir/xmltv/genupdate.sh
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/purgeiptables -O /usr/bin/purgeiptables
 chmod +x /usr/bin/purgeiptables
 service cron stop
