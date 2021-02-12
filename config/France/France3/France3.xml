@@ -25,7 +25,7 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-		<channel update="i" site="canalsat.fr" site_id="543" xmltv_id="France3.fr">FRANCE 3</channel>
+		<channel update="i" site="tv.orange.fr.E" site_id="80##france3/20180131_171239/webTVSquare/logo_150x150.png" xmltv_id="France3.fr">FRANCE 3</channel>
 		
 </settings>
 
