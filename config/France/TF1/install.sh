@@ -31,7 +31,7 @@ pip install pytz
 apt-get -y install python-html2text python3-html2text
 #wget https://github.com/melmorabity/tv_grab_fr_telerama/raw/master/tv_grab_fr_telerama.py -O /usr/bin/tv_grab_fr_telerama.py
 #chmod +x /usr/bin/tv_grab_fr_telerama.py
-wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1TELERAMACONFIG.conf
+#wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1TELERAMACONFIG.conf
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1.sh -O /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.sh
 chmod +x /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.sh
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/cron/TF1 -O /etc/cron.d/TF1
