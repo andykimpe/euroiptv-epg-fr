@@ -1,9 +1,9 @@
 #!/bin/bash
 # installateur pour epg de euroiptv
 # Supported Operating Systems: 
-# Ubuntu server 12.04/14.04/16.04
+# Ubuntu server 12.04/14.04/16.04/18.04
 # 32bit and 64bit
-EPG_INSTALLER_VERSION="1.2"
+EPG_INSTALLER_VERSION="1.3"
 #--- Display the 'welcome' splash/user warning info..
 echo ""
 echo "###################################################################"
@@ -62,11 +62,11 @@ cd /root
 apt-get update
 apt-get -y dist-upgrade
 apt-get install -y mono-complete wget git cron
-rm -rf /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
-mkdir -p /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/
+rm -rf /home/streamcreed/wwwdir/xmltv/
+mkdir -p /home/streamcreed/wwwdir/xmltv/
 cp /etc/crontab /etc/crontab.xtreamcodesinstallepg
-wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/genupdate.sh -O /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh
-chmod +x /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/genupdate.sh
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/genupdate.sh -O /home/streamcreed/wwwdir/xmltv/genupdate.sh
+chmod +x /home/streamcreed/wwwdir/xmltv/genupdate.sh
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/purgeiptables -O /usr/bin/purgeiptables
 chmod +x /usr/bin/purgeiptables
 service cron stop
@@ -75,9 +75,9 @@ chmod 644 /etc/cron.d/genupdate
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/cron/purgeiptables -O /etc/cron.d/purgeiptables
 chmod 644 /etc/cron.d/purgeiptables
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France3/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CanalPlus/install.sh)
+#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/install.sh)
+#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France3/install.sh)
+#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CanalPlus/install.sh)
 #bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France5/install.sh)
 #bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/M6/install.sh)
 #bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Arte/install.sh)
@@ -92,5 +92,5 @@ bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/
 #bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CNews/install.sh)
 #bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CStar/install.sh)
 #bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Gulli/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/Deutschland/m.tvtoday.de/install.sh)
+#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/Deutschland/m.tvtoday.de/install.sh)
 service cron start
