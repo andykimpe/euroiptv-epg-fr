@@ -1,42 +1,42 @@
 #!/usr/bin/env bash
 cd /root
-rm -f /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
-cat > /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
+rm -f /home/streamcreed/wwwdir/xmltv/guide.xml
+cat > /home/streamcreed/wwwdir/xmltv/guide.xml <<EOF
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Euroiptv EPG" generator-info-url="https://github.com/andykimpe/euroiptv-epg-fr">
 EOF
-cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
+cat >> /home/streamcreed/wwwdir/xmltv/guide.xml <<EOF
   <channel id="TF1.fr">
     <display-name lang="fr">FR TF1</display-name>
     <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/tf1.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
 EOF
-cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TF1/TF1.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
-cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
-  <channel id="France2.fr">
-    <display-name lang="fr"> FR France 2</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/france2.png" />
-    <url>https://github.com/andykimpe/euroiptv-epg-fr/</url>
-  </channel>
-EOF
-cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
-cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
-  <channel id="France3.fr">
-    <display-name lang="fr">FR France 3</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/france3.png" />
-    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
-  </channel>
-EOF
-cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France3/France3.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
-cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
-  <channel id="CANALplus.fr">
-    <display-name lang="fr">FR Canal+</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/canal%2B.png" />
-    <url>http://programme-tv.orange.fr/</url>
-  </channel>
-EOF
-cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/CanalPlus/CanalPlus.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+cat /home/streamcreed/wwwdir/xmltv/France/TF1/TF1.xml >> /home/streamcreed/wwwdir/xmltv/guide.xml
+#cat >> /home/streamcreed/wwwdir/xmltv/guide.xml <<EOF
+#  <channel id="France2.fr">
+#    <display-name lang="fr"> FR France 2</display-name>
+#    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/france2.png" />
+#    <url>https://github.com/andykimpe/euroiptv-epg-fr/</url>
+#  </channel>
+#EOF
+#cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France2/France2.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+#cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
+#  <channel id="France3.fr">
+#    <display-name lang="fr">FR France 3</display-name>
+#    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/france3.png" />
+#    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+#  </channel>
+#EOF
+#cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/France3/France3.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+#cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
+#  <channel id="CANALplus.fr">
+#    <display-name lang="fr">FR Canal+</display-name>
+#    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/canal%2B.png" />
+#    <url>http://programme-tv.orange.fr/</url>
+#  </channel>
+#EOF
+#cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/CanalPlus/CanalPlus.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
 #cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
 #  <channel id="France5.fr">
 #    <display-name lang="fr">FR France 5</display-name>
@@ -85,15 +85,15 @@ cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/CanalPlus/CanalPlus.
 #  </channel>
 #EOF
 #cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TMC/TMC.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
-echo "</tv>" >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
-cp /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml.save
-rm -f /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml.gz
-gzip /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
-mv /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml.save /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
-if [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg.php ]
+echo "</tv>" >> /home/streamcreed/wwwdir/xmltv/guide.xml
+cp /home/streamcreed/wwwdir/xmltv/guide.xml /home/streamcreed/wwwdir/xmltv/guide.xml.save
+rm -f /home/streamcreed/wwwdir/xmltv/guide.xml.gz
+gzip /home/streamcreed/wwwdir/xmltv/guide.xml
+mv /home/streamcreed/wwwdir/xmltv/guide.xml.save /home/streamcreed/wwwdir/xmltv/guide.xml
+if [ -f /home/streamcreed/crons/epg.php ]
 then
-/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg.php
-elif [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php ]
+/home/streamcreed/php/bin/php /home/streamcreed/crons/epg.php
+elif [ -f /home/streamcreed/crons/epg_checking.php ]
 then
-/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php
+/home/streamcreed/php/bin/php /home/streamcreed/crons/epg_checking.php
 fi
