@@ -1,6 +1,8 @@
 #!/bin/bash
 cd /home/streamcreed/wwwdir/xmltv/France/France2
 rm -rf *
+wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/France2.sh -O /home/streamcreed/wwwdir/xmltv/France/France2/France2.sh
+chmod +x /home/streamcreed/wwwdir/xmltv/France/France2/France2.sh
 #wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/France2TELERAMACONFIG.conf" -O "France2TELERAMACONFIG.conf"
 #tv_grab_fr_telerama.py --config-file France2TELERAMACONFIG.conf --output France2.xml --days 13
 wget http://webgrabplus.com/sites/default/files/download/SW/V3.1.0/WebGrabPlus_V3.1_install.tar.gz
