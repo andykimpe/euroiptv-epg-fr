@@ -119,7 +119,6 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/Multisports3/Multisports3.xml >> $wwwdir/xmltv/guide.xml
-
 cat >> $wwwdir/xmltv/guide.xml <<EOF
   <channel id="Multisports4.fr">
     <display-name lang="fr">|FR| Multisports+ 4</display-name>
@@ -128,6 +127,14 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/Multisports4/Multisports4.xml >> $wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="Multisports5.fr">
+    <display-name lang="fr">|FR| Multisports+ 5</display-name>
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/Multisports.png" />
+    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/Multisports5/Multisports5.xml >> $wwwdir/xmltv/guide.xml
 echo "</tv>" >> $wwwdir/xmltv/guide.xml
 cp $wwwdir/xmltv/guide.xml $wwwdir/xmltv/guide.xml.save
 rm -f $wwwdir/xmltv/guide.xml.gz
