@@ -10,6 +10,7 @@ mv .wg++/* ./
 rm -f .wg++/
 chmod +x install.sh
 ./install.sh
+rm -rf siteini.pack
 wget http://webgrabplus.com/sites/default/files/download/ini/SiteIni.Pack_2021.02.11_231100.zip
 unzip SiteIni.Pack_2021.02.11_231100.zip
 rm -f WebGrab++.config.xml
