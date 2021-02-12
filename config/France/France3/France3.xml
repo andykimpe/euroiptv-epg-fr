@@ -3,13 +3,18 @@
 
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
 
-  <filename>France3.xml</filename>
-  <mode></mode>
-  <postprocess grab="y" run="n">mdb</postprocess>
-  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</user-agent>
+  <mode>m n</mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+
+  <decryptkey site="cyfrowypolsat.pl.EK">AABBCC</decryptkey>
+  <license wg-username="fuck" registered-email="fuck@gmail.com" password="fuck"/>
+  <!-- to update license: <license wg-username="rollerbar" registered-email="rollerbar@gmail.com" password="123456">f</license> -->	
+	
+
   <logging>on</logging>
-  <retry time-out="5">4</retry>
-  <timespan>13</timespan>
+  <retry time-out="80">4</retry>
+  <timespan>6</timespan>
   <update>f</update>
 
   <!--
@@ -20,7 +25,8 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-		<channel update="i" site="tv.orange.fr" site_id="france-3_CNT0000008o0q4.html" xmltv_id="France3.fr">France 3</channel>
+		<channel update="i" site="canalsat.fr" site_id="543" xmltv_id="France3.fr">FRANCE 3</channel>
+		
 </settings>
 
 
