@@ -25,7 +25,7 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-		<channel update="i" site="tv.orange.fr.E" site_id="%2Flogos%2Fv2%2Flogos%2Flivetv_france3%2F20180131_171239%2FmobileAppliDark%2Flogo_183x183.png" xmltv_id="France3.fr">FRANCE 3</channel>
+		<channel update="i" site="telestar.fr-full" site_id="france3" xmltv_id="France3.fr">FRANCE 3</channel>
 		
 </settings>
 
