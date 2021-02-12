@@ -103,5 +103,6 @@ bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports2/install.sh)
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports3/install.sh)
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports4/install.sh)
+bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports5/install.sh)
 #bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/Deutschland/m.tvtoday.de/install.sh)
 service cron start
