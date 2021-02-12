@@ -14,18 +14,17 @@ rm -rf *
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/France2.sh -O $wwwdir/xmltv/France/France2/France2.sh
 chmod +x $wwwdir/xmltv/France/France2/France2.sh
-#wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/France2TELERAMACONFIG.conf" -O "France2TELERAMACONFIG.conf"
-#tv_grab_fr_telerama.py --config-file France2TELERAMACONFIG.conf --output France2.xml --days 13
-wget http://webgrabplus.com/sites/default/files/download/SW/V3.1.0/WebGrabPlus_V3.1_install.tar.gz
-tar -xvf WebGrabPlus_V3.1_install.tar.gz
-rm -f WebGrabPlus_V3.1_install.tar.gz
+wget `wget -qO- https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/webgrabplusplusinstallurl`
+tar -xvf *.tar.gz
+rm -f *.tar.gz
 mv .wg++/* ./
 rm -f .wg++/
 chmod +x install.sh
 ./install.sh
 rm -rf siteini.pack
-wget http://webgrabplus.com/sites/default/files/download/ini/SiteIni.Pack_2021.02.11_231100.zip
-unzip SiteIni.Pack_2021.02.11_231100.zip
+wget `wget -qO- https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/webgrabplusplussiteiniurl`
+unzip *.zip
+rm -f *.zip
 rm -f WebGrab++.config.xml
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/France2.xml -O $wwwdir/xmltv/France/France2/WebGrab++.config.xml
 ./run.sh
