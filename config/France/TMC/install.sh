@@ -16,4 +16,4 @@ fi
 cd $wwwdir/xmltv/
 wget https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/installchannel.sh -O $wwwdir/xmltv/installchannel.sh
 chmod +x $wwwdir/xmltv/installchannel.sh
-$wwwdir/xmltv/installchannel.sh TMC
+$wwwdir/xmltv/installchannel.sh France TMC
