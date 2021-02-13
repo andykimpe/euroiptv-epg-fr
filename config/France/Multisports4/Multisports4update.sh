@@ -14,18 +14,17 @@ rm -rf *
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports4/Multisports4.sh -O $wwwdir/xmltv/France/Multisports4/Multisports4.sh
 chmod +x $wwwdir/xmltv/France/Multisports4/Multisports4.sh
-#wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports4/Multisports4TELERAMACONFIG.conf" -O "Multisports4TELERAMACONFIG.conf"
-#tv_grab_fr_telerama.py --config-file Multisports4TELERAMACONFIG.conf --output Multisports4.xml --days 13
-wget http://webgrabplus.com/sites/default/files/download/SW/V3.1.0/WebGrabPlus_V3.1_install.tar.gz
-tar -xvf WebGrabPlus_V3.1_install.tar.gz
-rm -f WebGrabPlus_V3.1_install.tar.gz
+wget `wget -qO- https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/webgrabplusplusinstallurl`
+tar -xvf *.tar.gz
+rm -f *.tar.gz
 mv .wg++/* ./
 rm -f .wg++/
 chmod +x install.sh
 ./install.sh
 rm -rf siteini.pack
-wget http://webgrabplus.com/sites/default/files/download/ini/SiteIni.Pack_2021.02.11_231100.zip
-unzip SiteIni.Pack_2021.02.11_231100.zip
+wget `wget -qO- https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/webgrabplusplussiteiniurl`
+unzip *.zip
+rm -f *.zip
 rm -f WebGrab++.config.xml
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports4/Multisports4.xml -O $wwwdir/xmltv/France/Multisports4/WebGrab++.config.xml
 ./run.sh
