@@ -1,5 +1,9 @@
 #!/bin/bash
-if [ -d "/home/streamcreed" ];then
+if [ -d "C:/cygwin64/home/streamcreed" ];then
+xtreamcodes="ok"
+wwwdir="C:/cygwin64/home/streamcreed/wwwdir"
+crondir="cronstreamcreed"
+elif [ -d "/home/streamcreed" ];then
 xtreamcodes="ok"
 wwwdir="/home/streamcreed/wwwdir"
 crondir="cronstreamcreed"
