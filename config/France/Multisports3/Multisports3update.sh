@@ -31,7 +31,11 @@ unzip *.zip
 rm -f *.zip
 rm -f WebGrab++.config.xml
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports3/Multisports3.xml -O $wwwdir/xmltv/France/Multisports3/WebGrab++.config.xml
-./run.sh
+if [ -f "/usr/bin/mono" ]; then
+    mono $wwwdir/xmltv/France/Multisports3/bin/WebGrab+Plus.exe $wwwdir/xmltv/France/Multisports3
+else
+$wwwdir/xmltv/France/Multisports3/bin/WebGrab+Plus.exe $wwwdir/xmltv/France/Multisports3
+fi
 cp $wwwdir/xmltv/France/Multisports3/Multisports3.xml $wwwdir/xmltv/France/Multisports3/Multisports3.xml.save
 gzip $wwwdir/xmltv/France/Multisports3/Multisports3.xml
 mv $wwwdir/xmltv/France/Multisports3/Multisports3.xml.save $wwwdir/xmltv/France/Multisports3/Multisports3.xml
