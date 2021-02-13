@@ -31,8 +31,11 @@ ARCH=$(uname -m)
 
 echo "Detected : $OS  $VER  $ARCH"
 sleep 5
-
-if [ -d "/home/streamcreed" ];then
+if [ -d "C:/cygwin64/home/streamcreed" ];then
+xtreamcodes="ok"
+wwwdir="C:/cygwin64/home/streamcreed/wwwdir"
+crondir="cronstreamcreed"
+elif [ -d "/home/streamcreed" ];then
 xtreamcodes="ok"
 wwwdir="/home/streamcreed/wwwdir"
 crondir="cronstreamcreed"
@@ -43,7 +46,7 @@ wwwdir="/home/xtreamcodes/iptv_xtream_codes/wwwdir"
 crondir="cronstreamcreed"
 fi
 
-if [[ "$OS" = "Ubuntu" && ("$VER" = "14.04" || "$VER" = "18.04" || "$VER" = "20.04" && "$xtreamcodes" == "ok" ) ]] ; then
+if ["$xtreamcodes" == "ok"] ; then
     echo "Ok."
 else
     echo "Sorry, this OS is not supported by epg generator."
@@ -66,9 +69,11 @@ exec > >(tee "$logfile")
 exec 2>&1
 
 cd /root
+if [ "$OS" == "Ubuntu" ];then
 apt-get update
 apt-get -y dist-upgrade
 apt-get install -y mono-complete wget git cron
+fi
 rm -rf $wwwdir/xmltv/
 mkdir -p $wwwdir/xmltv/
 cp /etc/crontab /etc/crontab.xtreamcodesinstallepg
