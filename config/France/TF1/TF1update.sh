@@ -1,5 +1,9 @@
 #!/bin/bash
-if [ -d "/home/streamcreed" ];then
+if [ -d "C:/cygwin64/home/streamcreed" ];then
+xtreamcodes="ok"
+wwwdir="C:/cygwin64/home/streamcreed/wwwdir"
+crondir="cronstreamcreed"
+elif [ -d "/home/streamcreed" ];then
 xtreamcodes="ok"
 wwwdir="/home/streamcreed/wwwdir"
 crondir="cronstreamcreed"
@@ -27,7 +31,11 @@ unzip *.zip
 rm -f *.zip
 rm -f WebGrab++.config.xml
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/TF1.xml -O $wwwdir/xmltv/France/TF1/WebGrab++.config.xml
-./run.sh
+if [ -f "/usr/bin/mono" ]; then
+    mono $wwwdir/xmltv/France/TF1/bin/WebGrab+Plus.exe $wwwdir/xmltv/France/TF1
+else
+$wwwdir/xmltv/France/TF1/bin/WebGrab+Plus.exe $wwwdir/xmltv/France/TF1
+fi
 cp $wwwdir/xmltv/France/TF1/TF1.xml $wwwdir/xmltv/France/TF1/TF1.xml.save
 gzip $wwwdir/xmltv/France/TF1/TF1.xml
 mv $wwwdir/xmltv/France/TF1/TF1.xml.save $wwwdir/xmltv/France/TF1/TF1.xml
