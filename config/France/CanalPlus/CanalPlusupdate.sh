@@ -31,7 +31,11 @@ unzip *.zip
 rm -f *.zip
 rm -f WebGrab++.config.xml
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CanalPlus/CanalPlus.xml -O $wwwdir/xmltv/France/CanalPlus/WebGrab++.config.xml
-./run.sh
+if [ -f "/usr/bin/mono" ]; then
+    mono $wwwdir/xmltv/France/CanalPlus/bin/WebGrab+Plus.exe $wwwdir/xmltv/France/CanalPlus
+else
+$wwwdir/xmltv/France/CanalPlus/bin/WebGrab+Plus.exe $wwwdir/xmltv/France/CanalPlus
+fi
 cp $wwwdir/xmltv/France/CanalPlus/CanalPlus.xml $wwwdir/xmltv/France/CanalPlus/CanalPlus.xml.save
 gzip $wwwdir/xmltv/France/CanalPlus/CanalPlus.xml
 mv $wwwdir/xmltv/France/CanalPlus/CanalPlus.xml.save $wwwdir/xmltv/France/CanalPlus/CanalPlus.xml
