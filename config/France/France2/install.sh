@@ -1,10 +1,9 @@
 #!/bin/bash
-# installateur pour epg de euroiptv
-# Supported Operating Systems: 
-# Ubuntu server 12.04/14.04/16.04/18.04
-# 32bit and 64bit
-EPG_INSTALLER_VERSION="1.3"
-if [ -d "/home/streamcreed" ];then
+if [ -d "C:/cygwin64/home/streamcreed" ];then
+xtreamcodes="ok"
+wwwdir="C:/cygwin64/home/streamcreed/wwwdir"
+crondir="cronstreamcreed"
+elif [ -d "/home/streamcreed" ];then
 xtreamcodes="ok"
 wwwdir="/home/streamcreed/wwwdir"
 crondir="cronstreamcreed"
@@ -14,25 +13,7 @@ xtreamcodes="ok"
 wwwdir="/home/xtreamcodes/iptv_xtream_codes/wwwdir"
 crondir="cronstreamcreed"
 fi
-#--- Display the 'welcome' splash/user warning info..
-echo ""
-echo "############################################################"
-echo "#          Welcome to the epg generator Installer          #"
-echo "############################################################"
-sleep 5
-cd /root
-mkdir -p $wwwdir/xmltv/France
 cd $wwwdir/xmltv/
-wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
-cd France
-wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
-rm -rf France2
-mkdir France2
-cd France2
-wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
-wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/France2.sh -O $wwwdir/xmltv/France/France2/France2.sh
-chmod +x $wwwdir/xmltv/France/France2/France2.sh
-wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/$crondir/France2 -O /etc/cron.d/France2
-chmod 644 /etc/cron.d/France2
-$wwwdir/xmltv/France/France2/France2.sh
-
+wget https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/installchannel.sh -O $wwwdir/xmltv/installchannel.sh
+chmod +x $wwwdir/xmltv/installchannel.sh
+$wwwdir/xmltv/installchannel.sh France France2
