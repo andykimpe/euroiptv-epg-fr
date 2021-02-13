@@ -63,14 +63,14 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/M6/M6.xml >> $wwwdir/xmltv/guide.xml
-#cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
-#  <channel id="Arte.fr">
-#    <display-name lang="fr">FR Arte</display-name>
-#    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/arte.png" />
-#    <url>http://programme-tv.orange.fr/</url>
-#  </channel>
-#EOF
-#cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/Arte/Arte.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="Arte.fr">
+    <display-name lang="fr">FR Arte</display-name>
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/arte.png" />
+    <url>http://programme-tv.orange.fr/</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/Arte/Arte.xml >> $wwwdir/xmltv/guide.xml
 #cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
 #  <channel id="C8.fr">
 #    <display-name lang="fr">FR C8</display-name>
