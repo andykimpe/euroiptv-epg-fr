@@ -93,7 +93,7 @@ bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France5/install.sh)
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/M6/install.sh)
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Arte/install.sh)
-#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/C8/install.sh)
+bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/C8/install.sh)
 #bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/W9/install.sh)
 #bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TMC/install.sh)
 #bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/NT1/install.sh)
