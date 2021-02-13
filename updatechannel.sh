@@ -51,17 +51,17 @@ sed '1d' $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwd
 head -n -1 $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
 chmod -R 777 $wwwdir/xmltv/$1/$2/*
 chown $user:$user $wwwdir/xmltv/$1/$2/*
-if [ -f /home/streamcreed/crons/epg.php ]
-then
-/home/streamcreed/php/bin/php /home/streamcreed/crons/epg.php
-elif [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg.php ]
-then
-/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg.php
-elif [ -f /home/streamcreed/crons/epg_checking.php ]
-then
-/home/streamcreed/php/bin/php /home/streamcreed/crons/epg_checking.php
-elif [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php ]
-then
-/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php
-fi
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen.sh)
+#if [ -f /home/streamcreed/crons/epg.php ]
+#then
+#/home/streamcreed/php/bin/php /home/streamcreed/crons/epg.php
+#elif [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg.php ]
+#then
+#/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg.php
+#elif [ -f /home/streamcreed/crons/epg_checking.php ]
+#then
+#/home/streamcreed/php/bin/php /home/streamcreed/crons/epg_checking.php
+#elif [ -f /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php ]
+#then
+#/home/xtreamcodes/iptv_xtream_codes/php/bin/php /home/xtreamcodes/iptv_xtream_codes/crons/epg_checking.php
+#fi
+#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen.sh)
