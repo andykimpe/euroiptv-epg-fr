@@ -32,9 +32,9 @@ rm -f *.zip
 rm -f WebGrab++.config.xml
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/M6/M6.xml -O $wwwdir/xmltv/France/M6/WebGrab++.config.xml
 if [ -f "/usr/bin/mono" ]; then
-    mono $wwwdir/xmltv/France/France5/bin/WebGrab+Plus.exe $wwwdir/xmltv/France/France5
+    mono $wwwdir/xmltv/France/M6/bin/WebGrab+Plus.exe $wwwdir/xmltv/France/M6
 else
-$wwwdir/xmltv/France/France5/bin/WebGrab+Plus.exe $wwwdir/xmltv/France/France5
+$wwwdir/xmltv/France/M6/bin/WebGrab+Plus.exe $wwwdir/xmltv/France/M6
 fi
 cp $wwwdir/xmltv/France/M6/M6.xml $wwwdir/xmltv/France/M6/M6.xml.save
 gzip $wwwdir/xmltv/France/M6/M6.xml
