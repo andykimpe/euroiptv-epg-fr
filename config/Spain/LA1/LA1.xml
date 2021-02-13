@@ -27,7 +27,7 @@
  
 
   
-  <channel update="i" site="rtve.es" site_id="CTV_LA1" xmltv_id="LA1.es">La 1</channel>
+  <channel update="i" site="movistarplus.es" site_id="TVE" xmltv_id="LA1.es">La 1</channel>
 	
  
 </settings>
