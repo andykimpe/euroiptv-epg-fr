@@ -87,14 +87,14 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/W9/W9.xml >> $wwwdir/xmltv/guide.xml
-#cat >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml <<EOF
-#  <channel id="TMC.fr">
-#    <display-name lang="fr">FR TMC</display-name>
-#    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/tmc.png" />
-#    <url>http://programme-tv.orange.fr/</url>
-#  </channel>
-#EOF
-#cat /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/TMC/TMC.xml >> /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="TMC.fr">
+    <display-name lang="fr">FR TMC</display-name>
+    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/tmc.png" />
+    <url>http://programme-tv.orange.fr/</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/TMC/TMC.xml >> $wwwdir/xmltv/guide.xml
 cat >> $wwwdir/xmltv/guide.xml <<EOF
   <channel id="Multisports1.fr">
     <display-name lang="fr">|FR| Multisports+ 1</display-name>
