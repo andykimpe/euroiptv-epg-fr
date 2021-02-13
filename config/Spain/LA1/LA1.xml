@@ -27,7 +27,7 @@
  
 
   
-  <channel update="i" site="movistarplus.es" site_id="TVE" xmltv_id="LA1.es">La 1</channel>
+  <channel update="i" site="elmundo.es.mp" site_id="3" xmltv_id="LA1.es">La 1</channel>
 	
  
 </settings>
