@@ -1,7 +1,7 @@
 #!/bin/bash
 # installateur pour epg de euroiptv
 # Supported Operating Systems: 
-# Ubuntu server 12.04/14.04/16.04/18.04
+# Ubuntu server 12.04/14.04/16.04/18.04/20.04/22.04 Cygwin64 (Windows 10 64 bit tested)
 # 32bit and 64bit
 EPG_INSTALLER_VERSION="1.3"
 #--- Display the 'welcome' splash/user warning info..
@@ -23,7 +23,10 @@ elif [ -f /etc/lsb-release ]; then
 elif [ -f /etc/os-release ]; then
     OS=$(grep -w ID /etc/os-release | sed 's/^.*=//')
     VER=$(grep VERSION_ID /etc/os-release | sed 's/^.*"\(.*\)"/\1/')
- else
+elif [ "$(expr substr $(uname -s) 1 10)" == "CYGWIN_NT-" ]; then
+OS=Cygwin
+VER=$(uname -s |sed 's|CYGWIN_NT-||')
+else
     OS=$(uname -s)
     VER=$(uname -r)
 fi
@@ -31,35 +34,35 @@ ARCH=$(uname -m)
 
 echo "Detected : $OS  $VER  $ARCH"
 sleep 5
-if [ -d "C:/cygwin64/home/streamcreed" ];then
-xtreamcodes="ok"
-wwwdir="C:/cygwin64/home/streamcreed/wwwdir"
-crondir="cronstreamcreed"
-elif [ -d "/home/streamcreed" ];then
+if [ -d "/home/streamcreed" ];then
 xtreamcodes="ok"
 wwwdir="/home/streamcreed/wwwdir"
 crondir="cronstreamcreed"
-fi
-if [ -d "/home/xtreamcodes/iptv_xtream_codes" ];then
+elif [ -d "/home/xtreamcodes/iptv_xtream_codes" ];then
 xtreamcodes="ok"
 wwwdir="/home/xtreamcodes/iptv_xtream_codes/wwwdir"
-crondir="cronstreamcreed"
-fi
-
-if ["$xtreamcodes" == "ok"] ; then
-    echo "Ok."
+crondir="cron"
 else
-    echo "Sorry, this OS is not supported by epg generator."
-    echo "Please install Ubuntu LTS version on your main server"
-    echo "and or install xtreamcodes v1 or v2"
-    exit 1
+xtreamcodes="no"
+wwwdir="/var/www/html"
+crondir="cronapache"
 fi
 
 # Check if the user is 'root' before allowing installation to commence
+
+if [ "$(expr substr $(uname -s) 1 10)" != "CYGWIN_NT-" ]; then
 if [ $UID -ne 0 ]; then
     echo "Install failed: you must be logged in as 'root' to install."
     echo "Use command 'sudo -i', then enter root password and then try again."
-    exit 1
+    #exit 1
+fi
+else
+usertest=$(id -G | grep -qE '\<(114|544)\>' && echo admin || echo user)
+if [ $usertest == "user" ]; then
+    echo "Install failed: you must be logged in as 'Administrator' to install."
+    echo "Use command 'powershell.exe -command \"Start-Process C:\\cygwin64\\bin\\mintty.exe -ArgumentList '-i /Cygwin-Terminal.ico -' -Verb runas\"', then try again."
+    #exit 1
+fi
 fi
 
 #--- Set custom logging methods so we create a log file in the current working directory.
@@ -68,47 +71,52 @@ touch "$logfile"
 exec > >(tee "$logfile")
 exec 2>&1
 
-cd /root
 if [ "$OS" == "Ubuntu" ];then
+cd /root
+sudo apt install gnupg ca-certificates
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+rm -f /etc/apt/sources.list.d/mono-official-stable.list
+echo "deb https://download.mono-project.com/repo/ubuntu stable-$(lsb_release -sc) main" | sudo tee /etc/apt/sources.list.d/mono-official-stable.list
 apt-get update
 apt-get -y dist-upgrade
 apt-get install -y mono-complete wget git cron
+elif [ "$(expr substr $(uname -s) 1 10)" == "CYGWIN_NT-" ]; then
+cd $HOME
+apt-cyg install gnupg
+apt-cyg install gnupg2
+apt-cyg install ca-certificates
+apt-cyg install wget
+apt-cyg install git
+apt-cyg install cron
+apt-cyg install unzip
+apt-cyg install gzip
+apt-cyg install tar
+cron-config
 fi
 rm -rf $wwwdir/xmltv/
 mkdir -p $wwwdir/xmltv/
 cp /etc/crontab /etc/crontab.xtreamcodesinstallepg
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/genupdate.sh -O $wwwdir/xmltv/genupdate.sh
 chmod +x $wwwdir/xmltv/genupdate.sh
+if [ "$OS" == "Ubuntu" ];then
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/purgeiptables -O /usr/bin/purgeiptables
 chmod +x /usr/bin/purgeiptables
 service cron stop
+elif [ "$(expr substr $(uname -s) 1 10)" == "CYGWIN_NT-" ]; then
+net stop cron
+fi
+mkdir -p /etc/cron.d/
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/$crondir/genupdate -O /etc/cron.d/genupdate
 chmod 644 /etc/cron.d/genupdate
-wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/cron/purgeiptables -O /etc/cron.d/purgeiptables
+if [ "$OS" == "Ubuntu" ];then
+wget --header "Authorization: Bearer 8dhMrUWOiyCUx4kgfe5f" https://api.bitbucket.org/2.0/repositories/andykimpe/euroiptv-epg-fr/src/cron/purgeiptables -O /etc/cron.d/purgeiptables
 chmod 644 /etc/cron.d/purgeiptables
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TF1/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France2/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France3/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CanalPlus/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France5/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/M6/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Arte/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/C8/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/W9/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/TMC/install.sh)
-#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/NT1/install.sh)
-#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/NRJ12/install.sh)
-#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/LCPPS/install.sh)
-#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/France4/install.sh)
-#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/BFMTV/install.sh)
-#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CNews/install.sh)
-#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CStar/install.sh)
-#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Gulli/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports1/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports2/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports3/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports4/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports5/install.sh)
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/Multisports6/install.sh)
+fi
+bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/installfullchannell.sh)
 #bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/Deutschland/m.tvtoday.de/install.sh)
+bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen.sh)
+if [ "$OS" == "Ubuntu" ];then
 service cron start
+else
+net start cron
+fi
