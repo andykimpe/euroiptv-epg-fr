@@ -49,10 +49,6 @@ rm -rf *
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$1/$2/$2.sh -O $wwwdir/xmltv/$1/$2/$2.sh
 chmod +x $wwwdir/xmltv/$1/$2/$2.sh
-sed -i 's|wgmovistarplusesprivetkey|'$wgmovistarplusesprivetkey'|' "$wwwdir/xmltv/$1/$2/WebGrab++.config.xml.xml"
-sed -i 's|wgusernameedit|'$wgusernameedit'|' "$wwwdir/xmltv/$1/$2/WebGrab++.config.xml.xml"
-sed -i 's|wgregisteredemailedit|'$wgregisteredemailedit'|' "$wwwdir/xmltv/$1/$2/WebGrab++.config.xml.xml"
-sed -i 's|wgpasswordedit|'$wgpasswordedit'|' "$wwwdir/xmltv/$1/$2/WebGrab++.config.xml.xml"
 wget `wget -qO- https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/webgrabplusplusinstallurl`
 tar -xvf *.tar.gz
 rm -f *.tar.gz
@@ -66,6 +62,10 @@ unzip *.zip
 rm -f *.zip
 rm -f WebGrab++.config.xml
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$1/$2/$2.xml -O $wwwdir/xmltv/$1/$2/WebGrab++.config.xml
+sed -i 's|wgmovistarplusesprivetkey|'$wgmovistarplusesprivetkey'|' "WebGrab++.config.xml.xml"
+sed -i 's|wgusernameedit|'$wgusernameedit'|' "WebGrab++.config.xml.xml"
+sed -i 's|wgregisteredemailedit|'$wgregisteredemailedit'|' "WebGrab++.config.xml.xml"
+sed -i 's|wgpasswordedit|'$wgpasswordedit'|' "WebGrab++.config.xml.xml"
 if [ -f "/usr/bin/mono" ]; then
     mono $wwwdir/xmltv/$1/$2/bin/WebGrab+Plus.exe $wwwdir/xmltv/$1/$2
 else
