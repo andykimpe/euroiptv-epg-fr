@@ -71,6 +71,36 @@ touch "$logfile"
 exec > >(tee "$logfile")
 exec 2>&1
 
+if [ ! -f "/etc/epgconfig/wgmovistarplusesprivetkey.txt" ];then
+mkdir -p /etc/epgconfig/
+read -e -p "enter wgmovistarplusesprivetkey : " -i "wgmovistarplusesprivetkey" wgmovistarplusesprivetkey
+echo $wgmovistarplusesprivetkey > /etc/epgconfig/wgmovistarplusesprivetkey.txt
+else
+wgmovistarplusesprivetkey="$(cat /etc/epgconfig/wgmovistarplusesprivetkey.txt)"
+fi
+if [ ! -f "/etc/epgconfig/wgusernameedit.txt" ];then
+mkdir -p /etc/epgconfig/
+read -e -p "enter wgusernameedit : " -i "wgusernameedit" wgusernameedit
+echo $wgusernameedit > /etc/epgconfig/wgusernameedit.txt
+else
+wgusernameedit="$(cat /etc/epgconfig/wgusernameedit.txt)"
+fi
+if [ ! -f "/etc/epgconfig/wgregisteredemailedit.txt" ];then
+mkdir -p /etc/epgconfig/
+read -e -p "enter wgregisteredemailedit : " -i "wgregisteredemailedit" wgregisteredemailedit
+echo $wgregisteredemailedit > /etc/epgconfig/wgregisteredemailedit.txt
+else
+wgregisteredemailedit="$(cat /etc/epgconfig/wgregisteredemailedit.txt)"
+fi
+if [ ! -f "/etc/epgconfig/wgpasswordedit.txt" ];then
+mkdir -p /etc/epgconfig/
+read -e -p "enter wgpasswordedit : " -i "wgpasswordedit" wgpasswordedit
+echo $wgpasswordedit > /etc/epgconfig/wgpasswordedit.txt
+else
+wgpasswordedit="$(cat /etc/epgconfig/wgpasswordedit.txt)"
+fi
+
+
 if [ "$OS" == "Ubuntu" ];then
 cd /root
 sudo apt install gnupg ca-certificates
