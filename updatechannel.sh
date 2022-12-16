@@ -1,10 +1,5 @@
 #!/bin/bash
-if [ -d "C:/cygwin64/home/streamcreed" ];then
-xtreamcodes="ok"
-wwwdir="C:/cygwin64/home/streamcreed/wwwdir"
-crondir="cronstreamcreed"
-user="nouser"
-elif [ -d "/home/streamcreed" ];then
+if [ -d "/home/streamcreed" ];then
 xtreamcodes="ok"
 wwwdir="/home/streamcreed/wwwdir"
 crondir="cronstreamcreed"
@@ -15,12 +10,49 @@ xtreamcodes="ok"
 wwwdir="/home/xtreamcodes/iptv_xtream_codes/wwwdir"
 crondir="cronstreamcreed"
 user="xtreamcodes"
+else
+xtreamcodes="no"
+wwwdir="/var/www/html"
+crondir="cronapache"
+user=$USER
+fi
+if [ ! -f "/etc/epgconfig/wgmovistarplusesprivetkey.txt" ];then
+mkdir -p /etc/epgconfig/
+read -e -p "enter wgmovistarplusesprivetkey : " -i "wgmovistarplusesprivetkey" wgmovistarplusesprivetkey
+echo $wgmovistarplusesprivetkey > /etc/epgconfig/wgmovistarplusesprivetkey.txt
+else
+wgmovistarplusesprivetkey="$(cat /etc/epgconfig/wgmovistarplusesprivetkey.txt)"
+fi
+if [ ! -f "/etc/epgconfig/wgusernameedit.txt" ];then
+mkdir -p /etc/epgconfig/
+read -e -p "enter wgusernameedit : " -i "wgusernameedit" wgusernameedit
+echo $wgusernameedit > /etc/epgconfig/wgusernameedit.txt
+else
+wgusernameedit="$(cat /etc/epgconfig/wgusernameedit.txt)"
+fi
+if [ ! -f "/etc/epgconfig/wgregisteredemailedit.txt" ];then
+mkdir -p /etc/epgconfig/
+read -e -p "enter wgregisteredemailedit : " -i "wgregisteredemailedit" wgregisteredemailedit
+echo $wgregisteredemailedit > /etc/epgconfig/wgregisteredemailedit.txt
+else
+wgregisteredemailedit="$(cat /etc/epgconfig/wgregisteredemailedit.txt)"
+fi
+if [ ! -f "/etc/epgconfig/wgpasswordedit.txt" ];then
+mkdir -p /etc/epgconfig/
+read -e -p "enter wgpasswordedit : " -i "wgpasswordedit" wgpasswordedit
+echo $wgpasswordedit > /etc/epgconfig/wgpasswordedit.txt
+else
+wgpasswordedit="$(cat /etc/epgconfig/wgpasswordedit.txt)"
 fi
 cd $wwwdir/xmltv/$1/$2
 rm -rf *
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$1/$2/$2.sh -O $wwwdir/xmltv/$1/$2/$2.sh
 chmod +x $wwwdir/xmltv/$1/$2/$2.sh
+sed -i 's|wgmovistarplusesprivetkey|'$wgmovistarplusesprivetkey'|' "$wwwdir/xmltv/$1/$2/WebGrab++.config.xml.xml"
+sed -i 's|wgusernameedit|'$wgusernameedit'|' "$wwwdir/xmltv/$1/$2/WebGrab++.config.xml.xml"
+sed -i 's|wgregisteredemailedit|'$wgregisteredemailedit'|' "$wwwdir/xmltv/$1/$2/WebGrab++.config.xml.xml"
+sed -i 's|wgpasswordedit|'$wgpasswordedit'|' "$wwwdir/xmltv/$1/$2/WebGrab++.config.xml.xml"
 wget `wget -qO- https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/webgrabplusplusinstallurl`
 tar -xvf *.tar.gz
 rm -f *.tar.gz
