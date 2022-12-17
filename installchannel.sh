@@ -39,4 +39,3 @@ sed -i "s|wgchannel|"$2"|g" $wwwdir/xmltv/$1/$2/$2.sh
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$1/$2/$crondir/$2 -O /etc/cron.d/$2
 chmod 644 /etc/cron.d/$2
 $wwwdir/xmltv/$1/$2/$2.sh
-rm -rf $wwwdir/xmltv/$1/$2/$2.xml $wwwdir/xmltv/$1/$2/$2.xml.gz
