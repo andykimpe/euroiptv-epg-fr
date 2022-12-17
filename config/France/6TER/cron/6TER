@@ -2,4 +2,4 @@ SHELL=/bin/bash
 PATH=/sbin:/bin:/usr/sbin:/usr/bin
 MAILTO=root
 HOME=/
-0 0 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/wgcontry/6TER/6TER.sh > /dev/null 2>&1
+0 0 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/France/6TER/6TER.sh > /dev/null 2>&1
