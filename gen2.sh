@@ -84,3 +84,11 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/W9/W9.xml >> $wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="TMC.fr">
+    <display-name lang="fr">|FR| TMC</display-name>
+    <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/tmc.png" />
+    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/TMC/TMC.xml >> $wwwdir/xmltv/guide.xml
