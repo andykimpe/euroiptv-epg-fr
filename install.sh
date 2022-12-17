@@ -1,7 +1,7 @@
 #!/bin/bash
 # installateur pour epg de euroiptv
 # Supported Operating Systems: 
-# Ubuntu server 12.04/14.04/16.04/18.04/20.04/22.04 Cygwin64 (Windows 10 64 bit tested)
+# Ubuntu server 12.04/14.04/16.04/18.04/20.04/22.04 Cygwin64 (Windows 10 tested)
 # 32bit and 64bit
 EPG_INSTALLER_VERSION="1.3"
 #--- Display the 'welcome' splash/user warning info..
@@ -100,9 +100,8 @@ else
 wgpasswordedit="$(cat /etc/epgconfig/wgpasswordedit.txt)"
 fi
 
-
 if [ "$OS" == "Ubuntu" ];then
-cd /root
+cd $HOME
 sudo apt install gnupg ca-certificates
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
 rm -f /etc/apt/sources.list.d/mono-official-stable.list
@@ -139,11 +138,10 @@ mkdir -p /etc/cron.d/
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/$crondir/genupdate -O /etc/cron.d/genupdate
 chmod 644 /etc/cron.d/genupdate
 if [ "$OS" == "Ubuntu" ];then
-wget --header "Authorization: Bearer 8dhMrUWOiyCUx4kgfe5f" https://api.bitbucket.org/2.0/repositories/andykimpe/euroiptv-epg-fr/src/cron/purgeiptables -O /etc/cron.d/purgeiptables
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/cron/purgeiptables -O /etc/cron.d/purgeiptables
 chmod 644 /etc/cron.d/purgeiptables
 fi
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/installfullchannell.sh)
-#bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/Deutschland/m.tvtoday.de/install.sh)
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen.sh)
 if [ "$OS" == "Ubuntu" ];then
 service cron start
