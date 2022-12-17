@@ -228,3 +228,11 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/CanalPlusCinema/CanalPlusCinema.xml >> $wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="CANALplusSPORT.fr">
+    <display-name lang="fr">|FR| Canal+ Sport</display-name>
+    <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/canalplussport.png" />
+    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/CanalPlusSport/CanalPlusSport.xml >> $wwwdir/xmltv/guide.xml
