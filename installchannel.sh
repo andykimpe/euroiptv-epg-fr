@@ -25,13 +25,13 @@ echo "############################################################"
 sleep 5
 mkdir -p $wwwdir/xmltv/$1
 cd $wwwdir/xmltv/
-wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
+wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 cd $1
-wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
+wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 rm -rf $2
 mkdir $2
 cd $2
-wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
+wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$1/$2/$2.sh -O $wwwdir/xmltv/$1/$2/$2.sh
 chmod +x $wwwdir/xmltv/$1/$2/$2.sh
 sed -i "s|wgcountry|"$1"|g" $wwwdir/xmltv/$1/$2/$2.sh
