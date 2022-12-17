@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+MAILTO=root
+HOME=/
+05 05 * * * root /bin/bash /var/www/html/xmltv/genupdate.sh > /var/www/html/xmltv/genupdate.sh.log 2>&1
