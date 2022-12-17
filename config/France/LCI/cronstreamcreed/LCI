@@ -2,4 +2,4 @@ SHELL=/bin/bash
 PATH=/sbin:/bin:/usr/sbin:/usr/bin
 MAILTO=root
 HOME=/
-0 0 * * * root /bin/bash /home/streamcreed/wwwdir/xmltv/wgcontry/LCI/LCI.sh > /dev/null 2>&1
+0 0 * * * root /bin/bash /home/streamcreed/wwwdir/xmltv/wgcountry/LCI/LCI.sh > /dev/null 2>&1
