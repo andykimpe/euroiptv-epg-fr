@@ -3,146 +3,22 @@ if [ -d "/home/streamcreed" ];then
 xtreamcodes="ok"
 wwwdir="/home/streamcreed/wwwdir"
 crondir="cronstreamcreed"
-fi
-if [ -d "/home/xtreamcodes/iptv_xtream_codes" ];then
+elif [ -d "/home/xtreamcodes/iptv_xtream_codes" ];then
 xtreamcodes="ok"
 wwwdir="/home/xtreamcodes/iptv_xtream_codes/wwwdir"
-crondir="cronstreamcreed"
+crondir="cron"
+else
+xtreamcodes="no"
+wwwdir="/var/www/html"
+crondir="cronapache"
 fi
-cd /root
-rm -f $wwwdir/xmltv/guide.xml
 cat > $wwwdir/xmltv/guide.xml <<EOF
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Euroiptv EPG" generator-info-url="https://github.com/andykimpe/euroiptv-epg-fr">
 EOF
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="TF1.fr">
-    <display-name lang="fr">|FR| TF1</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/tf1.png" />
-    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/TF1/TF1.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="France2.fr">
-    <display-name lang="fr">|FR| France 2</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/france2.png" />
-    <url>https://github.com/andykimpe/euroiptv-epg-fr/</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/France2/France2.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="France3.fr">
-    <display-name lang="fr">FR France 3</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/france3.png" />
-    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/France3/France3.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="CANALplus.fr">
-    <display-name lang="fr">FR Canal+</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/canal%2B.png" />
-    <url>http://programme-tv.orange.fr/</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/CanalPlus/CanalPlus.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="France5.fr">
-    <display-name lang="fr">FR France 5</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/france5.png" />
-    <url>http://programme-tv.orange.fr/</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/France5/France5.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="M6.fr">
-    <display-name lang="fr">FR M6</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/m6.png" />
-    <url>http://programme-tv.orange.fr/</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/M6/M6.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="Arte.fr">
-    <display-name lang="fr">FR Arte</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/arte.png" />
-    <url>http://programme-tv.orange.fr/</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/Arte/Arte.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="C8.fr">
-    <display-name lang="fr">FR C8</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/c8.png" />
-    <url>http://programme-tv.orange.fr/</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/C8/C8.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="W9.fr">
-    <display-name lang="fr">FR W9</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/w9.png" />
-    <url>http://programme-tv.orange.fr/</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/W9/W9.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="TMC.fr">
-    <display-name lang="fr">FR TMC</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/tmc.png" />
-    <url>http://programme-tv.orange.fr/</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/TMC/TMC.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="Multisports1.fr">
-    <display-name lang="fr">|FR| Multisports+ 1</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/Multisports.png" />
-    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/Multisports1/Multisports1.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="Multisports2.fr">
-    <display-name lang="fr">|FR| Multisports+ 2</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/Multisports.png" />
-    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/Multisports2/Multisports2.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="Multisports3.fr">
-    <display-name lang="fr">|FR| Multisports+ 3</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/Multisports.png" />
-    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/Multisports3/Multisports3.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="Multisports4.fr">
-    <display-name lang="fr">|FR| Multisports+ 4</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/Multisports.png" />
-    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/Multisports4/Multisports4.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="Multisports5.fr">
-    <display-name lang="fr">|FR| Multisports+ 5</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/Multisports.png" />
-    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/Multisports5/Multisports5.xml >> $wwwdir/xmltv/guide.xml
-cat >> $wwwdir/xmltv/guide.xml <<EOF
-  <channel id="Multisports6.fr">
-    <display-name lang="fr">|FR| Multisports+ 6</display-name>
-    <icon src="https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/Multisports.png" />
-    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
-  </channel>
-EOF
-cat $wwwdir/xmltv/France/Multisports6/Multisports6.xml >> $wwwdir/xmltv/guide.xml
+
+bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen2.sh)
+
 echo "</tv>" >> $wwwdir/xmltv/guide.xml
 cp $wwwdir/xmltv/guide.xml $wwwdir/xmltv/guide.xml.save
 rm -f $wwwdir/xmltv/guide.xml.gz
