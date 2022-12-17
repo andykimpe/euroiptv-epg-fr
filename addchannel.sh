@@ -75,7 +75,7 @@ cat config-example/contry/channel/channel.sh > config/$country/$channelfolder/$c
 #cat config/France/TF1/TF1.xml > config/$country/$channelfolder/$channelfolder.xml
 cat config-example/contry/channel/channel.xml > config/$country/$channelfolder/$channelfolder.xml
 #cat config/France/TF1/TF1update.sh > config/$country/$channelfolder/"$channelfolder"update.sh
-cat config-example/contry/wgchannel/channelupdate.sh > config/$country/$channelfolder/"$channelfolder"update.sh
+cat config-example/contry/channel/channelupdate.sh > config/$country/$channelfolder/"$channelfolder"update.sh
 #sed -i 's|France|'$country'|' config/$country/$channelfolder/cronstreamcreed/$channelfolder
 sed -i 's|wgcountry|'$country'|' config/$country/$channelfolder/cronstreamcreed/$channelfolder
 #sed -i 's|France|'$country'|' config/$country/$channelfolder/cron/$channelfolder
