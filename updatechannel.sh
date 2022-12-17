@@ -46,40 +46,63 @@ wgpasswordedit="$(cat /etc/epgconfig/wgpasswordedit.txt)"
 fi
 cd $wwwdir/xmltv/$1/$2
 rm -rf *
-wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
-wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$1/$2/$2.sh -O $wwwdir/xmltv/$1/$2/$2.sh
+wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
+wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$1/$2/$2.sh -O $2.sh
 chmod +x $wwwdir/xmltv/$1/$2/$2.sh
-wget `wget -qO- https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/webgrabplusplusinstallurl`
-tar -xvf *.tar.gz
-rm -f *.tar.gz
+wget `wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/webgrabplusplusinstallurl`
+gunzip *.tar.gz
+tar -xvf *.tar
+rm -f *.tar
 mv .wg++/* ./
-rm -f .wg++/
+rm -rf .wg++/
 chmod +x install.sh
 ./install.sh
 rm -rf siteini.pack
-wget `wget -qO- https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/webgrabplusplussiteiniurl`
+wget `wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/webgrabplusplussiteiniurl`
 unzip *.zip
 rm -f *.zip
 rm -f WebGrab++.config.xml
-wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$1/$2/$2.xml -O $wwwdir/xmltv/$1/$2/WebGrab++.config.xml
-sed -i 's|wgmovistarplusesprivetkey|'$wgmovistarplusesprivetkey'|' "WebGrab++.config.xml.xml"
-sed -i 's|wgusernameedit|'$wgusernameedit'|' "WebGrab++.config.xml.xml"
-sed -i 's|wgregisteredemailedit|'$wgregisteredemailedit'|' "WebGrab++.config.xml.xml"
-sed -i 's|wgpasswordedit|'$wgpasswordedit'|' "WebGrab++.config.xml.xml"
+wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$1/$2/$2.xml -O WebGrab++.config.xml
+sed -i 's|wgmovistarplusesprivetkey|'$wgmovistarplusesprivetkey'|' "WebGrab++.config.xml"
+sed -i 's|wgusernameedit|'$wgusernameedit'|' "WebGrab++.config.xml"
+sed -i 's|wgregisteredemailedit|'$wgregisteredemailedit'|' "WebGrab++.config.xml"
+sed -i 's|wgpasswordedit|'$wgpasswordedit'|' "WebGrab++.config.xml"
 if [ -f "/usr/bin/mono" ]; then
-    mono $wwwdir/xmltv/$1/$2/bin/WebGrab+Plus.exe $wwwdir/xmltv/$1/$2
+    mono $wwwdir/xmltv/$1/$2/bin/WebGrab+Plus.exe $PWD
 else
-$wwwdir/xmltv/$1/$2/bin/WebGrab+Plus.exe $wwwdir/xmltv/$1/$2
+$wwwdir/xmltv/$1/$2/bin/WebGrab+Plus.exe $(cygpath -w $PWD)
 fi
 cp $wwwdir/xmltv/$1/$2/$2.xml $wwwdir/xmltv/$1/$2/$2.xml.save
 gzip $wwwdir/xmltv/$1/$2/$2.xml
 mv $wwwdir/xmltv/$1/$2/$2.xml.save $wwwdir/xmltv/$1/$2/$2.xml
+testline=$(head -n 1 $wwwdir/xmltv/$1/$2/$2.xml | tail -n 1 | grep xml)
+if [[ $testline != "" ]];then
 sed '1d' $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
+fi
+testline=$(head -n 1 $wwwdir/xmltv/$1/$2/$2.xml | tail -n 1 | grep generator-info-name)
+if [[ $testline != "" ]];then
 sed '1d' $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
+fi
+testline=$(head -n 1 $wwwdir/xmltv/$1/$2/$2.xml | tail -n 1 | grep channel)
+if [[ $testline != "" ]];then
 sed '1d' $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
+fi
+testline=$(head -n 1 $wwwdir/xmltv/$1/$2/$2.xml | tail -n 1 | grep display)
+if [[ $testline != "" ]];then
 sed '1d' $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
+fi
+testline=$(head -n 1 $wwwdir/xmltv/$1/$2/$2.xml | tail -n 1 | grep icon)
+if [[ $testline != "" ]];then
 sed '1d' $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
+fi
+testline=$(head -n 1 $wwwdir/xmltv/$1/$2/$2.xml | tail -n 1 | grep url)
+if [[ $testline != "" ]];then
 sed '1d' $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
+fi
+testline=$(head -n 1 $wwwdir/xmltv/$1/$2/$2.xml | tail -n 1 | grep channel)
+if [[ $testline != "" ]];then
+sed '1d' $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
+fi
 head -n -1 $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
 chmod -R 777 $wwwdir/xmltv/$1/$2/*
 chown $user:$user $wwwdir/xmltv/$1/$2/*
