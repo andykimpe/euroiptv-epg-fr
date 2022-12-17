@@ -26,3 +26,4 @@ bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/LCI/install.sh)
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/FRANCEINFO/install.sh)
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CanalPlusCinema/install.sh)
+bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CanalPlusSport/install.sh)
