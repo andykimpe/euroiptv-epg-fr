@@ -46,7 +46,7 @@ wgpasswordedit="$(cat /etc/epgconfig/wgpasswordedit.txt)"
 fi
 cd $wwwdir/xmltv/$1/$2
 rm -rf *
-wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
+wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 wget --no-check-certificate https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$1/$2/$2.sh -O $2.sh
 chmod +x $wwwdir/xmltv/$1/$2/$2.sh
 wget `wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/webgrabplusplusinstallurl`
