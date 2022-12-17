@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/contry/channel/channelupdate.sh)
+bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/wgcontry/wgchannel/wgchannelupdate.sh)
