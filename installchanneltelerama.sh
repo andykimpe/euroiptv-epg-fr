@@ -34,23 +34,51 @@ cd $2
 wget --no-check-certificate "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/index.php" -O "index.php"
 cd /var/www/html/xmltv/$1/$2
 mkdir -p $wwwdir/xmltv/France/TF1
-echo "channel 192 TF1;https://focus.telerama.fr/500x500/0000/00/01/clear-192.png" > $wwwdir/xmltv/France/TF1/TF1.conf
+echo "channel 192 TF1;https://focus.telerama.fr/200x132/0000/00/01/clear-192.png" > $wwwdir/xmltv/France/TF1/TF1.conf
 mkdir -p $wwwdir/xmltv/France/France2
-echo "channel 4 France 2;https://focus.telerama.fr/500x500/0000/00/01/clear-4.png" > $wwwdir/xmltv/France/France2/France2.conf
+echo "channel 4 France 2;https://focus.telerama.fr/200x132/0000/00/01/clear-4.png" > $wwwdir/xmltv/France/France2/France2.conf
 mkdir -p $wwwdir/xmltv/France/France3
-echo "channel 80 France 3;https://focus.telerama.fr/500x500/0000/00/01/clear-80.png" > $wwwdir/xmltv/France/France3/France3.conf
+echo "channel 80 France 3;https://focus.telerama.fr/200x132/0000/00/01/clear-80.png" > $wwwdir/xmltv/France/France3/France3.conf
 mkdir -p $wwwdir/xmltv/France/CanalPlus
-echo "channel 34 Canal+;https://focus.telerama.fr/500x500/0000/00/01/clear-34.png" > $wwwdir/xmltv/France/CanalPlus/CanalPlus.conf
+echo "channel 34 Canal+;https://focus.telerama.fr/200x132/0000/00/01/clear-34.png" > $wwwdir/xmltv/France/CanalPlus/CanalPlus.conf
 mkdir -p $wwwdir/xmltv/France/France5
-echo "channel 47 France 5;https://focus.telerama.fr/500x500/0000/00/01/clear-47.png" > $wwwdir/xmltv/France/France5/France5.conf
+echo "channel 47 France 5;https://focus.telerama.fr/200x132/0000/00/01/clear-47.png" > $wwwdir/xmltv/France/France5/France5.conf
 mkdir -p $wwwdir/xmltv/France/M6
-echo "channel 118 M6;https://focus.telerama.fr/500x500/0000/00/01/clear-118.png" > $wwwdir/xmltv/France/M6/M6.conf
+echo "channel 118 M6;https://focus.telerama.fr/200x132/0000/00/01/clear-118.png" > $wwwdir/xmltv/France/M6/M6.conf
 mkdir -p $wwwdir/xmltv/France/Arte
-echo "channel 111 Arte;https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" > $wwwdir/xmltv/France/Arte/Arte.conf
+echo "channel 111 Arte;https://focus.telerama.fr/200x132/0000/00/01/clear-111.png" > $wwwdir/xmltv/France/Arte/Arte.conf
 mkdir -p $wwwdir/xmltv/France/C8
-echo "channel 445 C8;https://focus.telerama.fr/500x500/0000/00/01/clear-445.png" > $wwwdir/xmltv/France/C8/C8.conf
+echo "channel 445 C8;https://focus.telerama.fr/200x132/0000/00/01/clear-445.png" > $wwwdir/xmltv/France/C8/C8.conf
 mkdir -p $wwwdir/xmltv/France/W9
-echo "channel 119 W9;https://focus.telerama.fr/500x500/0000/00/01/clear-119.png" > $wwwdir/xmltv/France/W9/W9.conf
+echo "channel 119 W9;https://focus.telerama.fr/200x132/0000/00/01/clear-119.png" > $wwwdir/xmltv/France/W9/W9.conf
+mkdir -p $wwwdir/xmltv/France/TMC
+echo "channel 195 TMC;https://focus.telerama.fr/200x132/0000/00/01/clear-195.png" > $wwwdir/xmltv/France/TMC/TMC.conf
+mkdir -p $wwwdir/xmltv/France/TFX
+echo "channel 446 TFX;https://focus.telerama.fr/200x132/0000/00/01/clear-446.png" > $wwwdir/xmltv/France/TFX/TFX.conf
+mkdir -p $wwwdir/xmltv/France/NRJ12
+echo "channel 444 NRJ 12;https://focus.telerama.fr/200x132/0000/00/01/clear-444.png" > $wwwdir/xmltv/France/NRJ12/NRJ12.conf
+mkdir -p $wwwdir/xmltv/France/LCPPS
+echo "channel 234 La Chaîne parlementaire;https://focus.telerama.fr/200x132/0000/00/01/clear-234.png" > $wwwdir/xmltv/France/LCPPS/LCPPS.conf
+mkdir -p $wwwdir/xmltv/France/France4
+echo "channel 78 France 4;https://focus.telerama.fr/200x132/0000/00/01/clear-78.png" > $wwwdir/xmltv/France/France4/France4.conf
+mkdir -p $wwwdir/xmltv/France/BFMTV
+echo "channel 481 BFMTV;https://focus.telerama.fr/200x132/0000/00/01/clear-481.png" > $wwwdir/xmltv/France/BFMTV/BFMTV.conf
+mkdir -p $wwwdir/xmltv/France/CNEWS
+echo "channel 226 CNEWS;https://focus.telerama.fr/200x132/0000/00/01/clear-226.png" > $wwwdir/xmltv/France/CNEWS/CNEWS.conf
+mkdir -p $wwwdir/xmltv/France/CSTAR
+echo "channel 458 CSTAR;https://focus.telerama.fr/200x132/0000/00/01/clear-458.png" > $wwwdir/xmltv/France/CSTAR/CSTAR.conf
+mkdir -p $wwwdir/xmltv/France/GULLI
+echo "channel 482 Gulli;https://focus.telerama.fr/200x132/0000/00/01/clear-482.png" > $wwwdir/xmltv/France/GULLI/GULLI.conf
+mkdir -p $wwwdir/xmltv/France/TF1SERIESFILMS
+echo "channel 1404 TF1 Séries Films;https://focus.telerama.fr/200x132/0000/00/01/clear-1404.png" > $wwwdir/xmltv/France/TF1SERIESFILMS/TF1SERIESFILMS.conf
+mkdir -p $wwwdir/xmltv/France/LEquipe21
+echo "channel 1401 L'Equipe;https://focus.telerama.fr/200x132/0000/00/01/clear-1401.png" > $wwwdir/xmltv/France/LEquipe21/LEquipe21.conf
+mkdir -p $wwwdir/xmltv/France/6TER
+echo "channel 1403 6ter;https://focus.telerama.fr/200x132/0000/00/01/clear-1403.png" > $wwwdir/xmltv/France/6TER/6TER.conf
+mkdir -p $wwwdir/xmltv/France/RMCSTORY
+echo "channel 1402 RMC Story;https://focus.telerama.fr/200x132/0000/00/01/clear-1402.png" > $wwwdir/xmltv/France/RMCSTORY/RMCSTORY.conf
+mkdir -p $wwwdir/xmltv/France/RMCDECOUVERTE
+echo "channel 1400 RMC Découverte;https://focus.telerama.fr/200x132/0000/00/01/clear-1400.png" > $wwwdir/xmltv/France/RMCDECOUVERTE/RMCDECOUVERTE.conf
 rm -f $wwwdir/xmltv/$1/$2/$2.xml && tv_grab_fr_telerama --config-file $wwwdir/xmltv/$1/$2/$2.conf -output $wwwdir/xmltv/$1/$2/$2.xml --days 7
 sed -i 's|C192.api.telerama.fr|TF1.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C4.api.telerama.fr|France2.fr|' $wwwdir/xmltv/$1/$2/$2.xml
@@ -62,16 +90,20 @@ sed -i 's|C111.api.telerama.fr|ARTE.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C445.api.telerama.fr|C8.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C445.api.telerama.fr|C8.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C119.api.telerama.fr|W9.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C.api.telerama.fr|TMC.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C.api.telerama.fr|TFX.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C.api.telerama.fr|NRJ12.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C.api.telerama.fr|LCP.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C.api.telerama.fr|France4.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C.api.telerama.fr|BFMTV.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C.api.telerama.fr|CNews.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C.api.telerama.fr|TMC.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C.api.telerama.fr|TMC.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C.api.telerama.fr|TMC.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C195.api.telerama.fr|TMC.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C446.api.telerama.fr|TFX.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C444.api.telerama.fr|NRJ12.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C234.api.telerama.fr|LCP.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C78.api.telerama.fr|France4.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C481.api.telerama.fr|BFMTV.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C226.api.telerama.fr|CNews.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C458.api.telerama.fr|CStar.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C482.api.telerama.fr|Gulli.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C1404.api.telerama.fr|TF1SeriesFilms.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C1401.api.telerama.fr|EquipeTV.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C1403.api.telerama.fr|6ter.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C1402.api.telerama.fr|RMCStory.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C1400.api.telerama.fr||' $wwwdir/xmltv/$1/$2/$2.xml
 testline=$(head -n 1 $wwwdir/xmltv/$1/$2/$2.xml | tail -n 1 | grep xml)
 if [[ $testline != "" ]];then
 sed '1d' $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
