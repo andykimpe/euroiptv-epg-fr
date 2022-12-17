@@ -47,7 +47,31 @@ mkdir -p $wwwdir/xmltv/France/M6
 echo "channel 118 M6;https://focus.telerama.fr/500x500/0000/00/01/clear-118.png" > $wwwdir/xmltv/France/M6/M6.conf
 mkdir -p $wwwdir/xmltv/France/Arte
 echo "channel 111 Arte;https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" > $wwwdir/xmltv/France/Arte/Arte.conf
+mkdir -p $wwwdir/xmltv/France/C8
+echo "channel 445 C8;https://focus.telerama.fr/500x500/0000/00/01/clear-445.png" > $wwwdir/xmltv/France/C8/C8.conf
+mkdir -p $wwwdir/xmltv/France/W9
+echo "channel 119 W9;https://focus.telerama.fr/500x500/0000/00/01/clear-119.png" > $wwwdir/xmltv/France/W9/W9.conf
 rm -f $wwwdir/xmltv/$1/$2/$2.xml && tv_grab_fr_telerama --config-file $wwwdir/xmltv/$1/$2/$2.conf -output $wwwdir/xmltv/$1/$2/$2.xml --days 7
+sed -i 's|C192.api.telerama.fr|TF1.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C4.api.telerama.fr|France2.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C80.api.telerama.fr|France3.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C34.api.telerama.fr|CANALplus.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C47.api.telerama.fr|France5.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C118.api.telerama.fr|M6.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C111.api.telerama.fr|ARTE.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C445.api.telerama.fr|C8.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C445.api.telerama.fr|C8.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C119.api.telerama.fr|W9.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C.api.telerama.fr|TMC.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C.api.telerama.fr|TFX.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C.api.telerama.fr|NRJ12.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C.api.telerama.fr|LCP.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C.api.telerama.fr|France4.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C.api.telerama.fr|BFMTV.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C.api.telerama.fr|CNews.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C.api.telerama.fr|TMC.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C.api.telerama.fr|TMC.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C.api.telerama.fr|TMC.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 testline=$(head -n 1 $wwwdir/xmltv/$1/$2/$2.xml | tail -n 1 | grep xml)
 if [[ $testline != "" ]];then
 sed '1d' $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
@@ -78,13 +102,6 @@ testline=$(head -n 1 $wwwdir/xmltv/$1/$2/$2.xml | tail -n 1 | grep channel)
 if [[ $testline != "" ]];then
 sed '1d' $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
 fi
-sed -i 's|C192.api.telerama.fr|TF1.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C4.api.telerama.fr|France2.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C80.api.telerama.fr|France3.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C34.api.telerama.fr|CANALplus.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C47.api.telerama.fr|France5.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C118.api.telerama.fr|M6.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C111.api.telerama.fr|ARTE.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$1/$2/$crondir/$2 -O /etc/cron.d/$2
 chmod 644 /etc/cron.d/$2
 #$wwwdir/xmltv/$1/$2/$2.sh
