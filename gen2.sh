@@ -148,3 +148,11 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/CSTAR/CSTAR.xml >> $wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="Gulli.fr">
+    <display-name lang="fr">|FR| Gulli</display-name>
+    <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/gulli.png" />
+    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/GULLI/GULLI.xml >> $wwwdir/xmltv/guide.xml
