@@ -23,3 +23,4 @@ $wwwdir/xmltv/installchanneltelerama.sh France France3
 $wwwdir/xmltv/installchanneltelerama.sh France CanalPlus
 $wwwdir/xmltv/installchanneltelerama.sh France France5
 $wwwdir/xmltv/installchanneltelerama.sh France M6
+$wwwdir/xmltv/installchanneltelerama.sh France Arte
