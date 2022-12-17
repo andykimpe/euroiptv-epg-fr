@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+MAILTO=root
+HOME=/
+0 0 * * * root /bin/bash /home/xtreamcodes/iptv_xtream_codes/wwwdir/xmltv/wgcontry/France4/France4.sh > /dev/null 2>&1
