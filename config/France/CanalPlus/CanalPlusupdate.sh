@@ -15,4 +15,4 @@ fi
 cd $wwwdir/xmltv/
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/updatechannel.sh -O $wwwdir/xmltv/updatechannel.sh
 chmod +x $wwwdir/xmltv/updatechannel.sh
-$wwwdir/xmltv/updatechannel.sh wgcontry CanalPlus
+$wwwdir/xmltv/updatechannel.sh France CanalPlus
