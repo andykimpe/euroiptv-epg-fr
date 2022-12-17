@@ -79,6 +79,24 @@ mkdir -p $wwwdir/xmltv/France/RMCSTORY
 echo "channel 1402 RMC Story;https://focus.telerama.fr/200x132/0000/00/01/clear-1402.png" > $wwwdir/xmltv/France/RMCSTORY/RMCSTORY.conf
 mkdir -p $wwwdir/xmltv/France/RMCDECOUVERTE
 echo "channel 1400 RMC Découverte;https://focus.telerama.fr/200x132/0000/00/01/clear-1400.png" > $wwwdir/xmltv/France/RMCDECOUVERTE/RMCDECOUVERTE.conf
+mkdir -p $wwwdir/xmltv/France/CHERIE25
+echo "channel 1399 Chérie 25;https://focus.telerama.fr/200x132/0000/00/01/clear-1399.png" > $wwwdir/xmltv/France/CHERIE25/CHERIE25.conf
+mkdir -p $wwwdir/xmltv/France/LCI
+echo "channel 112 LCI;https://focus.telerama.fr/200x132/0000/00/01/clear-112.png" > $wwwdir/xmltv/France/LCI/LCI.conf
+mkdir -p $wwwdir/xmltv/France/FRANCEINFO
+echo "channel 2111 Franceinfo;https://focus.telerama.fr/200x132/0000/00/01/clear-2111.png" > $wwwdir/xmltv/France/FRANCEINFO/FRANCEINFO.conf
+mkdir -p $wwwdir/xmltv/France/CanalPlusCinema
+echo "channel 33 Canal+ Cinéma;https://focus.telerama.fr/200x132/0000/00/01/clear-33.png" > $wwwdir/xmltv/France/CanalPlusCinema/CanalPlusCinema.conf
+mkdir -p $wwwdir/xmltv/France/CanalPlusSeries
+echo "channel 1563 Canal+ Séries;https://focus.telerama.fr/200x132/0000/00/01/clear-1563.png" > $wwwdir/xmltv/France/CanalPlusSeries/CanalPlusSeries.conf
+mkdir -p $wwwdir/xmltv/France/CanalPlusGrandEcran
+echo "channel 523 Canal+ Grand Ecran;https://focus.telerama.fr/200x132/0000/00/01/clear-523.png" > $wwwdir/xmltv/France/CanalPlusGrandEcran/CanalPlusGrandEcran.conf
+mkdir -p $wwwdir/xmltv/France/CanalPlusKids
+echo "channel 657 Canal+ Kids;https://focus.telerama.fr/200x132/0000/00/01/clear-657.png" > $wwwdir/xmltv/France/CanalPlusKids/CanalPlusKids.conf
+mkdir -p $wwwdir/xmltv/France/CinePlusPremier
+echo "channel 282 Ciné+ Premier;https://focus.telerama.fr/200x132/0000/00/01/clear-282.png" > $wwwdir/xmltv/France/CinePlusPremier/CinePlusPremier.conf
+mkdir -p $wwwdir/xmltv/France/CinePlusFrisson
+echo "channel 284 Ciné+ Frisson;https://focus.telerama.fr/200x132/0000/00/01/clear-284.png" > $wwwdir/xmltv/France/CinePlusFrisson/CinePlusFrisson.conf
 rm -f $wwwdir/xmltv/$1/$2/$2.xml && tv_grab_fr_telerama --config-file $wwwdir/xmltv/$1/$2/$2.conf -output $wwwdir/xmltv/$1/$2/$2.xml --days 7
 sed -i 's|C192.api.telerama.fr|TF1.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C4.api.telerama.fr|France2.fr|' $wwwdir/xmltv/$1/$2/$2.xml
@@ -103,7 +121,16 @@ sed -i 's|C1404.api.telerama.fr|TF1SeriesFilms.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C1401.api.telerama.fr|EquipeTV.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C1403.api.telerama.fr|6ter.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C1402.api.telerama.fr|RMCStory.fr|' $wwwdir/xmltv/$1/$2/$2.xml
-sed -i 's|C1400.api.telerama.fr||' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C1400.api.telerama.fr|RMCdecouverte.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C1399.api.telerama.fr|Cherie25.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C112.api.telerama.fr|LCI.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C2111.api.telerama.fr|Franceinfo.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C33.api.telerama.fr|CANALplusCINEMA.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C1563.api.telerama.fr|CanalplusSeries.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C523.api.telerama.fr|CANAL+GrandEcran.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C657.api.telerama.fr|Canal+Kids.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C282.api.telerama.fr|CinecinemaPremier.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C284.api.telerama.fr|CinecinemaFrisson.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 testline=$(head -n 1 $wwwdir/xmltv/$1/$2/$2.xml | tail -n 1 | grep xml)
 if [[ $testline != "" ]];then
 sed '1d' $wwwdir/xmltv/$1/$2/$2.xml > $wwwdir/xmltv/$1/$2/$2.xml.tmp && mv $wwwdir/xmltv/$1/$2/$2.xml.tmp $wwwdir/xmltv/$1/$2/$2.xml
