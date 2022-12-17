@@ -45,6 +45,8 @@ mkdir -p $wwwdir/xmltv/France/France5
 echo "channel 47 France 5;https://focus.telerama.fr/500x500/0000/00/01/clear-47.png" > $wwwdir/xmltv/France/France5/France5.conf
 mkdir -p $wwwdir/xmltv/France/M6
 echo "channel 118 M6;https://focus.telerama.fr/500x500/0000/00/01/clear-118.png" > $wwwdir/xmltv/France/M6/M6.conf
+mkdir -p $wwwdir/xmltv/France/Arte
+echo "channel 111 Arte;https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" > $wwwdir/xmltv/France/Arte/Arte.conf
 rm -f $wwwdir/xmltv/$1/$2/$2.xml && tv_grab_fr_telerama --config-file $wwwdir/xmltv/$1/$2/$2.conf -output $wwwdir/xmltv/$1/$2/$2.xml --days 7
 testline=$(head -n 1 $wwwdir/xmltv/$1/$2/$2.xml | tail -n 1 | grep xml)
 if [[ $testline != "" ]];then
@@ -82,6 +84,7 @@ sed -i 's|C80.api.telerama.fr|France3.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C34.api.telerama.fr|CANALplus.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C47.api.telerama.fr|France5.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C118.api.telerama.fr|M6.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C111.api.telerama.fr|ARTE.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$1/$2/$crondir/$2 -O /etc/cron.d/$2
 chmod 644 /etc/cron.d/$2
 #$wwwdir/xmltv/$1/$2/$2.sh
