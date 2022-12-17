@@ -13,7 +13,6 @@ xtreamcodes="no"
 wwwdir="/var/www/html"
 crondir="cronapache"
 fi
-cd $wwwdir/xmltv/
 if [ ! -f "/etc/epgconfig/wgmovistarplusesprivetkey.txt" ];then
 mkdir -p /etc/epgconfig/
 read -e -p "enter wgmovistarplusesprivetkey : " -i "wgmovistarplusesprivetkey" wgmovistarplusesprivetkey
