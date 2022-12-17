@@ -44,7 +44,7 @@ wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config-example/inst
 ./addchannel.sh fr France 6TER "|FR| 6Ter" canalsat.fr 521 6ter.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/6ter.png
 ./addchannel.sh fr France RMCSTORY "|FR| RMC Story" canalsat.fr 571 RMCStory.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/rmcstory.png
 ./addchannel.sh fr France RMCDECOUVERTE "|FR| RMC Decouverte" canalsat.fr 595 RMCdecouverte.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/rmcdecouverte.png
-./addchannel.sh fr France CHERIE25 "|FR| Cherie 25" canalsat.fr 440 RMCdecouverte.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/rmcdecouverte.png
+./addchannel.sh fr France CHERIE25 "|FR| Cherie 25" canalsat.fr 440 Cherie25.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/rmcdecouverte.png
 ./addchannel.sh fr France LCI "|FR| LCI" canalsat.fr 553 LCI.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/lci.png
 ./addchannel.sh fr France FRANCEINFO "|FR| FRANCEINFO:" canalsat.fr 670 Franceinfo.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/Franceinfo.png
 ./addchannel.sh fr France CanalPlusCinema "|FR| Canal+ Cinema" canalsat.fr 198 CANALplusCINEMA.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/canalpluscinema.png
