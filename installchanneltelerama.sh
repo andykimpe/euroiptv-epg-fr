@@ -87,6 +87,8 @@ mkdir -p $wwwdir/xmltv/France/FRANCEINFO
 echo "channel 2111 Franceinfo;https://focus.telerama.fr/200x132/0000/00/01/clear-2111.png" > $wwwdir/xmltv/France/FRANCEINFO/FRANCEINFO.conf
 mkdir -p $wwwdir/xmltv/France/CanalPlusCinema
 echo "channel 33 Canal+ Cinéma;https://focus.telerama.fr/200x132/0000/00/01/clear-33.png" > $wwwdir/xmltv/France/CanalPlusCinema/CanalPlusCinema.conf
+mkdir -p $wwwdir/xmltv/France/CanalPlusSport
+echo "channel 35 Canal+ Sport;https://focus.telerama.fr/200x132/0000/00/01/clear-35.png" > $wwwdir/xmltv/France/CanalPlusSport/CanalPlusSport.conf
 mkdir -p $wwwdir/xmltv/France/CanalPlusSeries
 echo "channel 1563 Canal+ Séries;https://focus.telerama.fr/200x132/0000/00/01/clear-1563.png" > $wwwdir/xmltv/France/CanalPlusSeries/CanalPlusSeries.conf
 mkdir -p $wwwdir/xmltv/France/CanalPlusGrandEcran
@@ -126,6 +128,7 @@ sed -i 's|C1399.api.telerama.fr|Cherie25.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C112.api.telerama.fr|LCI.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C2111.api.telerama.fr|Franceinfo.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C33.api.telerama.fr|CANALplusCINEMA.fr|' $wwwdir/xmltv/$1/$2/$2.xml
+sed -i 's|C35.api.telerama.fr|CANALplusSPORT.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C1563.api.telerama.fr|CanalplusSeries.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C523.api.telerama.fr|CANAL+GrandEcran.fr|' $wwwdir/xmltv/$1/$2/$2.xml
 sed -i 's|C657.api.telerama.fr|Canal+Kids.fr|' $wwwdir/xmltv/$1/$2/$2.xml
