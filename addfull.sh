@@ -55,3 +55,4 @@ wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config-example/inst
 ./addchannel.sh fr France CinePlusPremier "|FR| Cine+ Premier" canalsat.fr 322 CinecinemaPremier.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/cinepluspremier.png
 ./addchannel.sh fr France CinePlusFrisson "|FR| Cine+ Frisson" canalsat.fr 398 CinecinemaFrisson.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/cineplusfrisson.png
 ./addchannel.sh fr France CinePlusEmotion "|FR| Cine+ Emotion" canalsat.fr 396 CinecinemaEmotion.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/cineplusemotion.png
+./addchannel.sh fr France CinePlusFamiz "|FR| Cine+ Famiz" canalsat.fr 533 CinecinemaFamiz.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/cineplusfamiz.png
