@@ -67,6 +67,7 @@ sed -i 's|wgmovistarplusesprivetkey|'$wgmovistarplusesprivetkey'|' "WebGrab++.co
 sed -i 's|wgusernameedit|'$wgusernameedit'|' "WebGrab++.config.xml"
 sed -i 's|wgregisteredemailedit|'$wgregisteredemailedit'|' "WebGrab++.config.xml"
 sed -i 's|wgpasswordedit|'$wgpasswordedit'|' "WebGrab++.config.xml"
+rm -rf $wwwdir/xmltv/$1/$2/$2.xml $wwwdir/xmltv/$1/$2/$2.xml.gz
 if [ -f "/usr/bin/mono" ]; then
     mono $wwwdir/xmltv/$1/$2/bin/WebGrab+Plus.exe $PWD
 else
