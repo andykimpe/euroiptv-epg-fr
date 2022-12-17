@@ -111,7 +111,7 @@ sed -i 's|wgcountry|'$channelfolder'|' config/$country/$channelfolder/install.sh
 #sed -i 's|France|'$channelfolder'|' config/$country/$channelfolder/install.sh
 sed -i 's|wgcountry|'$channelfolder'|' config/$country/$channelfolder/install.sh
 #sed -i 's|TF1.xml|'$channelfolder'.xml|' config/$country/$channelfolder/$channelfolder.xml
-sed -i 's|TF1.xml|'$channelfolder'.xml|' config/$country/$channelfolder/$channelfolder.xml
+sed -i 's|wgchannel.xml|'$channelfolder'.xml|' config/$country/$channelfolder/$channelfolder.xml
 #sed -i 's|site="canalsat.fr" site_id=|site="'$site'" site_id=|' config/$country/$channelfolder/$channelfolder.xml
 sed -i 's|site="wgsite" site_id=|site="'$site'" site_id=|' config/$country/$channelfolder/$channelfolder.xml
 #sed -i 's|site_id="312" xmltv_id=|site_id="'$siteid'" xmltv_id=|' config/$country/$channelfolder/$channelfolder.xml
