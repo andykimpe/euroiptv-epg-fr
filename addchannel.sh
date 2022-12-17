@@ -132,6 +132,7 @@ cat \$wwwdir/xmltv/$country/$channelfolder/$channelfolder.xml >> \$wwwdir/xmltv/
 EOM
 cat >> installfullchannell.sh <<EOF
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/$country/$channelfolder/install.sh)
+bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen.sh)
 EOF
 git add --all *
 git commit -a -m "add news channel"
