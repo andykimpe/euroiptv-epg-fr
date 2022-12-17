@@ -284,3 +284,11 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/CinePlusEmotion/CinePlusEmotion.xml >> $wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="CinecinemaFamiz.fr">
+    <display-name lang="fr">|FR| Cine+ Famiz</display-name>
+    <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/cineplusfamiz.png" />
+    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/CinePlusFamiz/CinePlusFamiz.xml >> $wwwdir/xmltv/guide.xml
