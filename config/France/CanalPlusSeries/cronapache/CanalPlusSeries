@@ -2,4 +2,4 @@ SHELL=/bin/bash
 PATH=/sbin:/bin:/usr/sbin:/usr/bin
 MAILTO=root
 HOME=/
-0 0 * * * root /bin/bash /var/www/html/xmltv/wgcontry/CanalPlusSeries/wgchannel.sh > /dev/null 2>&1
+0 0 * * * root /bin/bash /var/www/html/xmltv/France/CanalPlusSeries/wgchannel.sh > /dev/null 2>&1
