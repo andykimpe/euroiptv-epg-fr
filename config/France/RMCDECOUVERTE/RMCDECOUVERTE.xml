@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>wqchannel.xml</filename>
+  <mode>m n</mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <decryptkey site="movistarplus.es">wgmovistarplusesprivetkey</decryptkey>
+  <license wg-username="wgusernameedit" registered-email="wgregisteredemailedit" password="wgpasswordedit"/>
+  <logging>on</logging>
+  <retry time-out="80">4</retry>
+  <timespan>6</timespan>
+  <update>f</update>
+  <channel update="i" site="canalsat.fr" site_id="595" xmltv_id="RMCdecouverte.fr">RMCDECOUVERTE</channel>
+</settings>
