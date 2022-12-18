@@ -64,3 +64,4 @@ wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config-example/inst
 ./addchannel.sh fr France OCSGeants "|FR| OCS Geants" canalsat.fr 468 OrangeCineGeants.fr logo/France/ocsgeant.png
 ./addchannel.sh fr France TCMCinema "|FR| TCM Cinema" canalsat.fr 374 TCM.fr logo/France/tcmcinema.png
 ./addchannel.sh fr France ParamountChannelDecale "|FR| Paramount Channel Decale" sfr.fr "2072" ParamountChannelDecale.fr logo/France/paramountchanneldecale.png
+./addchannel.sh fr France ParamountChannel "|FR| Paramount Channel" canalsat.fr 487 ParamountChannel.fr logo/France/paramountchannel.png
