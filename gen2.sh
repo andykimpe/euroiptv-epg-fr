@@ -300,3 +300,11 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/CinePlusClub/CinePlusClub.xml >> $wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="CinecinemaClassic.fr">
+    <display-name lang="fr">|FR| Cine+ Classic</display-name>
+    <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/cineplusclassic.png" />
+    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/CinePlusClassic/CinePlusClassic.xml >> $wwwdir/xmltv/guide.xml
