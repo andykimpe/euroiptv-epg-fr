@@ -10,5 +10,5 @@
   <retry time-out="80">4</retry>
   <timespan>6</timespan>
   <update>f</update>
-  <channel update="i" site="programme.tv" site_id="paramountfr1-8502" xmltv_id="ParamountChannelDecale.fr">ParamountChannelDecale</channel>
+  <channel update="i" site="sfr.fr" site_id="2072" xmltv_id="ParamountChannelDecale.fr">ParamountChannelDecale</channel>
 </settings>
