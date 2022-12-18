@@ -332,3 +332,11 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/OCSChoc/OCSChoc.xml >> $wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="OrangeCineGeants.fr">
+    <display-name lang="fr">|FR| OCS Geants</display-name>
+    <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/ocsgeant.png" />
+    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/OCSGeants/OCSGeants.xml >> $wwwdir/xmltv/guide.xml
