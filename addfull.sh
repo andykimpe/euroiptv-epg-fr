@@ -58,3 +58,4 @@ wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config-example/inst
 ./addchannel.sh fr France CinePlusFamiz "|FR| Cine+ Famiz" canalsat.fr 533 CinecinemaFamiz.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/cineplusfamiz.png
 ./addchannel.sh fr France CinePlusClub "|FR| Cine+ Club" canalsat.fr 532 CinecinemaClub.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/cineplusclub.png
 ./addchannel.sh fr France CinePlusClassic "|FR| Cine+ Classic" canalsat.fr 531 CinecinemaClassic.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/cineplusclassic.png
+./addchannel.sh fr France OCSMax "|FR| OCS Max" ocs.fr 85-max OrangeCinemax.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/ocsmax.png
