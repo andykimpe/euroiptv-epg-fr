@@ -10,5 +10,5 @@
   <retry time-out="80">4</retry>
   <timespan>6</timespan>
   <update>f</update>
-  <channel update="i" site="canalsat.fr" site_id="372" xmltv_id="OrangeCineHappy.fr">OCSCity</channel>
+  <channel update="i" site="canalsat.fr" site_id="467" xmltv_id="OrangeCineHappy.fr">OCSCity</channel>
 </settings>
