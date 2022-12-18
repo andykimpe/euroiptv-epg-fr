@@ -316,3 +316,11 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/OCSMax/OCSMax.xml >> $wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="OrangeCineHappy.fr">
+    <display-name lang="fr">|FR| OCS City</display-name>
+    <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/ocscity.png" />
+    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/OCSCity/OCSCity.xml >> $wwwdir/xmltv/guide.xml
