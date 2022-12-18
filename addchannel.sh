@@ -1,5 +1,5 @@
 #!/bin/bash
-#./addchannel.sh fr France France4 "France 4" canalsat.fr 544 France4.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/france4.png
+#./addchannel.sh fr France France4 "France 4" canalsat.fr 544 France4.fr logo/France/france4.png
 if [ -d "/home/streamcreed" ];then
 xtreamcodes="ok"
 wwwdir="/home/streamcreed/wwwdir"
