@@ -56,7 +56,7 @@ siteid="$6"
 #read -e -p "Enter EPG_id: " -i "France4.fr" epgid
 epgid="$7"
 #read -e -p "Enter icon URL: " -i "https://github.com/andykimpe/euroiptv-epg-fr/raw/master/logo/France/france4.png" iconurl
-iconurl="$8"
+iconurl="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/$8"
 rm -rf config/$country/$channelfolder/
 mkdir -p config/$country/$channelfolder/cronstreamcreed
 mkdir -p config/$country/$channelfolder/cron
