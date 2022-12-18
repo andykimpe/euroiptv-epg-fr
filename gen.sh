@@ -24,6 +24,17 @@ cp $wwwdir/xmltv/guide.xml $wwwdir/xmltv/guide.xml.save
 rm -f $wwwdir/xmltv/guide.xml.gz
 gzip $wwwdir/xmltv/guide.xml
 mv $wwwdir/xmltv/guide.xml.save $wwwdir/xmltv/guide.xml
+cd
+rm -rf euroiptv-epg-fr
+git clone git@github.com:andykimpe/euroiptv-epg-fr.git euroiptv-epg-fr
+cd euroiptv-epg-fr
+rm -f guide.xml
+cp $wwwdir/xmltv/guide.xml ./
+git add --all *
+git commit -a -m "update guide.xml"
+git push origin master
+cd
+rm -rf euroiptv-epg-fr
 if [ -f /home/streamcreed/crons/epg.php ]
 then
 /home/streamcreed/php/bin/php /home/streamcreed/crons/epg.php
