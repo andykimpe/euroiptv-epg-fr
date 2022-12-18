@@ -61,3 +61,4 @@ wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config-example/inst
 ./addchannel.sh fr France OCSMax "|FR| OCS Max" canalsat.fr 372 OrangeCinemax.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/ocsmax.png
 ./addchannel.sh fr France OCSCity "|FR| OCS City" canalsat.fr 467 OrangeCineHappy.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/ocscity.png
 ./addchannel.sh fr France OCSChoc "|FR| OCS Choc" canalsat.fr 466 OrangeCinechoc.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/ocschoc.png
+./addchannel.sh fr France Geants "|FR| OCS Geants" canalsat.fr 468 OrangeCineGeants.fr https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/ocsgeant.png
