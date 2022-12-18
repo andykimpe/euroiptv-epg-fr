@@ -348,3 +348,11 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/TCMCinema/TCMCinema.xml >> $wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="ParamountChannelDecale.fr">
+    <display-name lang="fr">|FR| Paramount Channel Decale</display-name>
+    <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/paramountchanneldecale.png" />
+    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/ParamountChannelDecale/ParamountChannelDecale.xml >> $wwwdir/xmltv/guide.xml
