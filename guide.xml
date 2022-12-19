@@ -39182,6 +39182,2992 @@
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/tfx.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
+  <programme start="20221219060000 +0000" stop="20221219080000 +0000" channel="TFX.fr">
+    <title lang="fr">Téléachat</title>
+    <desc lang="fr">Retrouvez les produits du télé-achat.</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100641273" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219080000 +0000" stop="20221219080500 +0000" channel="TFX.fr">
+    <title lang="fr">TFX infos</title>
+    <desc lang="fr">Les infos du 19 décembre 2022.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/81304298" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219080500 +0000" stop="20221219081000 +0000" channel="TFX.fr">
+    <title lang="fr">Le journal de la Coupe du monde FIFA 2022</title>
+    <desc lang="fr">Ce programme court revient, au jour le jour, sur l'actualité de la Coupe du Monde de la FIFA 2022.</desc>
+    <date>2022</date>
+    <category lang="fr">Sport</category>
+    <category lang="fr">Mag Football</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108213605" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219081000 +0000" stop="20221219084000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E60</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219084000 +0000" stop="20221219091000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E61</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219091000 +0000" stop="20221219094000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E62</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219094000 +0000" stop="20221219101000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E63</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219101000 +0000" stop="20221219104000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E64</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219104000 +0000" stop="20221219111000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E65</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219111000 +0000" stop="20221219114000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E66</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219114000 +0000" stop="20221219123500 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Le retour de la comète</sub-title>
+    <desc lang="fr">Le grand jour est arrivé pour Lucas et Lindsey. Nathan tente de se réconcilier avec Haley, en vain. Peyton voit sa dernière chance de trouver l'homme de sa vie s'envoler quand elle entend Lucas dire Je le veux...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219123500 +0000" stop="20221219133000 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Ce que je veux..</sub-title>
+    <desc lang="fr">Lucas est anéanti. Lindsey, sa fiancée, l'a quitté devant l'autel. Haley et Nathan se rendent chez leur thérapeute. Celle-ci tente de leur expliquer qu'à leur âge, ils doivent se réaliser en tant qu'individus, et pas seulement en tant qu'époux ou parents. Brooke passe un entretien avec une assistante sociale.</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219133000 +0000" stop="20221219142500 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Au bout de nos rêves</sub-title>
+    <desc lang="fr">Pour ne pas rester sur une mauvaise expérience, Nathan et Haley décident de rencontrer d'autres nourrices. Toujours déterminée à adopter, Brooke obtient une nouvelle chance de s'inscrire à l'agence qui s'occupe des adoptions...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219142500 +0000" stop="20221219152000 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">La vie est courte</sub-title>
+    <desc lang="fr">Nathan et Haley organisent une fête d'anniversaire surprise pour Jamie. Deb engage un clown, mais Haley a la phobie des clowns. Lindsey revient à Tree Hill pour l'occasion...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219152000 +0000" stop="20221219161500 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Rien ne sert de pleurer</sub-title>
+    <desc lang="fr">Lucas se pose des questions sur les problèmes cardiaques de son père et découvre qu'il disait la vérité. Il est alors partagé entre ses désirs et ses scrupules. Haley éprouve des difficultés à laisser Dan prendre de la place dans la vie de Jamie. Peyton se sent responsable de la séparation de Lucas...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219161500 +0000" stop="20221219181000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219181000 +0000" stop="20221219200000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219200000 +0000" stop="20221219200500 +0000" channel="TFX.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <sub-title lang="fr">Pot au feu</sub-title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Gastronomie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841894" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219200500 +0000" stop="20221219210000 +0000" channel="TFX.fr">
+    <title lang="fr">Appels d'urgence</title>
+    <sub-title lang="fr">Cambriolages, effractions et vols de colis, les gendarmes de Lyon contre-attaquent</sub-title>
+    <desc lang="fr">Appels d'urgence - Cambriolages, effractions et vols de...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/80895444" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219210000 +0000" stop="20221219221000 +0000" channel="TFX.fr">
+    <title lang="fr">Appels d'urgence</title>
+    <sub-title lang="fr">Gendarmes, pompiers, secouristes : urgences au féminin</sub-title>
+    <desc lang="fr">Les services d'urgence accueillent de plus en plus de personnel féminin, que l'on retrouve très souvent en première ligne. Coline, jeune sapeur-pompier marseillaise de 25 ans, joue au foot dans l'équipe féminine de...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101846732" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219221000 +0000" stop="20221219231500 +0000" channel="TFX.fr">
+    <title lang="fr">Appels d'urgence</title>
+    <sub-title lang="fr">Coup de filet pour les gendarmes du Limousin</sub-title>
+    <desc lang="fr">Derrière son apparence tranquille, la région de Limoges est victime de cambriolages et de vols. Le PSIG, l'unité de choc de la gendarmerie, traque des bandes très organisées. Les trafiquants de drogue ont eux aussi...</desc>
+    <date>2019</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100671497" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219231500 +0000" stop="20221220002000 +0000" channel="TFX.fr">
+    <title lang="fr">Appels d'urgence</title>
+    <sub-title lang="fr">Immeubles en feu, interventions vitales : urgences capitales pour les pompiers de Paris</sub-title>
+    <desc lang="fr">Unité d'élite, la Brigade des sapeurs-pompiers de Paris est parée pour faire face aux sinistres même les plus impressionnants. Face aux situations les plus urgentes, les soldats du feu savent faire preuve de...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/80895444" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220002000 +0000" stop="20221220060000 +0000" channel="TFX.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220060000 +0000" stop="20221220080000 +0000" channel="TFX.fr">
+    <title lang="fr">Téléachat</title>
+    <desc lang="fr">Retrouvez les produits du télé-achat.</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100641273" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220080000 +0000" stop="20221220081000 +0000" channel="TFX.fr">
+    <title lang="fr">TFX infos</title>
+    <desc lang="fr">Les infos du 20 décembre 2022.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/81304298" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220081000 +0000" stop="20221220084000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E64</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220084000 +0000" stop="20221220091000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E65</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220091000 +0000" stop="20221220094000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E66</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220094000 +0000" stop="20221220101000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E67</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220101000 +0000" stop="20221220104000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E68</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220104000 +0000" stop="20221220111000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E69</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220111000 +0000" stop="20221220114000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E70</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220114000 +0000" stop="20221220123500 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Ce que je veux..</sub-title>
+    <desc lang="fr">Lucas est anéanti. Lindsey, sa fiancée, l'a quitté devant l'autel. Haley et Nathan se rendent chez leur thérapeute. Celle-ci tente de leur expliquer qu'à leur âge, ils doivent se réaliser en tant qu'individus, et pas seulement en tant qu'époux ou parents. Brooke passe un entretien avec une assistante sociale.</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220123500 +0000" stop="20221220133000 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Au bout de nos rêves</sub-title>
+    <desc lang="fr">Pour ne pas rester sur une mauvaise expérience, Nathan et Haley décident de rencontrer d'autres nourrices. Toujours déterminée à adopter, Brooke obtient une nouvelle chance de s'inscrire à l'agence qui s'occupe des adoptions...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220133000 +0000" stop="20221220142500 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">La vie est courte</sub-title>
+    <desc lang="fr">Nathan et Haley organisent une fête d'anniversaire surprise pour Jamie. Deb engage un clown, mais Haley a la phobie des clowns. Lindsey revient à Tree Hill pour l'occasion...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220142500 +0000" stop="20221220152000 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Rien ne sert de pleurer</sub-title>
+    <desc lang="fr">Lucas se pose des questions sur les problèmes cardiaques de son père et découvre qu'il disait la vérité. Il est alors partagé entre ses désirs et ses scrupules. Haley éprouve des difficultés à laisser Dan prendre de la place dans la vie de Jamie. Peyton se sent responsable de la séparation de Lucas...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220152000 +0000" stop="20221220161500 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Ça passe ou ça casse</sub-title>
+    <desc lang="fr">Lucas reçoit des nouvelles accablantes de Lindsay. Lorsque son joueur fétiche est menacé de poursuites en justice par l'équipe adverse, sa frustration ne fait qu'augmenter...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220161500 +0000" stop="20221220181000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, gaffes, coups de gueule, surprises, imprévus et autres dérapages sont au menu. Le Big Bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de bonne...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220181000 +0000" stop="20221220200000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220200000 +0000" stop="20221220200500 +0000" channel="TFX.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <sub-title lang="fr">Pot au feu</sub-title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Gastronomie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841894" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220200500 +0000" stop="20221220221000 +0000" channel="TFX.fr">
+    <title lang="fr">Tatie Danielle</title>
+    <sub-title lang="fr">Film Comédie</sub-title>
+    <desc lang="fr">Tatie Danielle n'aime que son chien et son défunt mari, à qui elle confie ses misères. A la mort de sa vieille bonne, Odile, elle vend sa maison d'Auxerre, partage l'argent entre ses neveux Jeanne et Jean-Pierre Billard, et s'installe chez ce dernier. Elle change bientôt leur paisible existence en enfer...</desc>
+    <credits>
+      <director>Etienne Chatiliez</director>
+      <actor>Tsilla Chelton</actor>
+      <actor>Isabelle Nanty</actor>
+      <actor>Catherine Jacob</actor>
+      <actor>Neige Dolsky</actor>
+      <actor>Eric Prat</actor>
+      <actor>Laurence Février</actor>
+      <writer>Florence Quentin</writer>
+      <writer>Etienne Chatiliez</writer>
+      <composer>Gabriel Yared</composer>
+      <composer>Gérard Kawczynski</composer>
+    </credits>
+    <date>1990</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52830742" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220221000 +0000" stop="20221221000000 +0000" channel="TFX.fr">
+    <title lang="fr">Les visiteurs en Amérique</title>
+    <sub-title lang="fr">Film Comédie</sub-title>
+    <desc lang="fr">Le duc Thibault de Malfète prépare son mariage lorsqu'un rival l'empoisonne. Malfète est pris d'un délire au cours duquel il tue sa promise. L'écuyer du duc présente à son maître un mage qui leur fait boire une potion magique censée les ramener avant le drame, mais qui les envoie au XXIe siècle, à Chicago...</desc>
+    <credits>
+      <director>Jean-Marie Poiré</director>
+      <actor>Jean Reno</actor>
+      <actor>Christian Clavier</actor>
+      <actor>Christina Applegate</actor>
+      <actor>Matt Ross</actor>
+      <actor>Bridgette Wilson</actor>
+      <actor>Tara Reid</actor>
+      <writer>Jean-Marie Poiré</writer>
+      <writer>Christian Clavier</writer>
+      <writer>John Hughes</writer>
+      <composer>John Powell</composer>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52831279" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221000000 +0000" stop="20221221060000 +0000" channel="TFX.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221060000 +0000" stop="20221221064500 +0000" channel="TFX.fr">
+    <title lang="fr">Mamans &amp; célèbres</title>
+    <desc lang="fr">Mamans &amp; célèbres - Saison 07 Episode 8.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100463112" />
+    <episode-num system="onscreen">S7 E8</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221064500 +0000" stop="20221221083000 +0000" channel="TFX.fr">
+    <title lang="fr">Super Nanny</title>
+    <desc lang="fr">Dans les Vosges, rien ne va plus pour Casandra et Romain, qui élèvent trois enfants, dans la douleur. Les parents peinent à supporter les cris de leurs deux plus jeunes bambins. La fille aînée de Casandra, âgée de 9...</desc>
+    <date>2018</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104924972" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221083000 +0000" stop="20221221083500 +0000" channel="TFX.fr">
+    <title lang="fr">TFX infos</title>
+    <desc lang="fr">Les infos du 21 décembre 2022.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/81304298" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221083500 +0000" stop="20221221090500 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E68</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221090500 +0000" stop="20221221093500 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E69</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221093500 +0000" stop="20221221100500 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E70</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221100500 +0000" stop="20221221103500 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E71</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221103500 +0000" stop="20221221110500 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E72</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221110500 +0000" stop="20221221113500 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E73</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221113500 +0000" stop="20221221120500 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2017</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E74</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221120500 +0000" stop="20221221123500 +0000" channel="TFX.fr">
+    <title lang="fr">Clap, le magazine culturel</title>
+    <sub-title lang="fr">Best of - Noël</sub-title>
+    <desc lang="fr">Clap, votre programme consacré à l'actualité du cinéma, des séries américaines et de la fiction française.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103143996" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221123500 +0000" stop="20221221142500 +0000" channel="TFX.fr">
+    <title lang="fr">Super Nanny</title>
+    <desc lang="fr">Super Nanny a rendez-vous dans une famille d'athlètes à Gujan-Mestras, en Gironde, tous passionnés par le patinage artistique à roulettes.</desc>
+    <date>2018</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104924972" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221142500 +0000" stop="20221221161500 +0000" channel="TFX.fr">
+    <title lang="fr">Super Nanny</title>
+    <desc lang="fr">Propriétaires d'un cirque, Josué et Mirella vivent toute l'année sur les routes, au rythme des caprices de leur fils de 3 ans, Jessy. Le petit dernier profite en effet de sa position pour mener tout le monde à la...</desc>
+    <date>2016</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93139800" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221161500 +0000" stop="20221221181000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, gaffes, coups de gueules, surprises, imprévus et autres dérapages : le Big Bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de bonne humeur. Une...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221181000 +0000" stop="20221221200000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221200000 +0000" stop="20221221200500 +0000" channel="TFX.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <sub-title lang="fr">Pot au feu</sub-title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Gastronomie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841894" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221200500 +0000" stop="20221221215500 +0000" channel="TFX.fr">
+    <title lang="fr">Noël à Disneyland : dans le secret du plus grand parc d'attraction d'Europe</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">Avec plus de 15 millions de visiteurs par an, Disneyland Paris est la première destination touristique en Europe. La fréquentation est à son apogée durant les fêtes de fin d'année. Pour les salariés, il s'agit d'un incroyable défi : ils n'ont que quelques jours pour habiller le parc aux couleurs de Noël.</desc>
+    <date>2014</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44507926" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221215500 +0000" stop="20221221234500 +0000" channel="TFX.fr">
+    <title lang="fr">Noël au soleil ou sous la neige : leurs incroyables fêtes de fin d'année</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">Magali et Eric ont choisi de passer le 25 décembre en famille, sous le soleil du Brésil. Sandrine et Gregory, eux, ont opté pour un voyage en Laponie. Originaires de Dunkerque, Danielle et Patrick s'offrent un réveillon dans le désert de Tunisie. De leur côté, Catherine et Patrick préparent une surprise pour tout le village. Pierrick et Gladys, eux, transforment leur maison en manoir hanté pour Halloween.</desc>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/98268915" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221234500 +0000" stop="20221222060000 +0000" channel="TFX.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222060000 +0000" stop="20221222080000 +0000" channel="TFX.fr">
+    <title lang="fr">Téléachat</title>
+    <desc lang="fr">Retrouvez les produits du télé-achat.</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100641273" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222080000 +0000" stop="20221222081000 +0000" channel="TFX.fr">
+    <title lang="fr">TFX infos</title>
+    <desc lang="fr">Les infos du 22 décembre 2022.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/81304298" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222081000 +0000" stop="20221222084000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E72</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222084000 +0000" stop="20221222091000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E73</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222091000 +0000" stop="20221222094000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2017</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E74</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222094000 +0000" stop="20221222101000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2017</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E75</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222101000 +0000" stop="20221222104000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2017</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E76</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222104000 +0000" stop="20221222111000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222111000 +0000" stop="20221222114000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222114000 +0000" stop="20221222123500 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Au bout de nos rêves</sub-title>
+    <desc lang="fr">Pour ne pas rester sur une mauvaise expérience, Nathan et Haley décident de rencontrer d'autres nourrices. Toujours déterminée à adopter, Brooke obtient une nouvelle chance de s'inscrire à l'agence qui s'occupe des adoptions...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222123500 +0000" stop="20221222133000 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">La vie est courte</sub-title>
+    <desc lang="fr">Nathan et Haley organisent une fête d'anniversaire surprise pour Jamie. Deb engage un clown, mais Haley a la phobie des clowns. Lindsey revient à Tree Hill pour l'occasion...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222133000 +0000" stop="20221222142500 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Rien ne sert de pleurer</sub-title>
+    <desc lang="fr">Lucas se pose des questions sur les problèmes cardiaques de son père et découvre qu'il disait la vérité. Il est alors partagé entre ses désirs et ses scrupules. Haley éprouve des difficultés à laisser Dan prendre de la place dans la vie de Jamie. Peyton se sent responsable de la séparation de Lucas...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222142500 +0000" stop="20221222152000 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Ça passe ou ça casse</sub-title>
+    <desc lang="fr">Lucas reçoit des nouvelles accablantes de Lindsay. Lorsque son joueur fétiche est menacé de poursuites en justice par l'équipe adverse, sa frustration ne fait qu'augmenter...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222152000 +0000" stop="20221222161500 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Et après ?</sub-title>
+    <desc lang="fr">Brooke prend la décision la plus difficile de sa vie : elle doit se séparer de la petite Angie, dont elle a pris soin avant et après son opération du coeur...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222161500 +0000" stop="20221222181000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222181000 +0000" stop="20221222200000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">C'est votre rendez-vous incontournable de la fin d'année : le meilleur d'Internet, bien emballé, dans un Big Bêtisier de Noël encore plus déjanté et avec une belle nouveauté.Pour ce nouveau numéro du Big Bêtisier de Noël, TFX accueille un nouveau visage, que les téléspectateurs connaissent et apprécient déjà pour sa participation dans Danse avec les Stars : Inès Vandamme !Préparez-vous à vivre des fêtes mémorables grâce aux aventures de nos rois de la gaffe : la célèbre famille Boulet !Au programme également : les stars de TikTok, les chutes spéciales 2021, imprévus et autres canulars imparables. Et la cérémonie des Bûches d'Or récompensera les images les plus drôles de l'année. All I want for christmas is un nouveau Big Bêtisier de Noël !</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222200000 +0000" stop="20221222200500 +0000" channel="TFX.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <sub-title lang="fr">Pot au feu</sub-title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Gastronomie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841894" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222200500 +0000" stop="20221222205500 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier</title>
+    <desc lang="fr">Pour les fêtes de fin d'année, bonne humeur, fous rires et surprises sont au menu du Big Bêtisier présenté par Inès Vandamme. Se succèdent ainsi le meilleur et le plus drôle du Net de ces derniers mois. Quelque 90...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104422530" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222205500 +0000" stop="20221222215000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier</title>
+    <desc lang="fr">Au programme de cette soirée, des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de bonne humeur. Fous rires, gaffes, coups de gueules, surprises, imprévus et autres dérapages sont au...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104422530" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222215000 +0000" stop="20221222234000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, gaffes, coups de gueule, surprises, imprévus et autres dérapages sont au menu. Le Big Bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de bonne...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222234000 +0000" stop="20221223060000 +0000" channel="TFX.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223060000 +0000" stop="20221223080000 +0000" channel="TFX.fr">
+    <title lang="fr">Téléachat</title>
+    <desc lang="fr">Retrouvez les produits du télé-achat.</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100641273" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223080000 +0000" stop="20221223081000 +0000" channel="TFX.fr">
+    <title lang="fr">TFX infos</title>
+    <desc lang="fr">Les infos du 23 décembre 2022.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/81304298" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223081000 +0000" stop="20221223084000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2017</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <episode-num system="onscreen">S3 E76</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223084000 +0000" stop="20221223091000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223091000 +0000" stop="20221223094000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2015</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223094000 +0000" stop="20221223101000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223101000 +0000" stop="20221223104000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223104000 +0000" stop="20221223111000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223111000 +0000" stop="20221223114000 +0000" channel="TFX.fr">
+    <title lang="fr">19 à la maison les Bates : une famille XXL</title>
+    <desc lang="fr">Le quotidien animé d'une famille XXL avec Gil et Kelly Jo Bates et leurs 19 enfants âgés de 2 à 25 ans. Nouveaux bébés, anniversaires mémorables, jeunes mariés, suivez les temps forts d'une famille classique mais aux problématiques quotidiennes démultipliées….</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841815" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223114000 +0000" stop="20221223123500 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">La vie est courte</sub-title>
+    <desc lang="fr">Nathan et Haley organisent une fête d'anniversaire surprise pour Jamie. Deb engage un clown, mais Haley a la phobie des clowns. Lindsey revient à Tree Hill pour l'occasion...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223123500 +0000" stop="20221223133000 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Rien ne sert de pleurer</sub-title>
+    <desc lang="fr">Lucas se pose des questions sur les problèmes cardiaques de son père et découvre qu'il disait la vérité. Il est alors partagé entre ses désirs et ses scrupules. Haley éprouve des difficultés à laisser Dan prendre de la place dans la vie de Jamie. Peyton se sent responsable de la séparation de Lucas...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223133000 +0000" stop="20221223142500 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Ça passe ou ça casse</sub-title>
+    <desc lang="fr">Lucas reçoit des nouvelles accablantes de Lindsay. Lorsque son joueur fétiche est menacé de poursuites en justice par l'équipe adverse, sa frustration ne fait qu'augmenter...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223142500 +0000" stop="20221223152000 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Et après ?</sub-title>
+    <desc lang="fr">Brooke prend la décision la plus difficile de sa vie : elle doit se séparer de la petite Angie, dont elle a pris soin avant et après son opération du coeur...</desc>
+    <credits>
+      <director>Gregory Prange</director>
+      <director>Paul Johansson</director>
+      <director>Liz Friedlander</director>
+      <director>Joe Davola</director>
+      <actor>James Lafferty</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101114734" />
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223152000 +0000" stop="20221223161500 +0000" channel="TFX.fr">
+    <title lang="fr">Les frères Scott</title>
+    <sub-title lang="fr">Le voile est levé</sub-title>
+    <desc lang="fr">Lucas attend Peyton à l'aéroport : ils ont en effet décidé d'aller se marier à Las Vegas. Mais une fois sur place, ils changent d'avis : c'est à Tree Hill qu'ils ont envie d'unir leurs destinées...</desc>
+    <credits>
+      <actor>Chad Michael Murray</actor>
+      <actor>James Lafferty</actor>
+      <actor>Hilarie Burton</actor>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Paul Johansson</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/874832" />
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223161500 +0000" stop="20221223181000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223181000 +0000" stop="20221223200000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223200000 +0000" stop="20221223200500 +0000" channel="TFX.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <sub-title lang="fr">Pot au feu</sub-title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Gastronomie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841894" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223200500 +0000" stop="20221223215500 +0000" channel="TFX.fr">
+    <title lang="fr">L'élève Ducobu</title>
+    <sub-title lang="fr">Film Comédie</sub-title>
+    <desc lang="fr">Cancre incorrigible, Ducobu se retrouve à Saint-Potache, avec obligation de réussite. Son instituteur, monsieur Latouche, est décidé à remettre au travail cet expert en tricherie, qui a déjà commencé à copier sur sa brillante voisine, Léonie Gratin. L'année scolaire s'annonce mouvementée...</desc>
+    <credits>
+      <director>Philippe de Chauveron</director>
+      <actor>Vincent Claude</actor>
+      <actor>Juliette Chappey</actor>
+      <actor>Elie Semoun</actor>
+      <actor>Bruno Podalydès</actor>
+      <actor>Héléna Noguerra</actor>
+      <actor>Edgar Givry</actor>
+      <writer>Philippe de Chauveron</writer>
+      <writer>Marc de Chauveron</writer>
+      <writer>Zidrou</writer>
+      <writer>Bernard Godisiabois</writer>
+      <composer>Marc Chouarain</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101016595" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223215500 +0000" stop="20221223234500 +0000" channel="TFX.fr">
+    <title lang="fr">Noël à Disneyland : dans le secret du plus grand parc d'attraction d'Europe</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">Avec plus de 15 millions de visiteurs par an, Disneyland Paris est la première destination touristique en Europe. La fréquentation est à son apogée durant les fêtes de fin d'année. Pour les salariés, il s'agit d'un incroyable défi : ils n'ont que quelques jours pour habiller le parc aux couleurs de Noël.</desc>
+    <date>2014</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44507926" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223234500 +0000" stop="20221224050000 +0000" channel="TFX.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224050000 +0000" stop="20221224052500 +0000" channel="TFX.fr">
+    <title lang="fr">Nicky Larson</title>
+    <sub-title lang="fr">Un cocktail dangereux</sub-title>
+    <desc lang="fr">Un psychopathe terrorise la ville : il tue d'un coup de feu des femmes qu'il aborde dans la rue. La soeur de sa dernière victime prend contact avec Nicky.</desc>
+    <credits>
+      <director>Kenji Kodama</director>
+      <director>Takashi Imanishi</director>
+      <director>Kiyoshi Egami</director>
+      <director>Mitsuko Kase</director>
+    </credits>
+    <date>1987</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Manga</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104537778" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224052500 +0000" stop="20221224055000 +0000" channel="TFX.fr">
+    <title lang="fr">Nicky Larson</title>
+    <sub-title lang="fr">Tuez-moi s'il vous plaît</sub-title>
+    <desc lang="fr">Nicky doit protéger la fille d'un savant mort. Spécialistes en génétique, le père et la fille avaient découvert un procédé capable de rendre stérile.</desc>
+    <credits>
+      <director>Kenji Kodama</director>
+      <director>Takashi Imanishi</director>
+      <director>Kiyoshi Egami</director>
+      <director>Mitsuko Kase</director>
+    </credits>
+    <date>1987</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Manga</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104537778" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224055000 +0000" stop="20221224055500 +0000" channel="TFX.fr">
+    <title lang="fr">TFX infos</title>
+    <desc lang="fr">Regardez le dernier journal télévisé avec une sélection des actualités préparée par la rédaction de TFX.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/81304298" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224055500 +0000" stop="20221224062000 +0000" channel="TFX.fr">
+    <title lang="fr">Nicky Larson</title>
+    <sub-title lang="fr">Le dernier combat</sub-title>
+    <desc lang="fr">John Turner, un boxeur qui doit affronter le tenant du titre au championnat du monde, est assassiné. Dans un dernier soupir, il souffle le nom de Tarantini.</desc>
+    <credits>
+      <director>Kenji Kodama</director>
+      <director>Takashi Imanishi</director>
+      <director>Kiyoshi Egami</director>
+      <director>Mitsuko Kase</director>
+    </credits>
+    <date>1987</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Manga</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104537778" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224062000 +0000" stop="20221224065000 +0000" channel="TFX.fr">
+    <title lang="fr">Nicky Larson</title>
+    <sub-title lang="fr">Bienvenue en enfer</sub-title>
+    <desc lang="fr">Vingt jeunes femmes ont disparu en peu de temps dans la capitale. Tony, le coéquipier de Nicky, lui demande d'enquêter sur cette étrange affaire, d'autant plus que sa soeur Laura se trouve au nombre des disparues...</desc>
+    <credits>
+      <director>Kenji Kodama</director>
+      <director>Takashi Imanishi</director>
+      <director>Kiyoshi Egami</director>
+      <director>Mitsuko Kase</director>
+    </credits>
+    <date>1987</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Manga</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104537778" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224065000 +0000" stop="20221224072500 +0000" channel="TFX.fr">
+    <title lang="fr">Nicky Larson</title>
+    <sub-title lang="fr">Un triste anniversaire</sub-title>
+    <desc lang="fr">Pour ses 20 ans, Laura souhaite préparer un repas pour son frère et Nicky. Pendant l'après-midi, Tony raconte à Nicky la véritable histoire de Laura.</desc>
+    <credits>
+      <director>Kenji Kodama</director>
+      <director>Takashi Imanishi</director>
+      <director>Kiyoshi Egami</director>
+      <director>Mitsuko Kase</director>
+    </credits>
+    <date>1987</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Manga</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104537778" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224072500 +0000" stop="20221224075500 +0000" channel="TFX.fr">
+    <title lang="fr">Nicky Larson</title>
+    <sub-title lang="fr">La délivrance</sub-title>
+    <desc lang="fr">Nicky a de la chance ! Il est chargé de s'occuper de la sécurité de la jolie actrice Anita sur le tournage du film Soif meurtrière en plein jour.</desc>
+    <credits>
+      <director>Kenji Kodama</director>
+      <director>Takashi Imanishi</director>
+      <director>Kiyoshi Egami</director>
+      <director>Mitsuko Kase</director>
+    </credits>
+    <date>1987</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Manga</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104537778" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224075500 +0000" stop="20221224091000 +0000" channel="TFX.fr">
+    <title lang="fr">Miraculous, les aventures de Ladybug et Chat Noir</title>
+    <desc lang="fr">Pour célébrer la semaine de l'amitié franco-américaine, Marinette et toute sa classe se rendent à New-York, la ville des super-héros. C'est là une occasion rêvée pour le groupe d'amis collégiens de resserrer leurs liens, mais aussi pour Marinette et...</desc>
+    <credits>
+      <director>Thomas Astruc</director>
+      <director>Matthieu Choquet</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182035" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224091000 +0000" stop="20221224102000 +0000" channel="TFX.fr">
+    <title lang="fr">Miraculous, les aventures de Ladybug et Chat Noir</title>
+    <desc lang="fr">Ce sont les vacances et tout va bien pour Marinette… jusqu'à ce qu'elle apprenne qu'Adrien a dû partir avec son père pour Shanghai, en Chine. Heureusement, c'est là qu'habite son Oncle Wang, dont l'anniversaire approche. Pour retrouver Adrien et...</desc>
+    <credits>
+      <director>Thomas Astruc</director>
+      <director>Matthieu Choquet</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182035" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224102000 +0000" stop="20221224104500 +0000" channel="TFX.fr">
+    <title lang="fr">Miraculous, les aventures de Ladybug et Chat Noir</title>
+    <sub-title lang="fr">Pire Noël</sub-title>
+    <desc lang="fr">Alors que Marinette prépare le réveillon en famille, Adrien s'apprête à passer son premier Noël sans sa mère. Le collégien attristé se transforme en Chat Noir.</desc>
+    <credits>
+      <director>Thomas Astruc</director>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102408766" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224104500 +0000" stop="20221224124000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224124000 +0000" stop="20221224142500 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224142500 +0000" stop="20221224162000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224162000 +0000" stop="20221224181000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224181000 +0000" stop="20221224200000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224200000 +0000" stop="20221224200500 +0000" channel="TFX.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <sub-title lang="fr">Pot au feu</sub-title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Gastronomie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841894" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224200500 +0000" stop="20221224215000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224215000 +0000" stop="20221224233500 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Fous rires, bonne humeur, gaffes, coups de gueules, surprises, imprévus et autres dérapages, le big bêtisier de Noël a compilé des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224233500 +0000" stop="20221225044500 +0000" channel="TFX.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225044500 +0000" stop="20221225050500 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui acceptait sa mutation</sub-title>
+    <desc lang="fr">A la suite d'insomnies répétées, Chandler s'endort en réunion et, dans un demi-sommeil, accepte une mutation à Tulsa. Contre l'avis de Phoebe, Rachel réveille Emma, mais la petite ne cesse de pleurer, et sa mère n'arrive plus à la calmer. Enfin, Ross en veut beaucoup à Rachel et surtout à Joey...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E2</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225050500 +0000" stop="20221225053000 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui allait chez le pédiatre</sub-title>
+    <desc lang="fr">Rachel est tellement obnubilée par l'état de santé de sa fille Emma qu'elle finit par se faire renvoyer par son pédiatre, excédé par les obsessions de la jeune femme. Sur les conseils de Monica, elle décide d'aller chez celui que Ross et elle consultaient lorsqu'ils étaient enfants. Chandler se prépare à déménager à Tulsa, au grand dam de ses amis...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E3</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225053000 +0000" stop="20221225055000 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui regardait des requins</sub-title>
+    <desc lang="fr">Chandler étant bloqué à Tulsa pour le week-end, Monica décide de suivre les conseils de Joey et d'aller lui faire une visite surprise. Après une remarque de Ross, Phoebe se demande si elle ne va pas finir sa vie toute seule. Joey pense qu'il est déjà sorti avec sa copine actuelle mais que celle-ci ne s'en souvient plus...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E4</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225055000 +0000" stop="20221225061500 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui avait fumé</sub-title>
+    <desc lang="fr">C'est l'anniversaire de Phoebe. Pendant que Joey et elle attendent impatiemment l'arrivée de leurs amis pour fêter l'événement dans un restaurant de luxe, Rachel hésite à laisser son bébé à une baby-sitter. Ross propose d'appeler sa mère à la rescousse. De leur côté, Monica et Chandler se disputent...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E5</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225061500 +0000" stop="20221225064500 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui était le plus drôle</sub-title>
+    <desc lang="fr">Ross se moque de Rachel, qui a choisi un homme d'une sensibilité excessive comme nounou pour Emma. De son côté, Phoebe doit choisir entre deux prétendants : son nouveau petit ami Mike ou son ancien petit ami David, le scientifique qui l'avait quittée pour partir en Russie, et qui est de passage à New York...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E6</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225064500 +0000" stop="20221225071000 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui faisait rire sa fille</sub-title>
+    <desc lang="fr">Lorsque Chandler apprend que son ancien rival, Richard, a l'intention de vendre son appartement, il persuade Joey de visiter les lieux. Ils mettent la main sur une vieille cassette vidéo qui pourrait montrer Monica en train de faire l'amour avec Richard. Ross découvre comment faire rire Emma...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E7</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225071000 +0000" stop="20221225074000 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui était vexé</sub-title>
+    <desc lang="fr">La veille de la fête de Thanksgiving, Amy, la petite soeur de Rachel, s'invite au repas organisé par Monica parce qu'elle vient de rompre avec son petit ami. De son côté, Joey, alors qu'il regarde le défilé, réalise soudain qu'il a oublié de se présenter à un casting et demande à Phoebe si elle peut lui apprendre à mentir...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E8</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225074000 +0000" stop="20221225074500 +0000" channel="TFX.fr">
+    <title lang="fr">TFX infos</title>
+    <desc lang="fr">Regardez le dernier journal télévisé avec une sélection des actualités préparée par la rédaction de TFX.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/81304298" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225074500 +0000" stop="20221225081500 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui n'osait pas dire la vérité</sub-title>
+    <desc lang="fr">Pour ne pas vexer Joey, Chandler lui ment. Il prétend travailler à Tulsa tandis qu'il est aux côtés de Monica. Alors qu'elle passe une soirée avec Phoebe, Rachel donne impulsivement son numéro de téléphone au séduisant patron du restaurant où elles dînent, ce qui lui cause quelques tracas...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E9</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225081500 +0000" stop="20221225084500 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui passait Noël à Tulsa</sub-title>
+    <desc lang="fr">Pendant les fêtes de Noël, Chandler est contraint de rester à Tulsa, loin de son groupe d'amis, à cause d'un surplus de travail. Monica soupçonne le pire lorsqu'elle apprend que l'une de ses collègues, la très séduisante et très sympathique Wendy, propose de venir lui donner un coup de main...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E10</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225084500 +0000" stop="20221225091000 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui ne voulait plus de bébé</sub-title>
+    <desc lang="fr">C'est le grand jour pour Rachel, qui doit recommencer à travailler. Chez Ralph Lauren, elle est surprise de trouver un nouvel employé, Gavin, très mignon, qui était là pour la remplacer. De son côté, Joey demande à Phoebe de jouer les figurantes dans sa série télévisée. Celle-ci prend un peu trop rapidement goût à son rôle...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225091000 +0000" stop="20221225094000 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui défendait sa nounou</sub-title>
+    <desc lang="fr">Rachel est furieuse d'apprendre que Monica a invité, à sa fête d'anniversaire, son nouveau rival, Gavin. De son côté, Ross fait tout pour que Joey ne sorte pas avec la nouvelle - et charmante - baby-sitter d'Emma. Par ailleurs, Phoebe supplie son petit ami, Mike, d'adopter des bébés rats, nés dans son salon de massage...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E12</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225094000 +0000" stop="20221225101500 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui se faisait épiler</sub-title>
+    <desc lang="fr">Pour les besoins de la série dans laquelle il joue, Joey doit se faire épiler les sourcils. Monica accompagne Phoebe au restaurant karaoké où Mike joue du piano, et se laisse bientôt convaincre de monter sur scène. Or, Monica ne porte pas de soutien-gorge. Sa prestation est très remarquée. De son côté, Ross décide d'aller de l'avant après avoir surpris Rachel en train d'embrasser Gavin...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E13</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225101500 +0000" stop="20221225105000 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui se faisait poser un lapin</sub-title>
+    <desc lang="fr">Joey et Phoebe conspirent pour que Rachel et Ross se remettent définitivement ensemble. Alors qu'elle garde Emma, Monica se rend compte qu'elle est en pleine période d'ovulation. Elle n'a alors qu'une idée fixe : un tête-à-tête romantique avec son mari. Une situation difficile à réaliser avec un bébé qui crie dès qu'on le laisse seul...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E14</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225105000 +0000" stop="20221225111500 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui se faisait agresser</sub-title>
+    <desc lang="fr">Lors d'une audition pour un rôle important, Joey joue de manière originale afin d'impressionner un comédien prétentieux. Pendant ce temps, Ross comprend certains événements de son enfance. Enfin, Chandler, toujours sans emploi, s'apprête, en désespoir de cause, à accepter un stage dans une manufacture de chaussures...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E15</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225111500 +0000" stop="20221225114500 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui prêtait de l'argent</sub-title>
+    <desc lang="fr">Phoebe demande à Mike d'emménager avec elle et envisage même déjà le mariage. Monica et Chandler ont quelques soucis financiers. Monica va demander discrètement à Joey de l'aider. Lorsque Chandler va, lui aussi, solliciter son ami pour qu'il lui prête de l'argent, Joey se trahit et tente de rattraper le coup en affirmant que Monica destinait l'argent à une opération de chirurgie esthétique...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E16</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225114500 +0000" stop="20221225121500 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui envoyait des e-mails</sub-title>
+    <desc lang="fr">Ross et Chandler s'affrontent dans une rivalité sans merci sur Internet. Leur but : ternir la réputation de l'autre sur le site web des anciens élèves de leur école. Chandler va jusqu'à prétendre que Ross est mort et enterré. Pendant ce temps, Phoebe demande à Monica de l'empêcher de ressortir avec son ex, et Joey essaie de reprendre à Emma sa peluche favorite...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E17</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225121500 +0000" stop="20221225124500 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui devait gagner à la loterie</sub-title>
+    <desc lang="fr">Monica veut remporter le gros lot mis en jeu lors d'une loterie exceptionnelle. A cette occasion, elle demande à tous ses amis d'acheter des billets afin d'augmenter ses chances. Tous font des projets et se demandent déjà de quelle façon ils vont pouvoir partager la somme si jamais ils gagnent...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E18</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225124500 +0000" stop="20221225131500 +0000" channel="TFX.fr">
+    <title lang="fr">Friends</title>
+    <sub-title lang="fr">Celui qui piquait dans les hôtels</sub-title>
+    <desc lang="fr">Joey est nerveux : il doit jouer le rôle d'un amoureux enflammé. Aussi accepte-t-il que Rachel vienne l'encourager sur le plateau. Chandler prépare une surprise à Monica : un week-end romantique dans le Vermont. Mais celle-ci, débordée par son travail, ne peut y aller, et le billet n'est pas remboursable...</desc>
+    <credits>
+      <director>Kevin Bright</director>
+      <director>Gary Halvorson</director>
+      <director>David Crane</director>
+      <director>Marta Kauffman</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903311" />
+    <episode-num system="onscreen">S9 E19</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225131500 +0000" stop="20221225133500 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">46 minutes</sub-title>
+    <desc lang="fr">Marshall et Lily, qui ont décidé de déménager à Long Island, passent leur première nuit dans leur maison de banlieue. De leur côté, Ted, Robin, Barney et Kevin essaient tant bien que mal de les oublier. Barney décide de prendre les commandes du groupe à Manhattan, et choisit d'emmener tout le monde dans un club de strip-tease...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <director>Rob Greenberg</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Kal Penn</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105433341" />
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225133500 +0000" stop="20221225135500 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">L'apiculteur en feu</sub-title>
+    <desc lang="fr">C'est la pendaison de crémaillère de la maison de Lily et Marshall. Mais tout va de travers : Ted manque de se battre avec le patron de Marshall, Robin voit Lily paniquer au sujet du gouda, Barney a peur pour l'avenir de son sexe et la dernière lubie du père de Lily cause l'apparition d'un apiculteur enflammé et d'une invasion d'abeilles dans la maison...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <director>Rob Greenberg</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Kal Penn</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105433341" />
+    <episode-num system="onscreen">S7 E15</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225135500 +0000" stop="20221225142500 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">Le train saoul</sub-title>
+    <desc lang="fr">Ted et Barney, désespérés par la Saint-Valentin, apprennent que le dernier train faisant le trajet entre New York et Long Island est rempli de personnes saoules, ouvertes à une relation sans lendemain. Kevin fait sa demande en mariage à Robin, au cours d'un week-end dans le Vermont avec Lily et Marshall...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <director>Rob Greenberg</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Kal Penn</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105433341" />
+    <episode-num system="onscreen">S7 E16</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225142500 +0000" stop="20221225145000 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">Pas de pression</sub-title>
+    <desc lang="fr">Ted dit à Robin qu'il a toujours des sentiments pour elle, mais celle-ci doit partir en Russie pour un reportage. Il se confie alors à Marshall et Lily qui, quelques années plus tôt, ont fait le pari que Robin et Ted ne resteraient pas ensemble. Barney se retrouve ainsi seul dans la maison de ses amis...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <director>Rob Greenberg</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Kal Penn</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105433341" />
+    <episode-num system="onscreen">S7 E17</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225145000 +0000" stop="20221225152000 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">Karma</sub-title>
+    <desc lang="fr">Barney découvre que Quinn est stripteaseuse dans son club favori, alors que Ted cherche de nouveaux hobbies pour compenser l'absence de Robin qui, elle, est partie temporairement vivre chez Marshall et Lily, à Long Island. Mais ni Robin ni Ted ne parviennent à se satisfaire de cette situation...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <director>Rob Greenberg</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Kal Penn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105433341" />
+    <episode-num system="onscreen">S7 E18</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225152000 +0000" stop="20221225154500 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">La mystérieuse confrérie</sub-title>
+    <desc lang="fr">La bande, qui vient d'apprendre que Quinn projette de s'installer chez Barney, fait tout pour briser le couple, allant jusqu'à raconter que la strip-teaseuse utilise Barney pour son argent. Par ailleurs, Robin et Ted se battent pour savoir qui méritera de sous-louer l'appartement à loyer bloqué de Quinn, lorsque celle-ci l'aura quitté...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <director>Rob Greenberg</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Kal Penn</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105433341" />
+    <episode-num system="onscreen">S7 E19</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225154500 +0000" stop="20221225161500 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">L'heure de la trilogie a sonné !</sub-title>
+    <desc lang="fr">Tous les trois ans depuis 2000, Ted et Marshall regardent la trilogie de Star Wars en se demandant comment seront leurs vies dans trois ans. Barney, quant à lui, réalise qu'il veut passer le reste de ses jours aux côtés de Quinn...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <director>Rob Greenberg</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Kal Penn</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105433341" />
+    <episode-num system="onscreen">S7 E20</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225161500 +0000" stop="20221225164000 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">Ex-Aequo !</sub-title>
+    <desc lang="fr">Ted aimerait profiter de sa vie de célibataire et passer ses soirées tranquillement seul chez lui, mais Barney insiste pour qu'il sorte toutes les nuits. Marshall sait que Lily a fait un rêve érotique, mais ignore qui en était le protagoniste. Quant à Robin, elle manque de reconnaissance dans son travail...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <director>Rob Greenberg</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Kal Penn</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105433341" />
+    <episode-num system="onscreen">S7 E21</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225164000 +0000" stop="20221225171000 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">Un trop plein d'amour</sub-title>
+    <desc lang="fr">Lily est énervée par Marshall, qui est trop angoissé par l'arrivée prochaine du bébé. Pendant ce temps, Ted essaye de se remettre de son échec amoureux avec Robin en fréquentant des femmes rencontrées sur Internet, mais il n'arrive pas à l'oublier. Barney, lui, a de plus en plus de mal à accepter le métier de Quinn...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <director>Rob Greenberg</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Kal Penn</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105433341" />
+    <episode-num system="onscreen">S7 E22</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225171000 +0000" stop="20221225173500 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">Le code du magicien</sub-title>
+    <desc lang="fr">Avec l'aide de Barney, Marshall tente désespérément de rentrer à Manhattan pour assister à la naissance de son fils. Ted et Robin, quant à eux, soutiennent Lily : le travail a commencé, et ils tentent de la détendre en lui racontant des anecdotes...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <director>Rob Greenberg</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Kal Penn</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105433341" />
+    <episode-num system="onscreen">S7 E23</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225173500 +0000" stop="20221225180500 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">Le code du magicien</sub-title>
+    <desc lang="fr">La famille Eriksen s'est maintenant agrandie avec l'arrivée de Marvin. Barney, pour se faire pardonner son escapade à Atlantic City, s'échappe avec Quinn en direction de Hawaii. Mais le couple rencontre quelques soucis à l'aéroport, à cause d'un mystérieux colis de Barney. Ted, quant à lui, fait face au passé quand Robin lui suggère de recontacter Victoria...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <director>Rob Greenberg</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Neil Harris</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Kal Penn</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105433341" />
+    <episode-num system="onscreen">S7 E24</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225180500 +0000" stop="20221225183000 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">Farhampton</sub-title>
+    <desc lang="fr">Alors que leur mariage approche, Barney et Robin s'interrogent. La future mariée est anxieuse et envisage de fuir par la fenêtre en robe blanche. Témoin de son atermoiement, Ted tente de la mettre en garde en lui racontant le jour où il avait insisté pour que Victoria laisse un mot à son futur mari, qu'elle prévoyait d'abandonner devant l'autel pour s'enfuir avec lui...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Neil Harris</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Bob Saget</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105281791" />
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225183000 +0000" stop="20221225185500 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">Le contrat de mariage</sub-title>
+    <desc lang="fr">Tout le monde, dans le petit groupe, est en couple. Barney demande à Quinn, sa compagne, de signer un contrat pré-nuptial. Mais le document en question est rempli de clauses extravagantes : la jeune femme s'offusque et rejette la quasi-totalité du contrat. La situation perturbe l'équilibre du couple, et, par ricochet, des autres également...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Neil Harris</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Bob Saget</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105281791" />
+    <episode-num system="onscreen">S8 E2</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225185500 +0000" stop="20221225192500 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">Recherche nounou désespérément</sub-title>
+    <desc lang="fr">Lily, qui doit reprendre le travail, cherche une baby-sitter, tandis que Barney veut faire une nouvelle conquête. Robin et Ted comparent leurs couples.</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Neil Harris</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Bob Saget</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105281791" />
+    <episode-num system="onscreen">S8 E3</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225192500 +0000" stop="20221225200000 +0000" channel="TFX.fr">
+    <title lang="fr">How I Met Your Mother</title>
+    <sub-title lang="fr">Qui veut être parrain ou marraine?</sub-title>
+    <desc lang="fr">Lily et Marshall, dont la vie est totalement et irrémédiablement chamboulée par tous les événements qui ont suivi la naissance du petit Marvin, essaient malgré tout de consacrer un peu de temps à leurs amis. Ted, Robin et Barney, de leur côté, se disputent le rôle très convoité de parrain du nouveau-né...</desc>
+    <credits>
+      <director>Pam Fryman</director>
+      <director>Michael Shea</director>
+      <actor>Josh  Radnor</actor>
+      <actor>Jason Segel</actor>
+      <actor>Neil Harris</actor>
+      <actor>Cobie Smulders</actor>
+      <actor>Alyson Hannigan</actor>
+      <actor>Bob Saget</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105281791" />
+    <episode-num system="onscreen">S8 E4</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225200000 +0000" stop="20221225200500 +0000" channel="TFX.fr">
+    <title lang="fr">Petits plats en équilibre</title>
+    <sub-title lang="fr">Pot au feu</sub-title>
+    <desc lang="fr">Chaque jour, Laurent Mariotte propose des recettes simples et savoureuses pour profiter des ingrédients de saison, en donnant la part belle aux produits locaux.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Gastronomie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100841894" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225200500 +0000" stop="20221225215500 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier de Noël</title>
+    <desc lang="fr">Le rendez-vous incontournable de la fin d'année est de retour avec le meilleur d'Internet, bien emballé, dans une édition encore plus déjantée que les années précédentes. Au programme également les stars de Tik Tok,...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102495333" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225215500 +0000" stop="20221225224000 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier</title>
+    <desc lang="fr">Pour les fêtes de fin d'année, bonne humeur, fous rires et surprises sont au menu du Big Bêtisier présenté par Inès Vandamme. Se succèdent ainsi le meilleur et le plus drôle du Net de ces derniers mois. Quelque 90...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104422530" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225224000 +0000" stop="20221225233500 +0000" channel="TFX.fr">
+    <title lang="fr">Le big bêtisier</title>
+    <desc lang="fr">Au programme de cette soirée, des séquences toujours plus drôles et surprenantes pour un concentré d'humour et de bonne humeur. Fous rires, gaffes, coups de gueules, surprises, imprévus et autres dérapages sont au...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104422530" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
   <channel id="NRJ12.fr">
     <display-name lang="fr">|FR| NRJ 12</display-name>
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/nrj12.png" />
