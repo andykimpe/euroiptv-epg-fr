@@ -31630,6 +31630,1682 @@
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/c8.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
+  <programme start="20221219051900 +0000" stop="20221219054500 +0000" channel="C8.fr">
+    <title lang="fr">Gym direct</title>
+    <sub-title lang="fr">GYM DIRECT (2022-2023) - 92</sub-title>
+    <desc lang="fr">De nouvelles personnalités invitées et toujours autant de vitalité incarnée par Sandrine Arcizet et son équipe de coachs du lundi au vendredi.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68148251" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219054500 +0000" stop="20221219061700 +0000" channel="C8.fr">
+    <title lang="fr">Gym direct</title>
+    <sub-title lang="fr">GYM DIRECT (2022-2023) - 92</sub-title>
+    <desc lang="fr">De nouvelles personnalités invitées et toujours autant de vitalité incarnée par Sandrine Arcizet et son équipe de coachs du lundi au vendredi.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68148251" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219061700 +0000" stop="20221219063200 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219063200 +0000" stop="20221219070100 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219070100 +0000" stop="20221219073100 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219073100 +0000" stop="20221219080100 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219080100 +0000" stop="20221219081900 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219081900 +0000" stop="20221219082200 +0000" channel="C8.fr">
+    <title lang="fr">JT</title>
+    <desc lang="fr">Un rendez-vous d'information synthétique, pour comprendre le monde et les enjeux du moment. Un décodage moderne de l'actualité en quinze minutes d'infos denses et pédagogiques.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402506" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219082200 +0000" stop="20221219082700 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219082700 +0000" stop="20221219101500 +0000" channel="C8.fr">
+    <title lang="fr">Touche pas à mon poste !</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Une bande de joyeux drilles décrypte avec humour l'actualité du petit écran, revenant sur les audiences ou évoquant les nouveautés à venir prochainement. Outre des scoops, différentes chroniques décalées sont également au programme. Comme à son habitude, Cyril Hanouna arbitre les discussions, toujours animées lorsqu'il s'agit de défendre telle émission ou, au contraire, d'en signaler les faiblesses.</desc>
+    <credits>
+      <presenter>Cyril Hanouna</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101617473" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219101500 +0000" stop="20221219123300 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219123300 +0000" stop="20221219123500 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219123500 +0000" stop="20221219175600 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219175600 +0000" stop="20221219180600 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219180600 +0000" stop="20221219201900 +0000" channel="C8.fr">
+    <title lang="fr">Touche pas à mon poste !</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Une bande de joyeux drilles décrypte avec humour l'actualité du petit écran, revenant sur les audiences ou évoquant les nouveautés à venir prochainement. Outre des scoops, différentes chroniques décalées sont également au programme. Comme à son habitude, Cyril Hanouna arbitre les discussions, toujours animées lorsqu'il s'agit de défendre telle émission ou, au contraire, d'en signaler les faiblesses.</desc>
+    <credits>
+      <presenter>Cyril Hanouna</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101617473" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219201900 +0000" stop="20221219222000 +0000" channel="C8.fr">
+    <title lang="fr">La bûche</title>
+    <sub-title lang="fr">Film Comédie dramatique</sub-title>
+    <desc lang="fr">Noël approche. Pour trois soeurs et leurs parents, c'est l'heure de vérité. Louba, la chanteuse, est enceinte de son amant de toujours, marié et déjà père de cinq enfants. Sonia, la bourgeoise, trompe son mari avec un fleuriste. Quant à Milla, la jeune rebelle, elle enchaîne les échecs sentimentaux...</desc>
+    <credits>
+      <director>Danièle Thompson</director>
+      <actor>Sabine Azéma</actor>
+      <actor>Emmanuelle Béart</actor>
+      <actor>Charlotte Gainsbourg</actor>
+      <actor>Claude Rich</actor>
+      <actor>Françoise Fabian</actor>
+      <actor>Christopher Thompson</actor>
+      <writer>Christopher Thompson</writer>
+      <writer>Danièle Thompson</writer>
+      <composer>Michel Legrand</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie dramatique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/89434184" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219222000 +0000" stop="20221219222200 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219222200 +0000" stop="20221220001100 +0000" channel="C8.fr">
+    <title lang="fr">Les 10 desserts préférés : le classement des Français</title>
+    <desc lang="fr">Raphaële Marchal et Yannick Alléno dévoilent le top 10 des desserts préférés des Français à travers un classement issu d'une consultation nationale. Ce duo détonnant décortique les desserts du 10e au 1er avec des...</desc>
+    <credits>
+      <presenter>Raphaële Marchal</presenter>
+      <presenter>Yannick Alléno</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106095462" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220001100 +0000" stop="20221220015900 +0000" channel="C8.fr">
+    <title lang="fr">Les 10 plats préférés, le classement des Français</title>
+    <sub-title lang="fr">LE PLAT PREFERE DES FRANCAIS</sub-title>
+    <desc lang="fr">La journaliste gastronomique Raphaële Marchal et le maestro des fourneaux Yannick Alléno dévoilent le classement des dix plats préférés des Français établi grâce à grande consultation nationale. Tout au long de la...</desc>
+    <credits>
+      <presenter>Raphaële Marchal</presenter>
+      <presenter>Yannick Alléno</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106095462" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220015900 +0000" stop="20221220050000 +0000" channel="C8.fr">
+    <title lang="fr">Meghan &amp; Harry : panique à Buckingham</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">L'annonce début 2020 du souhait de Meghan et Harry de se retirer en partie de la Couronne a secoué le palais de Buckingham. De plus, le couple désire vivre au Canada six mois par an et envisage de travailler. La Reine aurait été informée de cette nouvelle par la presse. Des journalistes et historiens commentent ce choix audacieux et ses conséquences au sein de la famille royale britannique.</desc>
+    <credits>
+      <director>Julien Pot</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105524913" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220050000 +0000" stop="20221220053000 +0000" channel="C8.fr">
+    <title lang="fr">Gym direct</title>
+    <sub-title lang="fr">Mhd Workout mobilité</sub-title>
+    <desc lang="fr">De nouvelles personnalités invitées et toujours autant de vitalité incarnée par Sandrine Arcizet et son équipe de coachs du lundi au vendredi.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68148251" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220053000 +0000" stop="20221220060000 +0000" channel="C8.fr">
+    <title lang="fr">Gym direct</title>
+    <sub-title lang="fr">Circuit bas du corps</sub-title>
+    <desc lang="fr">De nouvelles personnalités invitées et toujours autant de vitalité incarnée par Sandrine Arcizet et son équipe de coachs du lundi au vendredi.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68148251" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220060000 +0000" stop="20221220063000 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220063000 +0000" stop="20221220070000 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220070000 +0000" stop="20221220073000 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220073000 +0000" stop="20221220074100 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220074100 +0000" stop="20221220074400 +0000" channel="C8.fr">
+    <title lang="fr">JT</title>
+    <desc lang="fr">Un rendez-vous d'information synthétique, pour comprendre le monde et les enjeux du moment. Un décodage moderne de l'actualité en quinze minutes d'infos denses et pédagogiques.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402506" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220074400 +0000" stop="20221220074900 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220074900 +0000" stop="20221220101500 +0000" channel="C8.fr">
+    <title lang="fr">Touche pas à mon poste !</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Une bande de joyeux drilles décrypte avec humour l'actualité du petit écran, revenant sur les audiences ou évoquant les nouveautés à venir prochainement. Outre des scoops, différentes chroniques décalées sont également au programme. Comme à son habitude, Cyril Hanouna arbitre les discussions, toujours animées lorsqu'il s'agit de défendre telle émission ou, au contraire, d'en signaler les faiblesses.</desc>
+    <credits>
+      <presenter>Cyril Hanouna</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101617473" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220101500 +0000" stop="20221220115700 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220115700 +0000" stop="20221220120000 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220120000 +0000" stop="20221220175800 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220175800 +0000" stop="20221220180800 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220180800 +0000" stop="20221220202000 +0000" channel="C8.fr">
+    <title lang="fr">Touche pas à mon poste !</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Une bande de joyeux drilles décrypte avec humour l'actualité du petit écran, revenant sur les audiences ou évoquant les nouveautés à venir prochainement. Outre des scoops, différentes chroniques décalées sont également au programme. Comme à son habitude, Cyril Hanouna arbitre les discussions, toujours animées lorsqu'il s'agit de défendre telle émission ou, au contraire, d'en signaler les faiblesses.</desc>
+    <credits>
+      <presenter>Cyril Hanouna</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101617473" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220202000 +0000" stop="20221220215800 +0000" channel="C8.fr">
+    <title lang="fr">La magie de Noël à Disneyland : les plus grands secrets enfin révélés !</title>
+    <sub-title lang="fr">Divertissement</sub-title>
+    <desc lang="fr">Voix française de la Fée clochette, Lorie Pester invite à découvrir les coulisses de Noël à Disneyland pour plonger au coeur de la machine à rêves.</desc>
+    <credits>
+      <presenter>Lorie Pester</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103576309" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220215800 +0000" stop="20221220215900 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220215900 +0000" stop="20221221012500 +0000" channel="C8.fr">
+    <title lang="fr">La magie Disney, les plus grands secrets enfin révélés</title>
+    <sub-title lang="fr">Divertissement</sub-title>
+    <desc lang="fr">Depuis Disneyland Paris, Elodie Frégé emmène les téléspectateurs à la découverte de l'incroyable univers crée par Walt Disney.</desc>
+    <credits>
+      <presenter>Elodie Frégé</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103368298" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221012500 +0000" stop="20221221050000 +0000" channel="C8.fr">
+    <title lang="fr">Les Bronzés : les secrets de 40 ans d'amitié et de succès</title>
+    <sub-title lang="fr">Doc. Cinéma</sub-title>
+    <desc lang="fr">Il y a 40 ans, le premier volet de la saga culte des «Bronzés» sortait au cinéma. Rapidement, répliques et personnages sont devenus mythiques. Comment Christian Clavier, Gérard Jugnot, Thierry Lhermitte, Michel Blanc, Josiane Balasko, Marie-Anne Chazel et Dominique Lavanant ont-ils eu l'idée d'écrire ces films ? Retour également sur la réaction de cette bande d'amis d'école face au succès comme aux violentes critiques.</desc>
+    <credits>
+      <director>Laurline Danguy des Déserts</director>
+      <director>Déborah Uzan-Diamant</director>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Doc Cinema</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103102567" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221050000 +0000" stop="20221221053000 +0000" channel="C8.fr">
+    <title lang="fr">Gym direct</title>
+    <sub-title lang="fr">Chili Shape routine pimentée</sub-title>
+    <desc lang="fr">De nouvelles personnalités invitées et toujours autant de vitalité incarnée par Sandrine Arcizet et son équipe de coachs du lundi au vendredi.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68148251" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221053000 +0000" stop="20221221061100 +0000" channel="C8.fr">
+    <title lang="fr">Gym direct</title>
+    <sub-title lang="fr">Renforcer ses abdos</sub-title>
+    <desc lang="fr">De nouvelles personnalités invitées et toujours autant de vitalité incarnée par Sandrine Arcizet et son équipe de coachs du lundi au vendredi.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68148251" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221061100 +0000" stop="20221221062800 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221062800 +0000" stop="20221221064600 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221064600 +0000" stop="20221221070300 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221070300 +0000" stop="20221221072100 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221072100 +0000" stop="20221221074100 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221074100 +0000" stop="20221221074400 +0000" channel="C8.fr">
+    <title lang="fr">JT</title>
+    <desc lang="fr">Un rendez-vous d'information synthétique, pour comprendre le monde et les enjeux du moment. Un décodage moderne de l'actualité en quinze minutes d'infos denses et pédagogiques.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402506" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221074400 +0000" stop="20221221074900 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221074900 +0000" stop="20221221080000 +0000" channel="C8.fr">
+    <title lang="fr">Touche pas à mon poste !</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Une bande de joyeux drilles décrypte avec humour l'actualité du petit écran, revenant sur les audiences ou évoquant les nouveautés à venir prochainement. Outre des scoops, différentes chroniques décalées sont également au programme. Comme à son habitude, Cyril Hanouna arbitre les discussions, toujours animées lorsqu'il s'agit de défendre telle émission ou, au contraire, d'en signaler les faiblesses.</desc>
+    <credits>
+      <presenter>Cyril Hanouna</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101617473" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221080000 +0000" stop="20221221081000 +0000" channel="C8.fr">
+    <title lang="fr">JT</title>
+    <desc lang="fr">Un rendez-vous d'information synthétique, pour comprendre le monde et les enjeux du moment. Un décodage moderne de l'actualité en quinze minutes d'infos denses et pédagogiques.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402506" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221081000 +0000" stop="20221221101500 +0000" channel="C8.fr">
+    <title lang="fr">Touche pas à mon poste !</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Une bande de joyeux drilles décrypte avec humour l'actualité du petit écran, revenant sur les audiences ou évoquant les nouveautés à venir prochainement. Outre des scoops, différentes chroniques décalées sont...</desc>
+    <credits>
+      <presenter>Cyril Hanouna</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101617473" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221101500 +0000" stop="20221221115600 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221115600 +0000" stop="20221221115900 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221115900 +0000" stop="20221221175800 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221175800 +0000" stop="20221221180800 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221180800 +0000" stop="20221221202000 +0000" channel="C8.fr">
+    <title lang="fr">Touche pas à mon poste !</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Une bande de joyeux drilles décrypte avec humour l'actualité du petit écran, revenant sur les audiences ou évoquant les nouveautés à venir prochainement. Outre des scoops, différentes chroniques décalées sont également au programme.</desc>
+    <credits>
+      <presenter>Cyril Hanouna</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101617473" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221202000 +0000" stop="20221221221000 +0000" channel="C8.fr">
+    <title lang="fr">Les Chevaliers du Fiel dynamitent 2022</title>
+    <sub-title lang="fr">Spectacle Humour</sub-title>
+    <desc lang="fr">Spectacle. Humour. Avec Eric Carrière, Francis Ginibre.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Spectacle Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108233561" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221221000 +0000" stop="20221221222200 +0000" channel="C8.fr">
+    <title lang="fr">Les Chevaliers du fiel dynamitent 2021</title>
+    <sub-title lang="fr">Spectacle Humour</sub-title>
+    <desc lang="fr">Les Chevaliers du Fiel repartent à la guerre du rire et dressent leur bilan d'une année particulière et encore une fois en partie confinée...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Spectacle Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103048089" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221222200 +0000" stop="20221221235000 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221235000 +0000" stop="20221222050000 +0000" channel="C8.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222050000 +0000" stop="20221222053000 +0000" channel="C8.fr">
+    <title lang="fr">Gym direct</title>
+    <sub-title lang="fr">Cardio renfo niveau</sub-title>
+    <desc lang="fr">De nouvelles personnalités invitées et toujours autant de vitalité incarnée par Sandrine Arcizet et son équipe de coachs du lundi au vendredi.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68148251" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222053000 +0000" stop="20221222060000 +0000" channel="C8.fr">
+    <title lang="fr">Gym direct</title>
+    <sub-title lang="fr">Mobilité du bassin</sub-title>
+    <desc lang="fr">De nouvelles personnalités invitées et toujours autant de vitalité incarnée par Sandrine Arcizet et son équipe de coachs du lundi au vendredi.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68148251" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222060000 +0000" stop="20221222063000 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222063000 +0000" stop="20221222070000 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222070000 +0000" stop="20221222073000 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222073000 +0000" stop="20221222074100 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222074100 +0000" stop="20221222074400 +0000" channel="C8.fr">
+    <title lang="fr">JT</title>
+    <desc lang="fr">Un rendez-vous d'information synthétique, pour comprendre le monde et les enjeux du moment. Un décodage moderne de l'actualité en quinze minutes d'infos denses et pédagogiques.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402506" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222074400 +0000" stop="20221222074900 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222074900 +0000" stop="20221222101500 +0000" channel="C8.fr">
+    <title lang="fr">Touche pas à mon poste !</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Une bande de joyeux drilles décrypte avec humour l'actualité du petit écran, revenant sur les audiences ou évoquant les nouveautés à venir prochainement. Outre des scoops, différentes chroniques décalées sont également au programme.</desc>
+    <credits>
+      <presenter>Cyril Hanouna</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101617473" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222101500 +0000" stop="20221222115600 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222115600 +0000" stop="20221222120000 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222120000 +0000" stop="20221222180000 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222180000 +0000" stop="20221222180900 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222180900 +0000" stop="20221222195000 +0000" channel="C8.fr">
+    <title lang="fr">Touche pas à mon poste !</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Une bande de joyeux drilles décrypte avec humour l'actualité du petit écran, revenant sur les audiences ou évoquant les nouveautés à venir prochainement. Outre des scoops, différentes chroniques décalées sont également au programme.</desc>
+    <credits>
+      <presenter>Cyril Hanouna</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101617473" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222195000 +0000" stop="20221222214100 +0000" channel="C8.fr">
+    <title lang="fr">Toulon / Lyon</title>
+    <sub-title lang="fr">Top 14 - 13e journée</sub-title>
+    <desc lang="fr">Le LOU se déplace à Mayol pour défier le RCT, et peut-être grappiller de précieux points afin de mettre la pression sur le Racing 92, le Stade Rochelais et le Stade Toulousain, trois clubs qui sont devant au classement. De leur coté, les Varois du RCT aimeraient bien poursuivre sur leur bonne dynamique, comme en témoignait leur victoire contre le Stade Français lors de la 11e journée. Pierre Mignoni et ses hommes vont-ils s'offrir une victoire à domicile lors de cette 13e journée ou les Lyonnais de Xavier Garbajosa vont-ils venir faire un coup dans le Sud ?</desc>
+    <date>2022</date>
+    <category lang="fr">Sport</category>
+    <category lang="fr">Rugby</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108539213" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222214100 +0000" stop="20221222220000 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222220000 +0000" stop="20221222234000 +0000" channel="C8.fr">
+    <title lang="fr">Jeudi reportage</title>
+    <sub-title lang="fr">Jeudi Reportage</sub-title>
+    <desc lang="fr">Pompiers, secouristes, gendarmes ou policiers interviennent dans des situations tendues voire dangereuses. Malgré les difficultés inhérentes à leur profession, ils exercent leur métier avec passion, se démenant pour...</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100024522" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221222234000 +0000" stop="20221223050000 +0000" channel="C8.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223050000 +0000" stop="20221223053000 +0000" channel="C8.fr">
+    <title lang="fr">Gym direct</title>
+    <sub-title lang="fr">Gym direct</sub-title>
+    <desc lang="fr">De nouvelles personnalités invitées et toujours autant de vitalité incarnée par Sandrine Arcizet et son équipe de coachs du lundi au vendredi.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68148251" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223053000 +0000" stop="20221223060000 +0000" channel="C8.fr">
+    <title lang="fr">Gym direct</title>
+    <sub-title lang="fr">Gym direct</sub-title>
+    <desc lang="fr">De nouvelles personnalités invitées et toujours autant de vitalité incarnée par Sandrine Arcizet et son équipe de coachs du lundi au vendredi.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68148251" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223060000 +0000" stop="20221223063000 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223063000 +0000" stop="20221223070000 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223070000 +0000" stop="20221223073000 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223073000 +0000" stop="20221223074100 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223074100 +0000" stop="20221223074400 +0000" channel="C8.fr">
+    <title lang="fr">JT</title>
+    <desc lang="fr">Un rendez-vous d'information synthétique, pour comprendre le monde et les enjeux du moment. Un décodage moderne de l'actualité en quinze minutes d'infos denses et pédagogiques.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402506" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223074400 +0000" stop="20221223083600 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223083600 +0000" stop="20221223101500 +0000" channel="C8.fr">
+    <title lang="fr">Touche pas à mon poste !</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Une bande de joyeux drilles décrypte avec humour l'actualité du petit écran, revenant sur les audiences ou évoquant les nouveautés à venir prochainement. Outre des scoops, différentes chroniques décalées sont également au programme.</desc>
+    <credits>
+      <presenter>Cyril Hanouna</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101617473" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223101500 +0000" stop="20221223124400 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223124400 +0000" stop="20221223124700 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223124700 +0000" stop="20221223182100 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223182100 +0000" stop="20221223202000 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223202000 +0000" stop="20221223215800 +0000" channel="C8.fr">
+    <title lang="fr">En attendant Noël</title>
+    <sub-title lang="fr">Variétés</sub-title>
+    <desc lang="fr">Cette soirée permet de partager l'émotion et la magie de Noël au travers des plus grands succès interprétés par des artistes de légende. Joe Dassin, Céline Dion, Johnny Hallyday, Andrea Bocelli, Mariah Carey mais...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Varietes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108453498" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223215800 +0000" stop="20221223221000 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223221000 +0000" stop="20221223233000 +0000" channel="C8.fr">
+    <title lang="fr">Les petits chanteurs de Saint-Marc</title>
+    <sub-title lang="fr">Concert Classique</sub-title>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Classique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108453525" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223233000 +0000" stop="20221224004000 +0000" channel="C8.fr">
+    <title lang="fr">Max Zita &amp; Gospel Voices</title>
+    <sub-title lang="fr">Concert Blues &amp; Soul</sub-title>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Blues  Soul</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108453551" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224004000 +0000" stop="20221224060000 +0000" channel="C8.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224060000 +0000" stop="20221224080500 +0000" channel="C8.fr">
+    <title lang="fr">Télé-achat</title>
+    <desc lang="fr">Un magazine pour le consommateur qui fait découvrir son choix des promotions quotidiennes et une sélection des meilleures ventes. Découvrez les meilleurs produits à des prix imbattables.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106655026" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224080500 +0000" stop="20221224080800 +0000" channel="C8.fr">
+    <title lang="fr">JT</title>
+    <desc lang="fr">Un rendez-vous d'information synthétique, pour comprendre le monde et les enjeux du moment. Un décodage moderne de l'actualité en quinze minutes d'infos denses et pédagogiques.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402506" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224080800 +0000" stop="20221224081000 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224081000 +0000" stop="20221224124000 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224124000 +0000" stop="20221224182000 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224182000 +0000" stop="20221224200900 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224200900 +0000" stop="20221224201500 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224201500 +0000" stop="20221224220000 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Rendez-vous incontournable de la fin de l'année, le grand bêtisier de Noël propose de retrouver des séquences aussi drôles que folles. Des plateaux d'émissions de télévision qui partent en vrille, des stars en folie, une avalanche de chutes mémorables, un concours de lumières, des animaux encore plus dingues que leurs maîtres ou des fous de dérapages pas toujours contrôlés composent le sommaire de cette émission à partager de 7 à 77 ans.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224220000 +0000" stop="20221224235000 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Rien de tel qu'un bêtisier pour réunir toute la famille devant la télévision. Les facéties ne manquent pas dans ce programme où des héros, souvent involontairement, multiplient les chutes, les dérapages et autres fous rires d'anthologie. Les animaux et les enfants ne sont pas en reste et suscitent également l'hilarité. Parfois, ce sont des plaisantins qui se font prendre à leur propre jeu ou alors des émissions qui prennent un tour inattendu sous l'effet de lapsus, de candidats survoltés ou de présentateurs totalement dépassés par des concours de circonstances incongrus.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224235000 +0000" stop="20221225055000 +0000" channel="C8.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225055000 +0000" stop="20221225060000 +0000" channel="C8.fr">
+    <title lang="fr">JT</title>
+    <desc lang="fr">Un rendez-vous d'information synthétique, pour comprendre le monde et les enjeux du moment. Un décodage moderne de l'actualité en quinze minutes d'infos denses et pédagogiques.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402506" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225060000 +0000" stop="20221225065000 +0000" channel="C8.fr">
+    <title lang="fr">The Chosen</title>
+    <sub-title lang="fr">THE CHOSEN - SAISON 2</sub-title>
+    <desc lang="fr">Alors que Jésus est de plus en plus populaire en Samarie, où il continue d'enseigner, des tensions apparaissent au sein de la communauté des disciples. Le Christ reproche à Jean et son frère Jacques les préjugés qu'ils émettent. Après une rencontre houleuse, il leur donne de nouveaux surnoms.</desc>
+    <credits>
+      <director>Dallas Jenkins</director>
+      <actor>Shahar Isaac</actor>
+      <actor>Jonathan Roumie</actor>
+      <actor>Paras Patel</actor>
+      <actor>Liz Tabish</actor>
+      <actor>Noah James</actor>
+      <actor>Yasmine Al Massri</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108471501" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225065000 +0000" stop="20221225074000 +0000" channel="C8.fr">
+    <title lang="fr">The Chosen</title>
+    <sub-title lang="fr">THE CHOSEN - SAISON 2</sub-title>
+    <desc lang="fr">Alors que Jésus est de plus en plus populaire en Samarie, où il continue d'enseigner, des tensions apparaissent au sein de la communauté des disciples. Le Christ reproche à Jean et son frère Jacques les préjugés qu'ils émettent. Après une rencontre houleuse, il leur donne de nouveaux surnoms.</desc>
+    <credits>
+      <director>Dallas Jenkins</director>
+      <actor>Shahar Isaac</actor>
+      <actor>Jonathan Roumie</actor>
+      <actor>Paras Patel</actor>
+      <actor>Liz Tabish</actor>
+      <actor>Noah James</actor>
+      <actor>Yasmine Al Massri</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108471501" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225074000 +0000" stop="20221225083000 +0000" channel="C8.fr">
+    <title lang="fr">The Chosen</title>
+    <sub-title lang="fr">THE CHOSEN - SAISON 2</sub-title>
+    <desc lang="fr">Alors que Jésus est de plus en plus populaire en Samarie, où il continue d'enseigner, des tensions apparaissent au sein de la communauté des disciples. Le Christ reproche à Jean et son frère Jacques les préjugés qu'ils émettent. Après une rencontre houleuse, il leur donne de nouveaux surnoms.</desc>
+    <credits>
+      <director>Dallas Jenkins</director>
+      <actor>Shahar Isaac</actor>
+      <actor>Jonathan Roumie</actor>
+      <actor>Paras Patel</actor>
+      <actor>Liz Tabish</actor>
+      <actor>Noah James</actor>
+      <actor>Yasmine Al Massri</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108471501" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225083000 +0000" stop="20221225092400 +0000" channel="C8.fr">
+    <title lang="fr">The Chosen</title>
+    <sub-title lang="fr">THE CHOSEN - SAISON 2</sub-title>
+    <desc lang="fr">Alors que Jésus est de plus en plus populaire en Samarie, où il continue d'enseigner, des tensions apparaissent au sein de la communauté des disciples. Le Christ reproche à Jean et son frère Jacques les préjugés qu'ils émettent. Après une rencontre houleuse, il leur donne de nouveaux surnoms.</desc>
+    <credits>
+      <director>Dallas Jenkins</director>
+      <actor>Shahar Isaac</actor>
+      <actor>Jonathan Roumie</actor>
+      <actor>Paras Patel</actor>
+      <actor>Liz Tabish</actor>
+      <actor>Noah James</actor>
+      <actor>Yasmine Al Massri</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108471501" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225092400 +0000" stop="20221225092500 +0000" channel="C8.fr">
+    <title lang="fr">JT</title>
+    <desc lang="fr">Un rendez-vous d'information synthétique, pour comprendre le monde et les enjeux du moment. Un décodage moderne de l'actualité en quinze minutes d'infos denses et pédagogiques.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402506" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225092500 +0000" stop="20221225093000 +0000" channel="C8.fr">
+    <title lang="fr">L'éphéméride</title>
+    <sub-title lang="fr">L'éphéméride</sub-title>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108002516" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225093000 +0000" stop="20221225112000 +0000" channel="C8.fr">
+    <title lang="fr">Messe de Noël</title>
+    <desc lang="fr">Avec la participation de : Louis Daufresne.</desc>
+    <credits>
+      <presenter>Louis Daufresne</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103845805" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225112000 +0000" stop="20221225201500 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225201500 +0000" stop="20221225220000 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier Home Vidéo</title>
+    <desc lang="fr">Les plus belles chutes de l'année, des plateaux télévisés qui partent en vrille, à cause de candidats loufoque ou d'incidents techniques, des fidèles compagnons déchaînés ou encore des blagueurs qui filment leurs...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107755494" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225220000 +0000" stop="20221225235000 +0000" channel="C8.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Images cultes et séquences 100% inédites sont à retrouver dans ce bêtisier, avec des chutes incroyables, des animaux drôles et surprenants, des plateaux TV qui partent en vrille, des fous rires d'anthologie, des...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
   <channel id="W9.fr">
     <display-name lang="fr">|FR| W9</display-name>
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/w9.png" />
