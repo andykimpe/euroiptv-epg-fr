@@ -28153,6 +28153,3478 @@
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/arte.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
+  <programme start="20221219054000 +0000" stop="20221219061000 +0000" channel="ARTE.fr">
+    <title lang="fr">Cuisines des terroirs</title>
+    <sub-title lang="fr">Le Wienerwald, Autriche</sub-title>
+    <desc lang="fr">Le massif du Wienerwald, dans les Préalpes autrichiennes, est propice à l'un des arbres les plus rares d'Europe : l'alisier torminal, dont les baies sont utilisées en cuisine.</desc>
+    <date>2019</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Gastronomie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104458519" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219061000 +0000" stop="20221219061500 +0000" channel="ARTE.fr">
+    <title lang="fr">ARTE Journal Junior</title>
+    <sub-title lang="fr">Émission du 2022-12-19</sub-title>
+    <desc lang="fr">Le JT matinal et quotidien de six minutes pour les 10-14 ans.</desc>
+    <date>2022</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Mag Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/61772397" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219061500 +0000" stop="20221219071000 +0000" channel="ARTE.fr">
+    <title lang="fr">Estonie, les secrets d'un mariage réussi</title>
+    <sub-title lang="fr">Estonie, les secrets d'un mariage réussi</sub-title>
+    <desc lang="fr">En Estonie, l'arrivée de l'été marque le début de la saison des mariages : pour s'assurer un moment inoubliable, les amoureux ne laissent rien au hasard.</desc>
+    <date>2017</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/88781202" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219071000 +0000" stop="20221219075500 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage</title>
+    <sub-title lang="fr">James Bond dans le Tyrol / Chypre / Hokkaido</sub-title>
+    <desc lang="fr">Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. Gertrudis Gomez de Avellaneda, la scandaleuse de Cuba - En Palestine, Jéricho la miraculeuse - En Croatie, le gâteau à...</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104093923" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219075500 +0000" stop="20221219082500 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage : Nos épopées</title>
+    <sub-title lang="fr">Reines badass</sub-title>
+    <desc lang="fr">Linda Lorin nous offre un supplément d'évasion. Au Bénin, les fières amazones du Dahomey ; Lakshmi Bai, une héroïne indienne.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107582240" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219082500 +0000" stop="20221219092000 +0000" channel="ARTE.fr">
+    <title lang="fr">Canada, le vieil homme et la rivière</title>
+    <sub-title lang="fr">Doc. Voyage</sub-title>
+    <desc lang="fr">La forêt du Grand Ours, dans le Grand Nord canadien, possède d'innombrables cours d'eau. Stan Hutchings y observe la migration des saumons.</desc>
+    <credits>
+      <director>Rosie Koch</director>
+      <director>Roland Gockel</director>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1663" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219092000 +0000" stop="20221219101500 +0000" channel="ARTE.fr">
+    <title lang="fr">Birmanie : les sculpteurs de marbre de Mandalay</title>
+    <sub-title lang="fr">Birmanie, les sculpteurs de marbre de Mandalay</sub-title>
+    <desc lang="fr">Pour satisfaire la demande des temples bouddhistes de l'Asie entière, les artisans de la région de Mandalay fabriquent des milliers de Bouddha en marbre blanc.</desc>
+    <date>2017</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/88781202" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219101500 +0000" stop="20221219110500 +0000" channel="ARTE.fr">
+    <title lang="fr">Huskies, top départ !</title>
+    <sub-title lang="fr">Huskies, top départ !</sub-title>
+    <desc lang="fr">En cinq participations à la Finnmarkslopet, la course de chiens de traîneaux la plus longue d'Europe, la Norvégienne Marit Beate Kasin, s'est hissée deux fois sur le podium.</desc>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/88781202" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219110500 +0000" stop="20221219120000 +0000" channel="ARTE.fr">
+    <title lang="fr">Vatican, en coulisse avec les gardes suisses</title>
+    <sub-title lang="fr">Vatican, en coulisse avec les Gardes suisses</sub-title>
+    <desc lang="fr">Depuis 1506, la Garde suisse, plus petite armée du monde, assure la protection du pape et de sa résidence. Ses méthodes ont toutefois beaucoup évolué. Derrière le traditionnel uniforme de style Renaissance se cachent aujourd'hui de jeunes Suisses bien entraînés, prêts à donner leur vie pour garantir la sécurité du pape.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/88781202" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219120000 +0000" stop="20221219123500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte regards</title>
+    <sub-title lang="fr">Les Néerlandais et leur héritage colonial</sub-title>
+    <desc lang="fr">En 1863, les Pays-Bas abolissent l'esclavage et leur immense empire aux multiples colonies en Asie, en Afrique et en Amérique du Sud s'effondre. Alors que les Néerlandais caucasiens se souviennent surtout de l'époque glorieuse, les descendants des esclaves et des colonisés exigent un travail de mémoire.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907960" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219123500 +0000" stop="20221219143000 +0000" channel="ARTE.fr">
+    <title lang="fr">Capitaine sans peur</title>
+    <sub-title lang="fr">Film Aventure</sub-title>
+    <desc lang="fr">Au début du XIXe siècle, l'Angleterre est en guerre contre la France et l'Espagne. Le capitaine britannique Horatio Hornblower, à bord du Lydia, vogue vers le Pacifique. Au large du Nicaragua, il prend contact avec un rebelle dressé contre Napoléon et accepte de s'emparer d'un navire espagnol...</desc>
+    <credits>
+      <director>Raoul Walsh</director>
+      <actor>Gregory Peck</actor>
+      <actor>Virginia Mayo</actor>
+      <actor>Robert Beatty</actor>
+      <actor>Terence Morgan</actor>
+      <actor>Chistopher Lee</actor>
+      <actor>Moultrie Kelsall</actor>
+      <writer>Ivan Goff</writer>
+      <writer>Ben Roberts</writer>
+      <writer>Aeneas MacKenzie</writer>
+      <composer>Robert Farnon</composer>
+    </credits>
+    <date>1951</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Aventure</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108332345" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219143000 +0000" stop="20221219145500 +0000" channel="ARTE.fr">
+    <title lang="fr">Des volcans et des hommes</title>
+    <sub-title lang="fr">Auvergne : les mystères des géants endormis</sub-title>
+    <desc lang="fr">Derrière leur apparence paisible, les volcans d'Auvergne cachent un passé tumultueux. Arnaud voyage en ballon au-dessus d'eux avec le volcanologue Pierre Boivin.</desc>
+    <credits>
+      <director>David Perrier</director>
+      <director>Jean-Luc Guidoin</director>
+      <director>Guy Beauché</director>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103099553" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219145500 +0000" stop="20221219162500 +0000" channel="ARTE.fr">
+    <title lang="fr">Monuments éternels</title>
+    <sub-title lang="fr">Les secrets du Colisée</sub-title>
+    <desc lang="fr">Au premier siècle après J.-C., l'édification du Colisée (achevé en 80) a ouvert une nouvelle dimension dans la vie d'une cité moderne. Plus impressionnant édifice jamais construit par les bâtisseurs de l'Antiquité, le Colisée symbolise la gloire de l'Empire romain tout en réussissant la synthèse des savoirs architecturaux de l'époque. C'est l'empereur Vespasien qui initie le projet de l'amphithéâtre.</desc>
+    <credits>
+      <director>Gary Glassman</director>
+      <director>Olivier Julien</director>
+      <director>Pascal Cuissot</director>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Civilisations</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/95465578" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219162500 +0000" stop="20221219171000 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage</title>
+    <sub-title lang="fr">Paula Modersohn-Becker / La Grenade / Cambodge</sub-title>
+    <desc lang="fr">Au sommaire : La Basse-Saxe dénudée de Paula Modersohn-Becker. - La Grenade, des kilts dans les Caraïbes. - A Madère, le gâteau au miel de Ligia. - Le temple du Baphuon, monumental casse-tête cambodgien.</desc>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907959" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219171000 +0000" stop="20221219180000 +0000" channel="ARTE.fr">
+    <title lang="fr">Les Pyrénées secrètes</title>
+    <sub-title lang="fr">La genette, discrète du piémont</sub-title>
+    <desc lang="fr">Petit mammifère nocturne au pelage de léopard et à la queue annelée, l'agile genette se cache au pied du piémont, dans les replis des contreforts pyrénéens. Sans domicile fixe, sauf en période de gestation, la genette dort durant la journée, accrochée aux arbres ou nichée dans les rochers. Au fil des saisons, entre bocages, forêts, falaises et rivières, ce discret prédateur et formidable grimpeur cohabite avec d'autres espèces, en tentant d'échapper au regard de l'humain.</desc>
+    <credits>
+      <director>Alwa Deluze</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108463811" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219180000 +0000" stop="20221219184500 +0000" channel="ARTE.fr">
+    <title lang="fr">Natura Europa</title>
+    <sub-title lang="fr">Quand passent les oiseaux</sub-title>
+    <desc lang="fr">Dès la fin de l'été, les oiseaux migrateurs sont contraints de quitter le Grand Nord pour gagner des régions plus hospitalières. Une épopée de plusieurs milliers de kilomètres qui conduit limicoles, échassiers et passereaux par millions à traverser l'Europe. Cet extraordinaire phénomène naturel qui rythme les saisons est aujourd'hui menacé en raison de l'emprise croissante des humains sur la nature.</desc>
+    <credits>
+      <director>Nigel Pope</director>
+      <director>Thierry Ragobert</director>
+      <director>Michael Schlamberger</director>
+      <director>John Murray</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470692" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219184500 +0000" stop="20221219190500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte journal</title>
+    <sub-title lang="fr">19/12/2022</sub-title>
+    <desc lang="fr">Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102522418" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219190500 +0000" stop="20221219194800 +0000" channel="ARTE.fr">
+    <title lang="fr">28 minutes</title>
+    <sub-title lang="fr">Émission du 2022-12-19</sub-title>
+    <desc lang="fr">Présenté par Élisabeth Quin, le rendez-vous quotidien consacré à l’actualité et au débat.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102633572" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219194800 +0000" stop="20221219195500 +0000" channel="ARTE.fr">
+    <title lang="fr">50 nuances de Grecs</title>
+    <sub-title lang="fr">Ecce mytho</sub-title>
+    <desc lang="fr">Accueillir un correspondant étranger issu du monothéisme sur l'Olympe est peut-être une bonne idée, mais Jésus saura-t-il s'adapter aux mœurs mythologiques ?</desc>
+    <credits>
+      <director>Mathieu Signolet</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108340091" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219195500 +0000" stop="20221219224000 +0000" channel="ARTE.fr">
+    <title lang="fr">Le guépard</title>
+    <sub-title lang="fr">Film Drame</sub-title>
+    <desc lang="fr">En 1860, Garibaldi débarque en Sicile pour renverser les Bourbons. Tancrède, neveu du prince Salina et jeune homme ambitieux, se bat aux côtés des républicains, décidés à frayer un chemin au régime constitutionnel de Victor-Emmanuel, le roi de Piémont-Sardaigne. Salina soutient hardiment son neveu...</desc>
+    <credits>
+      <director>Luchino Visconti</director>
+      <actor>Burt Lancaster</actor>
+      <actor>Claudia Cardinale</actor>
+      <actor>Alain Delon</actor>
+      <actor>Paolo Stoppa</actor>
+      <actor>Rina Morelli</actor>
+      <actor>Romolo Valli</actor>
+      <writer>Suso Cecchi D'Amico</writer>
+      <writer>Pasquale Festa Campanile</writer>
+      <writer>Enrico Medioli</writer>
+      <writer>Massimo Franciosa</writer>
+      <composer>Nino Rota</composer>
+    </credits>
+    <date>1963</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/94126481" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219224000 +0000" stop="20221219233500 +0000" channel="ARTE.fr">
+    <title lang="fr">Le guépard : L'histoire d'un grand roman</title>
+    <sub-title lang="fr">Doc. Culture</sub-title>
+    <desc lang="fr">Issu de l'aristocratie sicilienne, Giuseppe Tomasi di Lampedusa a grandi entouré de livres et dans l'ombre d'une mère possessive. Son épouse, Alexandra von Wolff-Stomersee, une psychanalyste germano-balte rencontrée lors d'un voyage en Lettonie après la Première Guerre mondiale, l'encourage à écrire Le Guépard, son seul roman et un succès mondial, porté à l'écran par Luchino Visconti en 1963.</desc>
+    <credits>
+      <director>Luigi Falorni</director>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102591606" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219233500 +0000" stop="20221220003500 +0000" channel="ARTE.fr">
+    <title lang="fr">Fellini des esprits</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">A partir de Huit et demi, le cinéma de Federico Fellini s'éloigne du réalisme pour intégrer des manifestations de l'imaginaire. Ce tournant a été favorisé par sa découverte de la pensée de Carl Jung. Les films à venir de Fellini vont se faire l'écho de cette vision du monde. En explorant sa passion pour ce qu'il nommait le mystère, ce documentaire propose un portrait de Fellini hors des sentiers battus.</desc>
+    <credits>
+      <director>Selma Dell'Olio</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108463821" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220003500 +0000" stop="20221220024000 +0000" channel="ARTE.fr">
+    <title lang="fr">El reino</title>
+    <sub-title lang="fr">Film Suspense</sub-title>
+    <desc lang="fr">Manuel López-Vidal, vice-secrétaire régional d'un parti politique, est sur le point de satisfaire son ambition en obtenant un mandat au niveau national. Or, les médias ont des preuves de ses manigances passées et présentes, et de celles de ses camarades de parti, coupables de diverses malversations...</desc>
+    <credits>
+      <director>Rodrigo Sorogoyen</director>
+      <actor>Antonio de la Torre</actor>
+      <actor>José María Pou</actor>
+      <actor>Mónica López</actor>
+      <actor>Nacho Fresneda</actor>
+      <actor>Ana Wagener</actor>
+      <actor>Bárbara Lennie</actor>
+      <writer>Isabel Peña</writer>
+      <writer>Rodrigo Sorogoyen</writer>
+      <composer>Olivier Arson</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Suspense</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/95751130" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220024000 +0000" stop="20221220031100 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte regards</title>
+    <sub-title lang="fr">Fini le gaz naturel ! : Les agriculteurs, fournisseurs d'énergie</sub-title>
+    <desc lang="fr">Pénurie de gaz, flambée des prix du pétrole : voilà les conséquences de la guerre qui ravage l'Ukraine. En Autriche et en Bavière, des agriculteurs proposent une alternative moins onéreuse : le chauffage collectif, essentiellement alimenté en plaquettes forestières. Mais les questions liées aux éventuelles subventions et le débat sur le bois comme énergie renouvelable rendent sa mise en place laborieuse.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907960" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220031100 +0000" stop="20221220040000 +0000" channel="ARTE.fr">
+    <title lang="fr">Fin des programmes</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1456" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220040000 +0000" stop="20221220045000 +0000" channel="ARTE.fr">
+    <title lang="fr">Le songe d'une nuit d'été par John E. Gardiner</title>
+    <sub-title lang="fr">Concert Classique</sub-title>
+    <desc lang="fr">A Salzbourg, le chef-d'œuvre symphonique de Felix Mendelssohn resplendit sous la baguette de John Eliot Gardiner.</desc>
+    <date>2021</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Classique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108555913" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220045000 +0000" stop="20221220051500 +0000" channel="ARTE.fr">
+    <title lang="fr">Tokyo : la culture urbaine de demain</title>
+    <sub-title lang="fr">Doc. Découvertes</sub-title>
+    <desc lang="fr">A Tokyo, les architectes, en quête d'équilibre entre ville et cités-jardins à petite échelle, développent un nouveau mode d'urbanisme vert inspiré de la tradition.</desc>
+    <credits>
+      <director>Michael Trabitzsch</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101204053" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220051500 +0000" stop="20221220061000 +0000" channel="ARTE.fr">
+    <title lang="fr">Satoyama</title>
+    <sub-title lang="fr">Vivre en harmonie avec la neige</sub-title>
+    <desc lang="fr">Au Japon, des savoirs séculaires, nés de la résilience des femmes et des hommes face aux forces de la nature, se transmettent de génération en génération.</desc>
+    <credits>
+      <director>Akihiko Ida</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108029230" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220061000 +0000" stop="20221220061500 +0000" channel="ARTE.fr">
+    <title lang="fr">ARTE Journal Junior</title>
+    <sub-title lang="fr">Émission du 2022-12-19</sub-title>
+    <desc lang="fr">Le JT matinal et quotidien de six minutes pour les 10-14 ans.</desc>
+    <date>2022</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Mag Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/61772397" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220061500 +0000" stop="20221220071000 +0000" channel="ARTE.fr">
+    <title lang="fr">360°-GEO</title>
+    <sub-title lang="fr">Stromboli, terre de feu</sub-title>
+    <desc lang="fr">Des découvertes, des histoires passionnantes et des voyages de rêves pour découvrir le monde et rencontrer les petits et grands acteurs de la vie, c'est le concept de cette série documentaire produite depuis 1999 par la rédaction franco-allemande d'Arte.</desc>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/88781202" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220071000 +0000" stop="20221220075500 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage</title>
+    <sub-title lang="fr">Paula Modersohn-Becker / La Grenade / Cambodge</sub-title>
+    <desc lang="fr">Au sommaire : La Basse-Saxe dénudée de Paula Modersohn-Becker. - La Grenade, des kilts dans les Caraïbes. - A Madère, le gâteau au miel de Ligia. - Le temple du Baphuon, monumental casse-tête cambodgien.</desc>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907959" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220075500 +0000" stop="20221220082500 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage : Nos épopées</title>
+    <sub-title lang="fr">Esprits, vous êtes bien là !</sub-title>
+    <desc lang="fr">Linda Lorin nous offre un supplément d'évasion. En Birmanie, esprits êtes-vous là ? - Les chamanes, gardiens de l'âme mongole.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107582240" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220082500 +0000" stop="20221220091000 +0000" channel="ARTE.fr">
+    <title lang="fr">L'Iran vu du ciel</title>
+    <sub-title lang="fr">Les déserts</sub-title>
+    <desc lang="fr">Au centre de l'Iran, les déserts de dunes sont les berceaux de l'Empire perse. Malgré un climat hostile, l'homme a su se faire une place parmi leurs paysages uniques.</desc>
+    <credits>
+      <director>Peter Latzko</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/99104275" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220091000 +0000" stop="20221220095500 +0000" channel="ARTE.fr">
+    <title lang="fr">L'Iran vu du ciel</title>
+    <sub-title lang="fr">Les plaines de l'Est</sub-title>
+    <desc lang="fr">De grandes plaines s'étendent dans l'est de l'Iran, entre le Golfe persique et la mer Caspienne. Les champs et les vergers entourent la cité de Gonabad,.</desc>
+    <credits>
+      <director>Peter Latzko</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/99104275" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220095500 +0000" stop="20221220110500 +0000" channel="ARTE.fr">
+    <title lang="fr">L'Iran vu du ciel</title>
+    <sub-title lang="fr">Les montagnes</sub-title>
+    <desc lang="fr">Terre de guerriers, refuge pour de nombreuses communautés et rempart naturel contre les envahisseurs, les montagnes iraniennes ont joué un rôle important dans la culture du pays.</desc>
+    <credits>
+      <director>Peter Latzko</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/99104275" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220110500 +0000" stop="20221220120000 +0000" channel="ARTE.fr">
+    <title lang="fr">Sardaigne, de roches et de pierres</title>
+    <sub-title lang="fr">Doc. Nature</sub-title>
+    <desc lang="fr">La Sardaigne recèle de nombreuses spécificités géologiques qui se sont accompagnées, au fil de l'évolution, d'importants changements au niveau de la faune et de la flore.</desc>
+    <credits>
+      <director>Rolando Menardi</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104673293" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220120000 +0000" stop="20221220123500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte regards</title>
+    <sub-title lang="fr">Amir et Anahita, le bonheur est en Angleterre</sub-title>
+    <desc lang="fr">Il y a quatre ans, Amir Akbari fuyait l'Iran, accompagné de Anahita, sa fille de 3 ans qu'il élève seul. Après deux ans passés en Grèce où le droit d'asile leur est implacablement refusé, Amir décide de reprendre la route à l'été 2021. Leur odyssée à travers l'Europe se fera le plus souvent à pied, jusqu'à ce qu'ils parviennent à embarquer pour l'Angleterre à Calais. Y trouveront-ils enfin le chemin du bonheur ?</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907960" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220123500 +0000" stop="20221220153500 +0000" channel="ARTE.fr">
+    <title lang="fr">Le guépard</title>
+    <sub-title lang="fr">Film Drame</sub-title>
+    <desc lang="fr">En 1860, Garibaldi débarque en Sicile pour renverser les Bourbons. Tancrède, neveu du prince Salina et jeune homme ambitieux, se bat aux côtés des républicains, décidés à frayer un chemin au régime constitutionnel de Victor-Emmanuel, le roi de Piémont-Sardaigne. Salina soutient hardiment son neveu...</desc>
+    <credits>
+      <director>Luchino Visconti</director>
+      <actor>Burt Lancaster</actor>
+      <actor>Claudia Cardinale</actor>
+      <actor>Alain Delon</actor>
+      <actor>Paolo Stoppa</actor>
+      <actor>Rina Morelli</actor>
+      <actor>Romolo Valli</actor>
+      <writer>Suso Cecchi D'Amico</writer>
+      <writer>Pasquale Festa Campanile</writer>
+      <writer>Enrico Medioli</writer>
+      <writer>Massimo Franciosa</writer>
+      <composer>Nino Rota</composer>
+    </credits>
+    <date>1963</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/94126481" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220153500 +0000" stop="20221220162500 +0000" channel="ARTE.fr">
+    <title lang="fr">Olimba, la reine des léopards</title>
+    <sub-title lang="fr">Doc. Animalier</sub-title>
+    <desc lang="fr">Les rives du fleuve Luangwa en Zambie sont un territoire de chasse prisé. Olimba, femelle léopard part à la recherche de proies et protège ses petits.</desc>
+    <credits>
+      <director>Will Steenkamp</director>
+      <director>Lianne Steenkamp</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Animalier</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/98004706" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220162500 +0000" stop="20221220171000 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage</title>
+    <sub-title lang="fr">Le Stockholm de Strindberg / Le Gange / Holbox</sub-title>
+    <desc lang="fr">Du lundi au vendredi, Linda Lorin part à la découverte du patrimoine artistique, culturel et naturel.</desc>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907959" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220171000 +0000" stop="20221220175500 +0000" channel="ARTE.fr">
+    <title lang="fr">Les Pyrénées secrètes</title>
+    <sub-title lang="fr">L'ours, le roi des forêts ancestrales</sub-title>
+    <desc lang="fr">Solitaire, l'ours brun promène sa silhouette massive, qui peut atteindre deux mètres, dans les zones densément boisées des Pyrénées, avant d'hiberner dans des grottes.</desc>
+    <credits>
+      <director>Alwa Deluze</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108463811" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220175500 +0000" stop="20221220184500 +0000" channel="ARTE.fr">
+    <title lang="fr">Natura Europa</title>
+    <sub-title lang="fr">L'Ecosse sauvage</sub-title>
+    <desc lang="fr">A travers l'épopée d'un pin sylvestre écossais, âgé de presque 500 ans, une immersion dans un écosystème unique au monde abritant des centaines de formes de vie.</desc>
+    <credits>
+      <director>Nigel Pope</director>
+      <director>Thierry Ragobert</director>
+      <director>Michael Schlamberger</director>
+      <director>John Murray</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470692" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220184500 +0000" stop="20221220190500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte journal</title>
+    <sub-title lang="fr">20/12/2022</sub-title>
+    <desc lang="fr">Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102522418" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220190500 +0000" stop="20221220194900 +0000" channel="ARTE.fr">
+    <title lang="fr">28 minutes</title>
+    <sub-title lang="fr">Émission du 2022-12-20</sub-title>
+    <desc lang="fr">Présenté par Élisabeth Quin, le rendez-vous quotidien consacré à l’actualité et au débat.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102633572" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220194900 +0000" stop="20221220195500 +0000" channel="ARTE.fr">
+    <title lang="fr">50 nuances de Grecs</title>
+    <sub-title lang="fr">Les sous-dieux passent le bac</sub-title>
+    <desc lang="fr">Face au niveau universitaire calamiteux de la mythologie grecque, les dieux de l'Olympe décident de passer leur bac, histoire de remonter dans le classement de Shanghaï... Avec les voix d'Enrico Macias, Anna Mouglalis, Christophe Alévêque, Andrea Marcolongo, Bruno Solo, Christian Olivier (les Têtes Raides), Clément Sibony, Frédéric Pierrot, Michel Vuillermoz, Samir Guesmi....</desc>
+    <credits>
+      <director>Mathieu Signolet</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108340091" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220195500 +0000" stop="20221220213000 +0000" channel="ARTE.fr">
+    <title lang="fr">La poursuite infernale</title>
+    <sub-title lang="fr">Film Western</sub-title>
+    <desc lang="fr">Les quatre frères Earp conduisent leurs troupeaux vers la Californie. Une nuit, près de Tombstone, James est désigné pour garder le bétail pendant que ses trois frères font un tour en ville. A leur retour, ils découvrent que James a été tué. Wyatt Earp accepte alors le poste de shérif de Tombstone...</desc>
+    <credits>
+      <director>John Ford</director>
+      <actor>Henry Fonda</actor>
+      <actor>Linda Darnell</actor>
+      <actor>Victor Mature</actor>
+      <actor>Cathy Downs</actor>
+      <actor>Tim Holt</actor>
+      <actor>Walter Brennan</actor>
+      <writer>Samuel G Engel</writer>
+      <writer>Sam Hellman</writer>
+      <writer>Stuart N. Lake</writer>
+      <writer>Winston Miller</writer>
+      <composer>Cyril J Mockridge</composer>
+      <composer>David Buttolph</composer>
+    </credits>
+    <date>1946</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Western</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108454345" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220213000 +0000" stop="20221220232500 +0000" channel="ARTE.fr">
+    <title lang="fr">Les trois jours du Condor</title>
+    <sub-title lang="fr">Film Policier</sub-title>
+    <desc lang="fr">Surnommé le Condor par ses collègues de la CIA, Turner se montre pointilleux dans sa tâche au sein d'une section de recherche de l'agence. Missionné entre autres pour mener des investigations sur des fuites d'informations, il soupçonne l'existence d'un réseau infiltré dans leur organisation...</desc>
+    <credits>
+      <director>Sydney Pollack</director>
+      <actor>Robert Redford</actor>
+      <actor>Faye Dunaway</actor>
+      <actor>Cliff Robertson</actor>
+      <actor>Max von Sydow</actor>
+      <actor>John Houseman</actor>
+      <actor>Addison Powell</actor>
+      <writer>David Rayfiel</writer>
+      <writer>Lorenzo Semple Jr</writer>
+      <composer>Dave Grusin</composer>
+    </credits>
+    <date>1975</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Policier</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/76484643" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20221220232500 +0000" stop="20221221002000 +0000" channel="ARTE.fr">
+    <title lang="fr">Robert Redford</title>
+    <sub-title lang="fr">Doc. Cinéma</sub-title>
+    <desc lang="fr">Né en 1936 en Californie, Robert Redford a dépassé l'image de sex-symbol qu'on cherchait à lui imposer. Celui qui se rêvait peintre après un passage par les Beaux-Arts de Paris, a incarné plus que quiconque au cinéma le versant solaire de l'Amérique, entre persévérance, idéalisme et intégrité. Archives, extraits de films et analyses de spécialistes retracent la carrière d'une légende aux multiples facettes.</desc>
+    <credits>
+      <director>Pierre-Henry Salfati</director>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Doc Cinema</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/94643304" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221002000 +0000" stop="20221221010500 +0000" channel="ARTE.fr">
+    <title lang="fr">La vie secrète des lacs</title>
+    <sub-title lang="fr">Le Grand Lac Salé, aux Etats-Unis</sub-title>
+    <desc lang="fr">Le Grand Lac salé, dans le Nord de l'Utah, aux Etats-Unis, surnommé la mer Morte américaine, surprend par la couleur de son eau, rose ou turquoise.</desc>
+    <credits>
+      <director>Alexis de Favitski</director>
+      <director>Stéphane Bégoin</director>
+      <director>Mathias Schmitt</director>
+      <director>Bernard Guerrini</director>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104747304" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221010500 +0000" stop="20221221015000 +0000" channel="ARTE.fr">
+    <title lang="fr">La vie secrète des lacs</title>
+    <sub-title lang="fr">Lac Baïkal, d'eau et de glace</sub-title>
+    <desc lang="fr">Le lac Baïkal contient plus d'eau que tous les autres lacs de la planète réunis et abrite une biodiversité unique : certaines espèces sont des fossiles vivants.</desc>
+    <credits>
+      <director>Alexis de Favitski</director>
+      <director>Stéphane Bégoin</director>
+      <director>Mathias Schmitt</director>
+      <director>Bernard Guerrini</director>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104747304" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221015000 +0000" stop="20221221023500 +0000" channel="ARTE.fr">
+    <title lang="fr">La vie secrète des lacs</title>
+    <sub-title lang="fr">Le lac Nasser, l'eau au coeur du désert</sub-title>
+    <desc lang="fr">Le lac Nasser est un immense lac de barrage dans le désert égyptien ; les hommes et la nature profitent pleinement de ce grand réservoir d'eau douce.</desc>
+    <credits>
+      <director>Alexis de Favitski</director>
+      <director>Stéphane Bégoin</director>
+      <director>Mathias Schmitt</director>
+      <director>Bernard Guerrini</director>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104747304" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221023500 +0000" stop="20221221030500 +0000" channel="ARTE.fr">
+    <title lang="fr">360°-GEO</title>
+    <sub-title lang="fr">Îles Marquises , le tatouage dans la peau</sub-title>
+    <desc lang="fr">Considéré comme un art à part entière, le tatouage reconquiert les coeurs et les corps des habitants des îles polynésiennes. Enquête dans les Marquises.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/88781202" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221030500 +0000" stop="20221221033700 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte regards</title>
+    <sub-title lang="fr">Les Néerlandais et leur héritage colonial</sub-title>
+    <desc lang="fr">En 1863, les Pays-Bas abolissent l'esclavage et leur immense empire aux multiples colonies en Asie, en Afrique et en Amérique du Sud s'effondre. Alors que les Néerlandais caucasiens se souviennent surtout de l'époque glorieuse, les descendants des esclaves et des colonisés exigent un travail de mémoire.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907960" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221033700 +0000" stop="20221221040000 +0000" channel="ARTE.fr">
+    <title lang="fr">Fin des programmes</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1456" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221040000 +0000" stop="20221221051500 +0000" channel="ARTE.fr">
+    <title lang="fr">The Doors : Live at the Isle of Wight</title>
+    <sub-title lang="fr">Film Documentaire</sub-title>
+    <desc lang="fr">En août 1970, 600 000 personnes se rendent sur l'île de Wight pour célébrer les héros de la scène pop : Jimi Hendrix, The Who, Miles Davis, Joni Mitchell et, les plus attendus peut-être, The Doors. Le 30, à 2 heures du matin, le quartette californien entame son hypnotique grand-messe devant la marée humaine.</desc>
+    <credits>
+      <director>John Albarian</director>
+    </credits>
+    <date>1970</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Documentaire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100967929" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221051500 +0000" stop="20221221061000 +0000" channel="ARTE.fr">
+    <title lang="fr">Satoyama</title>
+    <sub-title lang="fr">Vivre en harmonie avec un volcan</sub-title>
+    <desc lang="fr">Le mont Aso, l'un des volcans les plus actifs du Japon, crache fumée et cendres. Si les habitants profitent de sa chaleur, les cendres pourraient rendre la terre infertile.</desc>
+    <credits>
+      <director>Akihiko Ida</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108029230" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221061000 +0000" stop="20221221062000 +0000" channel="ARTE.fr">
+    <title lang="fr">ARTE Journal Junior</title>
+    <sub-title lang="fr">Émission du 2022-12-19</sub-title>
+    <desc lang="fr">Le JT matinal et quotidien de six minutes pour les 10-14 ans.</desc>
+    <date>2022</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Mag Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/61772397" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221062000 +0000" stop="20221221071000 +0000" channel="ARTE.fr">
+    <title lang="fr">360°-GEO</title>
+    <sub-title lang="fr">Argentine, le polo au féminin</sub-title>
+    <desc lang="fr">L'Argentine, pays des chevaux, est aussi celui du polo, sport plutôt masculin. Les femmes s'y sont mises, à l'image de Clarita Cassino, l'une des meilleures joueuses du pays.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/88781202" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221071000 +0000" stop="20221221075500 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage</title>
+    <sub-title lang="fr">Le Stockholm de Strindberg / Le Gange / Holbox</sub-title>
+    <desc lang="fr">Du lundi au vendredi, Linda Lorin part à la découverte du patrimoine artistique, culturel et naturel.</desc>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907959" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221075500 +0000" stop="20221221082500 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage : Nos épopées</title>
+    <sub-title lang="fr">En auto ou à vélo</sub-title>
+    <desc lang="fr">Linda Lorin nous offre un supplément d'évasion. La voiture, essence de l'identité allemande - Le vélo, l'autre reine des Pays-Bas.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107582240" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221082500 +0000" stop="20221221100000 +0000" channel="ARTE.fr">
+    <title lang="fr">Chambord, le château, le Roi et l'architecte</title>
+    <desc lang="fr">Chambord, le plus célèbre château de la Loire, demeure une énigme. Qui en fut l'architecte ? Quel sens son commanditaire, François Ier, a-t-il voulu lui donner et quelle fut l'influence de son maître et ami Léonard de Vinci ? Fouilles archéologiques, numérisation et modélisation en 3D du château, prospection géophysique des sous-sols et retour aux sources manuscrites fournissent de précieux indices.</desc>
+    <date>2015</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102033121" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221100000 +0000" stop="20221221120000 +0000" channel="ARTE.fr">
+    <title lang="fr">Guédelon 2 : une aventure médiévale</title>
+    <sub-title lang="fr">Doc. Histoire</sub-title>
+    <desc lang="fr">Plus grand site d'archéologie expérimentale au monde, le chantier du château médiéval de Guédelon, en Bourgogne, qui s'effectue avec des outils, des matériaux et des techniques du XIIIe siècle, entre dans sa 22e année. Au fil des saisons, il aura offert aux oeuvriers, comme se nomment les artisans qui y officient avec des archéologues, de s'approprier les savoir-faire des bâtisseurs du Moyen Age.</desc>
+    <credits>
+      <director>Bianca Zamfira</director>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106025146" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221120000 +0000" stop="20221221123500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte regards</title>
+    <sub-title lang="fr">Crise en Ecosse : rompre avec le Royaume-Uni</sub-title>
+    <desc lang="fr">Fervent défenseur de l'indépendance écossaise, le musicien Neil Mackay organise de grandes manifestations pour une sortie du Royaume-Uni. Car l'Écosse traverse une bien mauvaise passe : des Highlands à Edimbourg, l'inflation frappe la population de plein fouet. La solution passe-t-elle par un nouveau référendum sur l'indépendance ? La question divise la société écossaise.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907960" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221123500 +0000" stop="20221221151000 +0000" channel="ARTE.fr">
+    <title lang="fr">Le patient anglais</title>
+    <sub-title lang="fr">Film Drame</sub-title>
+    <desc lang="fr">En 1945, un avion qui survole la Libye est abattu. Le pilote, grièvement brûlé, est recueilli par des nomades qui le soignent. Plus tard, il est rapatrié en Italie. Hana, une infirmière qui vient de perdre l'homme qu'elle aimait, remarque ce malheureux, qui lutte, dans d'atroces souffrances, pour survivre...</desc>
+    <credits>
+      <director>Anthony Minghella</director>
+      <actor>Ralph Fiennes</actor>
+      <actor>Juliette Binoche</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Kristin Scott Thomas</actor>
+      <actor>Naveen Andrews</actor>
+      <actor>Colin Firth</actor>
+      <writer>Anthony Minghella</writer>
+      <composer>Gabriel Yared</composer>
+    </credits>
+    <date>1996</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/69901894" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221151000 +0000" stop="20221221154000 +0000" channel="ARTE.fr">
+    <title lang="fr">Des volcans et des hommes</title>
+    <sub-title lang="fr">Iles Vestmann, sentinelles volcaniques d'Islande</sub-title>
+    <desc lang="fr">Sur les îles Vestmann, archipel isolé sorti des mers au gré des éruptions, les hommes ont appris à vivre avec l'intense volcanisme islandais.</desc>
+    <credits>
+      <director>David Perrier</director>
+      <director>Jean-Luc Guidoin</director>
+      <director>Guy Beauché</director>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103099553" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221154000 +0000" stop="20221221162500 +0000" channel="ARTE.fr">
+    <title lang="fr">Les paradis naturels d'Hawaï</title>
+    <sub-title lang="fr">Doc. Nature</sub-title>
+    <desc lang="fr">Archipel parmi les plus isolés du monde, Hawaii abrite un écosystème dépourvu de mécanismes de défense : les maladies peuvent facilement ravager ses nombreuses espèces.</desc>
+    <credits>
+      <director>Christopher Gerisch</director>
+      <director>Anja Kindler</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108473069" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221162500 +0000" stop="20221221171000 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage</title>
+    <sub-title lang="fr">La Géorgie de Niko Pirosmani / Brésil / Les îles Scilly</sub-title>
+    <desc lang="fr">Du lundi au vendredi, Linda Lorin part à la découverte du patrimoine artistique, culturel et naturel.</desc>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907959" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221171000 +0000" stop="20221221175500 +0000" channel="ARTE.fr">
+    <title lang="fr">Les Pyrénées secrètes</title>
+    <sub-title lang="fr">Le gypaète barbu, corsaire des cimes</sub-title>
+    <desc lang="fr">Espèce protégée, le gypaète barbu, rapace le plus grand et le plus rare d'Europe, tournoie majestueusement dans le ciel au-dessus des montagnes pyrénéennes.</desc>
+    <credits>
+      <director>Alwa Deluze</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108463811" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221175500 +0000" stop="20221221184500 +0000" channel="ARTE.fr">
+    <title lang="fr">Natura Europa</title>
+    <sub-title lang="fr">L'île d'Émeraude et le désert de pierres</sub-title>
+    <desc lang="fr">L'Irlande recèle l'un des plus grands trésors naturels : un désert de pierre grise qui abrite certains des animaux sauvages les plus enchanteurs de l'île d'émeraude.</desc>
+    <credits>
+      <director>Nigel Pope</director>
+      <director>Thierry Ragobert</director>
+      <director>Michael Schlamberger</director>
+      <director>John Murray</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470692" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221184500 +0000" stop="20221221190500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte journal</title>
+    <sub-title lang="fr">21/12/2022</sub-title>
+    <desc lang="fr">Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102522418" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221190500 +0000" stop="20221221195100 +0000" channel="ARTE.fr">
+    <title lang="fr">28 minutes</title>
+    <sub-title lang="fr">Émission du 2022-12-21</sub-title>
+    <desc lang="fr">Présenté par Élisabeth Quin, le rendez-vous quotidien consacré à l’actualité et au débat.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102633572" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221195100 +0000" stop="20221221195500 +0000" channel="ARTE.fr">
+    <title lang="fr">50 nuances de Grecs</title>
+    <sub-title lang="fr">Quoiqu'il en goutte</sub-title>
+    <desc lang="fr">Ulysse et Pénélope doivent passer chez le caviste à la dernière minute... Mais même s'il était sommelier des dieux sur l'Olympe, Ganymède a des conseils parfois un peu lourdingues. Avec les voix de Lison Daniel, Valérie Lemercier, Sonia Rolland, Matthieu Noël...</desc>
+    <credits>
+      <director>Mathieu Signolet</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108340091" />
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221195500 +0000" stop="20221221215000 +0000" channel="ARTE.fr">
+    <title lang="fr">Camille redouble</title>
+    <sub-title lang="fr">Film Comédie dramatique</sub-title>
+    <desc lang="fr">A 16 ans, Camille a été embrassée par Eric. Un amour adolescent qui a duré. Vingt ans plus tard, Eric part avec une fille plus jeune. A son réveil, Camille, dans son corps de femme de 40 ans, se retrouve projetée dans son passé. Elle a à nouveau 16 ans. Doit-elle accepter de revivre sa vie ?...</desc>
+    <credits>
+      <director>Noémie Lvovsky</director>
+      <actor>Noémie Lvovsky</actor>
+      <actor>Samir Guesmi</actor>
+      <actor>Judith Chemla</actor>
+      <actor>India Hair</actor>
+      <actor>Julia Faure</actor>
+      <actor>Esther Garrel</actor>
+      <writer>Maud Ameline</writer>
+      <writer>Noémie Lvovsky</writer>
+      <writer>Pierre-Olivier Mattei</writer>
+      <writer>Florence Seyvos</writer>
+      <composer>Joseph Dahan</composer>
+      <composer>Gaëtan Roussel</composer>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie dramatique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52838312" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221215000 +0000" stop="20221221224500 +0000" channel="ARTE.fr">
+    <title lang="fr">Julio Iglesias : amour, gloire et chansons</title>
+    <sub-title lang="fr">Doc. Musique</sub-title>
+    <desc lang="fr">En juillet 1968, à 24 ans, Julio Iglesias remporte le concours de chant le plus couru d'Espagne avec son premier titre, La vida sigue igual. Ses ballades ravissent alors la jeunesse sans déplaire au régime franquiste, qui l'autorise à voyager. Après avoir conquis l'Ancien Continent, le crooner au regard de braise part à l'assaut de l'Amérique, se produisant dans le Chili de Pinochet, puis aux Etats-Unis.</desc>
+    <credits>
+      <director>Anne-Solen Douguet</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Doc Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108504796" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221224500 +0000" stop="20221222001500 +0000" channel="ARTE.fr">
+    <title lang="fr">L'affaire de la culotte de cuir</title>
+    <sub-title lang="fr">Téléfilm Comédie</sub-title>
+    <desc lang="fr">L'avenir de Konstantin semblait tout tracé. Etudiant en droit, il se destinait à une carrière d'avocat jusqu'à ce qu'il provoque accidentellement l'incendie de la bibliothèque de son université. Depuis, le jeune homme, qui ne s'en est jamais relevé, végète comme petite main dans un obscur cabinet d'avocats...</desc>
+    <credits>
+      <director>Markus Engel</director>
+      <actor>Stefan Pohl</actor>
+      <actor>Josephine Bloéb</actor>
+      <actor>Jasmin Barbara Mairhofer</actor>
+      <actor>Katerina Jacob</actor>
+      <actor>Erwin Steinhauer</actor>
+      <actor>Daniel Christensen</actor>
+      <writer>Harald Haller</writer>
+      <writer>Marc Brugger</writer>
+      <composer>Kubilay Uner</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108566721" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222001500 +0000" stop="20221222010000 +0000" channel="ARTE.fr">
+    <title lang="fr">Bauhaus : un temps nouveau</title>
+    <sub-title lang="fr">L'après-guerre</sub-title>
+    <desc lang="fr">Weimar, 1919. La jeune Dörte Helm s'inscrit à la toute nouvelle école du Bauhaus, contre l'avis de son père. L'étudiante est fascinée par la démarche du fondateur de l'établissement, l'architecte Walter Gropius, qui ambitionne de révolutionner l'art, mais doit composer avec des institutions conservatrices...</desc>
+    <credits>
+      <director>Lars Kraume</director>
+      <actor>August Diehl</actor>
+      <actor>Anna Maria Mühe</actor>
+      <actor>Valérie Pachner</actor>
+      <actor>Ludwig Trepte</actor>
+      <actor>Trine Dyrholm</actor>
+      <actor>Sven Schelker</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107851804" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222010000 +0000" stop="20221222015000 +0000" channel="ARTE.fr">
+    <title lang="fr">Bauhaus : un temps nouveau</title>
+    <sub-title lang="fr">Le prince de Thèbes</sub-title>
+    <desc lang="fr">Devant le comité citoyen de Weimar, Gropius est accusé de laisser ses élèves batifoler nus dans la nature, mais aussi d'accepter trop d'étrangers, de juifs et de femmes. L'architecte défend l'esprit d'ouverture de son école, et la séance se clôt sur une scission entre tenants du classicisme et adeptes du Bauhaus...</desc>
+    <credits>
+      <director>Lars Kraume</director>
+      <actor>August Diehl</actor>
+      <actor>Anna Maria Mühe</actor>
+      <actor>Valérie Pachner</actor>
+      <actor>Ludwig Trepte</actor>
+      <actor>Trine Dyrholm</actor>
+      <actor>Sven Schelker</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107851804" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222015000 +0000" stop="20221222031000 +0000" channel="ARTE.fr">
+    <title lang="fr">Bauhaus : un temps nouveau</title>
+    <sub-title lang="fr">Les morts de mars</sub-title>
+    <desc lang="fr">En 1920, lorsqu'un putsch tente de renverser la jeune république allemande, communistes et corps francs nationalistes s'affrontent dans les rues de Weimar. Conscient que son établissement a intérêt à se tenir à l'écart de la politique, Gropius menace d'exclusion tout étudiant qui s'impliquerait dans le conflit...</desc>
+    <credits>
+      <director>Lars Kraume</director>
+      <actor>August Diehl</actor>
+      <actor>Anna Maria Mühe</actor>
+      <actor>Valérie Pachner</actor>
+      <actor>Ludwig Trepte</actor>
+      <actor>Trine Dyrholm</actor>
+      <actor>Sven Schelker</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107851804" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222031000 +0000" stop="20221222034200 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte regards</title>
+    <sub-title lang="fr">Amir et Anahita, le bonheur est en Angleterre</sub-title>
+    <desc lang="fr">Il y a quatre ans, Amir Akbari fuyait l'Iran, accompagné de Anahita, sa fille de 3 ans qu'il élève seul. Après deux ans passés en Grèce où le droit d'asile leur est implacablement refusé, Amir décide de reprendre la route à l'été 2021. Leur odyssée à travers l'Europe se fera le plus souvent à pied, jusqu'à ce qu'ils parviennent à embarquer pour l'Angleterre à Calais. Y trouveront-ils enfin le chemin du bonheur ?</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907960" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222034200 +0000" stop="20221222040000 +0000" channel="ARTE.fr">
+    <title lang="fr">Fin des programmes</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1604" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222040000 +0000" stop="20221222050500 +0000" channel="ARTE.fr">
+    <title lang="fr">Symphonie n° 1 Rêves d'hiver</title>
+    <sub-title lang="fr">Concert Classique</sub-title>
+    <desc lang="fr">L'Orchestre du Gewandhaus de Leipzig, sous la baguette d'Andris Nelsons, interprète la Symphonie n°1 de Tchaïkovski, sous-titrée Rêves d'hiver.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Classique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108446526" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222050500 +0000" stop="20221222053500 +0000" channel="ARTE.fr">
+    <title lang="fr">Aux sources de la fantasy</title>
+    <sub-title lang="fr">William Morris</sub-title>
+    <desc lang="fr">Considéré comme le premier auteur de fantasy, l'artiste britannique William Morris a exercé une influence décisive sur les œuvres de J. R. R. Tolkien et de C. S. Lewis.</desc>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108341154" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222053500 +0000" stop="20221222061000 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte regards</title>
+    <sub-title lang="fr">L'avenir incertain du roi de Budelli</sub-title>
+    <desc lang="fr">Mauro Morandi est l'unique habitant d'une île entre Corse et Sardaigne : Budelli. Je voulais échapper à la société, qui ne mérite que mon mépris, explique l'octogénaire solitaire.</desc>
+    <date>2019</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907960" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222061000 +0000" stop="20221222061500 +0000" channel="ARTE.fr">
+    <title lang="fr">ARTE Journal Junior</title>
+    <sub-title lang="fr">Émission du 2022-12-19</sub-title>
+    <desc lang="fr">Le JT matinal et quotidien de six minutes pour les 10-14 ans.</desc>
+    <date>2022</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Mag Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/61772397" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222061500 +0000" stop="20221222071000 +0000" channel="ARTE.fr">
+    <title lang="fr">Slovénie, le royaume des abeilles</title>
+    <sub-title lang="fr">Slovénie, le royaume des abeilles</sub-title>
+    <desc lang="fr">En Slovénie, le miel, l'abeille carniolienne et les ruches colorées appartiennent à la culture locale. Erik Luznar, 29 ans, veut faire évoluer l'apiculture de son pays.</desc>
+    <date>2019</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/88781202" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222071000 +0000" stop="20221222075500 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage</title>
+    <sub-title lang="fr">La Géorgie de Niko Pirosmani / Brésil / Les îles Scilly</sub-title>
+    <desc lang="fr">Du lundi au vendredi, Linda Lorin part à la découverte du patrimoine artistique, culturel et naturel.</desc>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907959" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222075500 +0000" stop="20221222082500 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage : Nos épopées</title>
+    <sub-title lang="fr">L'eau miraculeuse</sub-title>
+    <desc lang="fr">Linda Lorin nous offre un supplément d'évasion. Aux sources du Gange, le pays des sâdhus - À Évian, la Belle Époque du thermalisme.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107582240" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222082500 +0000" stop="20221222091000 +0000" channel="ARTE.fr">
+    <title lang="fr">Le Népal, aux portes du ciel</title>
+    <sub-title lang="fr">D'Ilam à Katmandou</sub-title>
+    <desc lang="fr">Une découverte en deux parties du Népal, petite bande de terre coincée entre l'Inde et la Chine, qui regorge de richesses culturelles et naturelles.</desc>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108196717" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222091000 +0000" stop="20221222101000 +0000" channel="ARTE.fr">
+    <title lang="fr">Le Népal, aux portes du ciel</title>
+    <sub-title lang="fr">De Manang à Bhimdatta</sub-title>
+    <desc lang="fr">Retour sur la Mahendra Highway pour la suite de cette traversée du Népal, du massif de l'Annapurna à Muktinath, du lac de Phewa aux plaines du Teraï occidental.</desc>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108196717" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222101000 +0000" stop="20221222110500 +0000" channel="ARTE.fr">
+    <title lang="fr">Le Honduras : entre forêt tropicale et plages</title>
+    <sub-title lang="fr">Doc. Voyage</sub-title>
+    <desc lang="fr">Forêts tropicales intactes, animaux enchanteurs et plages de carte postale : la situation géographique du Honduras lui offre des attributs qui contribuent à sa biodiversité.</desc>
+    <credits>
+      <director>Susanne Brand</director>
+      <director>Jessica Szczakiel</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106991121" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222110500 +0000" stop="20221222120000 +0000" channel="ARTE.fr">
+    <title lang="fr">Le Nicaragua : entre volcans, lacs et mers</title>
+    <sub-title lang="fr">Doc. Voyage</sub-title>
+    <desc lang="fr">Avec ses volcans actifs, ses mangroves verdoyantes et ses orchidées multicolores, le Nicaragua, plus grand pays d'Amérique centrale, est aussi le plus riche en biodiversité.</desc>
+    <credits>
+      <director>Susanne Brand</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106989841" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222120000 +0000" stop="20221222123500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte regards</title>
+    <sub-title lang="fr">Les déboires de la Deutsche Bahn</sub-title>
+    <desc lang="fr">La Deutsche Bahn compte devenir l'opérateur ferroviaire de l'avenir. Mais entre les retards, les suppressions de trains, les travaux et une ponctualité qui a chuté à moins de 60 % cet été, elle en est encore loin. En Suisse et en France, le rail est bien plus performant. Alors, quelles sont les failles des chemins de fer allemands et quels sont les secrets de la réussite des voisins européens ?</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907960" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222123500 +0000" stop="20221222143500 +0000" channel="ARTE.fr">
+    <title lang="fr">The Duchess</title>
+    <sub-title lang="fr">Film biopic</sub-title>
+    <desc lang="fr">Georgiana, mariée à 17 ans au duc du Devonshire, séduit vite la haute société par sa beauté et son esprit. Seul son époux reste insensible à son charme et n'attend d'elle qu'une chose : un héritier. Délaissée, blessée, elle se console auprès de son amie Bess Foster, que le duc va prendre pour maîtresse...</desc>
+    <credits>
+      <director>Saul Dibb</director>
+      <actor>Keira Knightley</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Charlotte Rampling</actor>
+      <actor>Hayley Atwell</actor>
+      <actor>Georgia King</actor>
+      <writer>Jeffrey Hatcher</writer>
+      <writer>Anders Thomas Jensen</writer>
+      <writer>Saul Dibb</writer>
+      <composer>Rachel Portman</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film biopic</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/96603954" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222143500 +0000" stop="20221222153000 +0000" channel="ARTE.fr">
+    <title lang="fr">Les monts Métallifères</title>
+    <sub-title lang="fr">Joyaux de la Bohème</sub-title>
+    <desc lang="fr">Région minière rocailleuse, les monts Métallifères connaissent aujourd'hui un saisissant renouveau, au profit d'une faune et d'une flore variées.</desc>
+    <credits>
+      <director>Christoph Goldmann</director>
+      <director>Leif Karpe</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106952371" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222153000 +0000" stop="20221222162500 +0000" channel="ARTE.fr">
+    <title lang="fr">Les monts Métallifères</title>
+    <sub-title lang="fr">Châteaux forts et créatures troglodytes</sub-title>
+    <desc lang="fr">Au plus fort de l'été, la salamandre tachetée quitte sa grotte pour une première baignade dans les ruisseaux cristallins situés en contrebas du château de Scharfenstein.</desc>
+    <credits>
+      <director>Christoph Goldmann</director>
+      <director>Leif Karpe</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106952371" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222162500 +0000" stop="20221222171000 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage</title>
+    <sub-title lang="fr">Rubens à Anvers / La vahiné / Denver</sub-title>
+    <desc lang="fr">Du lundi au vendredi, Linda Lorin part à la découverte du patrimoine artistique, culturel et naturel.</desc>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104093923" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222171000 +0000" stop="20221222175500 +0000" channel="ARTE.fr">
+    <title lang="fr">Les requins qui venaient du froid</title>
+    <sub-title lang="fr">Doc. Animalier</sub-title>
+    <desc lang="fr">Une plongée fascinante dans les eaux glacées du Nord de l'Europe, dans le sillage d'impressionnants requins menacés par les activités humaines.</desc>
+    <credits>
+      <director>Christina Karliczek</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Animalier</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/96424353" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222175500 +0000" stop="20221222184500 +0000" channel="ARTE.fr">
+    <title lang="fr">Natura Europa</title>
+    <sub-title lang="fr">Aux sources de la nature</sub-title>
+    <desc lang="fr">Des spécialistes dévoilent la complexité des interactions entre les espèces et leur milieu, transformé depuis des milliers d'années par l'expansion humaine.</desc>
+    <credits>
+      <director>Nigel Pope</director>
+      <director>Thierry Ragobert</director>
+      <director>Michael Schlamberger</director>
+      <director>John Murray</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470692" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222184500 +0000" stop="20221222190500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte journal</title>
+    <sub-title lang="fr">22/12/2022</sub-title>
+    <desc lang="fr">Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102522418" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222190500 +0000" stop="20221222195000 +0000" channel="ARTE.fr">
+    <title lang="fr">28 minutes</title>
+    <sub-title lang="fr">Émission du 2022-12-22</sub-title>
+    <desc lang="fr">Présenté par Élisabeth Quin, le rendez-vous quotidien consacré à l’actualité et au débat.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102633572" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222195000 +0000" stop="20221222195500 +0000" channel="ARTE.fr">
+    <title lang="fr">50 nuances de Grecs</title>
+    <sub-title lang="fr">La familia grande</sub-title>
+    <desc lang="fr">Oedipe, Jocaste, Zeus ou encore Héra : il y a tellement d'inceste chez les dieux grecs ! Ce n'est plus un hashtag qu'ils se traînent, c'est une grille de mots croisés.</desc>
+    <credits>
+      <director>Mathieu Signolet</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108340091" />
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222195500 +0000" stop="20221222223500 +0000" channel="ARTE.fr">
+    <title lang="fr">Le temps retrouvé</title>
+    <sub-title lang="fr">Film Comédie dramatique</sub-title>
+    <desc lang="fr">En 1922, après un long séjour en maison de santé, Marcel Proust se rend chez la princesse de Guermantes, où il retrouve les personnes qu'il a jadis côtoyées. Il n'a bientôt plus qu'une seule obsession : celle de raconter ses expériences, en prenant pour modèle cette galerie de personnages mondains...</desc>
+    <credits>
+      <director>Raoul Ruiz</director>
+      <actor>Marcello Mazzarella</actor>
+      <actor>Catherine Deneuve</actor>
+      <actor>Emmanuelle Béart</actor>
+      <actor>Vincent Pérez</actor>
+      <actor>John Malkovich</actor>
+      <actor>Pascal Greggory</actor>
+      <writer>Gilles Taurand</writer>
+      <writer>Raoul Ruiz</writer>
+      <composer>Jorge Arriagada</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie dramatique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108540528" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222223500 +0000" stop="20221223000500 +0000" channel="ARTE.fr">
+    <title lang="fr">Sous le poirier, la mort</title>
+    <sub-title lang="fr">Téléfilm Drame</sub-title>
+    <desc lang="fr">Abel et Ursel Hradschek tiennent une auberge dans un village de l'est de l'Allemagne. Les affaires marchent mal et le couple accumule les dettes. Lorsqu'un créancier leur annonce son arrivée, ils s'affolent. Mais Abel découvre alors, sous l'un des arbres du jardin, un squelette datant de la Seconde Guerre mondiale. Il échafaude un plan...</desc>
+    <credits>
+      <director>Ulrich Edel</director>
+      <actor>Julia Koschitz</actor>
+      <actor>Fritz Karl</actor>
+      <actor>Katharina Thalbach</actor>
+      <actor>Devid Striesow</actor>
+      <actor>Peter Schneider</actor>
+      <actor>Boris Aljinovic</actor>
+      <writer>Leonie-Claire Breinersdorfer</writer>
+      <composer>Sebastian Fillenberg</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/99816703" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223000500 +0000" stop="20221223010000 +0000" channel="ARTE.fr">
+    <title lang="fr">Katharina Thalbach : une vie sur scène</title>
+    <sub-title lang="fr">Doc. Culture</sub-title>
+    <desc lang="fr">Fille de la comédienne Sabine Thalbach et du metteur en scène Benno Besson, Katharina Thalbach a hérité de l'amour du théâtre. Depuis l'âge de 15 ans, la comédienne enchaîne les tournages au cinéma et à la télévision, monte sur les planches, jongle avec les lectures, les doublages et les enregistrements de livres audio. Infatigable, elle met aussi en scène de nombreux spectacles pour le théâtre ou l'opéra.</desc>
+    <credits>
+      <director>Jana von Rautenberg</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108473091" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223010000 +0000" stop="20221223014500 +0000" channel="ARTE.fr">
+    <title lang="fr">Bauhaus : un temps nouveau</title>
+    <sub-title lang="fr">L'atelier des femmes</sub-title>
+    <desc lang="fr">Après son exclusion, Dörte se réfugie à la campagne, où elle donne des cours aux enfants. Un jour, Walter Gropius refait surface pour la convaincre de réintégrer l'école. Il omet toutefois de lui annoncer que, sous la pression des conservateurs, il a été contraint de créer une classe réservée aux étudiantes...</desc>
+    <credits>
+      <director>Lars Kraume</director>
+      <actor>August Diehl</actor>
+      <actor>Anna Maria Mühe</actor>
+      <actor>Valérie Pachner</actor>
+      <actor>Ludwig Trepte</actor>
+      <actor>Trine Dyrholm</actor>
+      <actor>Sven Schelker</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107851804" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223014500 +0000" stop="20221223023000 +0000" channel="ARTE.fr">
+    <title lang="fr">Bauhaus : un temps nouveau</title>
+    <sub-title lang="fr">Le tribunal</sub-title>
+    <desc lang="fr">Les cours d'Oskar Schlemmer permettent à Dörte de définir son propre style. A force de protester contre les discriminations à l'encontre des femmes au sein du Bauhaus, la jeune fille attire l'attention de ses opposants conservateurs sur ses relations avec Gropius. Une enquête officielle est lancée...</desc>
+    <credits>
+      <director>Lars Kraume</director>
+      <actor>August Diehl</actor>
+      <actor>Anna Maria Mühe</actor>
+      <actor>Valérie Pachner</actor>
+      <actor>Ludwig Trepte</actor>
+      <actor>Trine Dyrholm</actor>
+      <actor>Sven Schelker</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107851804" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223023000 +0000" stop="20221223031500 +0000" channel="ARTE.fr">
+    <title lang="fr">Bauhaus : un temps nouveau</title>
+    <sub-title lang="fr">Quitter Weimar</sub-title>
+    <desc lang="fr">Alors que le pays est en proie à l'inflation, les mouvements nationalistes prennent de l'ampleur à l'approche des élections régionales. Lors d'un discours de campagne, le candidat du Parti populaire allemand annonce qu'il entend réduire le budget du Bauhaus s'il accède au gouvernement du Land...</desc>
+    <credits>
+      <director>Lars Kraume</director>
+      <actor>August Diehl</actor>
+      <actor>Anna Maria Mühe</actor>
+      <actor>Valérie Pachner</actor>
+      <actor>Ludwig Trepte</actor>
+      <actor>Trine Dyrholm</actor>
+      <actor>Sven Schelker</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107851804" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223031500 +0000" stop="20221223034600 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte regards</title>
+    <sub-title lang="fr">Crise en Ecosse : rompre avec le Royaume-Uni</sub-title>
+    <desc lang="fr">Fervent défenseur de l'indépendance écossaise, le musicien Neil Mackay organise de grandes manifestations pour une sortie du Royaume-Uni. Car l'Écosse traverse une bien mauvaise passe : des Highlands à Edimbourg, l'inflation frappe la population de plein fouet. La solution passe-t-elle par un nouveau référendum sur l'indépendance ? La question divise la société écossaise.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907960" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223034600 +0000" stop="20221223040000 +0000" channel="ARTE.fr">
+    <title lang="fr">Fin des programmes</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1456" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223040000 +0000" stop="20221223051500 +0000" channel="ARTE.fr">
+    <title lang="fr">En attendant la neige</title>
+    <sub-title lang="fr">Doc. Nature</sub-title>
+    <desc lang="fr">A l'heure du réchauffement climatique, la neige devient un enjeu majeur dans certaines régions de l'hémisphère Nord. Voyage sur les traces d'une tempête hivernale.</desc>
+    <credits>
+      <director>Jacqueline Farmer</director>
+      <director>Cyril Barbançon</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108491167" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223051500 +0000" stop="20221223061000 +0000" channel="ARTE.fr">
+    <title lang="fr">Chine : La terre muette</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">Dans la province chinoise du Sichuan, une immersion aux côtés de trois familles dont le travail et la vie sont bouleversés par la disparition des insectes pollinisateurs.</desc>
+    <credits>
+      <director>Åsa Ekman</director>
+      <director>Oscar Hedin</director>
+      <director>Mikael Kristersson</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107995501" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223061000 +0000" stop="20221223061500 +0000" channel="ARTE.fr">
+    <title lang="fr">ARTE Journal Junior</title>
+    <sub-title lang="fr">Émission du 2022-12-19</sub-title>
+    <desc lang="fr">Le JT matinal et quotidien de six minutes pour les 10-14 ans.</desc>
+    <date>2022</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Mag Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/61772397" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223061500 +0000" stop="20221223071000 +0000" channel="ARTE.fr">
+    <title lang="fr">Hongkong, la magie des néons</title>
+    <sub-title lang="fr">Inde, la médecine ayurvédique</sub-title>
+    <desc lang="fr">Alors que les LED tendent à supplanter les néons fluorescents, une poignée d'artisans et d'aficionados se démènent pour sauver cet emblème de Hongkong.</desc>
+    <date>2019</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/88781202" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223071000 +0000" stop="20221223075500 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage</title>
+    <sub-title lang="fr">Rubens à Anvers / La vahiné / Denver</sub-title>
+    <desc lang="fr">Du lundi au vendredi, Linda Lorin part à la découverte du patrimoine artistique, culturel et naturel.</desc>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104093923" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223075500 +0000" stop="20221223082500 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage : Nos épopées</title>
+    <sub-title lang="fr">Manger et partager</sub-title>
+    <desc lang="fr">Linda Lorin nous offre un supplément d'évasion. En Grèce, l'art de la diète méditerranéenne - Le tajine, une délicieuse histoire marocaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107582240" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223082500 +0000" stop="20221223092000 +0000" channel="ARTE.fr">
+    <title lang="fr">Le télescope James Webb, une nouvelle ère d'exploration</title>
+    <sub-title lang="fr">Doc. Sciences et Techniques</sub-title>
+    <desc lang="fr">Le 25 décembre 2021, le télescope spatial James-Webb de la Nasa décollait à bord d'un lanceur Ariane-5 depuis Kourou, en Guyane française, et devenait l'instrument d'observation le plus puissant jamais envoyé dans l'espace. Déployé à une distance record de 1,5 million de kilomètres de la Terre, il peut à présent scruter le cosmos avec une précision inégalée. De quoi répondre aux énigmes de l'astronomie.</desc>
+    <credits>
+      <director>Terri Randall</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Sciences et Techniques</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108432788" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223092000 +0000" stop="20221223101500 +0000" channel="ARTE.fr">
+    <title lang="fr">Perseverance, une année sur Mars</title>
+    <sub-title lang="fr">Doc. Sciences et Techniques</sub-title>
+    <desc lang="fr">Février 2021. Toujours opérationnel, le rover Curiosity, qui explore Mars depuis 2012, attend la relève. Son séjour sur la planète rouge a permis de confirmer que l'eau liquide avait un jour coulé à sa surface. Perseverance, nouvel astromobile conçu par la Nasa, le rejoint avec à son bord un arsenal technologique bénéficiant des progrès scientifiques des dix dernières années. Objectif : le cratère Jezero.</desc>
+    <credits>
+      <director>Alain Tixier</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Sciences et Techniques</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108432790" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223101500 +0000" stop="20221223111000 +0000" channel="ARTE.fr">
+    <title lang="fr">A la recherche de planète 9</title>
+    <sub-title lang="fr">Doc. Sciences et Techniques</sub-title>
+    <desc lang="fr">Aux confins du Système solaire se cacherait une mystérieuse planète géante dont la masse équivaudrait à cinq fois la Terre. L'année y durerait plus de dix mille ans, tant elle orbite loin du Soleil. Plusieurs équipes d'astronomes, dont les Américains Chad Trujillo et Scott Sheppard, traquent sans relâche cette hypothétique exilée. Avec quels indices ? Et pourquoi est-elle si difficile à détecter ?</desc>
+    <credits>
+      <director>Florence Tran</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Sciences et Techniques</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108433260" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223111000 +0000" stop="20221223120000 +0000" channel="ARTE.fr">
+    <title lang="fr">Faire l'histoire</title>
+    <sub-title lang="fr">L'âge nucléaire, l'espérance et la terreur</sub-title>
+    <desc lang="fr">De la découverte des rayons X en 1895 par Wilhelm Röntgen à la catastrophe de Tchernobyl en 1986, en passant par les deux bombes atomiques sur Hiroshima et Nagasaki les 6 et 9 août 1945, le nucléaire a bel et bien...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101508361" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223120000 +0000" stop="20221223123500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte regards</title>
+    <sub-title lang="fr">Un difficile retour : La minorité chrétienne en Turquie</sub-title>
+    <desc lang="fr">Après avoir été persécutés pendant des décennies en raison de leur foi, de plus en plus de Syriaques orthodoxes reviennent dans le sud-est de la Turquie, sur les terres qui ont vu naître cette communauté chrétienne. ARTE Regards a suivi le parcours d'une religieuse.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907960" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223123500 +0000" stop="20221223141500 +0000" channel="ARTE.fr">
+    <title lang="fr">African Queen</title>
+    <sub-title lang="fr">Film Aventure</sub-title>
+    <desc lang="fr">Au début du XXe siècle en Afrique. Les Allemands incendient un village de brousse et enrôlent ses habitants de force. Lorsque le pasteur du hameau meurt, sa soeur, Rose, vieille fille puritaine, reste seule et déboussolée. Charlie Allnut, un ivrogne, la recueille sur son rafiot, l'African Queen...</desc>
+    <credits>
+      <director>John Huston</director>
+      <actor>Humphrey Bogart</actor>
+      <actor>Katharine Hepburn</actor>
+      <actor>Robert Morley</actor>
+      <actor>Peter Bull</actor>
+      <actor>Theodore Bikel</actor>
+      <actor>Walter Gotell</actor>
+      <writer>John Huston</writer>
+      <writer>James Agee</writer>
+      <composer>Allan Gray</composer>
+    </credits>
+    <date>1951</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Aventure</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108534860" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223141500 +0000" stop="20221223155500 +0000" channel="ARTE.fr">
+    <title lang="fr">Le lac Tanganyika, la source de vie de l'Afrique</title>
+    <sub-title lang="fr">Doc. Nature</sub-title>
+    <desc lang="fr">Voyage sur les rives du lac Tanganyika, immense étendue située au coeur de paysages sauvages d'Afrique centrale : un refuge pour la biodiversité.</desc>
+    <credits>
+      <director>Harald Pokieser</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108491174" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223155500 +0000" stop="20221223162500 +0000" channel="ARTE.fr">
+    <title lang="fr">Des volcans et des hommes</title>
+    <sub-title lang="fr">Islande, les seigneurs de feu</sub-title>
+    <desc lang="fr">En Islande, plus grande île volcanique de la planète, le géologue Arnaud Guérin explore les risques de crues, liées à la fonte des glaciers qui coiffent les volcans.</desc>
+    <credits>
+      <director>David Perrier</director>
+      <director>Jean-Luc Guidoin</director>
+      <director>Guy Beauché</director>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103099553" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223162500 +0000" stop="20221223171000 +0000" channel="ARTE.fr">
+    <title lang="fr">Invitation au voyage</title>
+    <sub-title lang="fr">La Tolède de Luis Bunuel / Les Hmong du Laos en Guyane / Fontainebleau</sub-title>
+    <desc lang="fr">Du lundi au vendredi, Linda Lorin part à la découverte du patrimoine artistique, culturel et naturel.</desc>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Voyage</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907959" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223171000 +0000" stop="20221223175500 +0000" channel="ARTE.fr">
+    <title lang="fr">Merveilles nordiques</title>
+    <sub-title lang="fr">Les fjords</sub-title>
+    <desc lang="fr">S'étendant sur 200 km le long de la côte Atlantique, ces bras de mer formés durant la glaciation peuvent atteindre plus de mille mètres de profondeur ; la vie y foisonne.</desc>
+    <date>2017</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/69148909" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223175500 +0000" stop="20221223184500 +0000" channel="ARTE.fr">
+    <title lang="fr">Natura Europa</title>
+    <sub-title lang="fr">Le retour des aurochs</sub-title>
+    <desc lang="fr">Chronique d'une initiative européenne unique visant à réintroduire à l'état sauvage l'aurochs, bovin primitif disparu depuis près de quatre siècles.</desc>
+    <credits>
+      <director>Nigel Pope</director>
+      <director>Thierry Ragobert</director>
+      <director>Michael Schlamberger</director>
+      <director>John Murray</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470692" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223184500 +0000" stop="20221223190500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte journal</title>
+    <sub-title lang="fr">23/12/2022</sub-title>
+    <desc lang="fr">Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102522418" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223190500 +0000" stop="20221223195100 +0000" channel="ARTE.fr">
+    <title lang="fr">28 minutes</title>
+    <sub-title lang="fr">Émission du 2022-12-23</sub-title>
+    <desc lang="fr">Présenté par Élisabeth Quin, le rendez-vous quotidien consacré à l’actualité et au débat.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102633572" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223195100 +0000" stop="20221223195500 +0000" channel="ARTE.fr">
+    <title lang="fr">50 nuances de Grecs</title>
+    <sub-title lang="fr">Homère B-N'B</sub-title>
+    <desc lang="fr">Y a pas de honte à se faire un complément de revenus en louant de temps en temps sa mythologie à des touristes... Avec les voix de Frédéric Pierrot, Joséphine de Meaux, Michel Vuillermoz, Agnès Hurstel, Christian Olivier (les Têtes Raides), Félix Moati, Noémie de Lattre, Philippe Torreton, Samir Guesmi, Pauline Lorillard, Sophie-Marie Larrouy...</desc>
+    <credits>
+      <director>Mathieu Signolet</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108340091" />
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223195500 +0000" stop="20221223215500 +0000" channel="ARTE.fr">
+    <title lang="fr">L'aventure intérieure</title>
+    <sub-title lang="fr">Film Science-fiction</sub-title>
+    <desc lang="fr">Le lieutenant de la marine Tuck Pendelton traverse une mauvaise passe, aussi bien dans sa vie amoureuse que professionnelle. Pour y échapper, il se porte volontaire pour une expérience scientifique dangereuse qui consiste à être miniaturisé puis placé dans une capsule pour explorer les vaisseaux sanguins...</desc>
+    <credits>
+      <director>Joe Dante</director>
+      <actor>Dennis Quaid</actor>
+      <actor>Martin Short</actor>
+      <actor>Meg Ryan</actor>
+      <actor>Kevin McCarthy</actor>
+      <actor>Fiona Lewis</actor>
+      <actor>Vernon Wells</actor>
+      <writer>Jeffrey Boam</writer>
+      <writer>Chip Proser</writer>
+      <composer>Jerry Goldsmith</composer>
+    </credits>
+    <date>1987</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Science-fiction</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106391577" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223215500 +0000" stop="20221223232500 +0000" channel="ARTE.fr">
+    <title lang="fr">Douce nuit, folle nuit</title>
+    <sub-title lang="fr">Téléfilm Comédie</sub-title>
+    <desc lang="fr">Infirmier épuisé après une nuit de garde, Omar se met en quête d'un sapin pour sa famille. Rosi reçoit la visite surprise de son père, un vieux monsieur vacillant d'alcool et de chagrin. Pendant ce temps, Koharu, la petite amie de Simon, décide de concocter un menu de réveillon un peu spécial.</desc>
+    <credits>
+      <director>Arash T Riahi</director>
+      <director>Arman T Riahi</director>
+      <director>Mirjam Unger</director>
+      <actor>Faris Rahoma</actor>
+      <actor>Inge Maux</actor>
+      <actor>Roland Düringer</actor>
+      <actor>Kathrin Resetarits</actor>
+      <actor>Lukas Resetarits</actor>
+      <actor>Maya Unger</actor>
+      <writer>Sarah Wassermair</writer>
+      <writer>Aleksandar Petrovic</writer>
+      <writer>Faris Rahoma</writer>
+      <writer>Arman T Riahi</writer>
+      <composer>Mira Kovacs</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108158885" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223232500 +0000" stop="20221224002000 +0000" channel="ARTE.fr">
+    <title lang="fr">Julio Iglesias : amour, gloire et chansons</title>
+    <sub-title lang="fr">Doc. Musique</sub-title>
+    <desc lang="fr">En juillet 1968, à 24 ans, Julio Iglesias remporte le concours de chant le plus couru d'Espagne avec son premier titre, La vida sigue igual. Ses ballades ravissent alors la jeunesse sans déplaire au régime franquiste, qui l'autorise à voyager. Après avoir conquis l'Ancien Continent, le crooner au regard de braise part à l'assaut de l'Amérique, se produisant dans le Chili de Pinochet, puis aux Etats-Unis.</desc>
+    <credits>
+      <director>Anne-Solen Douguet</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Doc Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108504796" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224002000 +0000" stop="20221224012500 +0000" channel="ARTE.fr">
+    <title lang="fr">Chilly Gonzales : A Very Chilly Christmas</title>
+    <sub-title lang="fr">Concert Variétés</sub-title>
+    <desc lang="fr">Chilly Gonzales - A Very Chilly Christmas.</desc>
+    <date>2020</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Varietes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/98295765" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224012500 +0000" stop="20221224021000 +0000" channel="ARTE.fr">
+    <title lang="fr">La vie secrète des lacs</title>
+    <sub-title lang="fr">Le lac Saimaa, le labyrinthe nordique</sub-title>
+    <desc lang="fr">Une espèce en voie de disparition, le phoque annelé, tout droit venu de l'âge de glace, peuple en hiver le lac Saimaa, situé dans le Sud de la Finlande.</desc>
+    <credits>
+      <director>Alexis de Favitski</director>
+      <director>Pascal Cuissot</director>
+      <director>Yanick Rose</director>
+      <director>Stéphane Bégoin</director>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104747304" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224021000 +0000" stop="20221224023500 +0000" channel="ARTE.fr">
+    <title lang="fr">Des volcans et des hommes</title>
+    <sub-title lang="fr">Nouvelle-Zélande, lacs volcaniques en terre maorie</sub-title>
+    <desc lang="fr">Les lacs volcaniques sont sacrés pour la maoris : Arnaud accompagne des scientifiques au lac du grand Ruapehu, où un chef maori rend hommage aux esprits de la montagne.</desc>
+    <credits>
+      <director>David Perrier</director>
+      <director>Jean-Luc Guidoin</director>
+      <director>Guy Beauché</director>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103099553" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224023500 +0000" stop="20221224031500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte regards</title>
+    <sub-title lang="fr">Un volontaire s'engage pour défendre l'Ukraine</sub-title>
+    <desc lang="fr">Avec le coronavirus, de nouveaux adeptes sont venus grossir les rangs de la communauté hippie sur l'île de La Gomera, qu'Arte Regards avait déjà explorée en 2018.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907960" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224031500 +0000" stop="20221224034700 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte regards</title>
+    <sub-title lang="fr">Les déboires de la Deutsche Bahn</sub-title>
+    <desc lang="fr">La Deutsche Bahn compte devenir l'opérateur ferroviaire de l'avenir. Mais entre les retards, les suppressions de trains, les travaux et une ponctualité qui a chuté à moins de 60 % cet été, elle en est encore loin. En Suisse et en France, le rail est bien plus performant. Alors, quelles sont les failles des chemins de fer allemands et quels sont les secrets de la réussite des voisins européens ?</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/53907960" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224034700 +0000" stop="20221224044500 +0000" channel="ARTE.fr">
+    <title lang="fr">Fin des programmes</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1510" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224044500 +0000" stop="20221224054000 +0000" channel="ARTE.fr">
+    <title lang="fr">Bols tibétains, la thérapie par les sons</title>
+    <sub-title lang="fr">Bols tibétains, la thérapie par les sons</sub-title>
+    <desc lang="fr">Au Népal, depuis des générations, les bols tibétains sont utilisés par les guérisseurs pour soulager de multiples maux, de la migrane aux douleurs chroniques.</desc>
+    <date>2019</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/88781202" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224054000 +0000" stop="20221224063500 +0000" channel="ARTE.fr">
+    <title lang="fr">Dean Martin : King of Cool</title>
+    <sub-title lang="fr">Doc. Musique</sub-title>
+    <desc lang="fr">Mieux que personne, il incarne la décontraction à l'américaine. L'anglais n'est pourtant pas la langue maternelle de Dean Martin, de son vrai nom Dino Paul Crocetti. Né en 1917 de parents italiens, il grandit au sein d'un clan désargenté. Dans les années 1940, il croise Jerry Lewis, rencontre décisive qui débouchera sur un duo comique explosif, adoubé par une grand star : Frank Sinatra.</desc>
+    <credits>
+      <director>Tom Donahue</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Doc Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108521733" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224063500 +0000" stop="20221224072000 +0000" channel="ARTE.fr">
+    <title lang="fr">Christmas@Home 2022 : Concert de Noël chez Daniel Hope</title>
+    <sub-title lang="fr">Concert Classique</sub-title>
+    <desc lang="fr">Pour Noël, le violoniste Daniel Hope invite dans son salon le chanteur Sting, la soprano Golda Schultz et le guitariste Dominic Miller.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Classique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108540280" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224072000 +0000" stop="20221224075000 +0000" channel="ARTE.fr">
+    <title lang="fr">Cuisines des terroirs</title>
+    <sub-title lang="fr">Les Hautes-Alpes</sub-title>
+    <desc lang="fr">Depuis le XVe siècle, les habitants de Villar d'Arène, dans les Hautes-Alpes, célèbrent tous les ans, au mois de novembre, la fête du pain bouilli.</desc>
+    <date>2018</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Gastronomie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104458519" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224075000 +0000" stop="20221224083500 +0000" channel="ARTE.fr">
+    <title lang="fr">Natura Europa</title>
+    <sub-title lang="fr">L'Ecosse sauvage</sub-title>
+    <desc lang="fr">A travers l'épopée d'un pin sylvestre écossais, âgé de presque 500 ans, une immersion dans un écosystème unique au monde abritant des centaines de formes de vie.</desc>
+    <credits>
+      <director>Nigel Pope</director>
+      <director>Thierry Ragobert</director>
+      <director>Michael Schlamberger</director>
+      <director>John Murray</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470692" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224083500 +0000" stop="20221224092000 +0000" channel="ARTE.fr">
+    <title lang="fr">Natura Europa</title>
+    <sub-title lang="fr">Quand passent les oiseaux</sub-title>
+    <desc lang="fr">Dès la fin de l'été, les oiseaux migrateurs sont contraints de quitter le Grand Nord pour gagner des régions plus hospitalières. Une épopée de plusieurs milliers de kilomètres qui conduit limicoles, échassiers et passereaux par millions à traverser l'Europe. Cet extraordinaire phénomène naturel qui rythme les saisons est aujourd'hui menacé en raison de l'emprise croissante des humains sur la nature.</desc>
+    <credits>
+      <director>Nigel Pope</director>
+      <director>Thierry Ragobert</director>
+      <director>Michael Schlamberger</director>
+      <director>John Murray</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470692" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224092000 +0000" stop="20221224100000 +0000" channel="ARTE.fr">
+    <title lang="fr">Natura Europa</title>
+    <sub-title lang="fr">L'île d'Émeraude et le désert de pierres</sub-title>
+    <desc lang="fr">L'Irlande recèle l'un des plus grands trésors naturels : un désert de pierre grise qui abrite certains des animaux sauvages les plus enchanteurs de l'île d'émeraude.</desc>
+    <credits>
+      <director>Nigel Pope</director>
+      <director>Thierry Ragobert</director>
+      <director>Michael Schlamberger</director>
+      <director>John Murray</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470692" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224100000 +0000" stop="20221224104500 +0000" channel="ARTE.fr">
+    <title lang="fr">Natura Europa</title>
+    <sub-title lang="fr">Aux sources de la nature</sub-title>
+    <desc lang="fr">Des spécialistes dévoilent la complexité des interactions entre les espèces et leur milieu, transformé depuis des milliers d'années par l'expansion humaine.</desc>
+    <credits>
+      <director>Nigel Pope</director>
+      <director>Thierry Ragobert</director>
+      <director>Michael Schlamberger</director>
+      <director>John Murray</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470692" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224104500 +0000" stop="20221224113000 +0000" channel="ARTE.fr">
+    <title lang="fr">Natura Europa</title>
+    <sub-title lang="fr">Le retour des aurochs</sub-title>
+    <desc lang="fr">Chronique d'une initiative européenne unique visant à réintroduire à l'état sauvage l'aurochs, bovin primitif disparu depuis près de quatre siècles.</desc>
+    <credits>
+      <director>Nigel Pope</director>
+      <director>Thierry Ragobert</director>
+      <director>Michael Schlamberger</director>
+      <director>John Murray</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470692" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224113000 +0000" stop="20221224121500 +0000" channel="ARTE.fr">
+    <title lang="fr">Les Pyrénées secrètes</title>
+    <sub-title lang="fr">La genette, discrète du piémont</sub-title>
+    <desc lang="fr">Petit mammifère nocturne au pelage de léopard et à la queue annelée, l'agile genette se cache au pied du piémont, dans les replis des contreforts pyrénéens. Sans domicile fixe, sauf en période de gestation, la genette dort durant la journée, accrochée aux arbres ou nichée dans les rochers. Au fil des saisons, entre bocages, forêts, falaises et rivières, ce discret prédateur et formidable grimpeur cohabite avec d'autres espèces, en tentant d'échapper au regard de l'humain.</desc>
+    <credits>
+      <director>Alwa Deluze</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108463811" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224121500 +0000" stop="20221224130000 +0000" channel="ARTE.fr">
+    <title lang="fr">Les Pyrénées secrètes</title>
+    <sub-title lang="fr">L'ours, le roi des forêts ancestrales</sub-title>
+    <desc lang="fr">Solitaire, l'ours brun promène sa silhouette massive, qui peut atteindre deux mètres, dans les zones densément boisées des Pyrénées, avant d'hiberner dans des grottes.</desc>
+    <credits>
+      <director>Alwa Deluze</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108463811" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224130000 +0000" stop="20221224134500 +0000" channel="ARTE.fr">
+    <title lang="fr">Les Pyrénées secrètes</title>
+    <sub-title lang="fr">Le gypaète barbu, corsaire des cimes</sub-title>
+    <desc lang="fr">Espèce protégée, le gypaète barbu, rapace le plus grand et le plus rare d'Europe, tournoie majestueusement dans le ciel au-dessus des montagnes pyrénéennes.</desc>
+    <credits>
+      <director>Alwa Deluze</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108463811" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224134500 +0000" stop="20221224154000 +0000" channel="ARTE.fr">
+    <title lang="fr">The Lion Woman</title>
+    <sub-title lang="fr">Film Drame</sub-title>
+    <desc lang="fr">En 1912, en Norvège, une femme met au monde une petite fille atteinte d'une maladie rare provoquant une pilosité excessive. Elle meurt en couches, laissant Eva seule avec son père, qui décide de la protéger en la soustrayant à la cruauté de la société. Mais à l'adolescence, Eva décide d'affronter le monde...</desc>
+    <credits>
+      <director>Vibeke Idsöe</director>
+      <actor>Ida Ursin-Holm</actor>
+      <actor>Rolf Lassgard</actor>
+      <actor>Mathilde Thomine Storm</actor>
+      <actor>Aurora Lindseth-Lokka</actor>
+      <actor>Rolf Kristian Larsen</actor>
+      <actor>Kjersti Tveteras</actor>
+      <writer>Vibeke Idsöe</writer>
+      <composer>Uno Helmersson</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108482881" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224154000 +0000" stop="20221224170500 +0000" channel="ARTE.fr">
+    <title lang="fr">41e Festival mondial du cirque de demain</title>
+    <sub-title lang="fr">Cirque</sub-title>
+    <desc lang="fr">41e Festival mondial du cirque de demain.</desc>
+    <date>2020</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Cirque</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/98321126" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224170500 +0000" stop="20221224181000 +0000" channel="ARTE.fr">
+    <title lang="fr">Christmas in Vienna 2022</title>
+    <sub-title lang="fr">Concert Classique</sub-title>
+    <desc lang="fr">Au Konzerthaus de Vienne, le traditionnel concert de Noël tient ses promesses, avec une affiche de haute volée : le ténor Rolando Villazón, la soprano Katharina Konradi et la mezzo-soprano Jamie Barton. Féerique !</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Classique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108504679" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224181000 +0000" stop="20221224184500 +0000" channel="ARTE.fr">
+    <title lang="fr">Vosges, la magie du cristal</title>
+    <desc lang="fr">Les Vosges du Nord comptent trois manufactures au savoir-faire reconnu : les cristalleries Saint-Louis, la maison Lalique et le Centre international d'art verrier de Meisenthal.</desc>
+    <credits>
+      <director>Jean-Baptiste Mathieu</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108521755" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224184500 +0000" stop="20221224190500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte journal</title>
+    <sub-title lang="fr">24/12/2022</sub-title>
+    <desc lang="fr">Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102522418" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224190500 +0000" stop="20221224195000 +0000" channel="ARTE.fr">
+    <title lang="fr">Lapins et lièvres : La fabuleuse histoire des grandes oreilles</title>
+    <sub-title lang="fr">Doc. Animalier</sub-title>
+    <desc lang="fr">Les lièvres et les lapins, dont on recense plus de soixante espèces différentes, jouent un rôle clé dans les écosystèmes qui les abritent. Des montagnes Rocheuses jusqu'à la lande anglaise en passant par le désert de l'Arizona et les forêts boréales canadiennes, ils ont colonisé la quasi-totalité de la planète. Mais la perte de leur habitat et le changement climatique font reculer leurs populations.</desc>
+    <credits>
+      <director>Susan Fleming</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Animalier</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/98118406" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224195000 +0000" stop="20221224195500 +0000" channel="ARTE.fr">
+    <title lang="fr">50 nuances de Grecs</title>
+    <sub-title lang="fr">Nordic pic</sub-title>
+    <desc lang="fr">Le prix Nobel de la Paix est attribué à la déesse grecque Irénée : un bon prétexte pour faire un tour dans la mythologie nordique !</desc>
+    <credits>
+      <director>Mathieu Signolet</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108340091" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224195500 +0000" stop="20221224212500 +0000" channel="ARTE.fr">
+    <title lang="fr">Le clan des renards</title>
+    <sub-title lang="fr">Doc. Animalier</sub-title>
+    <desc lang="fr">Un jour de neige, une jeune renarde vient au monde dans une forêt de mélèze. Elle partage l'insouciance des premiers mois de sa vie avec les chamois, marmottes, aigles et bouquetins. A la fin de l'été, la tension monte. Il faut se faire une place dans son propre clan, composer avec le retour d'une meute de loups et chasser le renard vagabond qui empiète sur le territoire.</desc>
+    <credits>
+      <director>Anne Lapied</director>
+      <director>Erik Lapied</director>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Animalier</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108522488" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224212500 +0000" stop="20221224225500 +0000" channel="ARTE.fr">
+    <title lang="fr">Yellowstone : Nature extrême</title>
+    <sub-title lang="fr">Nature extrême (1/2)</sub-title>
+    <desc lang="fr">Des rituels de pêche des loutres de rivière au festin royal de loups affamés en passant par les incroyables plongées de chasse du renard roux ou la frénésie alimentaire d'une mère grizzli et de ses petits, d'étonnants moments de vie animalière se dévoilent sous la caméra de Thomas Winston, qui s'est immiscé durant deux ans au plus près de la faune du parc de Yellowstone, le plus ancien parc naturel au monde.</desc>
+    <date>2019</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106905003" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224225500 +0000" stop="20221225002500 +0000" channel="ARTE.fr">
+    <title lang="fr">Yellowstone : Nature extrême</title>
+    <sub-title lang="fr">Nature extrême (2/2)</sub-title>
+    <desc lang="fr">Après un long hiver, le printemps annonce la saison des amours pour la faune ailée du Yellowstone. Alors que le tétras mâle des armoises s'adonne à un étonnant rituel nuptial en exhibant son sac vocal, les grues femelles du Canada signifient en levant le bec qu'elles consentent à la reproduction. Mais une fois les oisillons arrivés, il faut les protéger des prédateurs et collecter de la nourriture.</desc>
+    <date>2019</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106905003" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225002500 +0000" stop="20221225012500 +0000" channel="ARTE.fr">
+    <title lang="fr">Le mystère Méliès</title>
+    <sub-title lang="fr">Doc. Culture</sub-title>
+    <desc lang="fr">Fils d'un fabricant de chaussures, Georges Méliès décide de se consacrer à la magie. En 1888, il emploie sa part d'héritage pour racheter le Théâtre Robert-Houdin, boulevard des Italiens, où ses spectacles féeriques attirent les foules. Sept ans plus tard, ébloui par l'image animée des frères Lumière, il se lance dans un art naissant, le cinéma, qui l'amène à inventer les effets spéciaux.</desc>
+    <credits>
+      <director>Eric Lange</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/98511764" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225012500 +0000" stop="20221225024500 +0000" channel="ARTE.fr">
+    <title lang="fr">Graines d'étoiles, les années de maturité</title>
+    <desc lang="fr">Ils ont désormais autour de 25 ans. Certains approchent de leur rêve de devenir étoile, d'autres s'épanouissent loin de la prestigieuse institution qui les a formés. Admis parmi les premiers danseurs de l'Opéra, dernière étape avant le Graal, Pablo s'apprête à interpréter le rôle de Mercutio dans le Roméo et Juliette de Noureev. De leur côté, Roxane et Antonio répètent une chorégraphie de Roland Petit.</desc>
+    <credits>
+      <director>Françoise Marie</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108446506" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225024500 +0000" stop="20221225033600 +0000" channel="ARTE.fr">
+    <title lang="fr">Chine : La terre muette</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">Dans la province chinoise du Sichuan, une immersion aux côtés de trois familles dont le travail et la vie sont bouleversés par la disparition des insectes pollinisateurs.</desc>
+    <credits>
+      <director>Åsa Ekman</director>
+      <director>Oscar Hedin</director>
+      <director>Mikael Kristersson</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107995501" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225033600 +0000" stop="20221225040000 +0000" channel="ARTE.fr">
+    <title lang="fr">Fin des programmes</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1510" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225040000 +0000" stop="20221225045000 +0000" channel="ARTE.fr">
+    <title lang="fr">Nouvelle-Zélande : La forêt des géants</title>
+    <sub-title lang="fr">Doc. Nature</sub-title>
+    <desc lang="fr">L'arrivée des humains en Nouvelle-Zélande, il y a seulement 700 ans, a considérablement réduit la surface et la stabilité de la forêt.</desc>
+    <credits>
+      <director>Julie Merckling</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108535896" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225045000 +0000" stop="20221225062500 +0000" channel="ARTE.fr">
+    <title lang="fr">Maradona, un gamin en or</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+    <desc lang="fr">La vie de Diego Maradona, l'un des plus grands footballeurs de tous les temps, ressemble à un roman. Né en 1960 dans un bidonville de Buenos Aires, Maradona, el pibe de oro, grandit le football collé à la peau. Son parcours, fait d'ascensions fulgurantes et de chutes vertigineuses, le mène des lumières des stades aux affres de la drogue. Le 30 octobre 1997, le jour de ses 37 ans, il arrête le football.</desc>
+    <credits>
+      <director>Jean-Christophe Rosé</director>
+    </credits>
+    <date>2006</date>
+    <category lang="fr">Sport</category>
+    <category lang="fr">Doc Sport</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/98072957" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225062500 +0000" stop="20221225064000 +0000" channel="ARTE.fr">
+    <title lang="fr">ARTE Junior, le mag</title>
+    <sub-title lang="fr">ARTE Junior le mag</sub-title>
+    <desc lang="fr">Pour les 10-14 ans, l'actualité internationale et européenne traitée à hauteur d'enfant, à partir de questions posées par des élèves du primaire français et allemand, de portraits d'enfants ou de reportages.</desc>
+    <date>2022</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Mag Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52787802" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225064000 +0000" stop="20221225072000 +0000" channel="ARTE.fr">
+    <title lang="fr">Aux sources de la fantasy</title>
+    <sub-title lang="fr">Robert E. Howard</sub-title>
+    <desc lang="fr">Une exploration en quatre volets des origines de la fantasy, avec l'illustrateur John Howe. Dans cet épisode : Robert E. Howard, le père de Conan le Barbare.</desc>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108497552" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225072000 +0000" stop="20221225080500 +0000" channel="ARTE.fr">
+    <title lang="fr">La route des sommets</title>
+    <sub-title lang="fr">Du Nanga Parbat au Karakorum</sub-title>
+    <desc lang="fr">Depuis le pied du Nanga Parbat, l'expédition longe l'Indus et contemple l'époustouflant panorama qui embrasse le K2 et le Broad Peak, avant de gagner la Chine.</desc>
+    <date>2014</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102041251" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225080500 +0000" stop="20221225084500 +0000" channel="ARTE.fr">
+    <title lang="fr">La route des sommets</title>
+    <sub-title lang="fr">Du Karakorum au Tibet</sub-title>
+    <desc lang="fr">Un périple à travers l'Asie centrale, qui débute à Shimshal, au Pakistan, se poursuit en Chine et s'acheve au Tibet, devant le mont Everest.</desc>
+    <date>2014</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102041251" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225084500 +0000" stop="20221225093000 +0000" channel="ARTE.fr">
+    <title lang="fr">La route des sommets</title>
+    <sub-title lang="fr">Sur le toit du monde et au Népal</sub-title>
+    <desc lang="fr">Un périple de Lhassa, avec l'imposant Potala, au grand stupa de Bodnath, en passant par le monastère de Sera et le camp de base du Cho Oyu, situé à 8201 mètres.</desc>
+    <date>2014</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102041251" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225093000 +0000" stop="20221225101500 +0000" channel="ARTE.fr">
+    <title lang="fr">La route des sommets</title>
+    <sub-title lang="fr">Vers le Kangchenjunga</sub-title>
+    <desc lang="fr">Du parc national de Chitwan au monastère de Pemayantsé et aux champs de thé de Darjeeling, une promenade en Inde, à la découverte de sa culture et de sa faune.</desc>
+    <date>2014</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Nature</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102041251" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225101500 +0000" stop="20221225110000 +0000" channel="ARTE.fr">
+    <title lang="fr">La mamie patineuse du lac Baïkal</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">Liubov, qui signifie amour en russe, a fêté ses 80 printemps. Cette vaillante grand-mère, qui vit seule désormais, témoigne du lien indéfectible qui la lie au lac Baïkal, en Sibérie.</desc>
+    <credits>
+      <director>Vivien Pieper</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108515708" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225110000 +0000" stop="20221225113500 +0000" channel="ARTE.fr">
+    <title lang="fr">Cuisines des terroirs</title>
+    <sub-title lang="fr">Dresde, Allemagne</sub-title>
+    <desc lang="fr">Pain brioché à base de fruits confits et de pâte d'amande, le Stollen est indissociable de la ville de Dresde où il relève d'une tradition séculaire, ancrée dans la culture régionale.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Gastronomie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104458519" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225113500 +0000" stop="20221225123000 +0000" channel="ARTE.fr">
+    <title lang="fr">Cléopâtre, portrait d'une tueuse</title>
+    <sub-title lang="fr">Doc. Fiction</sub-title>
+    <desc lang="fr">Arsinoé IV, soeur cadette de Cléopâtre, s'oppose dès le début à l'alliance avec César, tout comme son frère Ptolémée XIII. Capturée quelque temps plus tard, elle compte parmi les prisonniers que César fait défiler à Rome pour célébrer sa victoire en 46 avant J.-C. Exilée à Ephèse, elle se croit, à tort, en sécurité. Des analyses effectuée sur un squelette exhumé en 2007 montrent qu'il s'agit bien d'Arsinoé.</desc>
+    <credits>
+      <director>Paul Elston</director>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Fiction</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108515747" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225123000 +0000" stop="20221225140000 +0000" channel="ARTE.fr">
+    <title lang="fr">Hannibal</title>
+    <sub-title lang="fr">Film Histoire</sub-title>
+    <desc lang="fr">Hannibal a franchi les Alpes et se dispose à marcher sur Rome aux abois. Il capture la belle Silvia, la nièce du sénateur romain Fabius Maximus et lui offre le spectacle de son imposante armée, avant de la relâcher, dans l'espoir qu'elle ira semer la crainte dans les coeurs romains. Mais Silvia s'éprend du beau carthaginois...</desc>
+    <credits>
+      <director>Edgar G Ulmer</director>
+      <director>Carlo Ludovico Bragaglia</director>
+      <actor>Victor Mature</actor>
+      <actor>Gabriele Ferzetti</actor>
+      <actor>Rita Gam</actor>
+      <actor>Milly Vitale</actor>
+      <actor>Rik Battaglia</actor>
+      <actor>Franco Silva</actor>
+      <writer>Mortimer Braus</writer>
+      <writer>Alessandro Continenza</writer>
+      <writer>Ottavio Poggi</writer>
+      <writer>Edgar G Ulmer</writer>
+      <composer>Carlo Rustichelli</composer>
+    </credits>
+    <date>1959</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108292069" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225140000 +0000" stop="20221225153500 +0000" channel="ARTE.fr">
+    <title lang="fr">Du pain et des jeux</title>
+    <sub-title lang="fr">Les courses de chars à Rome</sub-title>
+    <desc lang="fr">Aux alentours de 90 avant J.-C., le jeune Flavius Scorpus, esclave ambitieux, parvient, à force de talent et d'entraînement, au statut convoité d'aurige (conducteur de char). En participant aux célèbres courses du cirque Maxime de Rome et en accumulant les victoires, il deviendra une immense vedette. Ce prestige ne compense pourtant pas les risques du métier. Flavius joue sa vie à chaque course.</desc>
+    <credits>
+      <director>Jens Monath</director>
+      <director>Giulia Clark</director>
+      <director>Elena Mortelliti</director>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/83547846" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225153500 +0000" stop="20221225170000 +0000" channel="ARTE.fr">
+    <title lang="fr">Monuments éternels</title>
+    <sub-title lang="fr">Les secrets du Colisée</sub-title>
+    <desc lang="fr">Au premier siècle après J.-C., l'édification du Colisée (achevé en 80) a ouvert une nouvelle dimension dans la vie d'une cité moderne. Plus impressionnant édifice jamais construit par les bâtisseurs de l'Antiquité, le Colisée symbolise la gloire de l'Empire romain tout en réussissant la synthèse des savoirs architecturaux de l'époque. C'est l'empereur Vespasien qui initie le projet de l'amphithéâtre.</desc>
+    <credits>
+      <director>Gary Glassman</director>
+      <director>Olivier Julien</director>
+      <director>Pascal Cuissot</director>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Civilisations</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/95465578" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225170000 +0000" stop="20221225175500 +0000" channel="ARTE.fr">
+    <title lang="fr">Péplum : muscles, glaives et fantasmes</title>
+    <sub-title lang="fr">Doc. Cinéma</sub-title>
+    <desc lang="fr">Créé dans les années 1910, c'est dans les années 1950 que le péplum connaît son apogée. Cet âge d'or s'enracine dans les studios romains de Cinecittà, où sont tournés plus de 180 péplums. Pendant que les Américains réalisent des blockbusters en Cinémascope pour contrer l'essor du petit écran, les Italiens se réapproprient leur passé avec un cinéma bon marché porté par des héros bodybuildés.</desc>
+    <credits>
+      <director>Jérôme Korkikian</director>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Doc Cinema</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/95126802" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225175500 +0000" stop="20221225184500 +0000" channel="ARTE.fr">
+    <title lang="fr">Alive : David Garrett à Rome</title>
+    <sub-title lang="fr">Concert Classique</sub-title>
+    <desc lang="fr">"Alive" - David Garrett à Rome.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Classique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106922158" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225184500 +0000" stop="20221225190500 +0000" channel="ARTE.fr">
+    <title lang="fr">Arte journal</title>
+    <sub-title lang="fr">25/12/2022</sub-title>
+    <desc lang="fr">Chaque jour à 19h45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité. Un regard original sur le monde.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102522418" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225190500 +0000" stop="20221225200000 +0000" channel="ARTE.fr">
+    <title lang="fr">La cité des plaisirs de Néron</title>
+    <sub-title lang="fr">Doc. Histoire</sub-title>
+    <desc lang="fr">A la fois station de villégiature et oasis du vice à l'ombre du Vésuve, Baïes accueillit les rêves les plus fous de César, Cicéron, Brutus ou Néron, qui venaient s'y livrer à tous les plaisirs dans de somptueuses villas. Aujourd'hui, des archéologues et des historiens s'emploient à décrypter les vestiges de la cité antique, jadis réputée pour ses thermes, dont les demeures patriciennes rivalisaient de luxe.</desc>
+    <credits>
+      <director>Stuart Elliott</director>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/95912044" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225200000 +0000" stop="20221225235500 +0000" channel="ARTE.fr">
+    <title lang="fr">Cléopâtre</title>
+    <sub-title lang="fr">Film Histoire</sub-title>
+    <desc lang="fr">En 48 avant Jésus-Christ, César ordonne à ses légions de se rendre en Egypte. Il veut tenter d'enrayer le conflit qui oppose avec férocité les deux prétendants au trône, Ptolémée et sa soeur Cléopâtre. César veut prendre le contrôle de la vallée du Nil mais tombe sous le charme de la princesse d'Egypte...</desc>
+    <credits>
+      <director>Joseph L Mankiewicz</director>
+      <actor>Elizabeth Taylor</actor>
+      <actor>Richard Burton</actor>
+      <actor>Rex Harrison</actor>
+      <actor>Pamela Browne</actor>
+      <actor>George Cole</actor>
+      <actor>Hume Cronyn</actor>
+      <writer>Carlo Mario Franzero</writer>
+      <writer>Sidney Buchman</writer>
+      <writer>Joseph L Mankiewicz</writer>
+      <writer>Suetonius</writer>
+      <composer>Alex North</composer>
+    </credits>
+    <date>1963</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108515683" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225235500 +0000" stop="20221226012500 +0000" channel="ARTE.fr">
+    <title lang="fr">Roméo et Juliette</title>
+    <sub-title lang="fr">Ballet</sub-title>
+    <desc lang="fr">Tourné à Budapest, ce film délaisse la traditionnelle scène de l'opéra pour le réalisme de la rue. De la cour du marché à la salle de bal en passant par la chambre de Juliette, les décors reflètent fidèlement l'atmosphère de Vérone à la Renaissance.</desc>
+    <date>2019</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Ballet</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108515676" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221226012500 +0000" stop="20221226030500 +0000" channel="ARTE.fr">
+    <title lang="fr">Cirque du Soleil: Volta</title>
+    <sub-title lang="fr">Cirque</sub-title>
+    <desc lang="fr">Cirque du Soleil - Volta.</desc>
+    <date>2017</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Cirque</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108515726" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221226030500 +0000" stop="20221226033100 +0000" channel="ARTE.fr">
+    <title lang="fr">Aux sources de la fantasy</title>
+    <sub-title lang="fr">H. P. Lovecraft</sub-title>
+    <desc lang="fr">L'écrivain américain H. P. Lovecraft était presque inconnu de son vivant. Mais il est depuis devenu un auteur culte, notamment pour sa nouvelle fantastique L'Appel de Cthulhu, publié en 1926.</desc>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108341154" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221226033100 +0000" stop="20221226040000 +0000" channel="ARTE.fr">
+    <title lang="fr">Fin des programmes</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1510" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
   <channel id="C8.fr">
     <display-name lang="fr">|FR| C8</display-name>
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/c8.png" />
