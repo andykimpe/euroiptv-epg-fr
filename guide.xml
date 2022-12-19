@@ -33307,6 +33307,3318 @@
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/w9.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
+  <programme start="20221219050000 +0000" stop="20221219060000 +0000" channel="W9.fr">
+    <title lang="fr">Wake Up</title>
+    <desc lang="fr">Réveillez-vous de bon pied avec W9 ! Retrouvez une sélection des meilleurs tubes du moment pour un réveil vitaminé...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402406" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219060000 +0000" stop="20221219080000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219080000 +0000" stop="20221219093000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219093000 +0000" stop="20221219103000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits Gold</title>
+    <desc lang="fr">Retrouvez le meilleur des hits des années 80, 90 et 2000.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100146550" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219103000 +0000" stop="20221219114500 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219114500 +0000" stop="20221219115000 +0000" channel="W9.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Bulletin météorologique.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402391" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219115000 +0000" stop="20221219121000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Un papa en or</sub-title>
+    <desc lang="fr">La vie de Michael est bien compliquée. Entre les problèmes de nounou et les crises d'adolescence de ses enfants, il ne sait plus où donner de la tête. Janet, sa femme, qui occupe un poste à mi-temps, lui annonce qu'elle souhaite travailler à temps complet...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219121000 +0000" stop="20221219124000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">La vérité blesse</sub-title>
+    <desc lang="fr">Janet et Michael trouvent la carte de visite d'un salon de tatouage dans les poches du pantalon de Junior. Celui-ci avoue s'être fait tatouer...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219124000 +0000" stop="20221219131000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Panne d'inspiration</sub-title>
+    <desc lang="fr">Michael et Janet sont scandalisés d'apprendre que Junior a fumé de la marijuana. Ils décident de lui préparer une petite soirée très particulière...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219131000 +0000" stop="20221219134000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Des seins animés</sub-title>
+    <desc lang="fr">Claire tente d'attirer l'attention des garçons à l'école et, dans cette optique, se rend dans un magasin de lingerie. De son côté, Junior parvient à battre son père au basket-ball. Celui-ci, vexé, décide de rejouer la partie, mais perd une nouvelle fois...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219134000 +0000" stop="20221219140500 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">La bosse des maths</sub-title>
+    <desc lang="fr">Junior obtient un F en algèbre mais le transforme en A. Claire, qui a découvert la supercherie, le fait chanter en menaçant de tout révéler à leurs parents...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219140500 +0000" stop="20221219143000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Cours particulier</sub-title>
+    <desc lang="fr">Junior doit obtenir un A lors de son examen final d'algèbre. Michael tente de le motiver en lui promettant de lui donner 1000 dollars s'il obtient cette note...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219143000 +0000" stop="20221219150000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Cours particulier</sub-title>
+    <desc lang="fr">Junior doit obtenir un A lors de son examen final d'algèbre. Michael tente de le motiver en lui promettant de lui donner 1000 dollars s'il obtient cette note...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219150000 +0000" stop="20221219153000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">C'est du chinois !</sub-title>
+    <desc lang="fr">Janet demande à Michael de passer moins de temps devant la télévision et de se consacrer un peu plus à sa famille. Mais celui-ci tient absolument à regarder un match de basket-ball...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219153000 +0000" stop="20221219155000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Mauvaise habitude</sub-title>
+    <desc lang="fr">Janet est licenciée et redevient donc femme au foyer, pour le plus grand bonheur de Michael. Lorsqu'elle retrouve un emploi, Janet est heureuse de reprendre la vie active mais réalise vite qu'elle l'était davantage lorsqu'elle avait le temps de se consacrer entièrement à ses enfants...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219155000 +0000" stop="20221219162000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Un peu de romantisme</sub-title>
+    <desc lang="fr">Ken, le frère de Michael vient lui rendre visite. Il est accompagné par une jeune femme qu'il présente à tous comme étant sa nouvelle conquête...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219162000 +0000" stop="20221219165000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Michael se fait des cheveux</sub-title>
+    <desc lang="fr">Lorsque le comptable de la famille meurt brutalement, Michael s'interroge sur le sens de sa vie. Il change de comportement pour montrer à sa famille, même de façon un peu bizarre, combien il tient à elle...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219165000 +0000" stop="20221219175000 +0000" channel="W9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+    <sub-title lang="fr">J 5 : Spéciale Noël</sub-title>
+    <desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Jeu</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/59805364" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219175000 +0000" stop="20221219185000 +0000" channel="W9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+    <sub-title lang="fr">J 5 : Spéciale Noël</sub-title>
+    <desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Jeu</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/59805364" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219185000 +0000" stop="20221219200000 +0000" channel="W9.fr">
+    <title lang="fr">Le cross : les Marseillais vs le Reste du monde vs les Motivés</title>
+    <sub-title lang="fr">S7 E27 - Le chevalier noir !</sub-title>
+    <desc lang="fr">Cette année, ce ne sont pas 2 mais 3 familles qui vont s'affronter ! La famille des Marseillais, toujours fidèle et accro à la victoire, est prête à en découdre avec l'arrivée de cette 3e famille.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107942081" />
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221219200000 +0000" stop="20221219200500 +0000" channel="W9.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Bulletin météorologique.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402391" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219200500 +0000" stop="20221219213500 +0000" channel="W9.fr">
+    <title lang="fr">Familles royales : secrets et scandales</title>
+    <sub-title lang="fr">Charles III : enfin Roi</sub-title>
+    <desc lang="fr">La reine Elisabeth II vient de s'éteindre au terme de 70 ans de règne. Après avoir patienté pendant des décennies, son fils Charles accède enfin au trône. Mais qui est vraiment le nouveau roi d'Angleterre ?</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108528888" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219213500 +0000" stop="20221219231500 +0000" channel="W9.fr">
+    <title lang="fr">Meghan et Harry : la guerre est déclarée</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">Les relations entre Meghan Markle et la famille royale britannique, qu'elle a intégré en épousant le prince Harry, n'ont jamais été totalement sereines. Depuis l'interview donné par la jeune femme à Oprah Winfrey, rien ne s'est apaisé. En est-on arrivé à un point où la guerre est déclarée ?</desc>
+    <credits>
+      <director>Jean-Luc Geneste</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103197844" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219231500 +0000" stop="20221220000500 +0000" channel="W9.fr">
+    <title lang="fr">Elisabeth II : les derniers secrets d'une reine</title>
+    <desc lang="fr">Le 6 février 2022, la reine Elisabeth II a célébré son jubilé de platine, à l'occasion de ses 70 ans de règne. A 95 ans, elle est le souverain britannique au règne le plus long, devant la reine Victoria. Elle doit son accession au trône à l'abdication de son oncle, Edouard VIII et n'a cessé depuis son couronnement, de préserver la dignité de la monarchie britannique, malgré les intrigues et les drames.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104009579" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220000500 +0000" stop="20221220012000 +0000" channel="W9.fr">
+    <title lang="fr">Elisabeth II : les derniers secrets d'une reine</title>
+    <desc lang="fr">Le 6 février 2022, la reine Elisabeth II a célébré ses 70 ans de règne sur le Royaume-Uni. Une souveraine qui a marqué le siècle et qui a toujours montré un sens aigu de sa fonction, veillant à toujours préserver la monarchie britannique, en dépit des épreuves, des intrigues, des drames et des rivalités.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104009579" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220012000 +0000" stop="20221220050000 +0000" channel="W9.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220050000 +0000" stop="20221220060000 +0000" channel="W9.fr">
+    <title lang="fr">Wake Up</title>
+    <desc lang="fr">Réveillez-vous de bon pied avec W9 ! Retrouvez une sélection des meilleurs tubes du moment pour un réveil vitaminé...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402406" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220060000 +0000" stop="20221220080000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220080000 +0000" stop="20221220093000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220093000 +0000" stop="20221220103000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits Gold</title>
+    <desc lang="fr">Retrouvez le meilleur des hits des années 80, 90 et 2000.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100146550" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220103000 +0000" stop="20221220114500 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220114500 +0000" stop="20221220115000 +0000" channel="W9.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Bulletin météorologique.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402391" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220115000 +0000" stop="20221220121000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Famille modèle</sub-title>
+    <desc lang="fr">Michael et Janet sont convoqués comme jurés au tribunal. Michael est contrarié : il espérait regarder la diffusion de la trilogie du Parrain à la télévision. Aussi, lorsqu'il faut prendre une décision, Michael se dépêche de répondre tandis que Janet prend le temps de la réflexion et demande l'ouverture d'un débat...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220121000 +0000" stop="20221220124000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Dur dur d'être une maman !</sub-title>
+    <desc lang="fr">Jay s'absente de la maison afin de s'occuper de sa mère, qui vient de se casser la jambe. Les enfants se retrouvent sous l'entière responsabilité de leur père...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220124000 +0000" stop="20221220131000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Dur dur d'être une maman !</sub-title>
+    <desc lang="fr">Michael, toujours seul avec les enfants, résiste tant bien que mal aux critiques émises par sa progéniture...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220131000 +0000" stop="20221220134000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">La loi de la jungle</sub-title>
+    <desc lang="fr">Michael est sans arrêt critiqué par les enfants, qui ne sont jamais contents. Lassé, il demande à chacun de se prendre en charge...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220134000 +0000" stop="20221220140500 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Père et impairs</sub-title>
+    <desc lang="fr">Les enfants ne cessent de se plaindre à propos de la sévérité de Michael depuis que Jay est partie s'occuper de leur grand-mère. Lors d'une conversation entre Michael et ses enfants, chacun décrit sa famille idéale...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220140500 +0000" stop="20221220143000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Bonjour rondeurs !</sub-title>
+    <desc lang="fr">Après avoir passé quelques jours auprès de sa mère, Janet revient chez elle. Michael ne sait pas comment lui faire comprendre qu'elle a pris quelques kilos. Dans un rêve, Janet imagine sa famille frappée d'obésité....</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220143000 +0000" stop="20221220150000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Bonjour rondeurs !</sub-title>
+    <desc lang="fr">Après avoir passé quelques jours auprès de sa mère, Janet revient chez elle. Michael ne sait pas comment lui faire comprendre qu'elle a pris quelques kilos. Dans un rêve, Janet imagine sa famille frappée d'obésité....</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220150000 +0000" stop="20221220153000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Jardin secret</sub-title>
+    <desc lang="fr">Claire n'a guère envie de faire entièrement les nombreux devoirs que ses professeurs lui ont donnés. Elle tente de duper sa mère afin qu'elle les fasse à sa place. Michael emmène son fils chez le docteur mais, à sa grande surprise, c'est lui-même qui se retrouve à devoir subir de forts désagréables examens...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220153000 +0000" stop="20221220155000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Punition au citron</sub-title>
+    <desc lang="fr">En jouant avec son frère et sa soeur, Claire relève un défi et engloutit la part de tarte au citron de Michael. En découvrant que son gâteau a disparu, Michael souhaite que le ou la coupable se dénonce. Face au mutisme de ses enfants, il leur inflige une punition pour le moins originale...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220155000 +0000" stop="20221220162000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Jardin secret</sub-title>
+    <desc lang="fr">Claire n'a guère envie de faire entièrement les nombreux devoirs que ses professeurs lui ont donnés. Elle tente de duper sa mère afin qu'elle les fasse à sa place. Michael emmène son fils chez le docteur mais, à sa grande surprise, c'est lui-même qui se retrouve à devoir subir de forts désagréables examens...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220162000 +0000" stop="20221220165000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Souriez, vous êtes filmés !</sub-title>
+    <desc lang="fr">Janet achète un ordinateur muni d'une webcam à Junior. Michael, persuadé que son fils l'utilisera pour consulter des sites pornographiques, ne voit pas cet investissement d'un bon oeil. Le couple ignore que, grâce à la webcam, leur dispute a le monde entier pour témoin...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220165000 +0000" stop="20221220175000 +0000" channel="W9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+    <sub-title lang="fr">J 5 : Spéciale Noël</sub-title>
+    <desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Jeu</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/59805364" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220175000 +0000" stop="20221220185000 +0000" channel="W9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+    <sub-title lang="fr">J 5 : Spéciale Noël</sub-title>
+    <desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Jeu</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/59805364" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220185000 +0000" stop="20221220200000 +0000" channel="W9.fr">
+    <title lang="fr">Le cross : les Marseillais vs le Reste du monde vs les Motivés</title>
+    <sub-title lang="fr">S7 E28</sub-title>
+    <desc lang="fr">Cette année, ce ne sont pas 2 mais 3 familles qui vont s'affronter ! La famille des Marseillais, toujours fidèle et accro à la victoire, est prête à en découdre avec l'arrivée de cette 3e famille.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107942081" />
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220200000 +0000" stop="20221220200500 +0000" channel="W9.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Bulletin météorologique.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402391" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220200500 +0000" stop="20221220221000 +0000" channel="W9.fr">
+    <title lang="fr">Etat de choc</title>
+    <sub-title lang="fr">Fusillades, accidents, crimes aux USA : les chasseurs de scoops de l'extrême</sub-title>
+    <desc lang="fr">Aux Etats-Unis, les faits divers sont de plus en plus nombreux. Un triste record qui fait l'affaire des stringers, une communauté de reporters professionnels. Chaque soir, ils sont plus de 130 professionnels à...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105984856" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220221000 +0000" stop="20221221001000 +0000" channel="W9.fr">
+    <title lang="fr">Etat de choc</title>
+    <sub-title lang="fr">Obésité aux USA : le plus gros pays du monde</sub-title>
+    <desc lang="fr">40% de la population aux Etats-Unis est obèse. Le pays n'a jamais compté autant de personnes en surpoids et l'alimentation déséquilibrée et le manque d'activité physique sont mis en cause. Mais les Etats-Unis sont...</desc>
+    <date>2019</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/81303594" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221001000 +0000" stop="20221221022000 +0000" channel="W9.fr">
+    <title lang="fr">Etat de choc</title>
+    <sub-title lang="fr">Fat camp : un été pour maigrir</sub-title>
+    <desc lang="fr">Chaque été, à une heure de New York en Pennsylvanie, 400 enfants passent 4 à 8 semaines dans le plus grand centre d'amaigrissement du monde : le camps Pocono. Les équipes d'Etat de choc ont suivi le parcours de...</desc>
+    <date>2020</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105984856" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221022000 +0000" stop="20221221050000 +0000" channel="W9.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221050000 +0000" stop="20221221060500 +0000" channel="W9.fr">
+    <title lang="fr">Wake Up</title>
+    <desc lang="fr">Réveillez-vous de bon pied avec W9 ! Retrouvez une sélection des meilleurs tubes du moment pour un réveil vitaminé...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402406" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221060500 +0000" stop="20221221080000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221080000 +0000" stop="20221221102000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221102000 +0000" stop="20221221112500 +0000" channel="W9.fr">
+    <title lang="fr">Génération Top 50</title>
+    <desc lang="fr">À travers de nombreuses rubriques, Jérôme Anthony redécouvre tous les tubes des années 80 et 90 qui ont marqué le Top 50.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Mag Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/96971750" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221112500 +0000" stop="20221221114500 +0000" channel="W9.fr">
+    <title lang="fr">Génération Top 50</title>
+    <desc lang="fr">À travers de nombreuses rubriques, Jérôme Anthony redécouvre tous les tubes des années 80 et 90 qui ont marqué le Top 50.</desc>
+    <date>2011</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Mag Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/96971750" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221114500 +0000" stop="20221221115000 +0000" channel="W9.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Bulletin météorologique.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402391" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221115000 +0000" stop="20221221121000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Voisins voyageurs</sub-title>
+    <desc lang="fr">Michael tue accidentellement le hamster de Kady. N'ayant pas le courage d'annoncer la triste nouvelle à sa fille, il laisse l'animal dans sa cage. De son côté, Claire feint d'être malade afin de manquer l'école et ainsi retrouver son petit ami...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221121000 +0000" stop="20221221124000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Voisins voyageurs</sub-title>
+    <desc lang="fr">Michael tue accidentellement le hamster de Kady. N'ayant pas le courage d'annoncer la triste nouvelle à sa fille, il laisse l'animal dans sa cage. De son côté, Claire feint d'être malade afin de manquer l'école et ainsi retrouver son petit ami...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221124000 +0000" stop="20221221131000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Le démon du jeu</sub-title>
+    <desc lang="fr">Michael est accro aux jeux vidéo. Il en néglige Janet, qui se sent délaissée et le traîne à une séance de thérapie conjugale...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221131000 +0000" stop="20221221134000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Dehors !</sub-title>
+    <desc lang="fr">Invité à un mariage, Michael s'est donné pour mission d'obliger sa famille, systématiquement en retard, à être ponctuelle. C'est alors que la tante de Michael le prévient que le mariage a été annulé...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221134000 +0000" stop="20221221140500 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Un voyage d'enfer</sub-title>
+    <desc lang="fr">Sur l'initiative de Janet, toute la famille décide d'aller visiter la maison de Paul Revere. Les humeurs de chacun vont rendre le voyage éprouvant...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221140500 +0000" stop="20221221143000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Une table pour deux de trop</sub-title>
+    <desc lang="fr">Arrivé à la pompe à essence, Michael se retrouve bloqué par un client peu pressé. Irrité, il rentre chez lui. Puis Janet propose une sortie familiale au Tokahana, un restaurant sophistiqué. Après une longue attente, on leur donne enfin une table...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221143000 +0000" stop="20221221150000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Une table pour deux de trop</sub-title>
+    <desc lang="fr">Le dîner au Tokahana tourne très vite au cauchemar. Après plusieurs mésaventures, Michael décide qu'il est grand temps de quitter les lieux. Il pense pouvoir regarder tranquillement son match de basket-ball, mais le sort n'a pas fini de s'acharner sur lui...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221150000 +0000" stop="20221221153000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Surveillance rapprochée</sub-title>
+    <desc lang="fr">Claire a enfin rendez-vous avec Tony. Méfiants quant aux intentions de celui-ci, Michael et Janet décident de les accompagner au cinéma afin de les surveiller. Mais Tony se comporte en parfait gentleman, ne s'autorisant pas le moindre geste entreprenant envers la jeune fille. C'est sous le regard effaré de son père que Claire finit par faire le premier pas et embrasser Tony...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221153000 +0000" stop="20221221155000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">L'oeil au beurre noir</sub-title>
+    <desc lang="fr">Michael panique lorsqu'il se découvre un cheveu gris. Se sentant tout à coup plus vieux, il se remet à la boxe pour garder la forme et enseigne à Junior quelques coups. Mais Michael se retrouve bientôt avec un oeil au beurre noir. A la suite d'un quiproquo, Junior défend l'honneur de sa soeur en provoquant son petit ami, Tony, qui lui règle son compte...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221155000 +0000" stop="20221221162000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Goal !</sub-title>
+    <desc lang="fr">Janet entraîne l'équipe de football de Kady, mais les filles se plaignent de sa sévérité. Michael décide de les prendre en charge, promettant aux équipières un entraînement plus ludique...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E21</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221162000 +0000" stop="20221221165000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Pieds et poings liés</sub-title>
+    <desc lang="fr">Janet tourne en rond chez elle depuis qu'elle a été renvoyée de son travail. Elle fait pression sur Michael pour qu'il l'embauche au sein de son entreprise. Après une longue conversation, celui-ci accepte, à condition que sa femme ne s'immisce pas dans ses affaires...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E22</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221165000 +0000" stop="20221221175000 +0000" channel="W9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+    <sub-title lang="fr">J 5 : Spéciale Noël</sub-title>
+    <desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Jeu</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/59805364" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221175000 +0000" stop="20221221185000 +0000" channel="W9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+    <sub-title lang="fr">J 5 : Spéciale Noël</sub-title>
+    <desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Jeu</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/59805364" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221185000 +0000" stop="20221221200000 +0000" channel="W9.fr">
+    <title lang="fr">Le cross : les Marseillais vs le Reste du monde vs les Motivés</title>
+    <sub-title lang="fr">S7 E29</sub-title>
+    <desc lang="fr">Divertissement.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107942081" />
+    <episode-num system="onscreen">S1 E29</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221200000 +0000" stop="20221221200500 +0000" channel="W9.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Bulletin météorologique.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402391" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221200500 +0000" stop="20221221215000 +0000" channel="W9.fr">
+    <title lang="fr">Les 100 vidéos qui ont fait rire le monde entier</title>
+    <sub-title lang="fr">Spéciale quand Noël dérape</sub-title>
+    <desc lang="fr">A l'approche du réveillon de Noël, Issa Doumbia et sa bande sont de retour avec, dans leur hotte, le meilleur (du pire) des vidéos du monde entier ! Toujours accompagné de Priscilla Betti et de Norbert Tarayre, Issa...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106161548" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221215000 +0000" stop="20221221234000 +0000" channel="W9.fr">
+    <title lang="fr">Les 100 vidéos qui ont fait rire le monde entier</title>
+    <sub-title lang="fr">Spéciale quand la famille dérape</sub-title>
+    <desc lang="fr">Issa Doumbia revient pour une soirée placée sous le signe de la famille ! Accompagné de Norbert Tarayre, Élodie Gossuin et Priscilla Betti, ils accueilleront l’irrésistible danseur et chorégraphe Christophe Licata.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106161548" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221234000 +0000" stop="20221222013000 +0000" channel="W9.fr">
+    <title lang="fr">Les 100 vidéos qui ont fait rire le monde entier</title>
+    <sub-title lang="fr">Spéciale grosses frayeurs</sub-title>
+    <desc lang="fr">Issa Doumbia et ses fidèles acolytes, Norbert Tarayre, Priscilla Betti et Séverine Ferrer, sont de retour pour une compilation de vidéos dont le thème est l'effroi. Ils accueillent Iris Mittenaere, qui va découvrir en...</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106161548" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222013000 +0000" stop="20221222050000 +0000" channel="W9.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222050000 +0000" stop="20221222060000 +0000" channel="W9.fr">
+    <title lang="fr">Wake Up</title>
+    <desc lang="fr">Réveillez-vous de bon pied avec W9 ! Retrouvez une sélection des meilleurs tubes du moment pour un réveil vitaminé...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402406" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222060000 +0000" stop="20221222080000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222080000 +0000" stop="20221222093000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222093000 +0000" stop="20221222103000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits Gold</title>
+    <desc lang="fr">Retrouvez le meilleur des hits des années 80, 90 et 2000.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100146550" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222103000 +0000" stop="20221222114500 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222114500 +0000" stop="20221222115000 +0000" channel="W9.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Bulletin météorologique.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402391" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222115000 +0000" stop="20221222121000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Cours particulier</sub-title>
+    <desc lang="fr">Junior doit obtenir un A lors de son examen final d'algèbre. Michael tente de le motiver en lui promettant de lui donner 1000 dollars s'il obtient cette note...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222121000 +0000" stop="20221222124000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Cours particulier</sub-title>
+    <desc lang="fr">Junior doit obtenir un A lors de son examen final d'algèbre. Michael tente de le motiver en lui promettant de lui donner 1000 dollars s'il obtient cette note...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222124000 +0000" stop="20221222131000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">C'est du chinois !</sub-title>
+    <desc lang="fr">Janet demande à Michael de passer moins de temps devant la télévision et de se consacrer un peu plus à sa famille. Mais celui-ci tient absolument à regarder un match de basket-ball...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222131000 +0000" stop="20221222134000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Mauvaise habitude</sub-title>
+    <desc lang="fr">Janet est licenciée et redevient donc femme au foyer, pour le plus grand bonheur de Michael. Lorsqu'elle retrouve un emploi, Janet est heureuse de reprendre la vie active mais réalise vite qu'elle l'était davantage lorsqu'elle avait le temps de se consacrer entièrement à ses enfants...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222134000 +0000" stop="20221222140500 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Un peu de romantisme</sub-title>
+    <desc lang="fr">Ken, le frère de Michael vient lui rendre visite. Il est accompagné par une jeune femme qu'il présente à tous comme étant sa nouvelle conquête...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222140500 +0000" stop="20221222143000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Michael se fait des cheveux</sub-title>
+    <desc lang="fr">Lorsque le comptable de la famille meurt brutalement, Michael s'interroge sur le sens de sa vie. Il change de comportement pour montrer à sa famille, même de façon un peu bizarre, combien il tient à elle...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222143000 +0000" stop="20221222150000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Graine de génie</sub-title>
+    <desc lang="fr">A la suite des résultats d'un test, Michael et Janet pensent que leur fils Junior est un génie. Il s'avère cependant que les résultats ne sont pas aussi brillants qu'il y paraît...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E23</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222150000 +0000" stop="20221222153000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Graine de génie</sub-title>
+    <desc lang="fr">A la suite des résultats d'un test, Michael et Janet pensent que leur fils Junior est un génie. Il s'avère cependant que les résultats ne sont pas aussi brillants qu'il y paraît...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E23</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222153000 +0000" stop="20221222155000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Bowling</sub-title>
+    <desc lang="fr">Les Kyle vont au bowling avec la famille Tyler lors de la nuit Star Trek. Junior est de plus en plus attiré par la fille de leurs amis...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222155000 +0000" stop="20221222162000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Bowling</sub-title>
+    <desc lang="fr">Les Kyle vont au bowling avec la famille Tyler lors de la nuit Star Trek. Junior est de plus en plus attiré par la fille de leurs amis...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222162000 +0000" stop="20221222165000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Anniversaire de mariage</sub-title>
+    <desc lang="fr">Le 15e anniversaire de mariage de Janet et Michael approche à grands pas. Wanda, l'amie de Janet, lui propose d'aller au concert de Brian McKnight, auquel elle tient vraiment à assister. Mais elle est obligée de renoncer car le concert a lieu le même soir que son anniversaire de mariage. Avec l'aide de ses enfants, Janet s'assure que son mari est bien en train de préparer une fête surprise...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E28</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222165000 +0000" stop="20221222175000 +0000" channel="W9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+    <sub-title lang="fr">J 5 : Spéciale Noël</sub-title>
+    <desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Jeu</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/59805364" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222175000 +0000" stop="20221222185000 +0000" channel="W9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+    <sub-title lang="fr">J 5 : Spéciale Noël</sub-title>
+    <desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Jeu</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/59805364" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222185000 +0000" stop="20221222200000 +0000" channel="W9.fr">
+    <title lang="fr">Le cross : les Marseillais vs le Reste du monde vs les Motivés</title>
+    <sub-title lang="fr">S7 E30</sub-title>
+    <desc lang="fr">Divertissement.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107942081" />
+    <episode-num system="onscreen">S1 E30</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221222200000 +0000" stop="20221222200500 +0000" channel="W9.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Bulletin météorologique.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402391" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222200500 +0000" stop="20221222205500 +0000" channel="W9.fr">
+    <title lang="fr">NCIS : enquêtes spéciales</title>
+    <sub-title lang="fr">Aux frontières du réel</sub-title>
+    <desc lang="fr">Un hélicoptère des Marines est retrouvé au milieu d'un champ, sans aucune trace de son équipage. Les hommes du NCIS finissent par retrouver le copilote, qui affirme que son équipier a pris seul les commandes de l'appareil pour aller à un rendez-vous. Mais le pilote reste encore introuvable...</desc>
+    <credits>
+      <director>Thomas J Wright</director>
+      <director>Dennis Smith</director>
+      <director>Jeff Woolnough</director>
+      <director>Terrence O'Hara</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>David McCallum</actor>
+      <actor>Sean Murray</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105206454" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221222205500 +0000" stop="20221222215000 +0000" channel="W9.fr">
+    <title lang="fr">NCIS : enquêtes spéciales</title>
+    <sub-title lang="fr">Lt. Jane Doe</sub-title>
+    <desc lang="fr">Deux matelots découvrent, dans un parc de Norfolk, le cadavre d'une jeune femme vêtue d'un uniforme d'officier de marine. Aussitôt sur les lieux, Ducky constate que la victime porte sur la nuque une marque en forme de trident. Resurgissent alors les souvenirs d'un cas similaire, qui remonte à dix ans...</desc>
+    <credits>
+      <director>Thomas J Wright</director>
+      <director>Dennis Smith</director>
+      <director>Jeff Woolnough</director>
+      <director>Terrence O'Hara</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>David McCallum</actor>
+      <actor>Sean Murray</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105206454" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221222215000 +0000" stop="20221222223500 +0000" channel="W9.fr">
+    <title lang="fr">NCIS : enquêtes spéciales</title>
+    <sub-title lang="fr">Terrain miné</sub-title>
+    <desc lang="fr">L'équipe du NCIS enquête sur la mort d'un homme, découvert criblé de balles sur un champ de tir, qui sert essentiellement aux exercices des marines. Les enquêteurs découvrent vite qu'il s'agissait d'un agent du FBI, infiltré dans un gang mafieux. Peu à peu, le champ de tir livre ses secrets...</desc>
+    <credits>
+      <director>Thomas J Wright</director>
+      <director>Dennis Smith</director>
+      <director>Jeff Woolnough</director>
+      <director>Terrence O'Hara</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>David McCallum</actor>
+      <actor>Sean Murray</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105206454" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221222223500 +0000" stop="20221222233000 +0000" channel="W9.fr">
+    <title lang="fr">NCIS : enquêtes spéciales</title>
+    <sub-title lang="fr">Pour le meilleur et pour le pire</sub-title>
+    <desc lang="fr">Les restes momifiés d'une femme sont découverts dans un terrain vague. L'équipe du NCIS apprend que la malheureuse, vêtue d'une robe de mariée, était portée disparue depuis plusieurs mois. Ducky pense qu'il s'agit de l'oeuvre d'un tueur en série qui serait à la recherche de la femme parfaite...</desc>
+    <credits>
+      <director>Thomas J Wright</director>
+      <director>Dennis Smith</director>
+      <director>Jeff Woolnough</director>
+      <director>Terrence O'Hara</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>David McCallum</actor>
+      <actor>Sean Murray</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105206454" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221222233000 +0000" stop="20221223003000 +0000" channel="W9.fr">
+    <title lang="fr">NCIS : enquêtes spéciales</title>
+    <sub-title lang="fr">L'affrontement</sub-title>
+    <desc lang="fr">Un terroriste, surnommé Bête noire, est de retour avec un plan pour dérober des missiles et attaquer le président des Etats-Unis lors d'un de ses déplacements. Lui aussi dans le collimateur du terroriste, Gibbs enquête pour découvrir sa véritable identité et le mettre hors d'état de nuire...</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <director>Alan J Levi</director>
+      <director>Peter Ellis</director>
+      <director>Jeff Woolnough</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>David McCallum</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104836327" />
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223003000 +0000" stop="20221223012000 +0000" channel="W9.fr">
+    <title lang="fr">NCIS : enquêtes spéciales</title>
+    <sub-title lang="fr">Sans issue</sub-title>
+    <desc lang="fr">Un membre d'une unité spéciale de la marine meurt au cours d'une manoeuvre d'entraînement. Il semblerait qu'il ne s'agisse pas d'un simple accident. L'équipe de Gibbs est chargée de l'enquête, mais toutes les informations sont classées secret-défense, ce qui ne facilite guère le travail...</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <director>Alan J Levi</director>
+      <director>Peter Ellis</director>
+      <director>Jeff Woolnough</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>David McCallum</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104836327" />
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223012000 +0000" stop="20221223050000 +0000" channel="W9.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223050000 +0000" stop="20221223060000 +0000" channel="W9.fr">
+    <title lang="fr">Wake Up</title>
+    <desc lang="fr">Réveillez-vous de bon pied avec W9 ! Retrouvez une sélection des meilleurs tubes du moment pour un réveil vitaminé...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402406" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223060000 +0000" stop="20221223080000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223080000 +0000" stop="20221223093000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223093000 +0000" stop="20221223103000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits Gold</title>
+    <desc lang="fr">Retrouvez le meilleur des hits des années 80, 90 et 2000.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100146550" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223103000 +0000" stop="20221223114500 +0000" channel="W9.fr">
+    <title lang="fr">W9 Hits</title>
+    <desc lang="fr">Retrouvez le meilleur de la musique et des hits avec les plus grands tubes du moment.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104692945" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223114500 +0000" stop="20221223115000 +0000" channel="W9.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Bulletin météorologique.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402391" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223115000 +0000" stop="20221223121000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Bonjour rondeurs !</sub-title>
+    <desc lang="fr">Après avoir passé quelques jours auprès de sa mère, Janet revient chez elle. Michael ne sait pas comment lui faire comprendre qu'elle a pris quelques kilos. Dans un rêve, Janet imagine sa famille frappée d'obésité....</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223121000 +0000" stop="20221223124000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Bonjour rondeurs !</sub-title>
+    <desc lang="fr">Après avoir passé quelques jours auprès de sa mère, Janet revient chez elle. Michael ne sait pas comment lui faire comprendre qu'elle a pris quelques kilos. Dans un rêve, Janet imagine sa famille frappée d'obésité....</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223124000 +0000" stop="20221223131000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Jardin secret</sub-title>
+    <desc lang="fr">Claire n'a guère envie de faire entièrement les nombreux devoirs que ses professeurs lui ont donnés. Elle tente de duper sa mère afin qu'elle les fasse à sa place. Michael emmène son fils chez le docteur mais, à sa grande surprise, c'est lui-même qui se retrouve à devoir subir de forts désagréables examens...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223131000 +0000" stop="20221223134000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Punition au citron</sub-title>
+    <desc lang="fr">En jouant avec son frère et sa soeur, Claire relève un défi et engloutit la part de tarte au citron de Michael. En découvrant que son gâteau a disparu, Michael souhaite que le ou la coupable se dénonce. Face au mutisme de ses enfants, il leur inflige une punition pour le moins originale...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223134000 +0000" stop="20221223140500 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Jardin secret</sub-title>
+    <desc lang="fr">Claire n'a guère envie de faire entièrement les nombreux devoirs que ses professeurs lui ont donnés. Elle tente de duper sa mère afin qu'elle les fasse à sa place. Michael emmène son fils chez le docteur mais, à sa grande surprise, c'est lui-même qui se retrouve à devoir subir de forts désagréables examens...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223140500 +0000" stop="20221223143000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Souriez, vous êtes filmés !</sub-title>
+    <desc lang="fr">Janet achète un ordinateur muni d'une webcam à Junior. Michael, persuadé que son fils l'utilisera pour consulter des sites pornographiques, ne voit pas cet investissement d'un bon oeil. Le couple ignore que, grâce à la webcam, leur dispute a le monde entier pour témoin...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223143000 +0000" stop="20221223150000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Anniversaire de mariage</sub-title>
+    <desc lang="fr">Le 15e anniversaire de mariage de Janet et Michael approche à grands pas. Wanda, l'amie de Janet, lui propose d'aller au concert de Brian McKnight, auquel elle tient vraiment à assister. Mais elle est obligée de renoncer car le concert a lieu le même soir que son anniversaire de mariage. Avec l'aide de ses enfants, Janet s'assure que son mari est bien en train de préparer une fête surprise...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E28</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223150000 +0000" stop="20221223153000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Anniversaire de mariage</sub-title>
+    <desc lang="fr">Le jour du 15e anniversaire de mariage de Janet et Michael arrive enfin. Michael part pourtant jouer au golf, laissant à la maison une Janet effondrée. Poussée par Wanda, elle fait une violente scène à Michael. Pour se faire pardonner, celui-ci lui propose de renouveler leurs voeux de mariage...</desc>
+    <credits>
+      <director>James Widdoes</director>
+      <director>Will Mackenzie</director>
+      <director>Andy Cadiff</director>
+      <director>Damon Wayans Jr</director>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102649395" />
+    <episode-num system="onscreen">S2 E29</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223153000 +0000" stop="20221223155000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Tous à Hawaii</sub-title>
+    <desc lang="fr">Les vacances à Hawaii touchent à leur fin, mais le départ des Kyle s'annonce sous de mauvais auspices : Michael réalise que le vol du retour est plus tôt que prévu et Junior insiste pour rester sur l'île auprès de Leilani, sa nouvelle petite amie...</desc>
+    <credits>
+      <director>Andy Cadiff</director>
+      <director>Damien Dante Wayans</director>
+      <director>Eric Laneuville</director>
+      <director>Leonard R Garner Jr</director>
+      <actor>George Gore II</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Noah Gray-Cabey</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102373153" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223155000 +0000" stop="20221223162000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Tous à Hawaii</sub-title>
+    <desc lang="fr">Michael et Jay s'organisent une sortie en amoureux, laissant ainsi les enfants seuls. Claire et Junior se querellent à propos de la garde de Kady. Claire finit par céder, car son frère a lui aussi un rendez-vous. C'est ainsi qu'il passe une charmante soirée avec une Hawaiienne, pendant que Michael et Jay évitent de parler des tentations qu'ils ont eues récemment...</desc>
+    <credits>
+      <director>Andy Cadiff</director>
+      <director>Damien Dante Wayans</director>
+      <director>Eric Laneuville</director>
+      <director>Leonard R Garner Jr</director>
+      <actor>George Gore II</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Noah Gray-Cabey</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102373153" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223162000 +0000" stop="20221223165000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Tous à Hawaii</sub-title>
+    <desc lang="fr">Les vacances à Hawaii touchent à leur fin, mais le départ des Kyle s'annonce sous de mauvais auspices : Michael réalise que le vol du retour est plus tôt que prévu et Junior insiste pour rester sur l'île auprès de Leilani, sa nouvelle petite amie...</desc>
+    <credits>
+      <director>Andy Cadiff</director>
+      <director>Damien Dante Wayans</director>
+      <director>Eric Laneuville</director>
+      <director>Leonard R Garner Jr</director>
+      <actor>George Gore II</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Jennifer Nicole Freeman</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Noah Gray-Cabey</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102373153" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223165000 +0000" stop="20221223175000 +0000" channel="W9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+    <sub-title lang="fr">J 5 : Spéciale Noël</sub-title>
+    <desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Jeu</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/59805364" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223175000 +0000" stop="20221223185000 +0000" channel="W9.fr">
+    <title lang="fr">Un dîner presque parfait</title>
+    <sub-title lang="fr">J 5 : Spéciale Noël</sub-title>
+    <desc lang="fr">Ils sont cinq et habitent la même région. Ils ne se connaissent pas et pourtant, ils vont s'inviter à dîner à tour de rôle pendant toute une semaine pour tenter de remporter le titre de meilleur hôte.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Jeu</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/59805364" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223185000 +0000" stop="20221223200000 +0000" channel="W9.fr">
+    <title lang="fr">Le cross : les Marseillais vs le Reste du monde vs les Motivés</title>
+    <desc lang="fr">Divertissement.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107942081" />
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223200000 +0000" stop="20221223200500 +0000" channel="W9.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Bulletin météorologique.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402391" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223200500 +0000" stop="20221223205000 +0000" channel="W9.fr">
+    <title lang="fr">Tous ensemble à Agadir, le plus grand concert de l'année</title>
+    <sub-title lang="fr">Partie 1</sub-title>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Varietes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108491316" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223205000 +0000" stop="20221223215000 +0000" channel="W9.fr">
+    <title lang="fr">Tous ensemble à Agadir, le plus grand concert de l'année</title>
+    <sub-title lang="fr">Partie 2</sub-title>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Varietes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108491316" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223215000 +0000" stop="20221223235000 +0000" channel="W9.fr">
+    <title lang="fr">Ce soir on chante pour les pompiers à Montpellier</title>
+    <sub-title lang="fr">Divertissement</sub-title>
+    <desc lang="fr">Depuis la place du Peyrou à Montpellier, retrouvez toutes les stars du moment, avec les tubes qui ont marqué l'année et les indispensables à toute bonne soirée dansante ! Tayc, Christophe Willem, Amir, Black M,...</desc>
+    <credits>
+      <presenter>Elodie Gossuin</presenter>
+      <presenter>Jérôme Anthony</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106652093" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223235000 +0000" stop="20221224015000 +0000" channel="W9.fr">
+    <title lang="fr">La grande soirée des tubes 80, 90, 2000</title>
+    <sub-title lang="fr">Mag. Musique</sub-title>
+    <desc lang="fr">Depuis la très belle promenade du Peyrou, offrant une vue sur toute la ville de Montpellier, embarquez avec un public de 5000 personnes pour un voyage dans le temps 100% culte !</desc>
+    <credits>
+      <presenter>Jérôme Anthony</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Mag Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107170558" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224015000 +0000" stop="20221224050000 +0000" channel="W9.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224050000 +0000" stop="20221224072500 +0000" channel="W9.fr">
+    <title lang="fr">Wake Up</title>
+    <desc lang="fr">Réveillez-vous de bon pied avec W9 ! Retrouvez une sélection des meilleurs tubes du moment pour un réveil vitaminé...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402406" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224072500 +0000" stop="20221224094000 +0000" channel="W9.fr">
+    <title lang="fr">W9 Boutique</title>
+    <desc lang="fr">Retrouvez les dernières innovations et des offres exclusives en matière de bijoux, beauté, cuisine, maison.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104207250" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224094000 +0000" stop="20221224104000 +0000" channel="W9.fr">
+    <title lang="fr">Génération Top 50</title>
+    <desc lang="fr">À travers de nombreuses rubriques, Jérôme Anthony redécouvre tous les tubes des années 80 et 90 qui ont marqué le Top 50.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Mag Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/96971750" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224104000 +0000" stop="20221224114500 +0000" channel="W9.fr">
+    <title lang="fr">Génération Top 50</title>
+    <desc lang="fr">À travers de nombreuses rubriques, Jérôme Anthony redécouvre tous les tubes des années 80 et 90 qui ont marqué le Top 50.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Mag Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/96971750" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224114500 +0000" stop="20221224115000 +0000" channel="W9.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Bulletin météorologique.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402391" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224115000 +0000" stop="20221224121000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Un papa en or</sub-title>
+    <desc lang="fr">La vie de Michael est bien compliquée. Entre les problèmes de nounou et les crises d'adolescence de ses enfants, il ne sait plus où donner de la tête. Janet, sa femme, qui occupe un poste à mi-temps, lui annonce qu'elle souhaite travailler à temps complet...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224121000 +0000" stop="20221224124000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">La vérité blesse</sub-title>
+    <desc lang="fr">Janet et Michael trouvent la carte de visite d'un salon de tatouage dans les poches du pantalon de Junior. Celui-ci avoue s'être fait tatouer...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224124000 +0000" stop="20221224131000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Panne d'inspiration</sub-title>
+    <desc lang="fr">Michael et Janet sont scandalisés d'apprendre que Junior a fumé de la marijuana. Ils décident de lui préparer une petite soirée très particulière...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224131000 +0000" stop="20221224134000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Des seins animés</sub-title>
+    <desc lang="fr">Claire tente d'attirer l'attention des garçons à l'école et, dans cette optique, se rend dans un magasin de lingerie. De son côté, Junior parvient à battre son père au basket-ball. Celui-ci, vexé, décide de rejouer la partie, mais perd une nouvelle fois...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224134000 +0000" stop="20221224140500 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">La bosse des maths</sub-title>
+    <desc lang="fr">Junior obtient un F en algèbre mais le transforme en A. Claire, qui a découvert la supercherie, le fait chanter en menaçant de tout révéler à leurs parents...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224140500 +0000" stop="20221224143000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Cours particulier</sub-title>
+    <desc lang="fr">Junior doit obtenir un A lors de son examen final d'algèbre. Michael tente de le motiver en lui promettant de lui donner 1000 dollars s'il obtient cette note...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224143000 +0000" stop="20221224150000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Cours particulier</sub-title>
+    <desc lang="fr">Junior doit obtenir un A lors de son examen final d'algèbre. Michael tente de le motiver en lui promettant de lui donner 1000 dollars s'il obtient cette note...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224150000 +0000" stop="20221224152000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">C'est du chinois !</sub-title>
+    <desc lang="fr">Janet demande à Michael de passer moins de temps devant la télévision et de se consacrer un peu plus à sa famille. Mais celui-ci tient absolument à regarder un match de basket-ball...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224152000 +0000" stop="20221224154000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Mauvaise habitude</sub-title>
+    <desc lang="fr">Janet est licenciée et redevient donc femme au foyer, pour le plus grand bonheur de Michael. Lorsqu'elle retrouve un emploi, Janet est heureuse de reprendre la vie active mais réalise vite qu'elle l'était davantage lorsqu'elle avait le temps de se consacrer entièrement à ses enfants...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224154000 +0000" stop="20221224160000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Un peu de romantisme</sub-title>
+    <desc lang="fr">Ken, le frère de Michael vient lui rendre visite. Il est accompagné par une jeune femme qu'il présente à tous comme étant sa nouvelle conquête...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224160000 +0000" stop="20221224163000 +0000" channel="W9.fr">
+    <title lang="fr">Ma famille d'abord</title>
+    <sub-title lang="fr">Michael se fait des cheveux</sub-title>
+    <desc lang="fr">Lorsque le comptable de la famille meurt brutalement, Michael s'interroge sur le sens de sa vie. Il change de comportement pour montrer à sa famille, même de façon un peu bizarre, combien il tient à elle...</desc>
+    <credits>
+      <director>Leonard R Garner Jr</director>
+      <director>James Widdoes</director>
+      <director>Andy Cadiff</director>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Damon Wayans</actor>
+      <actor>Tisha Campbell</actor>
+      <actor>Jazz Raycole</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George Gore II</actor>
+      <actor>Damon Wayans Jr</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52904263" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224163000 +0000" stop="20221224182000 +0000" channel="W9.fr">
+    <title lang="fr">Le baiser de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Lauren vit seule avec son fils. Accro au travail, elle décide pourtant de retourner dans sa ville natale avec Jacob afin d'y passer les fêtes de Noël. Une fois sur place, elle fait la connaissance de son voisin, Ben et de sa fille. Ce dernier souhaite faire une surprise à Charlie en lui achetant un chiot pour Noël mais pour cela, il a besoin de l'aide de Lauren...</desc>
+    <credits>
+      <director>Andrew Cymek</director>
+      <actor>Kelly Kruger</actor>
+      <actor>Kevin McGarry</actor>
+      <actor>Alys Crocker</actor>
+      <actor>Jennifer Dale</actor>
+      <actor>Rebecca Lamarche</actor>
+      <actor>Peter Nelson</actor>
+      <writer>Andrew Cymek</writer>
+      <writer>Brigitte Kingsley</writer>
+      <writer>Patrick McBrearty</writer>
+      <composer>Jim Gelcer</composer>
+      <composer>Donald Quan</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103817411" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224182000 +0000" stop="20221224200500 +0000" channel="W9.fr">
+    <title lang="fr">Le bel inconnu de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Amalie est une journaliste en mal d'inspiration pour son article de Noël. Après avoir quitté son petit ami qui lui a fait la demande en mariage la moins romantique possible, elle reçoit une déclaration d'amour anonyme en provenance de son village natal. Elle y retourne pour trouver l'auteur de la lettre...</desc>
+    <credits>
+      <director>Damian Romay</director>
+      <actor>Ashley Newbrough</actor>
+      <actor>Tilky Jones</actor>
+      <actor>Chanté Bowser</actor>
+      <actor>Izzy Herbert</actor>
+      <actor>Ray Bengston</actor>
+      <actor>Josh Ventura</actor>
+      <writer>Kelly Peters</writer>
+      <writer>Amy Katherine Taylor</writer>
+      <composer>Brooks Ball</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108253125" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224200500 +0000" stop="20221224224000 +0000" channel="W9.fr">
+    <title lang="fr">Gospel pour 100 voix</title>
+    <sub-title lang="fr">Concert Blues &amp; Soul</sub-title>
+    <desc lang="fr">Auréolés d'un énorme succès populaire, les cent chanteurs et...</desc>
+    <date>2021</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Blues  Soul</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108505691" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224224000 +0000" stop="20221225004000 +0000" channel="W9.fr">
+    <title lang="fr">Les 20 duos préférés des Français</title>
+    <sub-title lang="fr">Documentaire</sub-title>
+    <desc lang="fr">Un sondage national a permis d'établir le classement des vingt duos musicaux préférés des Français. C'est l'occasion d'une plongée dans les coulisses de ces chansons mythiques. Le classement est illustré par des chansons mémorables, des gros plans sur des thèmes précis, ainsi que par des confidences exclusives d'invités prestigieux, comme Natasha St-Pier, Lara Fabian, Vianney ou Anthony Kavanagh.</desc>
+    <date>2017</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Doc Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106751230" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225004000 +0000" stop="20221225023000 +0000" channel="W9.fr">
+    <title lang="fr">Les 20 chanteuses préférées des Français</title>
+    <sub-title lang="fr">Doc. Musique</sub-title>
+    <desc lang="fr">Un sondage IFOP a permis d'établir un classement des vingt chanteuses préférées des Français. Toute la diversité de la chanson féminine francophone s'y reflète. De Lara Fabian à Céline Dion, en passant par Angèle, Jain, Christine and The Queens ou Coeur de Pirate, ces artistes ont réussi à créer un lien unique avec le public. Quelle chanteuse s'est hissée à la première place et a conquis le coeur des Français ?</desc>
+    <date>2021</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Doc Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101711462" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225023000 +0000" stop="20221225040000 +0000" channel="W9.fr">
+    <title lang="fr">Les 20 chansons d'amour préférées des Français</title>
+    <sub-title lang="fr">Doc. Musique</sub-title>
+    <desc lang="fr">Sélectionnées à l'issue d'un grand sondage, voici les vingt chansons d'amour préférées des Français. Des titres qui ont fait vibrer les coeurs et les âmes, à l'image de Je te promets, Tu es mon autre, Couleur menthe à l'eau ou S'il suffisait d'aimer. Des chansons qui ont bouleversé et dont l'histoire est détaillée avant la révélation finale, celle du titre classé numéro un par les Français.</desc>
+    <date>2021</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Doc Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101949322" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225040000 +0000" stop="20221225050000 +0000" channel="W9.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225050000 +0000" stop="20221225072000 +0000" channel="W9.fr">
+    <title lang="fr">Wake Up</title>
+    <desc lang="fr">Réveillez-vous de bon pied avec W9 ! Retrouvez une sélection des meilleurs tubes du moment pour un réveil vitaminé...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402406" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225072000 +0000" stop="20221225082000 +0000" channel="W9.fr">
+    <title lang="fr">Génération Top 50</title>
+    <desc lang="fr">À travers de nombreuses rubriques, Jérôme Anthony redécouvre tous les tubes des années 80 et 90 qui ont marqué le Top 50.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Mag Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/96971750" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225082000 +0000" stop="20221225091000 +0000" channel="W9.fr">
+    <title lang="fr">Génération Top 50</title>
+    <desc lang="fr">À travers de nombreuses rubriques, Jérôme Anthony redécouvre tous les tubes des années 80 et 90 qui ont marqué le Top 50.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Mag Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/96971750" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225091000 +0000" stop="20221225101000 +0000" channel="W9.fr">
+    <title lang="fr">Génération Top 50</title>
+    <desc lang="fr">À travers de nombreuses rubriques, Jérôme Anthony redécouvre tous les tubes des années 80 et 90 qui ont marqué le Top 50.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Mag Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/96971750" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225101000 +0000" stop="20221225111500 +0000" channel="W9.fr">
+    <title lang="fr">Génération Top 50</title>
+    <desc lang="fr">À travers de nombreuses rubriques, Jérôme Anthony redécouvre tous les tubes des années 80 et 90 qui ont marqué le Top 50.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Mag Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/96971750" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225111500 +0000" stop="20221225112000 +0000" channel="W9.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Bulletin météorologique.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402391" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225112000 +0000" stop="20221225125000 +0000" channel="W9.fr">
+    <title lang="fr">Un amour de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Le Père Noël songe à se retirer et encourage son fils Nick à reprendre les rênes. Mais la passation de pouvoir ne pourra pas se dérouler dans la tradition si Nick ne trouve pas une fiancée pour le soutenir le 25 décembre. La veille de Noël, Nick quitte le pôle Nord en quête de la meilleure candidate...</desc>
+    <credits>
+      <director>Harvey Frost</director>
+      <actor>Steve Guttenberg</actor>
+      <actor>Crystal Bernard</actor>
+      <actor>Dominic Scott Kay</actor>
+      <actor>Thomas Calabro</actor>
+      <actor>Armin Shimerman</actor>
+      <actor>Sebastian Tillinger</actor>
+      <writer>Pamela Wallace</writer>
+      <composer>Mark Watters</composer>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108517062" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225125000 +0000" stop="20221225144000 +0000" channel="W9.fr">
+    <title lang="fr">Un amour de Noël 2</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Nick est officiellement devenu Père Noël. Mais, depuis un an, ses nouvelles fonctions l'ont tellement accaparé que son mariage avec Beth a sans cesse été repoussé. Or, les fêtes approchent, Nick est débordé et la coutume veut qu'une Mère Noël seconde son mari. Beth demande à sa mère d'organiser son mariage...</desc>
+    <credits>
+      <director>Harvey Frost</director>
+      <actor>Steve Guttenberg</actor>
+      <actor>Crystal Bernard</actor>
+      <actor>Dominic Scott Kay</actor>
+      <actor>Armin Shimerman</actor>
+      <actor>John Wheeler</actor>
+      <actor>Marcia Ann Burrs</actor>
+      <writer>Pamela Wallace</writer>
+      <composer>Mark Watters</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107751311" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225144000 +0000" stop="20221225163000 +0000" channel="W9.fr">
+    <title lang="fr">Une superstar pour Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Sur le point de devenir une grande star de la musique, la carrière d'Adelaïde Kay prend un tournant inattendu lorsque son équipe part sans elle, la laissant dans une petite ville de Virginie en pleine fête de Noël. Sans dévoiler son identité, Adelaïde, alias Addie, se fait une place au sein de la famille Lapp..</desc>
+    <credits>
+      <director>Rich Newey</director>
+      <actor>Becca Tobin</actor>
+      <actor>Kevin McGarry</actor>
+      <actor>Kendra Timmins</actor>
+      <actor>Paula Boudreau</actor>
+      <actor>James McGowan</actor>
+      <actor>David Keeley</actor>
+      <writer>Joie Botkin</writer>
+      <writer>Betsy Morris</writer>
+      <composer>Sean Nimmons-Paterson</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108113823" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225163000 +0000" stop="20221225181500 +0000" channel="W9.fr">
+    <title lang="fr">Un Noël plein d'espoir</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Lauren décide de changer de vie et accepte un poste d'enseignante loin de chez elle. Son train est malencontreusement arrêté dans un petit village, à cause d'un arbre qui bloque la voie. Lauren fait alors la connaissance d'un charmant jeune homme, Travis. Ce dernier semble ravi de lui faire passer un bon moment avant que le train ne reparte...</desc>
+    <credits>
+      <director>David Weaver</director>
+      <actor>Candace Cameron</actor>
+      <actor>Tim Rozon</actor>
+      <actor>Beth Broderick</actor>
+      <actor>Jason Cermak</actor>
+      <actor>Jesse Filkow</actor>
+      <actor>Anne Marie Loder</actor>
+      <writer>Wesley Bishop</writer>
+      <writer>Donald Martin</writer>
+      <composer>Lawrence Shragge</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102931349" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225181500 +0000" stop="20221225200500 +0000" channel="W9.fr">
+    <title lang="fr">Un Noël pour s'aimer</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Conceptrice dans une agence de publicité, Emma s'est enfin vue confier le lancement d'une prestigieuse marque d'horlogerie. Pour les vacances de Noël, elle rentre chez ses parents mais loge dans un hôtel pour travailler dans le calme. Elle y croise son amour du lycée, Fletcher, devenu un célèbre auteur...</desc>
+    <credits>
+      <director>Jeff Beesley</director>
+      <actor>Kyla Pratt</actor>
+      <actor>Edward Ruttle</actor>
+      <actor>Sophia Bachart</actor>
+      <actor>Marina Stephenson Kerr</actor>
+      <actor>Rachael McLaren</actor>
+      <actor>Jade Michael</actor>
+      <writer>Carley Smale</writer>
+      <writer>Anita Hughes</writer>
+      <composer>Kevon Cronin</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103052534" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225200500 +0000" stop="20221225224000 +0000" channel="W9.fr">
+    <title lang="fr">Mary Poppins</title>
+    <sub-title lang="fr">Film Jeunesse</sub-title>
+    <desc lang="fr">En 1910, monsieur Banks, un banquier austère, vit avec sa femme et ses deux enfants, Jane et Michael, dans un quartier résidentiel de Londres. Une nouvelle gouvernante, Mary Poppins, arrive chez eux par une voie originale. Poussée par le vent d'est, elle se maintient dans les airs grâce à son parapluie...</desc>
+    <credits>
+      <director>Robert Stevenson</director>
+      <actor>Julie Andrews</actor>
+      <actor>Dick Van Dyke</actor>
+      <actor>David Tomlinson</actor>
+      <actor>Glynis Johns</actor>
+      <actor>Karen Dotrice</actor>
+      <actor>Matthew Garber</actor>
+      <writer>Bill Walsh</writer>
+      <writer>Don DaGradi</writer>
+      <composer>Richard M Sherman</composer>
+      <composer>Robert B Sherman</composer>
+    </credits>
+    <date>1964</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/65700723" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225224000 +0000" stop="20221226010000 +0000" channel="W9.fr">
+    <title lang="fr">La Belle et la Bête</title>
+    <sub-title lang="fr">Film Fantastique</sub-title>
+    <desc lang="fr">A la fin du XVIIIe siècle, Belle, fine lettrée, mène une existence heureuse. Une nuit, son père, un inventeur excentrique, se perd dans la forêt et s'abrite dans le château de la Bête. Mais le maître des lieux le jette au cachot. Voulant sauver son père, Belle se sacrifie en prenant sa place...</desc>
+    <credits>
+      <director>Bill Condon</director>
+      <actor>Emma Watson</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Luke Evans</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Josh Gad</actor>
+      <actor>Ewan McGregor</actor>
+      <writer>Stephen Chbosky</writer>
+      <writer>Evan Spiliotopoulos</writer>
+      <composer>Alan Menken</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67967856" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
   <channel id="TMC.fr">
     <display-name lang="fr">|FR| TMC</display-name>
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/tmc.png" />
