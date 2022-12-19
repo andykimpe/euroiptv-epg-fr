@@ -56174,6 +56174,1080 @@
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/bfmtv.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
+  <programme start="20221219050000 +0000" stop="20221219073000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Première édition</title>
+    <sub-title lang="fr">Edition spéciale Mondial avec Eric Di Meco</sub-title>
+    <desc lang="fr">Du lundi au vendredi dès 6h, l'équipe de la Première édition donne rendez-vous pour plusieurs heures d'info avec dynamisme et convivialité.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383929" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219073000 +0000" stop="20221219080000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Face à face</title>
+    <sub-title lang="fr">Fabien Roussel face à Apolline de Malherbe</sub-title>
+    <desc lang="fr">Apolline de Malherbe reçoit Fabien Roussel, Secrétaire national du parti communiste francaise, député du Nord, dans Le Face à Face, ce jeudi 15 décembre.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107011916" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219080000 +0000" stop="20221219110000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le Live Toussaint</title>
+    <sub-title lang="fr">Emission du vendredi 16 décembre</sub-title>
+    <desc lang="fr">Direct, débat, décryptage: 3 heures pour vivre l'info. Bruce Toussaint donne les clés aux téléspectateurs pour mieux comprendre les grands enjeux de la journée. A 9h: toute l'info en live aux côtés d'invités en plateau et avec le regard de Benoît Gallerey. A 11h: Bruce Toussaint reçoit une personnalité pour une grande interview. A 11h30: BFMTV répond à vos questions avec Roselyne Dubois.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101649991" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219110000 +0000" stop="20221219130000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le Déj info</title>
+    <sub-title lang="fr">Emission du vendredi 16 décembre</sub-title>
+    <desc lang="fr">La présentatrice sera aux commandes d'une émission d'info conviviale, entourée d'une bande de chroniqueurs. La tranche fera la part belle aux territoires avec l'appui des rédactions des chaînes locales BFM Régions et ses plus de 150 journalistes partout en France.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101793849" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219130000 +0000" stop="20221219160000 +0000" channel="BFMTV.fr">
+    <title lang="fr">L'aprèm info</title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107009567" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219160000 +0000" stop="20221219180000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFM Story</title>
+    <sub-title lang="fr">Emission du jeudi 15 décembre</sub-title>
+    <desc lang="fr">A partir de 18h, cette émission fait place à l'analyse et aux débats autour des événements marquants de la journée. Chaque soir, BFM Story reçoit des invités de tous horizons qui font l'actualité et qui interviennent à l'antenne pour l'expliquer.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107105259" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219180000 +0000" stop="20221219200000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Calvi 3D</title>
+    <sub-title lang="fr">Unis derrière les bleus</sub-title>
+    <desc lang="fr">Yves Calvi est aux commandes des débuts de soirée de BFMTV avec Calvi 3D. Direct, décryptages, débats : Yves Calvi mène ce grand rendez-vous d'information avec des invités de référence, des reportages, de l'analyse et un journal politique.</desc>
+    <credits>
+      <presenter>Yves Calvi</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101835123" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219200000 +0000" stop="20221219210000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Ligne rouge</title>
+    <sub-title lang="fr">Crimes de guerre : les preuves</sub-title>
+    <desc lang="fr">L'émission diffuse un long format réalisé par la rédaction de BFMTV. Ces enquêtes sont suivies d'un débat en plateau. Trois lundis par mois, Ligne Rouge diffuse un long format de 26 minutes. Le documentaire est suivi d'un débat animé par Aurélie Casse. Un lundi par mois, BFMTV diffuse une enquête de 52 minutes, suivie d'un débat animé par Maxime Switek.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100424457" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219210000 +0000" stop="20221219230000 +0000" channel="BFMTV.fr">
+    <title lang="fr">22H MAX</title>
+    <sub-title lang="fr">Emission du jeudi 15 décembre</sub-title>
+    <desc lang="fr">Maxime Switek fait le tour des images marquantes et des déclarations fortes de la journée et fait vivre l'info du soir, entouré de chroniqueurs, d'invités et d'éditorialistes. Chaque soir, Bruno Jeudy se confronte à une éditorialiste: Isabelle Saporta, Géraldine Woessner, Nora Hamadi, ou Solange Bied-Charreton. Sonia Carneiro présente Le plus pour approfondir un sujet et faire un petit pas de côté par rapport à l'actu. Les autres rendez-vous : les matchs des éditorialistes, 24 heures sur BFMTV (toutes les images qui ont marqué l'antenne sur la journée), Le choix de Max.</desc>
+    <credits>
+      <presenter>Maxime Switek</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107009568" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219230000 +0000" stop="20221219233000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le journal de la nuit</title>
+    <desc lang="fr">Dans l'ambiance feutrée de la fin de soirée, l'émission propose un compte-rendu complet des principales actualités de la journée. En direct de 00h à 00h30, le journal de la nuit est ensuite rediffusé jusque 4h30.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383982" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219233000 +0000" stop="20221220033000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Programmes de la nuit BFM TV</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104022461" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220033000 +0000" stop="20221220050000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Première édition</title>
+    <sub-title lang="fr">Edition spéciale Mondial avec Eric Di Meco</sub-title>
+    <desc lang="fr">Un nouveau tandem prend les commandes du rdv tv d'Informations le plus matinal de France. Dès 4h30, Sophie Hebrard et Julien Migaud-Muller accompagnent les Français qui se lèvent tôt en présentant les informations qui feront l'actualité de la journée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383929" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220050000 +0000" stop="20221220073000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Première édition</title>
+    <sub-title lang="fr">Edition spéciale Mondial avec Eric Di Meco</sub-title>
+    <desc lang="fr">Du lundi au vendredi dès 6h, l'équipe de la Première édition donne rendez-vous pour plusieurs heures d'info avec dynamisme et convivialité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383929" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220073000 +0000" stop="20221220080000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Face à face</title>
+    <sub-title lang="fr">Fabien Roussel face à Apolline de Malherbe</sub-title>
+    <desc lang="fr">Apolline de Malherbe reçoit Fabien Roussel, Secrétaire national du parti communiste francaise, député du Nord, dans Le Face à Face, ce jeudi 15 décembre.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107011916" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220080000 +0000" stop="20221220110000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le Live Toussaint</title>
+    <sub-title lang="fr">Emission du vendredi 16 décembre</sub-title>
+    <desc lang="fr">Direct, débat, décryptage: 3 heures pour vivre l'info. Bruce Toussaint donne les clés aux téléspectateurs pour mieux comprendre les grands enjeux de la journée. A 9h: toute l'info en live aux côtés d'invités en plateau et avec le regard de Benoît Gallerey. A 11h: Bruce Toussaint reçoit une personnalité pour une grande interview. A 11h30: BFMTV répond à vos questions avec Roselyne Dubois.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101649991" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220110000 +0000" stop="20221220130000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le Déj info</title>
+    <sub-title lang="fr">Emission du vendredi 16 décembre</sub-title>
+    <desc lang="fr">La présentatrice sera aux commandes d'une émission d'info conviviale, entourée d'une bande de chroniqueurs. La tranche fera la part belle aux territoires avec l'appui des rédactions des chaînes locales BFM Régions et ses plus de 150 journalistes partout en France.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101793849" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220130000 +0000" stop="20221220160000 +0000" channel="BFMTV.fr">
+    <title lang="fr">L'aprèm info</title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107009567" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220160000 +0000" stop="20221220175000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFM Story</title>
+    <sub-title lang="fr">Emission du jeudi 15 décembre</sub-title>
+    <desc lang="fr">A partir de 18h, cette émission fait place à l'analyse et aux débats autour des événements marquants de la journée. Chaque soir, BFM Story reçoit des invités de tous horizons qui font l'actualité et qui interviennent à l'antenne pour l'expliquer.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107105259" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220175000 +0000" stop="20221220193000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Calvi 3D</title>
+    <sub-title lang="fr">Unis derrière les bleus</sub-title>
+    <desc lang="fr">Yves Calvi est aux commandes des débuts de soirée de BFMTV avec Calvi 3D. Direct, décryptages, débats : Yves Calvi mène ce grand rendez-vous d'information avec des invités de référence, des reportages, de l'analyse et un journal politique.</desc>
+    <credits>
+      <presenter>Yves Calvi</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101835123" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220193000 +0000" stop="20221220210000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le 90 minutes</title>
+    <sub-title lang="fr">Emission du jeudi 15 décembre</sub-title>
+    <desc lang="fr">Laurent Neumann, éditorialiste politique, revient sur le boycott et les critiques qui visent la Coupe du monde 2022. Il fustige "ceux qui voudraient nous gâcher la fête".</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107009564" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220210000 +0000" stop="20221220230000 +0000" channel="BFMTV.fr">
+    <title lang="fr">22H MAX</title>
+    <sub-title lang="fr">Emission du jeudi 15 décembre</sub-title>
+    <desc lang="fr">Maxime Switek fait le tour des images marquantes et des déclarations fortes de la journée et fait vivre l'info du soir, entouré de chroniqueurs, d'invités et d'éditorialistes. Chaque soir, Bruno Jeudy se confronte à une éditorialiste: Isabelle Saporta, Géraldine Woessner, Nora Hamadi, ou Solange Bied-Charreton. Sonia Carneiro présente Le plus pour approfondir un sujet et faire un petit pas de côté par rapport à l'actu. Les autres rendez-vous : les matchs des éditorialistes, 24 heures sur BFMTV (toutes les images qui ont marqué l'antenne sur la journée), Le choix de Max.</desc>
+    <credits>
+      <presenter>Maxime Switek</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107009568" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220230000 +0000" stop="20221220233000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le journal de la nuit</title>
+    <desc lang="fr">Dans l'ambiance feutrée de la fin de soirée, l'émission propose un compte-rendu complet des principales actualités de la journée. En direct de 00h à 00h30, le journal de la nuit est ensuite rediffusé jusque 4h30.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383982" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220233000 +0000" stop="20221221033000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Programmes de la nuit BFM TV</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104022461" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221033000 +0000" stop="20221221050000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Première édition</title>
+    <sub-title lang="fr">Edition spéciale Mondial avec Eric Di Meco</sub-title>
+    <desc lang="fr">Un nouveau tandem prend les commandes du rdv tv d'Informations le plus matinal de France. Dès 4h30, Sophie Hebrard et Julien Migaud-Muller accompagnent les Français qui se lèvent tôt en présentant les informations qui feront l'actualité de la journée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383929" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221050000 +0000" stop="20221221073000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Première édition</title>
+    <sub-title lang="fr">Edition spéciale Mondial avec Eric Di Meco</sub-title>
+    <desc lang="fr">Du lundi au vendredi dès 6h, l'équipe de la Première édition donne rendez-vous pour plusieurs heures d'info avec dynamisme et convivialité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383929" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221073000 +0000" stop="20221221080000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Face à face</title>
+    <sub-title lang="fr">Fabien Roussel face à Apolline de Malherbe</sub-title>
+    <desc lang="fr">Apolline de Malherbe reçoit Fabien Roussel, Secrétaire national du parti communiste francaise, député du Nord, dans Le Face à Face, ce jeudi 15 décembre.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107011916" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221080000 +0000" stop="20221221110000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le Live Toussaint</title>
+    <sub-title lang="fr">Emission du vendredi 16 décembre</sub-title>
+    <desc lang="fr">Direct, débat, décryptage: 3 heures pour vivre l'info. Bruce Toussaint donne les clés aux téléspectateurs pour mieux comprendre les grands enjeux de la journée. A 9h: toute l'info en live aux côtés d'invités en plateau et avec le regard de Benoît Gallerey. A 11h: Bruce Toussaint reçoit une personnalité pour une grande interview. A 11h30: BFMTV répond à vos questions avec Roselyne Dubois.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101649991" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221110000 +0000" stop="20221221130000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le Déj info</title>
+    <sub-title lang="fr">Emission du vendredi 16 décembre</sub-title>
+    <desc lang="fr">La présentatrice sera aux commandes d'une émission d'info conviviale, entourée d'une bande de chroniqueurs. La tranche fera la part belle aux territoires avec l'appui des rédactions des chaînes locales BFM Régions et ses plus de 150 journalistes partout en France.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101793849" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221130000 +0000" stop="20221221160000 +0000" channel="BFMTV.fr">
+    <title lang="fr">L'aprèm info</title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107009567" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221160000 +0000" stop="20221221175000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFM Story</title>
+    <sub-title lang="fr">Emission du jeudi 15 décembre</sub-title>
+    <desc lang="fr">A partir de 18h, cette émission fait place à l'analyse et aux débats autour des événements marquants de la journée. Chaque soir, BFM Story reçoit des invités de tous horizons qui font l'actualité et qui interviennent à l'antenne pour l'expliquer.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107105259" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221175000 +0000" stop="20221221193000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Calvi 3D</title>
+    <sub-title lang="fr">Unis derrière les bleus</sub-title>
+    <desc lang="fr">Yves Calvi est aux commandes des débuts de soirée de BFMTV avec Calvi 3D. Direct, décryptages, débats : Yves Calvi mène ce grand rendez-vous d'information avec des invités de référence, des reportages, de l'analyse et un journal politique.</desc>
+    <credits>
+      <presenter>Yves Calvi</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101835123" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221193000 +0000" stop="20221221210000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le 90 minutes</title>
+    <sub-title lang="fr">Emission du jeudi 15 décembre</sub-title>
+    <desc lang="fr">Laurent Neumann, éditorialiste politique, revient sur le boycott et les critiques qui visent la Coupe du monde 2022. Il fustige "ceux qui voudraient nous gâcher la fête".</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107009564" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221210000 +0000" stop="20221221230000 +0000" channel="BFMTV.fr">
+    <title lang="fr">22H MAX</title>
+    <sub-title lang="fr">Emission du jeudi 15 décembre</sub-title>
+    <desc lang="fr">Maxime Switek fait le tour des images marquantes et des déclarations fortes de la journée et fait vivre l'info du soir, entouré de chroniqueurs, d'invités et d'éditorialistes. Chaque soir, Bruno Jeudy se confronte à une éditorialiste: Isabelle Saporta, Géraldine Woessner, Nora Hamadi, ou Solange Bied-Charreton. Sonia Carneiro présente Le plus pour approfondir un sujet et faire un petit pas de côté par rapport à l'actu. Les autres rendez-vous : les matchs des éditorialistes, 24 heures sur BFMTV (toutes les images qui ont marqué l'antenne sur la journée), Le choix de Max.</desc>
+    <credits>
+      <presenter>Maxime Switek</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107009568" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221230000 +0000" stop="20221221233000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le journal de la nuit</title>
+    <desc lang="fr">Dans l'ambiance feutrée de la fin de soirée, l'émission propose un compte-rendu complet des principales actualités de la journée. En direct de 00h à 00h30, le journal de la nuit est ensuite rediffusé jusque 4h30.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383982" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221233000 +0000" stop="20221222033000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Programmes de la nuit BFM TV</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104022461" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222033000 +0000" stop="20221222050000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Première édition</title>
+    <sub-title lang="fr">Edition spéciale Mondial avec Eric Di Meco</sub-title>
+    <desc lang="fr">Un nouveau tandem prend les commandes du rdv tv d'Informations le plus matinal de France. Dès 4h30, Sophie Hebrard et Julien Migaud-Muller accompagnent les Français qui se lèvent tôt en présentant les informations qui feront l'actualité de la journée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383929" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222050000 +0000" stop="20221222073000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Première édition</title>
+    <sub-title lang="fr">Edition spéciale Mondial avec Eric Di Meco</sub-title>
+    <desc lang="fr">Du lundi au vendredi dès 6h, l'équipe de la Première édition donne rendez-vous pour plusieurs heures d'info avec dynamisme et convivialité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383929" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222073000 +0000" stop="20221222080000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Face à face</title>
+    <sub-title lang="fr">Fabien Roussel face à Apolline de Malherbe</sub-title>
+    <desc lang="fr">Apolline de Malherbe reçoit Fabien Roussel, Secrétaire national du parti communiste francaise, député du Nord, dans Le Face à Face, ce jeudi 15 décembre.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107011916" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222080000 +0000" stop="20221222110000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le Live Toussaint</title>
+    <sub-title lang="fr">Emission du vendredi 16 décembre</sub-title>
+    <desc lang="fr">Direct, débat, décryptage: 3 heures pour vivre l'info. Bruce Toussaint donne les clés aux téléspectateurs pour mieux comprendre les grands enjeux de la journée. A 9h: toute l'info en live aux côtés d'invités en plateau et avec le regard de Benoît Gallerey. A 11h: Bruce Toussaint reçoit une personnalité pour une grande interview. A 11h30: BFMTV répond à vos questions avec Roselyne Dubois.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101649991" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222110000 +0000" stop="20221222130000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le Déj info</title>
+    <sub-title lang="fr">Emission du vendredi 16 décembre</sub-title>
+    <desc lang="fr">La présentatrice sera aux commandes d'une émission d'info conviviale, entourée d'une bande de chroniqueurs. La tranche fera la part belle aux territoires avec l'appui des rédactions des chaînes locales BFM Régions et ses plus de 150 journalistes partout en France.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101793849" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222130000 +0000" stop="20221222160000 +0000" channel="BFMTV.fr">
+    <title lang="fr">L'aprèm info</title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107009567" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222160000 +0000" stop="20221222175000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFM Story</title>
+    <sub-title lang="fr">Emission du jeudi 15 décembre</sub-title>
+    <desc lang="fr">A partir de 18h, cette émission fait place à l'analyse et aux débats autour des événements marquants de la journée. Chaque soir, BFM Story reçoit des invités de tous horizons qui font l'actualité et qui interviennent à l'antenne pour l'expliquer.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107105259" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222175000 +0000" stop="20221222193000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Calvi 3D</title>
+    <sub-title lang="fr">Unis derrière les bleus</sub-title>
+    <desc lang="fr">Yves Calvi est aux commandes des débuts de soirée de BFMTV avec Calvi 3D. Direct, décryptages, débats : Yves Calvi mène ce grand rendez-vous d'information avec des invités de référence, des reportages, de l'analyse et un journal politique.</desc>
+    <credits>
+      <presenter>Yves Calvi</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101835123" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222193000 +0000" stop="20221222210000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Ligne rouge</title>
+    <sub-title lang="fr">Brigitte Bardot confidentiel</sub-title>
+    <desc lang="fr">L'émission diffuse un long format réalisé par la rédaction de BFMTV. Ces enquêtes sont suivies d'un débat en plateau. Trois lundis par mois, Ligne Rouge diffuse un long format de 26 minutes. Le documentaire est suivi d'un débat animé par Aurélie Casse. Un lundi par mois, BFMTV diffuse une enquête de 52 minutes, suivie d'un débat animé par Maxime Switek.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100424457" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222210000 +0000" stop="20221222230000 +0000" channel="BFMTV.fr">
+    <title lang="fr">22H MAX</title>
+    <sub-title lang="fr">Emission du jeudi 15 décembre</sub-title>
+    <desc lang="fr">Maxime Switek fait le tour des images marquantes et des déclarations fortes de la journée et fait vivre l'info du soir, entouré de chroniqueurs, d'invités et d'éditorialistes. Chaque soir, Bruno Jeudy se confronte à une éditorialiste: Isabelle Saporta, Géraldine Woessner, Nora Hamadi, ou Solange Bied-Charreton. Sonia Carneiro présente Le plus pour approfondir un sujet et faire un petit pas de côté par rapport à l'actu. Les autres rendez-vous : les matchs des éditorialistes, 24 heures sur BFMTV (toutes les images qui ont marqué l'antenne sur la journée), Le choix de Max.</desc>
+    <credits>
+      <presenter>Maxime Switek</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107009568" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222230000 +0000" stop="20221222233000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le journal de la nuit</title>
+    <desc lang="fr">Dans l'ambiance feutrée de la fin de soirée, l'émission propose un compte-rendu complet des principales actualités de la journée. En direct de 00h à 00h30, le journal de la nuit est ensuite rediffusé jusque 4h30.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383982" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222233000 +0000" stop="20221223033000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Programmes de la nuit BFM TV</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104022461" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223033000 +0000" stop="20221223050000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Première édition</title>
+    <sub-title lang="fr">Edition spéciale Mondial avec Eric Di Meco</sub-title>
+    <desc lang="fr">Un nouveau tandem prend les commandes du rdv tv d'Informations le plus matinal de France. Dès 4h30, Sophie Hebrard et Julien Migaud-Muller accompagnent les Français qui se lèvent tôt en présentant les informations qui feront l'actualité de la journée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383929" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223050000 +0000" stop="20221223073000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Première édition</title>
+    <sub-title lang="fr">Edition spéciale Mondial avec Eric Di Meco</sub-title>
+    <desc lang="fr">Du lundi au vendredi dès 6h, l'équipe de la Première édition donne rendez-vous pour plusieurs heures d'info avec dynamisme et convivialité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107383929" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223073000 +0000" stop="20221223080000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Face à face</title>
+    <sub-title lang="fr">Fabien Roussel face à Apolline de Malherbe</sub-title>
+    <desc lang="fr">Apolline de Malherbe reçoit Fabien Roussel, Secrétaire national du parti communiste francaise, député du Nord, dans Le Face à Face, ce jeudi 15 décembre.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107011916" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223080000 +0000" stop="20221223110000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le Live Toussaint</title>
+    <sub-title lang="fr">Emission du vendredi 16 décembre</sub-title>
+    <desc lang="fr">Direct, débat, décryptage: 3 heures pour vivre l'info. Bruce Toussaint donne les clés aux téléspectateurs pour mieux comprendre les grands enjeux de la journée. A 9h: toute l'info en live aux côtés d'invités en plateau et avec le regard de Benoît Gallerey. A 11h: Bruce Toussaint reçoit une personnalité pour une grande interview. A 11h30: BFMTV répond à vos questions avec Roselyne Dubois.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101649991" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223110000 +0000" stop="20221223130000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le Déj info</title>
+    <sub-title lang="fr">Emission du vendredi 16 décembre</sub-title>
+    <desc lang="fr">La présentatrice sera aux commandes d'une émission d'info conviviale, entourée d'une bande de chroniqueurs. La tranche fera la part belle aux territoires avec l'appui des rédactions des chaînes locales BFM Régions et ses plus de 150 journalistes partout en France.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101793849" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223130000 +0000" stop="20221223160000 +0000" channel="BFMTV.fr">
+    <title lang="fr">L'aprèm info</title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107009567" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223160000 +0000" stop="20221223180000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFM Story Vendredi</title>
+    <desc lang="fr">Aurélie Casse prend les rênes de l'antenne pour faire place à l'analyse et aux débats autour des événements marquants de la journée. BFM STORY reçoit des invités qui font l'actualité et qui interviennent à l'antenne pour l'expliquer.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101842080" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223180000 +0000" stop="20221223193000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFMTVSD</title>
+    <sub-title lang="fr">Emission du samedi 17 décembre</sub-title>
+    <desc lang="fr">Retrouvez du Vendredi au Dimanche, BFMTVSD présenté par Jean-Baptiste Boursier.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101654761" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223193000 +0000" stop="20221223210000 +0000" channel="BFMTV.fr">
+    <title lang="fr">7 Jours BFM</title>
+    <desc lang="fr">Magazine d'information et d'investigations, 7 JOURS BFM apporte un regard différent, posé sur l'actualité de la semaine. Chaque samedi, Thomas Misrachi revient au travers de plusieurs longs reportages sur les grands événements de la semaine écoulée. L'occasion de prendre du recul et d'apporter une analyse complète de la rédaction de BFMTV à l'aide d'enquêtes, d'interviews et d'images fortes. En marge de ces reportages exceptionnels, Thomas Misrachi part à la rencontre de personnalités aux parcours hors du commun pour offrir aux téléspectateurs, au cours d'un entretien intime, des témoignages poignants et rares.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106948867" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223210000 +0000" stop="20221223230000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Week-end Direct</title>
+    <desc lang="fr">Magazine d'information qui revient sur les événements-clés du week-end.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101654753" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223230000 +0000" stop="20221224050000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Programmes de la nuit BFM TV</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104022461" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224050000 +0000" stop="20221224090000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Week-end première</title>
+    <desc lang="fr">L'émission propose un tour d'horizon de l'actualité du jour. Les journalistes mettent tout leur dynamisme au profit d'une édition chaleureuse dans laquelle les journaux d'informations sont agrémentés de duplex sur le terrain, reportages, témoignages et de nombreuses chroniques : économie, sports, culture. Quatre heures d'information en direct, mêlant info chaude et info de proximité, pour accompagner les Français durant leurs week-ends.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107160829" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224090000 +0000" stop="20221224120000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le Live BFM Week-end</title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101654740" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224120000 +0000" stop="20221224130000 +0000" channel="BFMTV.fr">
+    <title lang="fr">A l'épreuve des faits</title>
+    <sub-title lang="fr">Emission du samedi 17 décembre</sub-title>
+    <desc lang="fr">Jean-Baptiste Boursier décortique trois grand thèmes de l'info de la semaine, afin de remettre les contextes dans les faits.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107056621" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224130000 +0000" stop="20221224160000 +0000" channel="BFMTV.fr">
+    <title lang="fr">L'aprèm info week-end</title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107160816" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224160000 +0000" stop="20221224170000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFM Story week-end</title>
+    <sub-title lang="fr">Emission du dimanche 11 décembre</sub-title>
+    <desc lang="fr">La première offensive du froid glacial est bel et bien sur la...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1750" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224170000 +0000" stop="20221224190000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFMTVSD</title>
+    <sub-title lang="fr">Emission du samedi 17 décembre</sub-title>
+    <desc lang="fr">Retrouvez du Vendredi au Dimanche, BFMTVSD présenté par Jean-Baptiste Boursier.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101654761" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224190000 +0000" stop="20221224210000 +0000" channel="BFMTV.fr">
+    <title lang="fr">7 Jours BFM</title>
+    <desc lang="fr">Magazine d'information et d'investigations, 7 JOURS BFM apporte un regard différent, posé sur l'actualité de la semaine. Chaque samedi, Thomas Misrachi revient au travers de plusieurs longs reportages sur les grands événements de la semaine écoulée. L'occasion de prendre du recul et d'apporter une analyse complète de la rédaction de BFMTV à l'aide d'enquêtes, d'interviews et d'images fortes. En marge de ces reportages exceptionnels, Thomas Misrachi part à la rencontre de personnalités aux parcours hors du commun pour offrir aux téléspectateurs, au cours d'un entretien intime, des témoignages poignants et rares.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106948867" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224210000 +0000" stop="20221224230000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Week-end Direct</title>
+    <desc lang="fr">Magazine d'information qui revient sur les événements-clés du week-end.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101654753" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224230000 +0000" stop="20221225050000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Programmes de la nuit BFM TV</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104022461" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225050000 +0000" stop="20221225090000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Week-end première</title>
+    <desc lang="fr">L'émission propose un tour d'horizon de l'actualité du jour. Les journalistes mettent tout leur dynamisme au profit d'une édition chaleureuse dans laquelle les journaux d'informations sont agrémentés de duplex sur le terrain, reportages, témoignages et de nombreuses chroniques : économie, sports, culture. Quatre heures d'information en direct, mêlant info chaude et info de proximité, pour accompagner les Français durant leurs week-ends.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107160829" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225090000 +0000" stop="20221225110000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le Live BFM Week-end</title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101654740" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225110000 +0000" stop="20221225120000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFM Politique</title>
+    <sub-title lang="fr">Invité : Michel-Edouard Leclerc</sub-title>
+    <desc lang="fr">En direct et en public, l'émission présentée par Jean-Baptiste Boursier donne la parole aux personnalités de tous bords. L'interview est suivi d'un débat avec un contradicteur.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107160819" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225120000 +0000" stop="20221225130000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Affaire suivante</title>
+    <sub-title lang="fr">Prédateur des bois : la verité 24 ans après</sub-title>
+    <desc lang="fr">Chaque dimanche, l'émission pilotée par Philippe Gaudin avec à ses côtés Dominique Rizet consultant police/justice BFMTV, traite d'un événement majeur de la semaine, ainsi que d'autres affaires qui sont revenues sur le devant de la scène.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Judiciaire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100424432" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225130000 +0000" stop="20221225160000 +0000" channel="BFMTV.fr">
+    <title lang="fr">L'aprèm info week-end</title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107160816" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225160000 +0000" stop="20221225170000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFM Story week-end</title>
+    <sub-title lang="fr">Emission du dimanche 11 décembre</sub-title>
+    <desc lang="fr">La première offensive du froid glacial est bel et bien sur la...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1750" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225170000 +0000" stop="20221225190000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFMTVSD</title>
+    <sub-title lang="fr">Emission du samedi 17 décembre</sub-title>
+    <desc lang="fr">Retrouvez du Vendredi au Dimanche, BFMTVSD présenté par Jean-Baptiste Boursier.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101654761" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225190000 +0000" stop="20221225210000 +0000" channel="BFMTV.fr">
+    <title lang="fr">7 Jours BFM</title>
+    <desc lang="fr">Magazine d'information et d'investigations, 7 JOURS BFM apporte un regard différent, posé sur l'actualité de la semaine. Chaque samedi, Thomas Misrachi revient au travers de plusieurs longs reportages sur les grands événements de la semaine écoulée. L'occasion de prendre du recul et d'apporter une analyse complète de la rédaction de BFMTV à l'aide d'enquêtes, d'interviews et d'images fortes. En marge de ces reportages exceptionnels, Thomas Misrachi part à la rencontre de personnalités aux parcours hors du commun pour offrir aux téléspectateurs, au cours d'un entretien intime, des témoignages poignants et rares.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106948867" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225210000 +0000" stop="20221225230000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Week-end Direct</title>
+    <desc lang="fr">Magazine d'information qui revient sur les événements-clés du week-end.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101654753" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225230000 +0000" stop="20221226033000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Programmes de la nuit BFM TV</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104022461" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
   <channel id="CNews.fr">
     <display-name lang="fr">|FR| CNews</display-name>
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/cnews.png" />
