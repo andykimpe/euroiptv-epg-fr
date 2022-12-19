@@ -88,6 +88,16 @@ sed -i 's|wgchannel|'$channelfolder'|' config/$country/$channelfolder/cron/$chan
 sed -i 's|wgchannel|'$channelfolder'|' config/$country/$channelfolder/cron/$channelfolder
 #sed -i 's|TF1|'$channelfolder'|' config/$country/$channelfolder/cronapache/$channelfolder
 sed -i 's|wgchannel|'$channelfolder'|' config/$country/$channelfolder/cronapache/$channelfolder
+#sed -i 's|TF1|'$channelfolder'|' config/$country/$channelfolder/cronstreamcreed/$channelfolder
+sed -i 's|wgchannel|'$channelfolder'|' config/$country/$channelfolder/cronstreamcreed/$channelfolder
+#sed -i 's|TF1|'$channelfolder'|' config/$country/$channelfolder/cronstreamcreed/$channelfolder
+sed -i 's|wgchannel|'$channelfolder'|' config/$country/$channelfolder/cronstreamcreed/$channelfolder
+#sed -i 's|TF1|'$channelfolder'|' config/$country/$channelfolder/cron/$channelfolder
+sed -i 's|wgchannel|'$channelfolder'|' config/$country/$channelfolder/cron/$channelfolder
+#sed -i 's|TF1|'$channelfolder'|' config/$country/$channelfolder/cron/$channelfolder
+sed -i 's|wgchannel|'$channelfolder'|' config/$country/$channelfolder/cron/$channelfolder
+#sed -i 's|TF1|'$channelfolder'|' config/$country/$channelfolder/cronapache/$channelfolder
+sed -i 's|wgchannel|'$channelfolder'|' config/$country/$channelfolder/cronapache/$channelfolder
 #sed -i 's|France|'$country'|' config/$country/$channelfolder/$channelfolder.sh
 sed -i 's|wgcountry|'$country'|' config/$country/$channelfolder/$channelfolder.sh
 #sed -i 's|France|'$country'|' config/$country/$channelfolder/$channelfolder.sh
