@@ -252,3 +252,11 @@ cat >> $wwwdir/xmltv/guide.xml <<EOF
   </channel>
 EOF
 cat $wwwdir/xmltv/France/CanalPlusGrandEcran/CanalPlusGrandEcran.xml >> $wwwdir/xmltv/guide.xml
+cat >> $wwwdir/xmltv/guide.xml <<EOF
+  <channel id="Canal+Kids.fr">
+    <display-name lang="fr">|FR| Canal+ Kids</display-name>
+    <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/canalpluskids.png" />
+    <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
+  </channel>
+EOF
+cat $wwwdir/xmltv/France/CanalPlusKids/CanalPlusKids.xml >> $wwwdir/xmltv/guide.xml
