@@ -21,6 +21,7 @@ rm f $wwwdir/xmltv/gen2.sh
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config-example/gen2.sh -O $wwwdir/xmltv/gen2.sh
 rm f $wwwdir/xmltv/installfullchannell.sh
 wget https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config-example/installfullchannell.sh -O $wwwdir/xmltv/installfullchannell.sh
+chmod +x *.sh
 ./addchannel.sh fr France TF1 "|FR| TF1" canalsat.fr 312 TF1.fr logo/France/tf1.png
 ./addchannel.sh fr France France2 "|FR| France 2" canalsat.fr 26 France2.fr logo/France/france2.png
 ./addchannel.sh fr France France3 "|FR| France 3" canalsat.fr 543 France3.fr logo/France/france3.png
