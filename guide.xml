@@ -42169,6 +42169,2870 @@
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/nrj12.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
+  <programme start="20221219053000 +0000" stop="20221219083000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Téléachat</title>
+    <desc lang="fr">Magazine de télé-achat.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100641273" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219083000 +0000" stop="20221219092000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Réunion de famille</sub-title>
+    <desc lang="fr">Le shérif Forbes confie à Alaric et Elena des informations au sujet de l'arme utilisée lors d'un récent homicide. Stefan se tourne vers Bonnie et Abby afin de poursuivre sa lutte contre Klaus, alors que Damon contacte une vieille connaissance. Klaus organise un repas avec Stefan, Damon et Elijah...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221219092000 +0000" stop="20221219101000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Esther</sub-title>
+    <desc lang="fr">Elena est très surprise de recevoir une invitation à un bal traditionnel. Damon et Stefan apprennent que cette soirée est organisée dans la nouvelle demeure que possède Klaus depuis peu. Ils insistent alors pour accompagner la jeune fille. Caroline et Matt sont eux aussi conviés à cet événement...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221219101000 +0000" stop="20221219110000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">La chair de ma chair</sub-title>
+    <desc lang="fr">Bonnie et Abby sont une nouvelle fois impliquées dans un rituel qui a pour but de calmer les esprits de la nature. Pendant ce temps, Elijah lance un ultimatum à Damon et Stefan. Elena pourrait en être la première victime s'ils ne lui donnent pas satisfaction. Alaric et Meredith leur viennent en aide...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221219110000 +0000" stop="20221219115500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">1912</sub-title>
+    <desc lang="fr">La ville de Mystic Falls est frappée par une série de meurtres. Damon remarque que ces événements dramatiques sont similaires à ceux survenus en 1912. Quant au shérif Forbes, elle avertit le jeune homme de ne pas s'immiscer dans son enquête. Mais Damon est persuadé que celle-ci fait fausse route...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>1912</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221219115500 +0000" stop="20221219124000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Son autre visage</sub-title>
+    <desc lang="fr">Damon retrouve Sage près d'un siècle après leur première rencontre. Alors qu'ils s'apprêtent à entamer la restauration de Wickery Bridge, la jeune femme met au point une méthode inhabituelle pour découvrir ce que mijote Rebekah. Abby, de son côté, rencontre des difficultés à trouver ses repères...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221219124000 +0000" stop="20221219143000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Une star pour Noël</title>
+    <sub-title lang="fr">Téléfilm Jeunesse</sub-title>
+    <desc lang="fr">Lorsqu'une directrice de théâtre apprend que son théâtre bien-aimé doit être vendu, elle met tout en oeuvre pour empêcher la vente. Elle va tout faire pour que l'interprétation d'Un Chant de Noël, de Dickens, se transforme en énorme succès. Avec l'aide d'un acteur hollywoodien tout à fait charmant, le défi qu'elle s'est lancé pourrait aboutir...</desc>
+    <credits>
+      <director>John Stimpson</director>
+      <actor>Jamie Perez</actor>
+      <actor>Maureen Keiller</actor>
+      <actor>Caroline Portu</actor>
+      <actor>Robert Walsh</actor>
+      <actor>Junior Cius</actor>
+      <actor>Abri</actor>
+      <writer>Joany Kane</writer>
+      <writer>Caroline Portu</writer>
+      <writer>John Stimpson</writer>
+      <composer>Ed Grenga</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108253423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219143000 +0000" stop="20221219162000 +0000" channel="NRJ12.fr">
+    <title lang="fr">La destination de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Vice-présidente d'une entreprise de jouets, Emma Warner rêve de vacances à la plage, loin du tumulte de Noël. Son assistante lui réserve un vol à destination de Saint-John aux Iles Vierges, mais Emma se trompe d'avion et atterrit à Saint-John en Alaska. Elle y rencontre Connor, très impliqué dans la préparation des fêtes...</desc>
+    <credits>
+      <director>Wendy Ord</director>
+      <actor>Edward Ruttle</actor>
+      <actor>Natasha Wilson</actor>
+      <actor>Lynn Whyte</actor>
+      <actor>Eva Tavares</actor>
+      <actor>Crystal Tisiga</actor>
+      <actor>Beth Fotheringham</actor>
+      <writer>Brian Ruberry</writer>
+      <composer>Joshua Ginsburg</composer>
+      <composer>Tim Kobza</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108128157" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219162000 +0000" stop="20221219180500 +0000" channel="NRJ12.fr">
+    <title lang="fr">La compétition de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Après que son père se soit blessé en travaillant le bois, Katie Jolly s'inscrit à une compétition de bûcheronnage afin de sauver l'entreprise familiale de la faillite. Mais lorsque le secouriste qui a sauvé la vie de son père s'inscrit également, la romance nait juste à temps pour Noël.</desc>
+    <credits>
+      <director>Justin G Dyck</director>
+      <director>Amy Force</director>
+      <actor>Kimberly-Sue Murray</actor>
+      <actor>Stephen Huszar</actor>
+      <actor>Trish Stratus</actor>
+      <actor>Nigel Bennett</actor>
+      <actor>Mike Shara</actor>
+      <actor>Carlisle J Williams</actor>
+      <writer>Neale Kimmel</writer>
+      <composer>Sean Nimmons-Paterson</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108390536" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219180500 +0000" stop="20221219201000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Un gars, une fille</title>
+    <sub-title lang="fr">DINENT A LA MAISON</sub-title>
+    <desc lang="fr">Amour et disputes, colère et calins : Alex et Jean sont un jeune couple à l'humeur très variable, et vivre à deux n'est pas toujours facile.</desc>
+    <credits>
+      <director>Francis Duquet</director>
+      <director>Fabrice Michelin</director>
+      <director>Luc David</director>
+      <director>Tafari Tsigé-Vidalie</director>
+      <actor>Jean Dujardin</actor>
+      <actor>Alexandra Lamy</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108538455" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219201000 +0000" stop="20221219220000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Crimes</title>
+    <sub-title lang="fr">Spéciale Jubillar : révélations inédites</sub-title>
+    <desc lang="fr">A Cagnac-les-Mines, le 16 décembre 2020, Delphine Jubillar, infirmière de 33 ans, a mystérieusement disparu du domicile familial. A 4h du matin, son mari Cédric appelle la gendarmerie. Le 18 juin 2021, Cédric Jubillar...</desc>
+    <date>2021</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106564096" />
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221219220000 +0000" stop="20221219234500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Crimes</title>
+    <sub-title lang="fr">Spéciale : les photographes stars dans la tourmente</sub-title>
+    <desc lang="fr">Le flou autour de David Hamilton. En octobre 2016, Flavie Flament publie La Consolation, un roman autobiographique dans lequel elle raconte avoir été violée par David Hamilton alors qu'elle n'avait que 13 ans....</desc>
+    <date>2020</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106564096" />
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221219234500 +0000" stop="20221220012500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Crimes</title>
+    <sub-title lang="fr">Savoie : un détour en enfer</sub-title>
+    <desc lang="fr">Au sommaire : Inceste à Thonon-les-Bains. Le 7 décembre 2001, Catherine dépose une plainte à la gendarmerie pour dénoncer les agissements de son ex-mari qui a violé sa propre fille. - Pulsions fatales à Chambéry....</desc>
+    <date>2019</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106564096" />
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220012500 +0000" stop="20221220053000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220053000 +0000" stop="20221220083000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Téléachat</title>
+    <desc lang="fr">Magazine de télé-achat.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100641273" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220083000 +0000" stop="20221220092000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Esther</sub-title>
+    <desc lang="fr">Elena est très surprise de recevoir une invitation à un bal traditionnel. Damon et Stefan apprennent que cette soirée est organisée dans la nouvelle demeure que possède Klaus depuis peu. Ils insistent alors pour accompagner la jeune fille. Caroline et Matt sont eux aussi conviés à cet événement...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220092000 +0000" stop="20221220101000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">La chair de ma chair</sub-title>
+    <desc lang="fr">Bonnie et Abby sont une nouvelle fois impliquées dans un rituel qui a pour but de calmer les esprits de la nature. Pendant ce temps, Elijah lance un ultimatum à Damon et Stefan. Elena pourrait en être la première victime s'ils ne lui donnent pas satisfaction. Alaric et Meredith leur viennent en aide...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220101000 +0000" stop="20221220110000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">1912</sub-title>
+    <desc lang="fr">La ville de Mystic Falls est frappée par une série de meurtres. Damon remarque que ces événements dramatiques sont similaires à ceux survenus en 1912. Quant au shérif Forbes, elle avertit le jeune homme de ne pas s'immiscer dans son enquête. Mais Damon est persuadé que celle-ci fait fausse route...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>1912</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220110000 +0000" stop="20221220115500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Son autre visage</sub-title>
+    <desc lang="fr">Damon retrouve Sage près d'un siècle après leur première rencontre. Alors qu'ils s'apprêtent à entamer la restauration de Wickery Bridge, la jeune femme met au point une méthode inhabituelle pour découvrir ce que mijote Rebekah. Abby, de son côté, rencontre des difficultés à trouver ses repères...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220115500 +0000" stop="20221220124000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Descendance</sub-title>
+    <desc lang="fr">Damon et Stefan unissent leurs forces pour tenter de détruire Klaus. Dans leur plan, ils embarquent Caroline, Elena et Matt. Klaus, de son côté, s'en prend à un proche de Bonnie. Avec Rebekah, il arrive à influencer Finn afin qu'il collabore avec eux. Mais Rebekah n'a qu'une envie : se venger de Damon...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220124000 +0000" stop="20221220143000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Coup de foudre royal à Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">La Princesse Camille effectue un voyage en Amérique, où elle doit créer un programme d'échange culturel universitaire. Sur place, elle tombe sous le charme du professeur Rhett Davis. Mais elle découvre qu'il a été embauché par son père et qu'il est chargé de la surveiller. Elle se demande alors ce que Rhett éprouve vraiment pour elle...</desc>
+    <credits>
+      <director>Jonathan MacPherson</director>
+      <actor>Jordana Largy</actor>
+      <actor>Matthew MacCaull</actor>
+      <actor>Ashley Alexander</actor>
+      <actor>Patti Allan</actor>
+      <actor>Kyle Baker</actor>
+      <actor>Nikki Chohan</actor>
+      <writer>Jennifer Edwards</writer>
+      <composer>Lawrence Shragge</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108346217" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220143000 +0000" stop="20221220162000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Noël dans les vignes</title>
+    <sub-title lang="fr">Téléfilm Jeunesse</sub-title>
+    <desc lang="fr">Brooke, responsable marketing, se rend dans sa ville natale, ravie de revivre ses souvenirs de Noël, tout en aidant une entreprise viticole familiale en difficulté. Sa mission implique de faire équipe avec Tyler, propriétaire charismatique et entêté. Peu à peu, ils découvrent qu'ils partagent davantage que l'amour du bon vin...</desc>
+    <credits>
+      <director>Paul A Kaufman</director>
+      <actor>Julianna Guill</actor>
+      <actor>Jon Cor</actor>
+      <actor>Meredith Baxter</actor>
+      <actor>Chilton Crane</actor>
+      <actor>Kate Isaac</actor>
+      <actor>Sebastian Billingsley-Rodriguez</actor>
+      <writer>Duane Poole</writer>
+      <composer>Jeff Toyne</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103647860" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220162000 +0000" stop="20221220180500 +0000" channel="NRJ12.fr">
+    <title lang="fr">A Christmas Masquerade</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Au cours d'un bal masqué donné par Peter, un célèbre homme d'affaire plutôt réservé, Julieanne est prise pour sa patronne. Elle décide de maintenir la supercherie jusqu'à Noël et tente de le recruter comme client. Mais Peter a de plus en plus envie de passer du temps en compagnie de Julieanne...</desc>
+    <credits>
+      <director>Michelle Ouellet</director>
+      <actor>Erin Agostino</actor>
+      <actor>Darlene Cooke</actor>
+      <actor>David Lafontaine</actor>
+      <actor>Cory Lee</actor>
+      <actor>Maya Misaljevic</actor>
+      <actor>Amy Matysio</actor>
+      <writer>Julia Cranney</writer>
+      <composer>David Bateman</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108423403" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220180500 +0000" stop="20221220201000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Un gars, une fille</title>
+    <sub-title lang="fr">DINENT A LA MAISON</sub-title>
+    <desc lang="fr">Amour et disputes, colère et calins : Alex et Jean sont un jeune couple à l'humeur très variable, et vivre à deux n'est pas toujours facile.</desc>
+    <credits>
+      <director>Francis Duquet</director>
+      <director>Fabrice Michelin</director>
+      <director>Luc David</director>
+      <director>Tafari Tsigé-Vidalie</director>
+      <actor>Jean Dujardin</actor>
+      <actor>Alexandra Lamy</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108538455" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220201000 +0000" stop="20221220224500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Hook ou la revanche du capitaine Crochet</title>
+    <sub-title lang="fr">Film Fantastique</sub-title>
+    <desc lang="fr">Peter Pan, à présent adulte, est devenu Peter Banning, un avocat d'affaires. Il a tiré un trait sur son passé, s'est marié et a eu deux enfants, qu'il néglige un peu. A l'occasion de Noël, il se retrouve avec sa famille chez Wendy, devenue grand-mère. La nuit même, le capitaine Crochet enlève ses enfants...</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Dustin Hoffman</actor>
+      <actor>Robin Williams</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Bob Hoskins</actor>
+      <actor>Maggie Smith</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <writer>James V Hart</writer>
+      <writer>Malia Scotch Marmo</writer>
+      <composer>John Williams</composer>
+    </credits>
+    <date>1991</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68841074" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220224500 +0000" stop="20221221005000 +0000" channel="NRJ12.fr">
+    <title lang="fr">A la poursuite de la chambre d'ambre</title>
+    <sub-title lang="fr">Téléfilm Aventure</sub-title>
+    <desc lang="fr">Eik, Katharina et Justus partent à la recherche de la chambre d'ambre, volée par les nazis lors de la Seconde Guerre mondiale et introuvable depuis sa disparition du château de Königsberg en 1945. Aidés par Mila, arrière-petite-fille d'Albert Einstein, Eik et ses amis tentent leur chance...</desc>
+    <credits>
+      <director>Florian Baxmeyer</director>
+      <actor>Kai Wiesinger</actor>
+      <actor>Bettina Zimmermann</actor>
+      <actor>Fabian Busch</actor>
+      <actor>Sonja Gerhardt</actor>
+      <actor>Annika Blendl</actor>
+      <actor>Clemens Schick</actor>
+      <writer>Derek Meister</writer>
+      <writer>Simon X Rost</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Aventure</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103865224" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221005000 +0000" stop="20221221025500 +0000" channel="NRJ12.fr">
+    <title lang="fr">A la poursuite de la lance sacrée</title>
+    <sub-title lang="fr">Téléfilm Aventure</sub-title>
+    <desc lang="fr">Le professeur Bachmann, mentor de l'archéologue Eik Meiers, a disparu. Bachmann était à la recherche de la Lance sacrée, qui aurait percé le corps du Christ et à laquelle sont attachés des pouvoirs d'invincibilité. Eik, son amie Katharina et un restaurateur d'oeuvres d'art partent à la recherche du savant...</desc>
+    <credits>
+      <director>Florian Baxmeyer</director>
+      <actor>Kai Wiesinger</actor>
+      <actor>Bettina Zimmermann</actor>
+      <actor>Fabian Busch</actor>
+      <actor>Sonja Gerhardt</actor>
+      <actor>Jurgen Prochnow</actor>
+      <actor>Rudolf Martin</actor>
+      <writer>Derek Meister</writer>
+      <composer>Klaus Badelt</composer>
+      <composer>Christopher Carmichael</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Aventure</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103865316" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221025500 +0000" stop="20221221053000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221053000 +0000" stop="20221221083000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Téléachat</title>
+    <desc lang="fr">Magazine de télé-achat.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100641273" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221083000 +0000" stop="20221221092000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">1912</sub-title>
+    <desc lang="fr">La ville de Mystic Falls est frappée par une série de meurtres. Damon remarque que ces événements dramatiques sont similaires à ceux survenus en 1912. Quant au shérif Forbes, elle avertit le jeune homme de ne pas s'immiscer dans son enquête. Mais Damon est persuadé que celle-ci fait fausse route...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>1912</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221092000 +0000" stop="20221221101000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Son autre visage</sub-title>
+    <desc lang="fr">Damon retrouve Sage près d'un siècle après leur première rencontre. Alors qu'ils s'apprêtent à entamer la restauration de Wickery Bridge, la jeune femme met au point une méthode inhabituelle pour découvrir ce que mijote Rebekah. Abby, de son côté, rencontre des difficultés à trouver ses repères...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221101000 +0000" stop="20221221110000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Descendance</sub-title>
+    <desc lang="fr">Damon et Stefan unissent leurs forces pour tenter de détruire Klaus. Dans leur plan, ils embarquent Caroline, Elena et Matt. Klaus, de son côté, s'en prend à un proche de Bonnie. Avec Rebekah, il arrive à influencer Finn afin qu'il collabore avec eux. Mais Rebekah n'a qu'une envie : se venger de Damon...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221110000 +0000" stop="20221221115500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Au coeur des ténèbres</sub-title>
+    <desc lang="fr">Damon prend la route vers Denver avec Elena. Les deux amis ont décidé d'assurer la sécurité de Jeremy. Ils veulent aussi déterminer si le jeune homme est en mesure de les aider à remonter la lignée des vampires. Mais sur place, ils se rendent compte que Jeremy n'a pas de bonnes fréquentations...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221115500 +0000" stop="20221221124000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Alaric</sub-title>
+    <desc lang="fr">Meredith et Damon tentent de déterminer leur prochaine mission. Alaric, de son côté, vient de trouver un allié surprenant. Elena se rend à une soirée du lycée avec Stefan. Au cours de la fête, Caroline découvre que Tyler souhaite la reconquérir. Mais Klaus fait tout pour séparer les deux jeunes gens...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221124000 +0000" stop="20221221143000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Une mélodie de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Kristin, jeune styliste divorcée, a décidé de changer de vie. Elle ferme sa boutique de vêtements de Manhattan et, accompagnée de sa fille Emily, part s'installer dans l'ancienne maison de ses parents, dans l'Ohio. Entre amitié et rivalité, Kristin tente de trouver ses repères dans la petite bourgade...</desc>
+    <credits>
+      <director>Mariah Carey</director>
+      <actor>Lacey Chabert</actor>
+      <actor>Brennan Elliot</actor>
+      <actor>Kathy Najimy</actor>
+      <actor>Kevin Chamberlin</actor>
+      <actor>Fina Strazza</actor>
+      <actor>Mariah Carey</actor>
+      <writer>Jennifer Notas Shapiro</writer>
+      <composer>Laura Karpman</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52846639" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221143000 +0000" stop="20221221162000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Sur la route de Noël</title>
+    <sub-title lang="fr">Téléfilm Drame</sub-title>
+    <desc lang="fr">Claire Jameson, photographe de mode, se retrouve coincée au milieu des Etats-Unis, lorsqu'elle se rend à Aspen, pour son mariage de rêve, qui se tiendra pendant la période de Noël. N'ayant pas d'autre vol à disposition, et ne pouvant pas louer de voiture, elle se trouve dans l'obligation de faire du stop...</desc>
+    <credits>
+      <director>Mark Jean</director>
+      <actor>Jennifer Grey</actor>
+      <actor>Megan Park</actor>
+      <actor>Clark Gregg</actor>
+      <actor>Barbara Gordon</actor>
+      <actor>Jean Michel Paré</actor>
+      <actor>Thom Allison</actor>
+      <writer>Judd Parkin</writer>
+      <composer>John McCarthy</composer>
+    </credits>
+    <date>2006</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/63970281" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221162000 +0000" stop="20221221180500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Ma meilleure ennemie de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Trish et Diana sont les reines de Noël de la ville de North Pole. Chaque année, elles participent au concours de décoration de maisons. A neuf reprises, elles ont remporté le Renne d'Or, le trophée destiné aux vainqueurs . Mais cette année, quelques jours avant Noël, les deux meilleures amies se disputent...</desc>
+    <credits>
+      <director>Ron Oliver</director>
+      <actor>Betsy Brandt</actor>
+      <actor>Kyle Richards</actor>
+      <actor>Jearnest Corchado</actor>
+      <actor>Kyle Selig</actor>
+      <actor>Tetona Jackson</actor>
+      <actor>Carlos Ponce</actor>
+      <writer>Neal H Dobrofsky</writer>
+      <writer>Spyder Dobrofsky</writer>
+      <writer>Tippi Dobrofsky</writer>
+      <composer>Alan Ari Lazar</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108332072" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221180500 +0000" stop="20221221201000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Un gars, une fille</title>
+    <sub-title lang="fr">DINENT A LA MAISON</sub-title>
+    <desc lang="fr">Amour et disputes, colère et calins : Alex et Jean sont un jeune couple à l'humeur très variable, et vivre à deux n'est pas toujours facile.</desc>
+    <credits>
+      <director>Francis Duquet</director>
+      <director>Fabrice Michelin</director>
+      <director>Luc David</director>
+      <director>Tafari Tsigé-Vidalie</director>
+      <actor>Jean Dujardin</actor>
+      <actor>Alexandra Lamy</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108538455" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221201000 +0000" stop="20221221220500 +0000" channel="NRJ12.fr">
+    <title lang="fr">La grande inondation</title>
+    <desc lang="fr">Une tempête dévastatrice s'abat sur Wick, le long de la côte Est de l'Ecosse. Les services météorologiques préfèrent ne pas être alarmistes, sachant qu'elle peut changer brusquement de trajectoire. Londres est protégée par une barrière anti-inondations qui va être fermée, mais qui pourrait céder...</desc>
+    <credits>
+      <actor>Robert Carlyle</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Action</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44076231" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221220500 +0000" stop="20221222000000 +0000" channel="NRJ12.fr">
+    <title lang="fr">La grande inondation</title>
+    <desc lang="fr">La barrière de la Tamise a été submergée et le bilan des inondations est lourd. La catastrophe se révèle d'une ampleur inattendue. La cellule d'urgence se débat afin de limiter le nombre de victimes. Pour éviter une avancée des eaux à l'intérieur des terres, Leonard Morrison propose une solution audacieuse...</desc>
+    <credits>
+      <actor>Robert Carlyle</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Action</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44076231" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222000000 +0000" stop="20221222020000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Ransom games</title>
+    <sub-title lang="fr">Téléfilm Action</sub-title>
+    <desc lang="fr">Des enfants, issus de familles fortunées, sont envoyés dans un pensionnat à la discipline très stricte. Leurs parents espèrent ainsi que leur progéniture obtienne une éducation qui les remette dans le droit chemin. A leur arrivée, les enfants sont pris en otages par des criminels, qui ont assiégé l'école...</desc>
+    <credits>
+      <director>Jim Gillespie</director>
+      <actor>Jeremy Sumpter</actor>
+      <actor>Phoebe Tonkin</actor>
+      <actor>Sebastian Koch</actor>
+      <actor>Ed Westwick</actor>
+      <actor>Ashley Walters</actor>
+      <actor>Dominic Sherwood</actor>
+      <writer>Alexander Ignon</writer>
+      <composer>Hybrid</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Action</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102793080" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221222020000 +0000" stop="20221222053000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222053000 +0000" stop="20221222083000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Téléachat</title>
+    <desc lang="fr">Magazine de télé-achat.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100641273" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222083000 +0000" stop="20221222092000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Son autre visage</sub-title>
+    <desc lang="fr">Damon retrouve Sage près d'un siècle après leur première rencontre. Alors qu'ils s'apprêtent à entamer la restauration de Wickery Bridge, la jeune femme met au point une méthode inhabituelle pour découvrir ce que mijote Rebekah. Abby, de son côté, rencontre des difficultés à trouver ses repères...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221222092000 +0000" stop="20221222101000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Descendance</sub-title>
+    <desc lang="fr">Damon et Stefan unissent leurs forces pour tenter de détruire Klaus. Dans leur plan, ils embarquent Caroline, Elena et Matt. Klaus, de son côté, s'en prend à un proche de Bonnie. Avec Rebekah, il arrive à influencer Finn afin qu'il collabore avec eux. Mais Rebekah n'a qu'une envie : se venger de Damon...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221222101000 +0000" stop="20221222110000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Au coeur des ténèbres</sub-title>
+    <desc lang="fr">Damon prend la route vers Denver avec Elena. Les deux amis ont décidé d'assurer la sécurité de Jeremy. Ils veulent aussi déterminer si le jeune homme est en mesure de les aider à remonter la lignée des vampires. Mais sur place, ils se rendent compte que Jeremy n'a pas de bonnes fréquentations...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221222110000 +0000" stop="20221222115500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Alaric</sub-title>
+    <desc lang="fr">Meredith et Damon tentent de déterminer leur prochaine mission. Alaric, de son côté, vient de trouver un allié surprenant. Elena se rend à une soirée du lycée avec Stefan. Au cours de la fête, Caroline découvre que Tyler souhaite la reconquérir. Mais Klaus fait tout pour séparer les deux jeunes gens...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221222115500 +0000" stop="20221222124000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Le choix d'Elena</sub-title>
+    <desc lang="fr">Alaric se remet peu à peu de sa transformation. Sa personnalité est-elle aussi altérée qu'il semble le redouter ? Lorsqu'il refait surface, Rebekah ne cache pas son hostilité à son encontre. Dans un combat sans pitié, il montre de quoi il est maintenant capable. Caroline a la mauvaise idée d'intervenir...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E21</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221222124000 +0000" stop="20221222143000 +0000" channel="NRJ12.fr">
+    <title lang="fr">L'auberge de Noël</title>
+    <sub-title lang="fr">Téléfilm Jeunesse</sub-title>
+    <desc lang="fr">Julia Rogers, une agente immobilière, travaille très dur afin de développer son entreprise et d'aider son père à sauver sa maison de la saisie. Un jour, Julia et son concurrent, le beau Chad Everett, se retrouvent coincés ensemble au Farmstead Inn, une propriété bientôt sur le marché pour laquelle ils sont tous les deux en compétition...</desc>
+    <credits>
+      <director>Elizabeth Snoderly</director>
+      <actor>Lexi Giovagnoli</actor>
+      <actor>Travis Burns</actor>
+      <actor>Greg Evigan</actor>
+      <actor>Rachel O'Connell</actor>
+      <actor>Susan Chambers</actor>
+      <actor>LeJon Woods</actor>
+      <writer>Lexi Giovagnoli</writer>
+      <writer>Sage Mears</writer>
+      <writer>Elizabeth Snoderly</writer>
+      <composer>Tom Jemmott</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108439324" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222143000 +0000" stop="20221222162000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Une couronne pour Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Allie Evans a été congédiée de son poste de femme de chambre dans un luxueux hôtel de New York. Elle accepte de devenir la gouvernante d'une jeune fille appartenant à une famille très puissante en Europe, qui vit dans un château.</desc>
+    <credits>
+      <director>Alex Zamm</director>
+      <actor>Danica McKellar</actor>
+      <actor>Rupert Penry-Jones</actor>
+      <actor>Ellie Botterill</actor>
+      <actor>Cristian Bota</actor>
+      <actor>Alexandra Evans</actor>
+      <actor>Pavel Douglas</actor>
+      <writer>Neal H Dobrofsky</writer>
+      <writer>Tippi Dobrofsky</writer>
+      <composer>Chris Hajian</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/83544646" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222162000 +0000" stop="20221222180500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Le journal de Noël</title>
+    <sub-title lang="fr">Téléfilm Jeunesse</sub-title>
+    <desc lang="fr">Jackie, journaliste, constate que sa carrière est à la croisée des chemins, jusqu'à ce qu'une opportunité se présente à elle : diriger le journal d'une petite ville d'Alaska. En publiant une série d'articles sur Noël, elle parvient à redresser le journal. Mais son ex-patronne veut reprendre la direction du journal...</desc>
+    <credits>
+      <director>Peter Sullivan</director>
+      <actor>Carly Hughes</actor>
+      <actor>Rob Mayes</actor>
+      <actor>Marie Osmond</actor>
+      <actor>Aloma Wright</actor>
+      <actor>Emily Alabi</actor>
+      <actor>Langi Tuifua</actor>
+      <writer>Anna White</writer>
+      <composer>Matthew Janszen</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103554595" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222180500 +0000" stop="20221222201000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Un gars, une fille</title>
+    <sub-title lang="fr">DINENT A LA MAISON</sub-title>
+    <desc lang="fr">Amour et disputes, colère et calins : Alex et Jean sont un jeune couple à l'humeur très variable, et vivre à deux n'est pas toujours facile.</desc>
+    <credits>
+      <director>Francis Duquet</director>
+      <director>Fabrice Michelin</director>
+      <director>Luc David</director>
+      <director>Tafari Tsigé-Vidalie</director>
+      <actor>Jean Dujardin</actor>
+      <actor>Alexandra Lamy</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108538455" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222201000 +0000" stop="20221222214000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Le super bêtisier</title>
+    <desc lang="fr">A l'approche des fêtes de cette fin d'année 2022, les images les plus drôles ont été rassemblées pour ce bêtisier. L'occasion de retrouver les moments les plus hilarants, les plus inattendus et les plus insolites du...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108544394" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222214000 +0000" stop="20221222233000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Les 20 ans de scène d'Elie Semoun</title>
+    <sub-title lang="fr">ELIE SEMOUN, L'EFFROYABLE VERITE</sub-title>
+    <desc lang="fr">Pour fêter ses 20 ans de scène, Elie Semoun a imaginé un concept original. Ce docu-fiction est entrecoupé de sketchs de l'artiste sur scène, d'images d'archives et d'interviews de ses amis. Parmi eux, l'on retrouve Jamel Debbouze, Franck Dubosc, Kev Adams, Manu Payet, Max Boublil, Muriel Robin, Pierre Palmade, Alexandre Astier, Michael Gregorio, Alban Ivanov, Anna Chedid, Les Coquettes, Fred Hazan, Nans Delgado, Christine Berrou ou encore Foudil Kaibou.</desc>
+    <credits>
+      <director>François Chaumont</director>
+      <director>Elie Semoun</director>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Fiction</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/60670334" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222233000 +0000" stop="20221223012500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Les masters du rire</title>
+    <sub-title lang="fr">Spectacle Humour</sub-title>
+    <desc lang="fr">« Les Masters du Rire », c'est la soirée 100% humour d'NRJ12.  P.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Spectacle Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108293028" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223012500 +0000" stop="20221223053000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223053000 +0000" stop="20221223083000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Téléachat</title>
+    <desc lang="fr">Magazine de télé-achat.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100641273" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223083000 +0000" stop="20221223092000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Au coeur des ténèbres</sub-title>
+    <desc lang="fr">Damon prend la route vers Denver avec Elena. Les deux amis ont décidé d'assurer la sécurité de Jeremy. Ils veulent aussi déterminer si le jeune homme est en mesure de les aider à remonter la lignée des vampires. Mais sur place, ils se rendent compte que Jeremy n'a pas de bonnes fréquentations...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223092000 +0000" stop="20221223101000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Alaric</sub-title>
+    <desc lang="fr">Meredith et Damon tentent de déterminer leur prochaine mission. Alaric, de son côté, vient de trouver un allié surprenant. Elena se rend à une soirée du lycée avec Stefan. Au cours de la fête, Caroline découvre que Tyler souhaite la reconquérir. Mais Klaus fait tout pour séparer les deux jeunes gens...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223101000 +0000" stop="20221223110000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Le choix d'Elena</sub-title>
+    <desc lang="fr">Alaric se remet peu à peu de sa transformation. Sa personnalité est-elle aussi altérée qu'il semble le redouter ? Lorsqu'il refait surface, Rebekah ne cache pas son hostilité à son encontre. Dans un combat sans pitié, il montre de quoi il est maintenant capable. Caroline a la mauvaise idée d'intervenir...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E21</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223110000 +0000" stop="20221223115500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Ne jamais dire adieu</sub-title>
+    <desc lang="fr">Jeremy veut tout mettre en oeuvre pour préserver sa soeur. Il en vient à prendre une décision très importante. Elena, de son côté, repense à la période où ses parents, Grayson et Miranda, ainsi que sa tante Jenna, étaient vivants. Elle regrette sa vie d'avant à la fois heureuse et insouciante...</desc>
+    <credits>
+      <director>John Behring</director>
+      <director>Chris Grismer</director>
+      <director>Joshua Butler</director>
+      <director>J Miller Tobin</director>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Kat Graham</actor>
+      <actor>Zach Roerig</actor>
+      <actor>Candice King</actor>
+      <actor>Steven R McQueen</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903266" />
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223115500 +0000" stop="20221223124000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">La renaissance</sub-title>
+    <desc lang="fr">Elena se réveille le lendemain de son accident et découvre que ce qu'elle craignait le plus est arrivé : elle a été sauvée avec du sang de vampire. Elle doit maintenant choisir : soit elle traverse la période de transition qui fera d'elle un vampire à part entière, soit elle doit mourir...</desc>
+    <credits>
+      <director>Chris Grismer</director>
+      <director>Rob Hardy</director>
+      <director>Jesse Warn</director>
+      <director>Lance Anderson</director>
+      <actor>Nina Dobrev</actor>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Steven R McQueen</actor>
+      <actor>Kat Graham</actor>
+      <actor>Candice King</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107829298" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223124000 +0000" stop="20221223143000 +0000" channel="NRJ12.fr">
+    <title lang="fr">La compétition de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Après que son père se soit blessé en travaillant le bois, Katie Jolly s'inscrit à une compétition de bûcheronnage afin de sauver l'entreprise familiale de la faillite. Mais lorsque le secouriste qui a sauvé la vie de son père s'inscrit également, la romance nait juste à temps pour Noël.</desc>
+    <credits>
+      <director>Justin G Dyck</director>
+      <director>Amy Force</director>
+      <actor>Kimberly-Sue Murray</actor>
+      <actor>Stephen Huszar</actor>
+      <actor>Trish Stratus</actor>
+      <actor>Nigel Bennett</actor>
+      <actor>Mike Shara</actor>
+      <actor>Carlisle J Williams</actor>
+      <writer>Neale Kimmel</writer>
+      <composer>Sean Nimmons-Paterson</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108390536" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223143000 +0000" stop="20221223162000 +0000" channel="NRJ12.fr">
+    <title lang="fr">En cavale pour Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Ashley doit prendre l'avion pour passer Noël avec sa mère. Mais une fois à l'aéroport, on lui refuse l'accès à l'appareil. Et lorsqu'elle décide de louer une voiture, c'est pour apprendre que le dernier véhicule vient d'être donné à un certain Dash Sutherland. Celui-ci lui propose de voyager avec lui...</desc>
+    <credits>
+      <director>Kristoffer Tabori</director>
+      <actor>Meghan Ory</actor>
+      <actor>Andrew W Walker</actor>
+      <actor>Aaron Craven</actor>
+      <actor>Rukiya Bernard</actor>
+      <actor>Amitai Marmorstein</actor>
+      <actor>Aleks Paunovic</actor>
+      <writer>Maria Nation</writer>
+      <composer>Peter Allen</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/47285763" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223162000 +0000" stop="20221223180500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Une star pour Noël</title>
+    <sub-title lang="fr">Téléfilm Jeunesse</sub-title>
+    <desc lang="fr">Lorsqu'une directrice de théâtre apprend que son théâtre bien-aimé doit être vendu, elle met tout en oeuvre pour empêcher la vente. Elle va tout faire pour que l'interprétation d'Un Chant de Noël, de Dickens, se transforme en énorme succès. Avec l'aide d'un acteur hollywoodien tout à fait charmant, le défi qu'elle s'est lancé pourrait aboutir...</desc>
+    <credits>
+      <director>John Stimpson</director>
+      <actor>Jamie Perez</actor>
+      <actor>Maureen Keiller</actor>
+      <actor>Caroline Portu</actor>
+      <actor>Robert Walsh</actor>
+      <actor>Junior Cius</actor>
+      <actor>Abri</actor>
+      <writer>Joany Kane</writer>
+      <writer>Caroline Portu</writer>
+      <writer>John Stimpson</writer>
+      <composer>Ed Grenga</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108253423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223180500 +0000" stop="20221223201000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Un gars, une fille</title>
+    <sub-title lang="fr">DINENT A LA MAISON</sub-title>
+    <desc lang="fr">Amour et disputes, colère et calins : Alex et Jean sont un jeune couple à l'humeur très variable, et vivre à deux n'est pas toujours facile.</desc>
+    <credits>
+      <director>Francis Duquet</director>
+      <director>Fabrice Michelin</director>
+      <director>Luc David</director>
+      <director>Tafari Tsigé-Vidalie</director>
+      <actor>Jean Dujardin</actor>
+      <actor>Alexandra Lamy</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108538455" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223201000 +0000" stop="20221223211500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Les Chamois</title>
+    <desc lang="fr">Emma n'en revient pas que ses parents lui aient menti depuis 25 ans. Non seulement Etienne n'est pas son père biologique, mais elle découvre de surcroît que son géniteur est le père Cyril, le curé des Gets. Horrifiée par la malhonnêteté de Marie-Odile et Etienne, Emma décide de prendre ses distances...</desc>
+    <credits>
+      <director>Philippe Lefebvre</director>
+      <actor>Isabelle Gélinas</actor>
+      <actor>François Berléand</actor>
+      <actor>Julie Depardieu</actor>
+      <actor>François Vincentelli</actor>
+      <actor>Stéphanie Crayencour</actor>
+      <actor>Edouard Court</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108303515" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223211500 +0000" stop="20221223222000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Les Chamois</title>
+    <desc lang="fr">L'atmosphère est tendue aux Chamois, car si le père Cyril n'est pas le géniteur d'Emma, cela signifie que Marie-Odile l'a eue avec un autre homme. Ce qui voudrait dire qu'elle aurait trompé Etienne, 25 ans plus tôt. Marie-Odile jure qu'elle n'a pas eu d'amant, ce qui ne convainc guère son entourage...</desc>
+    <credits>
+      <director>Philippe Lefebvre</director>
+      <actor>Isabelle Gélinas</actor>
+      <actor>François Berléand</actor>
+      <actor>Julie Depardieu</actor>
+      <actor>François Vincentelli</actor>
+      <actor>Stéphanie Crayencour</actor>
+      <actor>Edouard Court</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108303515" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223222000 +0000" stop="20221223232500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Les Chamois</title>
+    <desc lang="fr">Emma est sous le choc depuis qu'elle a découvert que ses parents lui ont menti pendant vingt-cinq ans. Étienne n'est pas son père biologique, et son géniteur est le Père Cyril, le curé des Gets, qui vient de baptiser sa propre fille. Choquée, Emma décide de prendre ses distances avec Marie-Odile et Étienne...</desc>
+    <credits>
+      <director>Philippe Lefebvre</director>
+      <actor>Isabelle Gélinas</actor>
+      <actor>François Berléand</actor>
+      <actor>Julie Depardieu</actor>
+      <actor>François Vincentelli</actor>
+      <actor>Stéphanie Crayencour</actor>
+      <actor>Edouard Court</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108303515" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223232500 +0000" stop="20221224003000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Les Chamois</title>
+    <desc lang="fr">N'écoutant que lui-même, Dylan a tranché : il a déclaré sa fille sous le prénom de Kelly, comme le suggéraient ses parents, et pas Victoire, comme le souhaitaient les Leroy. Incapable d'assumer son mensonge et pétri de culpabilité, Dylan accepte la proposition des Leroy : faire baptiser son bébé...</desc>
+    <credits>
+      <director>Philippe Lefebvre</director>
+      <actor>Isabelle Gélinas</actor>
+      <actor>François Berléand</actor>
+      <actor>Julie Depardieu</actor>
+      <actor>François Vincentelli</actor>
+      <actor>Stéphanie Crayencour</actor>
+      <actor>Edouard Court</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108303515" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224003000 +0000" stop="20221224014000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Les Chamois</title>
+    <desc lang="fr">Dylan Bernard et Emma Leroy sont amoureux et veulent passer leur vie ensemble. Leurs parents ignorent tout de leur relation. En effet, Dylan est le fils de Krystel Bernard, déléguée syndicale qui mène la vie dure à Etienne Leroy, le père d'Emma, un grand patron. Son entreprise a connu sept mois de grève...</desc>
+    <credits>
+      <director>Philippe Lefebvre</director>
+      <actor>Isabelle Gélinas</actor>
+      <actor>François Berléand</actor>
+      <actor>Julie Depardieu</actor>
+      <actor>François Vincentelli</actor>
+      <actor>Stéphanie Crayencour</actor>
+      <actor>Edouard Court</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108303515" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224014000 +0000" stop="20221224053000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224053000 +0000" stop="20221224083000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Téléachat</title>
+    <desc lang="fr">Magazine de télé-achat.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100641273" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224083000 +0000" stop="20221224092000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Les flammes de la vengeance</sub-title>
+    <desc lang="fr">Le sort dont Katherine était victime est enfin levé, et elle cherche à prouver sa bonne volonté à son entourage. Stefan demande à Bonnie d'arranger leur relation avec les Martin, mais ceux-ci ne souhaitent pas faire affaire avec les deux frères. De son côté, Caroline révèle à Matt qu'elle est un vampire...</desc>
+    <credits>
+      <director>J Miller Tobin</director>
+      <director>John Behring</director>
+      <director>Marcos Siega</director>
+      <director>Joshua Butler</director>
+      <actor>Nina Dobrev</actor>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Steven R McQueen</actor>
+      <actor>Sara Canning</actor>
+      <actor>Kat Graham</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903263" />
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224092000 +0000" stop="20221224101000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Leurs vrais visages</sub-title>
+    <desc lang="fr">Elena et Alaric s'en prennent à John, car le retour inattendu d'Isobel bouleverse Jenna. Bonnie cherche le sort qui lui permettra de maîtriser les pouvoirs de ses ancêtres. Après avoir appris l'identité de Caroline, Matt s'est enfui. Quant à Stefan et Damon, ils réalisent qu'ils possèdent une arme secrète...</desc>
+    <credits>
+      <director>J Miller Tobin</director>
+      <director>John Behring</director>
+      <director>Marcos Siega</director>
+      <director>Joshua Butler</director>
+      <actor>Nina Dobrev</actor>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Steven R McQueen</actor>
+      <actor>Sara Canning</actor>
+      <actor>Kat Graham</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903263" />
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224101000 +0000" stop="20221224110000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Derniers recours</sub-title>
+    <desc lang="fr">Une soirée dansante sur le thème des années 60 est prévue au lycée. Elena et Bonnie décident de s'y rendre, malgré la menace qui plane. Klaus s'est emparé du corps d'Alaric pour mieux détourner l'attention. Quant à Caroline, elle pense avoir effacé la mémoire de Matt mais celui-ci se souvient de tout...</desc>
+    <credits>
+      <director>J Miller Tobin</director>
+      <director>John Behring</director>
+      <director>Marcos Siega</director>
+      <director>Joshua Butler</director>
+      <actor>Nina Dobrev</actor>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Steven R McQueen</actor>
+      <actor>Sara Canning</actor>
+      <actor>Kat Graham</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903263" />
+    <episode-num system="onscreen">S2 E18</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224110000 +0000" stop="20221224114500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Klaus</sub-title>
+    <desc lang="fr">Elena ramène Elijah à la vie en retirant la dague. Stefan et Damon comprennent alors qu'Elena a décidé de faire confiance au vampire. Celui-ci avoue à Elena que Klaus est son frère, et que la malédiction de la lune et du soleil n'existe pas. Klaus utilise le corps d'Alaric pour s'introduire chez Jenna...</desc>
+    <credits>
+      <director>J Miller Tobin</director>
+      <director>John Behring</director>
+      <director>Marcos Siega</director>
+      <director>Joshua Butler</director>
+      <actor>Nina Dobrev</actor>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Steven R McQueen</actor>
+      <actor>Sara Canning</actor>
+      <actor>Kat Graham</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903263" />
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224114500 +0000" stop="20221224123500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Le dernier jour</sub-title>
+    <desc lang="fr">Damon est déterminé à empêcher Klaus de mettre son plan à exécution et à protéger Elena, mais son frère n'approuve pas sa méthode. Un appel de sa mère pousse Tyler à revenir à Mystic Falls. Le jeune homme se retrouve pris dans les événements qui ont lieu alors que la pleine lune approche...</desc>
+    <credits>
+      <director>J Miller Tobin</director>
+      <director>John Behring</director>
+      <director>Marcos Siega</director>
+      <director>Joshua Butler</director>
+      <actor>Nina Dobrev</actor>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Steven R McQueen</actor>
+      <actor>Sara Canning</actor>
+      <actor>Kat Graham</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903263" />
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224123500 +0000" stop="20221224132500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Vampire Diaries</title>
+    <sub-title lang="fr">Le soleil se couche</sub-title>
+    <desc lang="fr">Alors que la pleine lune arrive, Elena tente de se préparer pour contrecarrer les plans de Klaus. Sa vie et celle de Jenna sont en grand danger. Leurs familles et amis cherchent à les sauver par tous les moyens possibles et à éliminer Klaus. De son côté, Tyler est confronté à sa deuxième transformation...</desc>
+    <credits>
+      <director>J Miller Tobin</director>
+      <director>John Behring</director>
+      <director>Marcos Siega</director>
+      <director>Joshua Butler</director>
+      <actor>Nina Dobrev</actor>
+      <actor>Paul Wasilewski</actor>
+      <actor>Ian Somerhalder</actor>
+      <actor>Steven R McQueen</actor>
+      <actor>Sara Canning</actor>
+      <actor>Kat Graham</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52903263" />
+    <episode-num system="onscreen">S2 E21</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224132500 +0000" stop="20221224135000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Carence en hélium liquide</sub-title>
+    <desc lang="fr">Wil Wheaton réalise une interview de Sheldon au sujet d'un documentaire sur Star Trek, dans lequel ce dernier fait d'importantes révélations d'ordre privé, incluant son projet de demande en mariage. De son côté, Bernadette veut commencer à rénover la maison. La perspective de fonder une famille n'est plus loin pour le couple...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E7</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224135000 +0000" stop="20221224141500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Le  Spockumentaire</sub-title>
+    <desc lang="fr">Wil Wheaton réalise une interview de Sheldon au sujet d'un documentaire sur Star Trek, dans lequel ce dernier fait d'importantes révélations d'ordre privé, incluant son projet de demande en mariage. De son côté, Bernadette veut commencer à rénover la maison. La perspective de fonder une famille n'est plus loin pour le couple...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E6</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224141500 +0000" stop="20221224144000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">L'observation du rendez-vous mystère</sub-title>
+    <desc lang="fr">Sheldon recrute ses deux amis, Howard et Raj, pour une mission de la plus haute importance mais qui requiert discrétion et efficacité : lui trouver une petite amie. De leur côté, Bernadette, Penny et Leonard espionnent Amy, qui a un mystérieux rendez-vous galant...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E8</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224144000 +0000" stop="20221224150500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Permutation platonique</sub-title>
+    <desc lang="fr">Sheldon et Amy se rendent, en tant que simples amis, à un dîner le jour de Thanksgiving. De leur côté, c'est la première fois que Leonard et Penny fêtent l'événement en tant que mari et femme. Mais Leonard dévoile un secret qui aurait mieux fait de le rester, et doit trouver un moyen original de se faire pardonner...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E9</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224150500 +0000" stop="20221224153000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Sheldon connaît la chanson</sub-title>
+    <desc lang="fr">Sheldon a une chanson dans la tête et n'arrive pas à se rappeler de quel titre il s'agit. La situation le rend nerveux. De son côté, Amy rappelle Dave pour un nouveau rendez-vous. Bernadette la met en garde...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E10</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224153000 +0000" stop="20221224155500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">L'effervescence de l'avant-première</sub-title>
+    <desc lang="fr">Après avoir demandé conseil au professeur Proton, Sheldon décide de renoncer à la première du nouveau Star Wars pour pouvoir rester avec Amy le jour de son anniversaire. Un énorme sacrifice qui lui a été suggéré en rêve. Les deux jeunes gens mettent finalement leur temps à profit...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224155500 +0000" stop="20221224161500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Séance chez le psy!</sub-title>
+    <desc lang="fr">Sur le conseil d'Howard, Leonard accepte de consulter un psychiatre. Penny espère qu'il pourra obtenir les médicaments dont elle a besoin. De son côté, Stuart a pris sa décision : il quitte la maison des Wolowitz. Pendant ce temps, Sheldon travaille avec Raj pour trouver de nouvelles exo-planètes...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E12</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224161500 +0000" stop="20221224164000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Optimisation de l'empathie</sub-title>
+    <desc lang="fr">Sheldon et Amy vont-ils enfin se fiancer ? Rien n'est moins sûr. Leonard et Penny vont-ils enfin se marier ? La vie de couple est loin d'être une science exacte. Les geeks tentent encore d'en percer les mystères insondables, et doivent composer pour tenter de faire avancer leur vie privée...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E13</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224164000 +0000" stop="20221224171000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Meemaw s'en va en guerre!</sub-title>
+    <desc lang="fr">La grand-mère de Sheldon, Meemaw, rend visite à son petit-fils. Tout ne se passe pas comme prévu avec Amy. Les frictions entre les deux femmes s'intensifient lorsque Meemaw révèle un secret sur Sheldon. De son côté, Raj reçoit une proposition de collaboration de la part d'une femme séduisante, scénariste pour un show de science-fiction à destination des enfants...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E14</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224171000 +0000" stop="20221224173500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">La submersion de Valentino</sub-title>
+    <desc lang="fr">Amy accepte de participer à l'émission de Sheldon, le jour de la Saint-Valentin. Ensemble, ils présentent un épisode de Fun With Flags. Leonard et Penny cherchent une idée romantique pour leur soirée, tandis que Bernadette et Howard sont occupés à tout autre chose que ce qu'ils avaient prévu...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E15</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224173500 +0000" stop="20221224180000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Réaction positive et négative</sub-title>
+    <desc lang="fr">Bernadette a une grande nouvelle à annoncer à Howard, mais la réaction du jeune homme laisse à désirer. Finalement, les garçons entraînent leur ami dans une soirée karaoké. Ils sont rejoints par les filles...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E16</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224180000 +0000" stop="20221224182500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">L'anniversaire de Sheldon</sub-title>
+    <desc lang="fr">Amy persuade Sheldon de fêter son anniversaire, pour la première fois depuis son enfance. Le jeune homme associe à cette date uniquement de mauvaises expériences. Pour l'aider à renouer avec lui-même, l'équipe essaie de faire au mieux et invite même Adam West à faire une apparition surprise...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E17</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224182500 +0000" stop="20221224185000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Détournement de brevet</sub-title>
+    <desc lang="fr">Leonard, Sheldon et Howard veulent déposer un brevet, mais réalisent que l'Université détiendra 75% des revenus générés par leur invention. Ils s'arrachent les cheveux en rédigeant un contrat pour se partager les 25% restants. De son côté, Raj doit choisir entre Emily et Claire, lorsque les deux jeunes femmes le contactent en même temps...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E18</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224185000 +0000" stop="20221224191500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Un fil à souder à la patte</sub-title>
+    <desc lang="fr">Amy prend l'initiative d'acheter un nouvel ordinateur portable à Sheldon. Une révélation de son fiancé provoque un choc à la jeune femme. De son côté, Raj dénonce Leonard et Howard, qui ont menti à leurs moitiés respectives pour pouvoir assister à la projection d'un film en avant-première...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E19</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224191500 +0000" stop="20221224194000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">La précipitation de la grande ourse</sub-title>
+    <desc lang="fr">Sheldon dévoile un secret concernant Leonard, alors qu'ils sont tous deux en week-end avec Penny et Amy. La situation dérape. De son côté, Raj semble plus excité par la grossesse de Bernadette que la jeune femme elle-même. Il prévoit une montagne de cadeaux pour le couple...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E20</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224194000 +0000" stop="20221224201000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Soirée à combustion</sub-title>
+    <desc lang="fr">La bande se réunit pour visionner un épisode du Trône de Fer. Tout se passe pour le mieux jusqu'à ce qu'un léger désaccord, d'abord anodin, entre Leonard et Sheldon se transforme en véritable dispute généralisée. Tout le monde doit prendre partie dans la bataille, certain à leur corps défendant...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E21</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224201000 +0000" stop="20221224204000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Bernadette va déguster</sub-title>
+    <desc lang="fr">Le groupe se rend dans un bar à vin et y croise par hasard l'ex-petit ami de Penny, Zack. Bernadette, qui ne peut pas prendre part à la dégustation, se retrouve coincée pour la soirée avec Sheldon. Raj présente Claire, sa nouvelle copine, au reste de la bande, mais les choses ne se passent pas comme il l'espérait...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E22</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224204000 +0000" stop="20221224210500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">La théorie des files d'attente</sub-title>
+    <desc lang="fr">La mère de Leonard, Beverly, arrive en ville pour une visite. Mais le courant ne passe pas avec Penny, malgré la bonne volonté de la jeune femme. Sheldon demande à Stuart d'occuper Amy pour la journée, pendant que lui-même se rend à une projection...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E23</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224210500 +0000" stop="20221224213500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Convergence, confluence, méfiance</sub-title>
+    <desc lang="fr">Leonard et Penny organisent une soirée pour célébrer leur mariage en compagnie de leurs familles et, à la surprise de tous, le père de Leonard sympathise vite avec la mère de Sheldon. Howard et Raj sont parvenus à mettre au point leur nouveau GPS et sont très vite contactés par l'US Air Force, ce qui les rend paranoïaques.</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64376078" />
+    <episode-num system="onscreen">S9 E24</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224213500 +0000" stop="20221224220000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Probabilités matrimoniales</sub-title>
+    <desc lang="fr">Leonard et Penny font beaucoup d'efforts pour que la cérémonie de mariage plaise à tous les invités. Ils doivent pour cela composer avec la famille de Penny. Le père de Leonard montre beaucoup d'intérêt pour la mère de Penny. Cette attirance est réciproque...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Jim Parsons</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/69661856" />
+    <episode-num system="onscreen">S10 E1</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224220000 +0000" stop="20221224223000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">La miniaturisation militaire</sub-title>
+    <desc lang="fr">Howard reçoit la visiste d'un capitaine de l'Air Force, très intéressé par sa dernière invention. De son côté, Penny se montre trop bavarde à son travail. Elle raconte à des collègues que Bernadette est enceinte, alors que l'intéressée voulait encore garder le secret...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Jim Parsons</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/69661856" />
+    <episode-num system="onscreen">S10 E2</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224223000 +0000" stop="20221224230500 +0000" channel="NRJ12.fr">
+    <title lang="fr">Big Bang Theory</title>
+    <sub-title lang="fr">Une dépendance irrépressible</sub-title>
+    <desc lang="fr">Bernadette confie à Raj qu'elle ne se sent peut-être pas encore prête pour être mère. Sheldon aide Howard dans la réalisation de son projet militaire...</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <director>Nikki Lorre</director>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Jim Parsons</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/69661856" />
+    <episode-num system="onscreen">S10 E3</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224230500 +0000" stop="20221225053000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225053000 +0000" stop="20221225083000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Téléachat</title>
+    <desc lang="fr">Magazine de télé-achat.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100641273" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225083000 +0000" stop="20221225085500 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Mains sur la voiture</sub-title>
+    <desc lang="fr">Sue est déterminée à gagner sa propre voiture grâce à un concours d'endurance auquel elle s'est inscrite. Mike embarque son frère, Rusty, dans une virée à Chicago où Brick doit passer un oral. Au moment de rendre sa chambre universitaire, Axl s'aperçoit que son bureau a disparu. Frankie vole à son secours...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Elliot Hegarty</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Tommy Bechtold</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898904" />
+    <episode-num system="onscreen">S5 E22</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225085500 +0000" stop="20221225092500 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Orlando</sub-title>
+    <desc lang="fr">Les Heck se préparent à un séjour à Disney World que Sue a gagné. Brick les supplie de faire une escale en Caroline du Nord, où vit la copine avec laquelle il communique par Internet. Axl a gagné un pari contre ses parents, concernant ses résultats universitaires : ils ne doivent plus lui adresser la parole de tout l'été...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Elliot Hegarty</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Tommy Bechtold</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898904" />
+    <episode-num system="onscreen">S5 E23</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225092500 +0000" stop="20221225095000 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Le monde merveilleux des Heck</sub-title>
+    <desc lang="fr">La famille Heck arrive à Orlando. Leur bonheur est de courte durée. Sous le soleil de Floride, tous réalisent que c'est au parc d'attraction de Californie qu'ils étaient attendus. Heureusement, des employés du parc les autorisent à entrer. Mais, dès la première heure de leur séjour, les ennuis commencent...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Elliot Hegarty</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Tommy Bechtold</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898904" />
+    <episode-num system="onscreen">S5 E24</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225095000 +0000" stop="20221225101500 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Une dent contre ses bagues</sub-title>
+    <desc lang="fr">Toute la famille Heck profite du dernier vendredi de l'été pour se prélasser dans la piscine. Mais la voisine leur annonce que les cours ont déjà repris depuis une semaine. Brick se retrouve au fond de la classe et se sent rejeté par ses camarades. Il décide de changer de sac à dos pour intégrer le groupe...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225101500 +0000" stop="20221225104000 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Le casier solitaire</sub-title>
+    <desc lang="fr">Sue repasse le test d'évaluation pour entrer à la faculté et le réussit. Son rêve serait de fréquenter de prestigieuses universités, mais ses parents n'en ont pas les moyens. Frankie et Mike prennent chacun un deuxième travail. Sue apprend qu'elle a été choisie pour écrire la pièce de théâtre de l'année...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225104000 +0000" stop="20221225111000 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">La matière principale</sub-title>
+    <desc lang="fr">Axl réalise qu'il n'a que quelques jours pour choisir ce qu'il fera pendant tout le reste de sa vie. Après avoir hésité avec des études sur le Bouddhisme, il choisit l'ingénierie, tout comme son colocataire Hutch. Brick s'est mis en tête de devenir populaire. Frankie décide d'organiser un talk-show...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225111000 +0000" stop="20221225113500 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">La table</sub-title>
+    <desc lang="fr">Axl et Hutch ont tellement de factures à payer qu'ils décident de faire de leur maison une fraternité acceptant les filles. Axl se met alors à chercher une table de salle à manger pour recevoir ses convives. Frankie et Mike décident de lui donner leur vieille table et d'en acheter une nouvelle...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225113500 +0000" stop="20221225120500 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Halloween V : Les bonnes manières</sub-title>
+    <desc lang="fr">Sue organise une collecte de fond afin de payer les frais de l'université qu'elle compte intégrer l'année prochaine. Pour cela, elle décide de projeter un film, le soir d'Halloween, dans un champ de citrouilles. Mais Courtney et Debbie lui volent son idée et projettent un film d'épouvante dans un cimetière...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225120500 +0000" stop="20221225123000 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Le trou de l'évier</sub-title>
+    <desc lang="fr">Lorsque l'évier de la cuisine s'effondre, la famille se retrouve privée d'eau courante. Du coup, Frankie en est réduite à utiliser le tuyau d'arrosage pour faire la vaisselle. Pendant ce temps, Brick casse malencontreusement la tondeuse à gazon de Mike. Pour ne pas se faire gronder, il suit les conseils d'Axl...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225123000 +0000" stop="20221225125500 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Thanksgiving VI</sub-title>
+    <desc lang="fr">Leur évier n'étant toujours pas réparé, les Heck célèbrent Thanksgiving au restaurant. Brick a invité Cindy, sa petite amie excentrique. Au cours de la soirée, Sue fait tout son possible pour que Mike apprécie Darrin. Mais celui-ci commet un impair qui annihile toutes ses chances de réussite...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225125500 +0000" stop="20221225132000 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Les visites de campus</sub-title>
+    <desc lang="fr">Mike accompagne Sue lors de la visite de l'université, l'obligeant à renoncer à assister au premier match de football universitaire d'Axl. Frankie le remplace et confie Brick a plusieurs baby-sitters. Malheureusement, la première apparition d'Axl sur le terrain ne restera pas dans les mémoires...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225132000 +0000" stop="20221225135000 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Les clichés de Noël</sub-title>
+    <desc lang="fr">C'est Noël et Frankie réalise que décorer la maison, faire les courses, monter le sapin, ne lui plaît pas du tout. Elle décide de ne rien faire et de prendre du temps pour elle. Mike, quant à lui, s'évertue à monter le sapin artificiel qu'il a acheté. Mais il se rend compte qu'il manque une pièce...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225135000 +0000" stop="20221225141500 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Fichue Pam Staggs</sub-title>
+    <desc lang="fr">Pam Staggs, une amie de lycée de Frankie qui a gagné un million de dollars à La Roue de la Fortune, revient à Orson après son divorce. Elle se rapproche de Frankie, n'ayant pas réussi à recontacter ses vraies amies. Toutes les deux sortent tous les soirs et rentrent ivres à la maison. Mike s'agace...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E10</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225141500 +0000" stop="20221225144500 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Une carrière à la carrière</sub-title>
+    <desc lang="fr">Mike demande de l'aide à son père pour réparer l'évier de la cuisine. Ce dernier embauche de force Axl, qui y met beaucoup de mauvaise volonté. Frankie retrouve un chèque de salaire qu'elle n'a pas encaissé. Le chèque n'étant plus valable, elle est obligée d'aller voir son ancien patron, monsieur Ehlert...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225144500 +0000" stop="20221225151500 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">Voyage en train</sub-title>
+    <desc lang="fr">Tante Edie décède. En fouillant dans ses papiers, la famille Heck découvre que son dernier voeu est de se faire enterrer auprès de son premier mari, dans le Dakota du Sud. Toute la famille prend le train avec le cercueil. Pendant le trajet, Frankie reproche à Mike son manque d'attention. Axl, lui, culpabilise...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E12</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225151500 +0000" stop="20221225154500 +0000" channel="NRJ12.fr">
+    <title lang="fr">The Middle</title>
+    <sub-title lang="fr">La Saint-Valentin VI</sub-title>
+    <desc lang="fr">La Saint-Valentin approche et Darrin demande aux parents de Sue de l'aider à organiser une chasse au trésor pour sa bien-aimée, qu'il compte demander en mariage. Brick invite sa petite amie, Cindy, à manger une glace, mais la jeune fille lui annonce qu'elle exige un baiser après la dégustation...</desc>
+    <credits>
+      <director>Lee Shallat Chemel</director>
+      <director>Blake T Evans</director>
+      <director>Phil Traill</director>
+      <director>Melissa Kosar</director>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Brock Ciarlelli</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107898906" />
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225154500 +0000" stop="20221225183000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Hook ou la revanche du capitaine Crochet</title>
+    <sub-title lang="fr">Film Fantastique</sub-title>
+    <desc lang="fr">Peter Pan, à présent adulte, est devenu Peter Banning, un avocat d'affaires. Il a tiré un trait sur son passé, s'est marié et a eu deux enfants, qu'il néglige un peu. A l'occasion de Noël, il se retrouve avec sa famille chez Wendy, devenue grand-mère. La nuit même, le capitaine Crochet enlève ses enfants...</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Dustin Hoffman</actor>
+      <actor>Robin Williams</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Bob Hoskins</actor>
+      <actor>Maggie Smith</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <writer>James V Hart</writer>
+      <writer>Malia Scotch Marmo</writer>
+      <composer>John Williams</composer>
+    </credits>
+    <date>1991</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68841074" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225183000 +0000" stop="20221225201000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Une mélodie de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Kristin, jeune styliste divorcée, a décidé de changer de vie. Elle ferme sa boutique de vêtements de Manhattan et, accompagnée de sa fille Emily, part s'installer dans l'ancienne maison de ses parents, dans l'Ohio. Entre amitié et rivalité, Kristin tente de trouver ses repères dans la petite bourgade...</desc>
+    <credits>
+      <director>Mariah Carey</director>
+      <actor>Lacey Chabert</actor>
+      <actor>Brennan Elliot</actor>
+      <actor>Kathy Najimy</actor>
+      <actor>Kevin Chamberlin</actor>
+      <actor>Fina Strazza</actor>
+      <actor>Mariah Carey</actor>
+      <writer>Jennifer Notas Shapiro</writer>
+      <composer>Laura Karpman</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52846639" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225201000 +0000" stop="20221225220000 +0000" channel="NRJ12.fr">
+    <title lang="fr">Les sept jours de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Kim, toujours à fond dans son travail, est effondrée lorsque son petit ami rompt avec elle au lieu de la demander en mariage. Pour lui remonter le moral, sa mère décide de l'emmener en retraite de Noël, une occasion de renouer avec l'esprit des fêtes. Sur place, Kim fait la connaissance de Mark, le frère de la propriétaire des lieux, avec qui elle semble avoir de nombreux points communs...</desc>
+    <credits>
+      <director>Jason Bourque</director>
+      <actor>Leigh Rachel Faith</actor>
+      <actor>Rhiannon Fish</actor>
+      <actor>Marc Gaudet</actor>
+      <actor>Clayton Chitty</actor>
+      <actor>Jonathan Purvis</actor>
+      <actor>Vincent Ross</actor>
+      <writer>Katy Breier</writer>
+      <writer>Erica Deutschman</writer>
+      <composer>Stephen Graziano</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108516481" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225220000 +0000" stop="20221225235500 +0000" channel="NRJ12.fr">
+    <title lang="fr">A Christmas Masquerade</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Au cours d'un bal masqué donné par Peter, un célèbre homme d'affaire plutôt réservé, Julieanne est prise pour sa patronne. Elle décide de maintenir la supercherie jusqu'à Noël et tente de le recruter comme client. Mais Peter a de plus en plus envie de passer du temps en compagnie de Julieanne...</desc>
+    <credits>
+      <director>Michelle Ouellet</director>
+      <actor>Erin Agostino</actor>
+      <actor>Darlene Cooke</actor>
+      <actor>David Lafontaine</actor>
+      <actor>Cory Lee</actor>
+      <actor>Maya Misaljevic</actor>
+      <actor>Amy Matysio</actor>
+      <writer>Julia Cranney</writer>
+      <composer>David Bateman</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108423403" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225235500 +0000" stop="20221226013500 +0000" channel="NRJ12.fr">
+    <title lang="fr">En cavale pour Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Ashley doit prendre l'avion pour passer Noël avec sa mère. Mais une fois à l'aéroport, on lui refuse l'accès à l'appareil. Et lorsqu'elle décide de louer une voiture, c'est pour apprendre que le dernier véhicule vient d'être donné à un certain Dash Sutherland. Celui-ci lui propose de voyager avec lui...</desc>
+    <credits>
+      <director>Kristoffer Tabori</director>
+      <actor>Meghan Ory</actor>
+      <actor>Andrew W Walker</actor>
+      <actor>Aaron Craven</actor>
+      <actor>Rukiya Bernard</actor>
+      <actor>Amitai Marmorstein</actor>
+      <actor>Aleks Paunovic</actor>
+      <writer>Maria Nation</writer>
+      <composer>Peter Allen</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/47285763" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
   <channel id="LCP.fr">
     <display-name lang="fr">|FR| LCP/Public Senat</display-name>
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/lcp-ps.png" />
