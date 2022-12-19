@@ -63537,6 +63537,2695 @@
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/cstar.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
+  <programme start="20221219073000 +0000" stop="20221219074500 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219074500 +0000" stop="20221219082000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Cstar Lundi</title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182281" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219082000 +0000" stop="20221219091500 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219091500 +0000" stop="20221219102500 +0000" channel="CStar.fr">
+    <title lang="fr">Top albums</title>
+    <desc lang="fr">Le classement des meilleurs albums du moment, de Nekfeu à Florent Pagny, de PNL à Angèle, illustré par des clips toujours hauts en couleur.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294583" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219102500 +0000" stop="20221219112400 +0000" channel="CStar.fr">
+    <title lang="fr">Top France</title>
+    <desc lang="fr">Les 15 clips les plus en vogue du moment, avec les artistes français qui se sont illustrés dans les différents classements de titres ou d'albums.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107283141" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219112400 +0000" stop="20221219113500 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219113500 +0000" stop="20221219141000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219141000 +0000" stop="20221219152000 +0000" channel="CStar.fr">
+    <title lang="fr">Top France</title>
+    <desc lang="fr">Les 15 clips les plus en vogue du moment, avec les artistes français qui se sont illustrés dans les différents classements de titres ou d'albums.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107283141" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219152000 +0000" stop="20221219162000 +0000" channel="CStar.fr">
+    <title lang="fr">Top albums</title>
+    <desc lang="fr">Le classement des meilleurs albums du moment, de Nekfeu à Florent Pagny, de PNL à Angèle, illustré par des clips toujours hauts en couleur.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294583" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219162000 +0000" stop="20221219171000 +0000" channel="CStar.fr">
+    <title lang="fr">Pawn Stars</title>
+    <sub-title lang="fr">Une partie de Roulette Rick?</sub-title>
+    <desc lang="fr">A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par les clients.</desc>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107961635" />
+    <episode-num system="onscreen">S16 E32</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219171000 +0000" stop="20221219181600 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Finale par équipes</sub-title>
+    <desc lang="fr">La saison se termine en beauté avec une compétition opposant quatre maîtres forgerons en équipe avec leurs apprentis. Les deux équipes finalistes se départagent autour d'une épée chinoise, le dao.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E30</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219181600 +0000" stop="20221219182000 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219182000 +0000" stop="20221219190500 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Le sabre de cavalerie</sub-title>
+    <desc lang="fr">Les deux concurrents qui auront forgé les meilleures lames en partant de vieux fusils à poudre pourront se départager en présentant au jury des sabres de cavalerie.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/77938513" />
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219190500 +0000" stop="20221219201000 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">L'ordre du temple</sub-title>
+    <desc lang="fr">Après avoir utilisé de vieilles cotes de mailles pour élaborer une lame, les meilleurs forgerons du jour retourneront dans leur forge pour élaborer l'arme emblématique des chevaliers templiers.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E26</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219201000 +0000" stop="20221219215500 +0000" channel="CStar.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <desc lang="fr">Ratages spectaculaires, chutes en série, bambins facétieux, animaux en folie et fous rires garantis sont au programme. Attendrissantes ou désopilantes, ces images prises sur le vif ne manquent pas de faire réagir les...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219215500 +0000" stop="20221219225000 +0000" channel="CStar.fr">
+    <title lang="fr">Le grand bêtisier de Noël 2019</title>
+    <sub-title lang="fr">Le grand bêtisier de Noël 2019</sub-title>
+    <desc lang="fr">Les fêtes de fin d'année sont l'occasion de replonger dans les archives de la télévision afin d'y dénicher des séquences plus drôles les unes que les autres.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219225000 +0000" stop="20221220011200 +0000" channel="CStar.fr">
+    <title lang="fr">Le zap de Noël 2020</title>
+    <sub-title lang="fr">Le zap de Noël 2020</sub-title>
+    <desc lang="fr">A l'occasion des fêtes de fin d'année, les équipes du Zap ont mitonné une émission exceptionnelle. Au programme : des enfants qui rencontrent le Père Noël, des Pères Noël sportifs, des chutes de Noël ou encore les...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402524" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220011200 +0000" stop="20221220035900 +0000" channel="CStar.fr">
+    <title lang="fr">Nuit hip hop</title>
+    <desc lang="fr">Un florilège des clips qui font l'actualité du rap.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182534" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220035900 +0000" stop="20221220073000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220073000 +0000" stop="20221220074500 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220074500 +0000" stop="20221220082000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Cstar Mardi</title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182281" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220082000 +0000" stop="20221220091500 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220091500 +0000" stop="20221220095000 +0000" channel="CStar.fr">
+    <title lang="fr">Top streaming</title>
+    <desc lang="fr">LE TOP STREAMING est le classement hebdomadaire des meilleures écoutes en streaming. T-Miss révèle les entrées, sorties et meilleures progressions de tous les plus grands tubes du moment. Au menu, une heure d'un TOP...</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294561" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220095000 +0000" stop="20221220102500 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220102500 +0000" stop="20221220112900 +0000" channel="CStar.fr">
+    <title lang="fr">Top Cstar Week/end</title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182281" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220112900 +0000" stop="20221220113500 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220113500 +0000" stop="20221220141000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220141000 +0000" stop="20221220151500 +0000" channel="CStar.fr">
+    <title lang="fr">Top albums</title>
+    <desc lang="fr">Le classement des meilleurs albums du moment, de Nekfeu à Florent Pagny, de PNL à Angèle, illustré par des clips toujours hauts en couleur.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294583" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220151500 +0000" stop="20221220162000 +0000" channel="CStar.fr">
+    <title lang="fr">Top France</title>
+    <desc lang="fr">Les 15 clips les plus en vogue du moment, avec les artistes français qui se sont illustrés dans les différents classements de titres ou d'albums.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107283141" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220162000 +0000" stop="20221220164000 +0000" channel="CStar.fr">
+    <title lang="fr">Pawn Stars</title>
+    <sub-title lang="fr">Pompier bon oeil</sub-title>
+    <desc lang="fr">A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par les clients.</desc>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107961635" />
+    <episode-num system="onscreen">S16 E33</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220164000 +0000" stop="20221220171000 +0000" channel="CStar.fr">
+    <title lang="fr">Pawn Stars</title>
+    <sub-title lang="fr">Le fantôme du pawnshop</sub-title>
+    <desc lang="fr">A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par les clients.</desc>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107961635" />
+    <episode-num system="onscreen">S16 E34</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220171000 +0000" stop="20221220181600 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Le kpinga</sub-title>
+    <desc lang="fr">C'est une lame complexe qui permettra de désigner le vainqueur du jour : le kpinga, un couteau venu d'Afrique centrale.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E18</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220181600 +0000" stop="20221220182000 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220182000 +0000" stop="20221220190500 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">L'espadon</sub-title>
+    <desc lang="fr">Après une première partie consacrée à la fabrication d'un couteau pliant à friction, les deux meilleurs concurrents se confronteront à l'espadon, une très grande épée utilisée par les armées mercenaires suisses et allemandes au XVIe siècle.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220190500 +0000" stop="20221220201000 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Le panabas, le choix des fans</sub-title>
+    <desc lang="fr">Les fans de la série ont choisi quatre de leurs forgerons préférés. Ces derniers reviennent s'affronter au cours de cet épisode spécial.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220201000 +0000" stop="20221220210000 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Le kopis grec</sub-title>
+    <desc lang="fr">Les vainqueurs de la première épreuve seront ceux qui maîtriseront le mieux l'acier de Damas. Les deux finalistes se départageront autour d'une épée utilisée dans la Grèce antique : le kopis.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Michael Pearlman</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102530999" />
+    <episode-num system="onscreen">S5 E39</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220210000 +0000" stop="20221220215000 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Le jumonji yari</sub-title>
+    <desc lang="fr">Les deux vainqueurs de la première épreuve s'affrontent en forgeant un jumonji yari, une lance japonaise terminée par une lame en forme de croix.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E22</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220215000 +0000" stop="20221220223500 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">La Talwar</sub-title>
+    <desc lang="fr">Les deux meilleurs forgerons du jour devront s'affronter autour du talwar, une épée courte utilisée sur le sous-continent indien.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220223500 +0000" stop="20221220232500 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Le kampilan</sub-title>
+    <desc lang="fr">Les meilleurs forgerons de l'épreuve se départageront autour du kampilan, une sorte d'épée utilisée dans l'archipel des Philippines.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220232500 +0000" stop="20221221001500 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">La Cinquedea</sub-title>
+    <desc lang="fr">Les finalistes de cet épisode mesureront leur habileté en fabriquant une cinquedea, une dague typique de la renaissance en Italie.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221001500 +0000" stop="20221221010500 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Le klewang</sub-title>
+    <desc lang="fr">La fabrication d'une dague écossaise sera la première épreuve et verra l'élimination de deux des concurrents du jour. De retour dans leur forge, les finalistes devront réaliser une redoutable hallebarde.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Michael Pearlman</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102530999" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221010500 +0000" stop="20221221015500 +0000" channel="CStar.fr">
+    <title lang="fr">Legends of Tomorrow</title>
+    <sub-title lang="fr">La baie des Calamars</sub-title>
+    <desc lang="fr">1962, en pleine crise des missiles. Une partie des super-héros se rend à Cuba tandis que Nate et Zari infiltrent le cercle rapproché du président Kennedy. Tous poursuivent le même but : amener toutes les parties à accepter une désescalade. Malheureusement, Fidel Castro est amené à prendre une terrible décision...</desc>
+    <credits>
+      <director>Kevin Mock</director>
+      <director>David Geddes</director>
+      <director>Sudz Sutherland</director>
+      <director>Caity Lotz</director>
+      <actor>Caity Lotz</actor>
+      <actor>Tala Ashe</actor>
+      <actor>Jes Macallan</actor>
+      <actor>Olivia Swann</actor>
+      <actor>Adam Tsekhman</actor>
+      <actor>Shayan Sobhian</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Action</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105942229" />
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221015500 +0000" stop="20221221024000 +0000" channel="CStar.fr">
+    <title lang="fr">Legends of Tomorrow</title>
+    <sub-title lang="fr">AbracadAstra</sub-title>
+    <desc lang="fr">Dans le manoir, Astra est malheureuse et se sent abandonnée par Constantine. Elle fait la connaissance de l'occultiste Aleister Crowley, qui est piégé dans un tableau. Celui-ci lui donne quelques leçons de magie. Astra les met aussitôt à profit en transformant les Légendes en objets inanimés. De son côté, Sara rencontre Bishop, son kidnappeur et le créateur des clones d'Ava...</desc>
+    <credits>
+      <director>Kevin Mock</director>
+      <director>David Geddes</director>
+      <director>Sudz Sutherland</director>
+      <director>Caity Lotz</director>
+      <actor>Caity Lotz</actor>
+      <actor>Tala Ashe</actor>
+      <actor>Jes Macallan</actor>
+      <actor>Olivia Swann</actor>
+      <actor>Adam Tsekhman</actor>
+      <actor>Shayan Sobhian</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Action</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105942229" />
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221024000 +0000" stop="20221221034500 +0000" channel="CStar.fr">
+    <title lang="fr">Legends of Tomorrow</title>
+    <sub-title lang="fr">Un alien en colère</sub-title>
+    <desc lang="fr">Mick et Kayla prennent le Waverider pour tenter de retrouver Sara. Lorsqu'ils se posent sur une planète, Mick est fait prisonnier par les clones d'Ava. Les Légendes se retrouvent au manoir, leur nouveau quartier général, après avoir été avertis d'une attaque extraterrestre menée par Amelia Earhart...</desc>
+    <credits>
+      <director>Kevin Mock</director>
+      <director>David Geddes</director>
+      <director>Sudz Sutherland</director>
+      <director>Caity Lotz</director>
+      <actor>Caity Lotz</actor>
+      <actor>Tala Ashe</actor>
+      <actor>Jes Macallan</actor>
+      <actor>Olivia Swann</actor>
+      <actor>Adam Tsekhman</actor>
+      <actor>Shayan Sobhian</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Action</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105942229" />
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221034500 +0000" stop="20221221035900 +0000" channel="CStar.fr">
+    <title lang="fr">Top France</title>
+    <desc lang="fr">Les 15 clips les plus en vogue du moment, avec les artistes français qui se sont illustrés dans les différents classements de titres ou d'albums.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107283141" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221035900 +0000" stop="20221221071800 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221071800 +0000" stop="20221221073000 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221073000 +0000" stop="20221221083600 +0000" channel="CStar.fr">
+    <title lang="fr">Top France</title>
+    <desc lang="fr">Les 15 clips les plus en vogue du moment, avec les artistes français qui se sont illustrés dans les différents classements de titres ou d'albums.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107283141" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221083600 +0000" stop="20221221100000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221100000 +0000" stop="20221221103200 +0000" channel="CStar.fr">
+    <title lang="fr">Top streaming</title>
+    <desc lang="fr">LE TOP STREAMING est le classement hebdomadaire des meilleures écoutes en streaming. T-Miss révèle les entrées, sorties et meilleures progressions de tous les plus grands tubes du moment. Au menu, une heure d'un TOP...</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294561" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221103200 +0000" stop="20221221110000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221110000 +0000" stop="20221221113200 +0000" channel="CStar.fr">
+    <title lang="fr">Top Cstar Vendredi</title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182281" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221113200 +0000" stop="20221221114000 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221114000 +0000" stop="20221221142000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221142000 +0000" stop="20221221150000 +0000" channel="CStar.fr">
+    <title lang="fr">Top streaming</title>
+    <desc lang="fr">LE TOP STREAMING est le classement hebdomadaire des meilleures écoutes en streaming. T-Miss révèle les entrées, sorties et meilleures progressions de tous les plus grands tubes du moment. Au menu, une heure d'un TOP...</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294561" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221150000 +0000" stop="20221221162000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Cstar Week/end</title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182281" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221162000 +0000" stop="20221221164000 +0000" channel="CStar.fr">
+    <title lang="fr">Pawn Stars</title>
+    <sub-title lang="fr">Avengers à vendre</sub-title>
+    <desc lang="fr">A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par les clients.</desc>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107961635" />
+    <episode-num system="onscreen">S16 E35</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221164000 +0000" stop="20221221171000 +0000" channel="CStar.fr">
+    <title lang="fr">Pawn Stars</title>
+    <sub-title lang="fr">Au volant</sub-title>
+    <desc lang="fr">A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par les clients.</desc>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107961635" />
+    <episode-num system="onscreen">S16 E36</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221171000 +0000" stop="20221221181600 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Le xiphos</sub-title>
+    <desc lang="fr">Sam et Keith vont devoir utiliser des godets de pelleteuses pour forger une lame à la fois résistante et tranchante. Les finalistes se départageront en forgeant un xiphos, une épée utilisée dans la Grèce antique.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/77938513" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221181600 +0000" stop="20221221182000 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221182000 +0000" stop="20221221190500 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Le ciseau des gladiateurs</sub-title>
+    <desc lang="fr">Les forgerons du jour doivent créer une dague. Deux d'entre eux participent à la finale, qui consiste à forger une ancienne arme romaine redoutable.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221190500 +0000" stop="20221221201000 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Makraka</sub-title>
+    <desc lang="fr">Les candidats du jour ont la surprise d'apprendre qu'ils vont devoir fabriquer un objet imposé : un karambit, un couteau originaire d'Asie du Sud-Est.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221201000 +0000" stop="20221221221000 +0000" channel="CStar.fr">
+    <title lang="fr">Coco</title>
+    <sub-title lang="fr">Film Comédie</sub-title>
+    <desc lang="fr">Parti de rien, Coco a réussi à faire fortune dans l'eau pétillante. Aujourd'hui richissime, il étale sa fortune aux yeux de tous. Son prochain objectif : faire de la bar-mitsva de son fils Samuel l'événement de l'année. Ce projet totalement démesuré lui aliène peu à peu ses amis et sa famille...</desc>
+    <credits>
+      <director>Gad Elmaleh</director>
+      <actor>Gad Elmaleh</actor>
+      <actor>Pascale Arbillot</actor>
+      <actor>Jean Benguigui</actor>
+      <actor>Manu Payet</actor>
+      <actor>Ary Abittan</actor>
+      <actor>Daniel Cohen</actor>
+      <writer>Gad Elmaleh</writer>
+      <writer>Caroline Thivel</writer>
+      <composer>Stéphane Lopez</composer>
+      <composer>Lopez</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100877809" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221221000 +0000" stop="20221222014500 +0000" channel="CStar.fr">
+    <title lang="fr">Au coeur de l'enquête</title>
+    <desc lang="fr">Une immersion dans le monde des services d'investigation de la police et de la gendarmerie. Du dépôt de plainte aux interpellations, le travail des enquêteurs est détaillé : relevés d'empreintes, premières pistes et...</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91625423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222014500 +0000" stop="20221222031000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Rock</title>
+    <desc lang="fr">Le rock dans tous ses états, rebelle ou novateur, où l'on croise les légendes ou les nouveaux prometteurs du genre Lana Del Rey, Stuck in the Sound, Pony Pony Run Run ou encore Dionysos.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107293700" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222031000 +0000" stop="20221222035900 +0000" channel="CStar.fr">
+    <title lang="fr">Nuit nouveaux talents</title>
+    <desc lang="fr">Une sélection de clips d'artistes issus de la nouvelle scène musicale.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102147820" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222035900 +0000" stop="20221222073000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222073000 +0000" stop="20221222074500 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222074500 +0000" stop="20221222082000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Cstar Jeudi</title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182281" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222082000 +0000" stop="20221222091500 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222091500 +0000" stop="20221222102000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Cstar Week/end</title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182281" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222102000 +0000" stop="20221222112100 +0000" channel="CStar.fr">
+    <title lang="fr">Top albums</title>
+    <desc lang="fr">Le classement des meilleurs albums du moment, de Nekfeu à Florent Pagny, de PNL à Angèle, illustré par des clips toujours hauts en couleur.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294583" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222112100 +0000" stop="20221222112500 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222112500 +0000" stop="20221222141000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222141000 +0000" stop="20221222152000 +0000" channel="CStar.fr">
+    <title lang="fr">Top France</title>
+    <desc lang="fr">Les 15 clips les plus en vogue du moment, avec les artistes français qui se sont illustrés dans les différents classements de titres ou d'albums.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107283141" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222152000 +0000" stop="20221222162000 +0000" channel="CStar.fr">
+    <title lang="fr">Top albums</title>
+    <desc lang="fr">Le classement des meilleurs albums du moment, de Nekfeu à Florent Pagny, de PNL à Angèle, illustré par des clips toujours hauts en couleur.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294583" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222162000 +0000" stop="20221222164000 +0000" channel="CStar.fr">
+    <title lang="fr">Pawn Stars</title>
+    <sub-title lang="fr">Armez ! Tirez !</sub-title>
+    <desc lang="fr">A Las Vegas, dans la boutique Gold &amp; Silver Pawn Shop, les trois générations de la famille Harrison estiment la valeur des objets présentés par les clients.</desc>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107961635" />
+    <episode-num system="onscreen">S16 E37</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222164000 +0000" stop="20221222171000 +0000" channel="CStar.fr">
+    <title lang="fr">Pawn Stars</title>
+    <sub-title lang="fr">Spécial Star Wars</sub-title>
+    <desc lang="fr">A Las Vegas, les trois générations de la famille Harrison s'intéressent cette fois à des objets liés à la saga Star Wars : ils cherchent de bonnes affaires.</desc>
+    <credits>
+      <director>Emerson St. John</director>
+      <director>Jairus Cobb</director>
+      <director>Shannon Biggs</director>
+      <director>Jonathan Wyche</director>
+    </credits>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107961635" />
+    <episode-num system="onscreen">S11 E38</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222171000 +0000" stop="20221222181600 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">La dao des Kachin</sub-title>
+    <desc lang="fr">Quatre forgerons doivent forger des lames à partir d'un câble d'ascenseur géant : seuls les deux meilleurs pourront recréer le Ngombe Ngulu, une épée africaine rituelle.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222181600 +0000" stop="20221222182000 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222182000 +0000" stop="20221222190500 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Seconde chance : l'épée viking</sub-title>
+    <desc lang="fr">D'anciens participants se voient offrir une seconde chance de briller dans la compétition. Ceux qui se seront illustrés avec l'acier de Damas se départageront en forgeant une épée viking.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/77938513" />
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222190500 +0000" stop="20221222200500 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">La sélection du jury</sub-title>
+    <desc lang="fr">Pour la première fois, les jurés désignent chacun un forgeron pour les représenter lors d'une ultime compétition. La première épreuve consiste à utiliser de l'acier trouvé dans les rues de New York.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222200500 +0000" stop="20221222220600 +0000" channel="CStar.fr">
+    <title lang="fr">Enquête sous haute tension</title>
+    <sub-title lang="fr">Chauffards contre justiciers de la route : la guerre est déclarée</sub-title>
+    <desc lang="fr">Malgré le nombre de morts sur les routes, des fous du volant sont prêts à prendre tous les risques pour leur passion de la vitesse.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91625423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222220600 +0000" stop="20221222235500 +0000" channel="CStar.fr">
+    <title lang="fr">Enquête sous haute tension spéciale urgences</title>
+    <sub-title lang="fr">Poids lourds : danger sur les routes françaises (n°1)</sub-title>
+    <desc lang="fr">A cause de ses nombreux tunnels, l'autoroute A8 peut se transformer en piège pour les automobilistes. L'autre fléau, c'est la conduite sous l'emprise de stupéfiants ou d'alcool. Pour protéger les conducteurs, les...</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91625423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222235500 +0000" stop="20221223013400 +0000" channel="CStar.fr">
+    <title lang="fr">Au coeur de l'enquête</title>
+    <sub-title lang="fr">Chauffards, bagarres et violences : 100 jours avec les gendarmes de l'Isère (n°3)</sub-title>
+    <desc lang="fr">En Isère, la compagnie de gendarmerie de Vienne a ouvert ses portes, permettant aux caméras de suivre pendant plusieurs mois le quotidien de certaines unités. Au sud de Vienne, la brigade territoriale de Roussillon et...</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91625423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223013400 +0000" stop="20221223035900 +0000" channel="CStar.fr">
+    <title lang="fr">Nuit rap français</title>
+    <desc lang="fr">Le rap français est à l'honneur, avec une sélection des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100234441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223035900 +0000" stop="20221223073000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223073000 +0000" stop="20221223074500 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223074500 +0000" stop="20221223082000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Cstar Vendredi</title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182281" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223082000 +0000" stop="20221223091500 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223091500 +0000" stop="20221223102500 +0000" channel="CStar.fr">
+    <title lang="fr">Top France</title>
+    <desc lang="fr">Les 15 clips les plus en vogue du moment, avec les artistes français qui se sont illustrés dans les différents classements de titres ou d'albums.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107283141" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223102500 +0000" stop="20221223112400 +0000" channel="CStar.fr">
+    <title lang="fr">Top Cstar Week/end</title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182281" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223112400 +0000" stop="20221223113500 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223113500 +0000" stop="20221223154500 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223154500 +0000" stop="20221223165000 +0000" channel="CStar.fr">
+    <title lang="fr">Top France</title>
+    <desc lang="fr">Les 15 clips les plus en vogue du moment, avec les artistes français qui se sont illustrés dans les différents classements de titres ou d'albums.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107283141" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223165000 +0000" stop="20221223174000 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">La coupe du monde des forgerons</sub-title>
+    <desc lang="fr">Quatre forgerons, parmi les meilleurs du monde s'affrontent dans un défi international : chacun aura à coeur de rapporter dans son pays le précieux trophée.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223174000 +0000" stop="20221223183000 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Le combat des champions : la Claymore</sub-title>
+    <desc lang="fr">Les quatre concurrents de cette émission spéciale ont remporté des épisodes au cours des saisons précédentes. Ils s'affrontent aujourd'hui dans une compétition au niveau forcément très relevé.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/77938513" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223183000 +0000" stop="20221223184000 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223184000 +0000" stop="20221223191000 +0000" channel="CStar.fr">
+    <title lang="fr">Top streaming</title>
+    <desc lang="fr">LE TOP STREAMING est le classement hebdomadaire des meilleures écoutes en streaming. T-Miss révèle les entrées, sorties et meilleures progressions de tous les plus grands tubes du moment. Au menu, une heure d'un TOP...</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294561" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223191000 +0000" stop="20221223194500 +0000" channel="CStar.fr">
+    <title lang="fr">Top albums</title>
+    <desc lang="fr">Le classement des meilleurs albums du moment, de Nekfeu à Florent Pagny, de PNL à Angèle, illustré par des clips toujours hauts en couleur.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294583" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223194500 +0000" stop="20221223201000 +0000" channel="CStar.fr">
+    <title lang="fr">Storage Wars : enchères surprises</title>
+    <sub-title lang="fr">Un grand blond</sub-title>
+    <desc lang="fr">Kenny est à la recherche de trucs de dame. Et Mary, ayant retrouvé son entrain, recherche son box idéal.</desc>
+    <credits>
+      <director>Thom Beers</director>
+    </credits>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/80306617" />
+    <episode-num system="onscreen">S11 E9</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223201000 +0000" stop="20221223221500 +0000" channel="CStar.fr">
+    <title lang="fr">Billy Elliot</title>
+    <sub-title lang="fr">Film Comédie dramatique</sub-title>
+    <desc lang="fr">Billy Elliot, garçon anglais qui grandit dans les années Thatcher, rêve d'être danseur. Mais cette passion n'est pas du goût de son père et de son frère, tous deux mineurs. Aussi c'est en cachette que Billy se rend aux cours de danse de madame Wilkinson, qui décèle chez lui un grand talent...</desc>
+    <credits>
+      <director>Stephen Daldry</director>
+      <actor>Jamie Bell</actor>
+      <actor>Jamie Draven</actor>
+      <actor>Gary Lewis</actor>
+      <actor>Stuart Wells</actor>
+      <actor>Mike Elliot</actor>
+      <actor>Janine Birkett</actor>
+      <writer>Lee Hall</writer>
+      <composer>Stephen Warbeck</composer>
+    </credits>
+    <date>2000</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie dramatique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64633537" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223221500 +0000" stop="20221223235500 +0000" channel="CStar.fr">
+    <title lang="fr">Coco</title>
+    <sub-title lang="fr">Film Comédie</sub-title>
+    <desc lang="fr">Parti de rien, Coco a réussi à faire fortune dans l'eau pétillante. Aujourd'hui richissime, il étale sa fortune aux yeux de tous. Son prochain objectif : faire de la bar-mitsva de son fils Samuel l'événement de l'année. Ce projet totalement démesuré lui aliène peu à peu ses amis et sa famille...</desc>
+    <credits>
+      <director>Gad Elmaleh</director>
+      <actor>Gad Elmaleh</actor>
+      <actor>Pascale Arbillot</actor>
+      <actor>Jean Benguigui</actor>
+      <actor>Manu Payet</actor>
+      <actor>Ary Abittan</actor>
+      <actor>Daniel Cohen</actor>
+      <writer>Gad Elmaleh</writer>
+      <writer>Caroline Thivel</writer>
+      <composer>Stéphane Lopez</composer>
+      <composer>Lopez</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100877809" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223235500 +0000" stop="20221224004000 +0000" channel="CStar.fr">
+    <title lang="fr">Legends of Tomorrow</title>
+    <sub-title lang="fr">Retour vers le futur</sub-title>
+    <desc lang="fr">Les Légendes se rendent à Londres, en 1977, pour tenter un dernier coup de force : empêcher l'enlèvement de Sara, même s'ils ont conscience que cette action aura un impact sur l'avenir. Pendant ce temps, Sara essaye d'assimiler tout ce qu'elle vient d'apprendre sur elle-même...</desc>
+    <credits>
+      <director>Kevin Mock</director>
+      <director>David Geddes</director>
+      <director>Sudz Sutherland</director>
+      <director>Caity Lotz</director>
+      <actor>Caity Lotz</actor>
+      <actor>Tala Ashe</actor>
+      <actor>Jes Macallan</actor>
+      <actor>Olivia Swann</actor>
+      <actor>Adam Tsekhman</actor>
+      <actor>Shayan Sobhian</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Action</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105942229" />
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224004000 +0000" stop="20221224012500 +0000" channel="CStar.fr">
+    <title lang="fr">Legends of Tomorrow</title>
+    <sub-title lang="fr">Pour quelques aliens de plus</sub-title>
+    <desc lang="fr">Les Légendes se rendent à Fist City, dans l'Oklahoma, en 1891. Les habitants de la petite ville se montrent anormalement gentils et prévenants. Les super-héros découvrent que Levi Stapleton, le shérif, utilise un ver extraterrestre pour maintenir la population dans le droit chemin. Toute personne récalcitrante est dévorée par l'entité alien...</desc>
+    <credits>
+      <director>Kevin Mock</director>
+      <director>David Geddes</director>
+      <director>Sudz Sutherland</director>
+      <director>Caity Lotz</director>
+      <actor>Caity Lotz</actor>
+      <actor>Tala Ashe</actor>
+      <actor>Jes Macallan</actor>
+      <actor>Olivia Swann</actor>
+      <actor>Adam Tsekhman</actor>
+      <actor>Shayan Sobhian</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Action</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105942229" />
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224012500 +0000" stop="20221224014300 +0000" channel="CStar.fr">
+    <title lang="fr">Legends of Tomorrow</title>
+    <sub-title lang="fr">Rencontre du troisième trip</sub-title>
+    <desc lang="fr">Le jour de l'anniversaire de Behrad, les Légendes traquent un extraterrestre à Vancouver, en 2023. C'est dans cette ville que Bud Stuy, la sitcom préférée de Behrad, est filmée. Mick, de son côté, découvre que Lita est enceinte. Furieux, il se met en tête d'éliminer Niko, le petit ami de sa fille...</desc>
+    <credits>
+      <director>Kevin Mock</director>
+      <director>David Geddes</director>
+      <director>Sudz Sutherland</director>
+      <director>Caity Lotz</director>
+      <actor>Caity Lotz</actor>
+      <actor>Tala Ashe</actor>
+      <actor>Jes Macallan</actor>
+      <actor>Olivia Swann</actor>
+      <actor>Adam Tsekhman</actor>
+      <actor>Shayan Sobhian</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Action</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105942229" />
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224014300 +0000" stop="20221224035900 +0000" channel="CStar.fr">
+    <title lang="fr">Nuit électro</title>
+    <desc lang="fr">Des clips et des interviews des plus grands groupes électro du moment. Les artistes offrent également une sélections de leurs morceaux préférés.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182230" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224035900 +0000" stop="20221224070000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224070000 +0000" stop="20221224080500 +0000" channel="CStar.fr">
+    <title lang="fr">Top France</title>
+    <desc lang="fr">Les 15 clips les plus en vogue du moment, avec les artistes français qui se sont illustrés dans les différents classements de titres ou d'albums.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107283141" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224080500 +0000" stop="20221224091500 +0000" channel="CStar.fr">
+    <title lang="fr">Top Cstar Week/end</title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182281" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224091500 +0000" stop="20221224102000 +0000" channel="CStar.fr">
+    <title lang="fr">Top albums</title>
+    <desc lang="fr">Le classement des meilleurs albums du moment, de Nekfeu à Florent Pagny, de PNL à Angèle, illustré par des clips toujours hauts en couleur.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294583" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224102000 +0000" stop="20221224112500 +0000" channel="CStar.fr">
+    <title lang="fr">Top France</title>
+    <desc lang="fr">Les 15 clips les plus en vogue du moment, avec les artistes français qui se sont illustrés dans les différents classements de titres ou d'albums.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107283141" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224112500 +0000" stop="20221224123000 +0000" channel="CStar.fr">
+    <title lang="fr">Top Clip</title>
+    <desc lang="fr">Dance, pop-rock, R'n'b, hip-hop, rap : «Top clip» offre une programmation éclectique des meilleurs clips du moment.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100182608" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224123000 +0000" stop="20221224125500 +0000" channel="CStar.fr">
+    <title lang="fr">Douanes sous haute surveillance</title>
+    <sub-title lang="fr">Douanes sous haute surveillance</sub-title>
+    <desc lang="fr">Gros plan sur le travail des douaniers avec un aperçu sur la lutte contre des trafics en tout genre. Des milliers de personnes passent chaque jour par les frontières, que ce soit par la mer ou par les airs, l'équipe de la sécurité des frontières doit ainsi faire preuve d'un discernement et d'une efficacité à toute épreuve pour traquer les voyageurs, qui sont parfois hors la loi.</desc>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106748994" />
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224125500 +0000" stop="20221224132000 +0000" channel="CStar.fr">
+    <title lang="fr">Douanes sous haute surveillance</title>
+    <sub-title lang="fr">Douanes sous haute surveillance</sub-title>
+    <desc lang="fr">Gros plan sur le travail des douaniers avec un aperçu sur la lutte contre des trafics en tout genre. Des milliers de personnes passent chaque jour par les frontières, que ce soit par la mer ou par les airs, l'équipe de la sécurité des frontières doit ainsi faire preuve d'un discernement et d'une efficacité à toute épreuve pour traquer les voyageurs, qui sont parfois hors la loi.</desc>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106748994" />
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224132000 +0000" stop="20221224134500 +0000" channel="CStar.fr">
+    <title lang="fr">Douanes sous haute surveillance</title>
+    <sub-title lang="fr">Douanes sous haute surveillance</sub-title>
+    <desc lang="fr">Gros plan sur le travail des douaniers avec un aperçu sur la lutte contre des trafics en tout genre. Des milliers de personnes passent chaque jour par les frontières, que ce soit par la mer ou par les airs, l'équipe de la sécurité des frontières doit ainsi faire preuve d'un discernement et d'une efficacité à toute épreuve pour traquer les voyageurs, qui sont parfois hors la loi.</desc>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106748994" />
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224134500 +0000" stop="20221224141000 +0000" channel="CStar.fr">
+    <title lang="fr">Douanes sous haute surveillance</title>
+    <desc lang="fr">Aéroports, douanes, centres postaux : la caméra pénètre au coeur du système de contrôle australien chargé d'interpeller trafiquants et autres passeurs clandestins.</desc>
+    <credits>
+      <director>Steven Network</director>
+    </credits>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106748994" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224141000 +0000" stop="20221224144000 +0000" channel="CStar.fr">
+    <title lang="fr">Douanes sous haute surveillance</title>
+    <sub-title lang="fr">Douanes sous haute surveillance</sub-title>
+    <desc lang="fr">Aéroports, douanes, centres postaux : la caméra pénètre au coeur du système de contrôle australien chargé d'interpeller trafiquants et autres passeurs clandestins.</desc>
+    <credits>
+      <director>Steven Network</director>
+    </credits>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106748994" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224144000 +0000" stop="20221224163000 +0000" channel="CStar.fr">
+    <title lang="fr">Au coeur de l'enquête</title>
+    <sub-title lang="fr">Drogue, alcool, violences : alerte dans le Nord</sub-title>
+    <desc lang="fr">Une immersion dans le monde des services d'investigation de la police et de la gendarmerie. Du dépôt de plainte aux interpellations, le travail des enquêteurs est détaillé : relevés d'empreintes, premières pistes et...</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91625423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224163000 +0000" stop="20221224181600 +0000" channel="CStar.fr">
+    <title lang="fr">Enquête sous haute tension</title>
+    <sub-title lang="fr">Chauffards contre justiciers de la route : la guerre est déclarée</sub-title>
+    <desc lang="fr">Malgré le nombre de morts sur les routes, des fous du volant sont prêts à prendre tous les risques pour leur passion de la vitesse.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91625423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224181600 +0000" stop="20221224182000 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224182000 +0000" stop="20221224190500 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Les forgerons font leur cinéma</sub-title>
+    <desc lang="fr">Dans cet épisode sur le thème du cinéma, les forgerons doivent réaliser un couteau de survie digne de Rambo. Les finalistes se départagent autour du mythique katana de Kill Bill.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Michael Pearlman</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102530999" />
+    <episode-num system="onscreen">S5 E27</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221224190500 +0000" stop="20221224201000 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">L'épée Charay</sub-title>
+    <desc lang="fr">Après avoir forgé une lame selon leur style dans du métal de récupération, les meilleurs forgerons devront réaliser une lame qui trouve son origine en Inde.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Jodi Flynn</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105622412" />
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224201000 +0000" stop="20221224212500 +0000" channel="CStar.fr">
+    <title lang="fr">Top albums</title>
+    <desc lang="fr">Le classement des meilleurs albums de l'année 2022, de Orelsan à Angèle, de Jul à Ed Sheeran, en passant par Clara Luciani, Stromae, Lomepal, Bigflo et Oli ou encore Ninho, illustré par des clips toujours hauts en...</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294583" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224212500 +0000" stop="20221225001500 +0000" channel="CStar.fr">
+    <title lang="fr">Les 50 clips en attendant le Père Noël 2020</title>
+    <sub-title lang="fr">Clips</sub-title>
+    <desc lang="fr">Cette émission musicale 100% familiale propose de découvrir la sélection des 50 plus grands clips issus des dessins animés d'hier à aujourd'hui. Un programme unique en son genre destiné aux plus petits comme aux plus...</desc>
+    <credits>
+      <presenter>Salomé Lagresle</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103382953" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225001500 +0000" stop="20221225021800 +0000" channel="CStar.fr">
+    <title lang="fr">Les 50 clips en attendant le Père Noël 2020</title>
+    <sub-title lang="fr">Clips</sub-title>
+    <desc lang="fr">Cette émission musicale 100% familiale propose de découvrir la sélection des 50 plus grands clips issus des dessins animés d'hier à aujourd'hui. Un programme unique en son genre destiné aux plus petits comme aux plus...</desc>
+    <credits>
+      <presenter>Salomé Lagresle</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103382953" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225021800 +0000" stop="20221225051000 +0000" channel="CStar.fr">
+    <title lang="fr">Les 50 clips en attendant le Père Noël 2020</title>
+    <sub-title lang="fr">Clips</sub-title>
+    <desc lang="fr">Cette émission musicale 100% familiale propose de découvrir la sélection des 50 plus grands clips issus des dessins animés d'hier à aujourd'hui. Un programme unique en son genre destiné aux plus petits comme aux plus...</desc>
+    <credits>
+      <presenter>Salomé Lagresle</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103382953" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225051000 +0000" stop="20221225064500 +0000" channel="CStar.fr">
+    <title lang="fr">Le zap de Noël 2020</title>
+    <sub-title lang="fr">Le zap de Noël 2020</sub-title>
+    <desc lang="fr">A l'occasion des fêtes de fin d'année, les équipes du Zap ont mitonné une émission exceptionnelle. Au programme : des enfants qui rencontrent le Père Noël, des Pères Noël sportifs, des chutes de Noël ou encore les...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104402524" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225064500 +0000" stop="20221225084000 +0000" channel="CStar.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <desc lang="fr">Ratages spectaculaires, chutes en série, bambins facétieux, animaux en folie et fous rires garantis sont au programme. Attendrissantes ou désopilantes, ces images prises sur le vif ne manquent pas de faire réagir les...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225084000 +0000" stop="20221225093500 +0000" channel="CStar.fr">
+    <title lang="fr">Le grand bêtisier de Noël 2019</title>
+    <sub-title lang="fr">Le grand bêtisier de Noël 2019</sub-title>
+    <desc lang="fr">Les fêtes de fin d'année sont l'occasion de replonger dans les archives de la télévision afin d'y dénicher des séquences plus drôles les unes que les autres.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225093500 +0000" stop="20221225112500 +0000" channel="CStar.fr">
+    <title lang="fr">Le grand bêtisier</title>
+    <sub-title lang="fr">Le grand bêtisier</sub-title>
+    <desc lang="fr">Pour se divertir en famille, rien de tel qu'une compilation des candidats les plus délirants, de stars désopilantes ou d'animaux dingues. Cette émission revient sur les programmes en direct qui partent en vrille ou...</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103325232" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225112500 +0000" stop="20221225120000 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">L'anniversaire</sub-title>
+    <desc lang="fr">Sabri a décidé d'organiser une petite fête pour son anniversaire. Il expédie à chaque invité un carton sous enveloppe, mais il omet de faire figurer Clara sur sa liste. Quant à Aymé, hanté par sa peur de dormir tout seul, il convainc Béatrice de partager le lit de la salle de garde avec lui...</desc>
+    <credits>
+      <director>Eric Judor</director>
+      <director>Kader Aoun</director>
+      <director>Charles Nemes</director>
+      <director>Edouard Molinaro</director>
+      <actor>Eric Judor</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103619679" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225120000 +0000" stop="20221225123000 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">Trop moche pour être belle</sub-title>
+    <desc lang="fr">Ebloui par la beauté de Léa, Aymé prolonge sciemment l'hospitalisation de sa petite amie, Sylvie. Il regrette son choix et tente de faire machine arrière. Sabri a un tout autre problème : le nouveau médecin stagiaire dégage une haleine fétide, et Sabri ne sait pas comment le lui faire comprendre...</desc>
+    <credits>
+      <director>Eric Judor</director>
+      <director>Kader Aoun</director>
+      <director>Charles Nemes</director>
+      <director>Edouard Molinaro</director>
+      <actor>Eric Judor</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103619679" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225123000 +0000" stop="20221225130000 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">Un manuscrit</sub-title>
+    <desc lang="fr">Un patient suicidaire confie son manuscrit à Aymé, qui s'empresse de lui trouver un autre lecteur, en l'occurrence Sabri. Mais celui-ci perd le manuscrit. Le désespéré en déduit qu'Aymé n'a pas apprécié son oeuvre et saute par la fenêtre. Au grand désarroi du service, la mère du défunt prend sa place...</desc>
+    <credits>
+      <director>Eric Judor</director>
+      <director>Kader Aoun</director>
+      <director>Charles Nemes</director>
+      <director>Edouard Molinaro</director>
+      <actor>Eric Judor</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103619679" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225130000 +0000" stop="20221225133000 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">Mon meilleur copain</sub-title>
+    <desc lang="fr">Sabri, très impressionné par Jet, un cascadeur de cinéma hospitalisé à la suite d'un accident, ne jure plus que par son nouvel ami. Il refuse même d'accompagner Aymé à un concert de rap. C'en est trop pour Aymé, qui s'invente une fausse nouvelle amitié pour un stagiaire passionné de jeux vidéo...</desc>
+    <credits>
+      <director>Eric Judor</director>
+      <director>Kader Aoun</director>
+      <director>Charles Nemes</director>
+      <director>Edouard Molinaro</director>
+      <actor>Eric Judor</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103619679" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225133000 +0000" stop="20221225140000 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">Une histoire de comédienne</sub-title>
+    <desc lang="fr">En apprenant que Micheline Presle doit être hospitalisée, Sabri insiste pour tenir le rôle du répétiteur. Mais il finit par prendre sa fonction trop au sérieux.</desc>
+    <credits>
+      <director>Eric Judor</director>
+      <director>Kader Aoun</director>
+      <director>Charles Nemes</director>
+      <director>Edouard Molinaro</director>
+      <actor>Eric Judor</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103619679" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225140000 +0000" stop="20221225143000 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">Une histoire de professeurs</sub-title>
+    <desc lang="fr">Pendant l'hospitalisation du professeur Strauss, Garnier, un remplaçant, reprend le service en main, au grand dam de Jamel, Aymé et Sabri, déconfits.</desc>
+    <credits>
+      <director>Eric Judor</director>
+      <director>Kader Aoun</director>
+      <director>Charles Nemes</director>
+      <director>Edouard Molinaro</director>
+      <actor>Eric Judor</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103619679" />
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225143000 +0000" stop="20221225150000 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">Une histoire de héros</sub-title>
+    <desc lang="fr">Parce qu'il n'a pas eu le courage d'intervenir lors d'une rixe, Aymé culpabilise. Alors que Clara vit une seconde jeunesse, Béa se remet d'une fête arrosée.</desc>
+    <credits>
+      <director>Eric Judor</director>
+      <director>Kader Aoun</director>
+      <director>Charles Nemes</director>
+      <director>Edouard Molinaro</director>
+      <actor>Eric Judor</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103619679" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225150000 +0000" stop="20221225153500 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">Coup de froid</sub-title>
+    <desc lang="fr">Enfermés dans la morgue de l'hôpital, dont la porte reste désespérément bloquée, Aymé et Clara sentent le froid les gagner. Pendant ce temps, Jamel et Sabri organisent un fructueux trafic de pizzas périmées. Jamel a reçu un appel enflammé d'un prétendant de Béa, mais ne se souvient plus de son nom...</desc>
+    <credits>
+      <director>Eric Judor</director>
+      <director>Kader Aoun</director>
+      <director>Charles Nemes</director>
+      <director>Edouard Molinaro</director>
+      <actor>Eric Judor</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103619679" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225153500 +0000" stop="20221225160500 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">Une histoire de famille</sub-title>
+    <desc lang="fr">Cyril, le frère du professeur Strauss, n'a pas d'endroit où passer la nuit. Il se rend à l'hôpital et, comme s'il s'agissait d'un hôtel, prend une chambre pour s'y installer. Son attitude à l'égard de son frère choque particulièrement le personnel : Cyril ne rate pas une occasion de se comporter en mufle.</desc>
+    <credits>
+      <director>Eric Judor</director>
+      <director>Kader Aoun</director>
+      <director>Charles Nemes</director>
+      <director>Edouard Molinaro</director>
+      <actor>Eric Judor</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103619679" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225160500 +0000" stop="20221225164000 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">Une histoire de mari</sub-title>
+    <desc lang="fr">Le mari de la plus récente conquête d'Aymé est hospitalisé. Il sympathise d'ailleurs rapidement avec Aymé, allant même jusqu'à lui faire des confidences.</desc>
+    <credits>
+      <director>Eric Judor</director>
+      <director>Kader Aoun</director>
+      <director>Charles Nemes</director>
+      <director>Edouard Molinaro</director>
+      <actor>Eric Judor</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103619679" />
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225164000 +0000" stop="20221225171000 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">Une histoire de lapin</sub-title>
+    <desc lang="fr">Jamel et Aymé se portent volontaires pour occire le lapin que Béa a acheté pour en faire un civet. Au même moment, Pierre Palmade est admis à l'hôpital après un accident de moto. Grand fan du comique, Sabri ne quitte quasiment pas la chambre de l'artiste et songe déjà à monter un duo avec lui...</desc>
+    <credits>
+      <director>Eric Judor</director>
+      <director>Kader Aoun</director>
+      <director>Charles Nemes</director>
+      <director>Edouard Molinaro</director>
+      <actor>Eric Judor</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103619679" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225171000 +0000" stop="20221225174000 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">Une différence</sub-title>
+    <desc lang="fr">Un nouvel infirmier intègre le service. C'est un nain, qui se révèle plutôt cynique et qui multiplie les blagues douteuses. Le reste de l'équipe a bien du mal à faire comme si de rien n'était. Clara, quant à elle, se déniche un nouveau petit ami. Etonnamment, il s'agit d'un sosie d'Aymé...</desc>
+    <credits>
+      <director>Eric Judor</director>
+      <director>Kader Aoun</director>
+      <director>Charles Nemes</director>
+      <director>Edouard Molinaro</director>
+      <actor>Eric Judor</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103619679" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225174000 +0000" stop="20221225181600 +0000" channel="CStar.fr">
+    <title lang="fr">H</title>
+    <sub-title lang="fr">Une histoire d'intelligence</sub-title>
+    <desc lang="fr">Pour la première fois de sa vie, Sabri entend parler du QI. Il décide d'évaluer le sien, mais il est déçu par le résultat, qui est de 19. Jamel et Aymé lui font croire que le test est noté sur vingt. Du coup, persuadé d'être surdoué, Sabri propose de mettre son intelligence au service de l'hôpital...</desc>
+    <credits>
+      <director>Jean-Luc Moreau</director>
+      <director>Charles Nemes</director>
+      <director>Kader Aoun</director>
+      <director>Xavier Matthieu</director>
+      <actor>Ramzy Bedia</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Eric Judor</actor>
+      <actor>Jean-Luc Bideau</actor>
+      <actor>Sophie Mounicot</actor>
+      <actor>Catherine Benguigui</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52908043" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225181600 +0000" stop="20221225182000 +0000" channel="CStar.fr">
+    <title lang="fr">La Quot Cstar</title>
+    <sub-title lang="fr">LA QUOT CSTAR ven 16/12/22</sub-title>
+    <desc lang="fr">Un tour d'horizon quotidien de l'actualité musicale en France et à l'étranger.</desc>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107294588" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225182000 +0000" stop="20221225190500 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">La Falcata</sub-title>
+    <desc lang="fr">Après les premières épreuves, les meilleurs candidats forgeront une falcata, une lame longue originaire de la péninsule ibérique.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/77938513" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225190500 +0000" stop="20221225201000 +0000" channel="CStar.fr">
+    <title lang="fr">Le meilleur forgeron</title>
+    <sub-title lang="fr">Les forgerons font leur cinéma</sub-title>
+    <desc lang="fr">Dans cet épisode sur le thème du cinéma, les forgerons doivent réaliser un couteau de survie digne de Rambo. Les finalistes se départagent autour du mythique katana de Kill Bill.</desc>
+    <credits>
+      <director>Alfonso Trinidad</director>
+      <director>Michael Pearlman</director>
+      <director>Jacob Goodwin</director>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102530999" />
+    <episode-num system="onscreen">S5 E27</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225201000 +0000" stop="20221225205500 +0000" channel="CStar.fr">
+    <title lang="fr">Chicago Fire</title>
+    <sub-title lang="fr">La zone</sub-title>
+    <desc lang="fr">Foster et Brett se posent des questions sur les circonstances suspectes d'une attaque dans un centre pour mineurs. La caserne 51 intègre une nouvelle technologie qui teste la patience de tout le monde. Kidd est choisie pour représenter l'équipe à une réunion de direction...</desc>
+    <credits>
+      <director>Reza Tabrizi</director>
+      <director>Eric Laneuville</director>
+      <director>Sanford Bookstaver</director>
+      <director>Leslie Libman</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Kara Killmer</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Joe Minoso</actor>
+      <actor>Christian Stolte</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101677324" />
+    <episode-num system="onscreen">S8 E3</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225205500 +0000" stop="20221225214000 +0000" channel="CStar.fr">
+    <title lang="fr">Chicago Fire</title>
+    <sub-title lang="fr">Infection</sub-title>
+    <desc lang="fr">Une bactérie mortelle se propage dans la ville de Chicago, faisant de nombreuses victimes. Les meilleurs éléments des pompiers de la mégapole travaillent avec le CDC pour endiguer ce fléau. Mais après l'incendie d'une université locale, Severide pense que la situation dissimule quelque chose de plus grave encore...</desc>
+    <credits>
+      <director>Reza Tabrizi</director>
+      <director>Eric Laneuville</director>
+      <director>Sanford Bookstaver</director>
+      <director>Leslie Libman</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Kara Killmer</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Joe Minoso</actor>
+      <actor>Christian Stolte</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101677324" />
+    <episode-num system="onscreen">S8 E4</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225214000 +0000" stop="20221225222500 +0000" channel="CStar.fr">
+    <title lang="fr">Chicago Fire</title>
+    <sub-title lang="fr">Une peur bleue</sub-title>
+    <desc lang="fr">Severide et Casey essaient de trouver la meilleure solution pour Kidd. Ritter, Gallo et Violet participent à l'organisation d'un événement pour Mouch, qui va recevoir une médaille pour sa bravoure et son héroïsme. Pendant ce temps, Severide hésite à faire sa demande en mariage...</desc>
+    <credits>
+      <director>Reza Tabrizi</director>
+      <director>Eric Laneuville</director>
+      <director>Matt Earl Beesley</director>
+      <director>Brenna Malloy</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Kara Killmer</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Joe Minoso</actor>
+      <actor>Christian Stolte</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/97757431" />
+    <episode-num system="onscreen">S9 E15</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225222500 +0000" stop="20221225231500 +0000" channel="CStar.fr">
+    <title lang="fr">Chicago Fire</title>
+    <sub-title lang="fr">Le bain polaire</sub-title>
+    <desc lang="fr">Cruz demande aux hommes de la caserne de participer à une baignade en eau glacée. Herrmann doit prendre une décision difficile, un choix qu'il a beaucoup de mal à assumer. Les relations personnelles de Foster commencent à avoir des répercussions sur son travail...</desc>
+    <credits>
+      <director>Reza Tabrizi</director>
+      <director>Sanford Bookstaver</director>
+      <director>Eric Laneuville</director>
+      <director>Leslie Libman</director>
+      <actor>Taylor Kinney</actor>
+      <actor>Kara Killmer</actor>
+      <actor>Eamonn Walker</actor>
+      <actor>Yuri Sardarov</actor>
+      <actor>Joe Minoso</actor>
+      <actor>David Eigenberg</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/94391205" />
+    <episode-num system="onscreen">S7 E13</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225231500 +0000" stop="20221226000000 +0000" channel="CStar.fr">
+    <title lang="fr">Chicago Fire</title>
+    <sub-title lang="fr">Un duo dynamique</sub-title>
+    <desc lang="fr">Les membres de la caserne 51 est envoyée sur les lieux d'un carambolage dans lequel est impliquée Chloe, la petite amie de Joe. Cruz part immédiatement à sa recherche. Le retour en ville de Tyler complique à nouveau sa relation avec Kelly. Quant à Emily, elle tombe par hasard sur le docteur Enright...</desc>
+    <credits>
+      <director>Reza Tabrizi</director>
+      <director>Sanford Bookstaver</director>
+      <director>Eric Laneuville</director>
+      <director>Leslie Libman</director>
+      <actor>Taylor Kinney</actor>
+      <actor>Kara Killmer</actor>
+      <actor>Eamonn Walker</actor>
+      <actor>Yuri Sardarov</actor>
+      <actor>Joe Minoso</actor>
+      <actor>David Eigenberg</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/94391205" />
+    <episode-num system="onscreen">S7 E9</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221226000000 +0000" stop="20221226010500 +0000" channel="CStar.fr">
+    <title lang="fr">Chicago Fire</title>
+    <sub-title lang="fr">Un lieu sacré</sub-title>
+    <desc lang="fr">Le feu qui est en train de consumer la fabrique est indomptable. Un camion et une équipe sont dépêchés sur place afin de le maîtriser dans l'espoir de sauver les victimes prises au piège des flammes. Mais la situation s'avère très dangereuse, autant pour les civils que pour les pompiers...</desc>
+    <credits>
+      <director>Reza Tabrizi</director>
+      <director>Eric Laneuville</director>
+      <director>Sanford Bookstaver</director>
+      <director>Leslie Libman</director>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Kara Killmer</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Joe Minoso</actor>
+      <actor>Christian Stolte</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101677324" />
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221226010500 +0000" stop="20221226015500 +0000" channel="CStar.fr">
+    <title lang="fr">Legends of Tomorrow</title>
+    <sub-title lang="fr">Frère de sang</sub-title>
+    <desc lang="fr">Constantine n'a pas renoncé à l'idée de récupérer ses pouvoirs. Il convainc Spooner de l'accompagner dans l'Espagne de 1939 où il veut rencontrer El Gato, un homme qui aurait utilisé la magie de la Fontaine pour survivre à plusieurs tentatives de meurtre. Une mauvaise surprise attend les deux super-héros...</desc>
+    <credits>
+      <director>Kevin Mock</director>
+      <director>David Geddes</director>
+      <director>Sudz Sutherland</director>
+      <director>Caity Lotz</director>
+      <actor>Caity Lotz</actor>
+      <actor>Tala Ashe</actor>
+      <actor>Jes Macallan</actor>
+      <actor>Olivia Swann</actor>
+      <actor>Adam Tsekhman</actor>
+      <actor>Shayan Sobhian</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Action</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105942229" />
+    <episode-num system="onscreen">S6 E10</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221226015500 +0000" stop="20221226024000 +0000" channel="CStar.fr">
+    <title lang="fr">Legends of Tomorrow</title>
+    <sub-title lang="fr">Une légende dans un jeu de quilles</sub-title>
+    <desc lang="fr">Sara, Mick, Astra, et Spooner découvrent un appareil qui les transporte jusqu'à une piste de bowling dans l'espace. Horrifiés, ils réalisent que l'équipe championne a miniaturisé la Terre pour en faire une boule de bowling. Pendant ce temps, Nate passe une soirée qu'il voudrait romantique avec Zari...</desc>
+    <credits>
+      <director>Kevin Mock</director>
+      <director>David Geddes</director>
+      <director>Sudz Sutherland</director>
+      <director>Caity Lotz</director>
+      <actor>Caity Lotz</actor>
+      <actor>Tala Ashe</actor>
+      <actor>Jes Macallan</actor>
+      <actor>Olivia Swann</actor>
+      <actor>Adam Tsekhman</actor>
+      <actor>Shayan Sobhian</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Action</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105942229" />
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221226024000 +0000" stop="20221226034000 +0000" channel="CStar.fr">
+    <title lang="fr">Legends of Tomorrow</title>
+    <sub-title lang="fr">La bête humaine</sub-title>
+    <desc lang="fr">Les Légendes s'apprêtent à rentrer sur terre. Mais, comme Constantine a endommagé une partie du Waverider, ils sont contraints de faire un voyage de trois jours pour préserver le vaisseau. Pour faire passer le temps, Gary invite ses amis à participer à un jeu d'enquête. Malheureusement, la partie devient bien trop réaliste et Sara décide d'y mettre un terme...</desc>
+    <credits>
+      <director>Kevin Mock</director>
+      <director>David Geddes</director>
+      <director>Sudz Sutherland</director>
+      <director>Caity Lotz</director>
+      <actor>Caity Lotz</actor>
+      <actor>Tala Ashe</actor>
+      <actor>Jes Macallan</actor>
+      <actor>Olivia Swann</actor>
+      <actor>Adam Tsekhman</actor>
+      <actor>Shayan Sobhian</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Action</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105942229" />
+    <episode-num system="onscreen">S6 E12</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221226034000 +0000" stop="20221226035900 +0000" channel="CStar.fr">
+    <title lang="fr">Top Rock</title>
+    <desc lang="fr">Le rock dans tous ses états, rebelle ou novateur, où l'on croise les légendes ou les nouveaux prometteurs du genre Lana Del Rey, Stuck in the Sound, Pony Pony Run Run ou encore Dionysos.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107293700" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
   <channel id="Gulli.fr">
     <display-name lang="fr">|FR| Gulli</display-name>
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/gulli.png" />
