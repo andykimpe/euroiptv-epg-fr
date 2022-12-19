@@ -36624,6 +36624,2555 @@
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/tmc.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
+  <programme start="20221219054500 +0000" stop="20221219074500 +0000" channel="TMC.fr">
+    <title lang="fr">TV achat</title>
+    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219074500 +0000" stop="20221219092500 +0000" channel="TMC.fr">
+    <title lang="fr">Noël sous le signe du destin</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Olivia et Edward viennent en aide à une vieille femme qui perd ses billets de banque dans la rue. A partir de ce jour, leurs chemins ne cessent de se croiser. Hasard ou fatalité ? Alors qu'ils refusent de croire que la magie de Noël peut opérer, leurs vies semblent soudain totalement bouleversées...</desc>
+    <credits>
+      <director>Jeff Beesley</director>
+      <actor>Elizabeth Mitchell</actor>
+      <actor>Cameron Mathison</actor>
+      <actor>Zoe Fish</actor>
+      <actor>Jennifer Pudavick</actor>
+      <actor>Elliot Ledlow</actor>
+      <actor>Adam Hurtig</actor>
+      <writer>Julie Sherman Wolfe</writer>
+      <composer>Kevon Cronin</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/97764065" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219092500 +0000" stop="20221219110500 +0000" channel="TMC.fr">
+    <title lang="fr">Noël à Crystal Falls</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Alors que Joy mène une brillante carrière à Washington, elle retourne dans la petite ville de Crystal Falls pour soigner sa tante, immobilisée après une mauvaise chute. Elle se retrouve en charge de la préparation de la Fête des biscuits, un événement sacré pour sa tante Ruby, sans imaginer l'ampleur de la mission...</desc>
+    <credits>
+      <director>Monika Mitchell</director>
+      <actor>Matt Long</actor>
+      <actor>Lucia Walters</actor>
+      <actor>Michael Brian</actor>
+      <actor>Taylor Hastings</actor>
+      <actor>Gabrielle Rose</actor>
+      <actor>Beverley Elliott</actor>
+      <writer>Tracy Andreen</writer>
+      <writer>Jennifer Maisel</writer>
+      <composer>Patric Caird</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93434375" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219110500 +0000" stop="20221219124500 +0000" channel="TMC.fr">
+    <title lang="fr">Un Noël impérial</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Violoniste réputée, Jess Waters doit se rendre à Vienne, où elle est invitée à participer à un spectacle musical. Sur place, elle découvre une capitale autrichienne sous les flocons et prête à fêter Noël, et surtout elle ne tarde pas à faire une rencontre qui pourrait faire basculer son existence entière et régler tous ses soucis de manque d'inspiration...</desc>
+    <credits>
+      <director>Maclain Nelson</director>
+      <actor>Sarah Drew</actor>
+      <actor>Brennan Elliot</actor>
+      <actor>Alina Fritsch</actor>
+      <actor>Stefan Gorski</actor>
+      <actor>Oskar Ricketts</actor>
+      <actor>Allegra Tinnefeld</actor>
+      <writer>Joie Botkin</writer>
+      <composer>Nathalie Bonin</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/98058128" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219124500 +0000" stop="20221219125000 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219125000 +0000" stop="20221219134500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Livraison spéciale</sub-title>
+    <desc lang="fr">Au cours d'une de ses livraisons, un conducteur de camion est assassiné. Les experts sont chargés d'enquêter sur ce crime. Alors qu'ils interrogent divers suspects, ils sont mis sur la piste d'un autre meurtre. Une mère de famille, inscrite sur la liste de livraison du conducteur, est retrouvée morte...</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <director>Gina Lamar</director>
+      <director>Matt Earl Beesley</director>
+      <director>Allison Liddi</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva LaRue Callahan</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108263163" />
+    <episode-num system="onscreen">S9 E17</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221219134500 +0000" stop="20221219144000 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Dans la cage</sub-title>
+    <desc lang="fr">Horatio doit protéger un champion en art martial, Logan Shepherd. Il est menacé par un de ses anciens rivaux, Dante Kroll. Shepherd avait témoigné contre lui, ce qui l'avait conduit en prison. Mais Kroll s'est évadé. Les experts remontent sa piste après qu'il a battu à mort un agent de sécurité...</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <director>Gina Lamar</director>
+      <director>Matt Earl Beesley</director>
+      <director>Allison Liddi</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva LaRue Callahan</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108263163" />
+    <episode-num system="onscreen">S9 E19</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221219144000 +0000" stop="20221219153500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">La mort au bout du fil</sub-title>
+    <desc lang="fr">Une adolescente est découverte sans vie à proximité des marécages. Les indices conduisent Horatio Caine à enquêter dans une maison de redressement pour jeunes filles. Par ailleurs, le corps d'un petit voyou, qui vivait dans les marais gît, la bouche et l'oesophage brûlés, dans son mobile home...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221219153500 +0000" stop="20221219163000 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Le prix de la liberté</sub-title>
+    <desc lang="fr">Ce qui ressemblait à une attaque de requin prend une autre tournure quand Horatio apprend qu'une balle de revolver a été retrouvée dans le torse humain ingéré par le squale. Le CSI mène l'enquête et trouve un bateau abandonné avec, à son bord, des munitions semblables à celle présente dans le cadavre...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221219163000 +0000" stop="20221219172500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Vapeurs stupéfiantes</sub-title>
+    <desc lang="fr">En cherchant son chat, un homme succombe à des émanations de produits toxiques dans une maison transformée en laboratoire de drogue clandestin. Horatio trouve une empreinte sur un gant en latex. Parallèlement, Calleigh et Eric enquêtent sur le meurtre sanglant d'une pensionnaire d'une maison de retraite...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221219172500 +0000" stop="20221219181500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Une affaire empoisonnée</sub-title>
+    <desc lang="fr">La police vient de découvrir un cadavre. Les experts emportent le corps pour l'autopsier. Alexx note une brûlure sur la main du mort. Or, elle en est certaine, cette marque n'était pas visible lors de sa première intervention. Il semblerait qu'il s'agisse de la conséquence d'une exposition à des radiations...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221219181500 +0000" stop="20221219182500 +0000" channel="TMC.fr">
+    <title lang="fr">Profession comédien</title>
+    <desc lang="fr">Bertrand Uzeel a un background d'entrepreneur. Il crée en 2015 avec son meilleur ami, la société  Welcome to the Jungle , qui devient en quelques années le premier média sur l'emploi en France.Aujourd'hui, Bertrand vient tout juste de finir de...</desc>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108480334" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219182500 +0000" stop="20221219193500 +0000" channel="TMC.fr">
+    <title lang="fr">Quotidien, première partie</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">QUOTIDIEN, présenté par Yann BARTHES avec son équipe de journalistes et de chroniqueurs, revient pour une saison 6 sur TMC.   Le Talk-show d'actu et de culture, produit par Bangumi, continue de décrypter toutes les images qui inondent l'époque avec une formule enrichie et une équipe de reporters et d'humoristes élargie.   Superstars internationales, invités d'actualité, nouveaux visages français, reportages à l'étranger et dans les régions, analyses, lives, humour, tous les ingrédients qui font le succès de QUOTIDIEN sont au rendez-vous du lundi au vendredi à 19h20 sur TMC.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104209910" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219193500 +0000" stop="20221219202000 +0000" channel="TMC.fr">
+    <title lang="fr">Quotidien</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">QUOTIDIEN, présenté par Yann BARTHES avec son équipe de journalistes et de chroniqueurs, revient pour une saison 6 sur TMC.   Le Talk-show d'actu et de culture, produit par Bangumi, continue de décrypter toutes les images qui inondent l'époque avec une formule enrichie et une équipe de reporters et d'humoristes élargie.   Superstars internationales, invités d'actualité, nouveaux visages français, reportages à l'étranger et dans les régions, analyses, lives, humour, tous les ingrédients qui font le succès de QUOTIDIEN sont au rendez-vous du lundi au vendredi à 19h20 sur TMC.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100994436" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219202000 +0000" stop="20221219202500 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219202500 +0000" stop="20221219223500 +0000" channel="TMC.fr">
+    <title lang="fr">Charlie et la chocolaterie</title>
+    <sub-title lang="fr">Film Comédie</sub-title>
+    <desc lang="fr">Willy Wonka, le propriétaire d'une fabrique de chocolat, organise un concours, mettant en prix une visite de la fabrique à sucreries. Le petit Charlie se porte candidat. Issu d'une famille très modeste, le garçonnet voit là la solution pour pouvoir enfin réaliser ses rêves les plus fous...</desc>
+    <credits>
+      <director>Tim Burton</director>
+      <actor>Johnny Depp</actor>
+      <actor>Freddie Highmore</actor>
+      <actor>David Kelly</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Noah Taylor</actor>
+      <actor>Missi Pyle</actor>
+      <writer>John August</writer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68281210" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219223500 +0000" stop="20221220005500 +0000" channel="TMC.fr">
+    <title lang="fr">Le roi Arthur : la légende d'Excalibur</title>
+    <sub-title lang="fr">Film Aventure</sub-title>
+    <desc lang="fr">L'eau du royaume du tyran Vortigern a disparu. On lui raconte la légende d'une épée coincée dans un rocher : celui qui parviendra à l'en sortir prendra le pouvoir. Il se met en tête de retrouver l'héritier de Uther Pendragon, le précédent souverain qu'il a tué de ses mains. Arthur, c'est son nom, a été élevé dans la rue et est à la tête d'une bande...</desc>
+    <credits>
+      <director>Guy Ritchie</director>
+      <actor>Charlie Hunnam</actor>
+      <actor>Astrid Bergès-Frisbey</actor>
+      <actor>Jude Law</actor>
+      <actor>Eric Bana</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>Aidan Gillen</actor>
+      <writer>Joby Harold</writer>
+      <writer>Guy Ritchie</writer>
+      <writer>Lionel Wigram</writer>
+      <composer>Daniel Pemberton</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Aventure</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103487751" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220005500 +0000" stop="20221220054500 +0000" channel="TMC.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220054500 +0000" stop="20221220074500 +0000" channel="TMC.fr">
+    <title lang="fr">TV achat</title>
+    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220074500 +0000" stop="20221220092500 +0000" channel="TMC.fr">
+    <title lang="fr">Un hôtel pour deux à Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Amanda travaille à Miami et gère plusieurs établissements pour le compte des hôtels Horton. Elle rentre exceptionnellement à Hollybush, sa ville natale, pour passer Noël avec Eileen, sa grand-mère. A cause d'un bug informatique survenu à l'agence de location, elle est contrainte de faire la route du retour en compagnie de Lucas Manzino, un ancien camarade de lycée...</desc>
+    <credits>
+      <director>Jesse D. Ikeman</director>
+      <actor>Jonna Walsh</actor>
+      <actor>Jesse Hutch</actor>
+      <actor>Jayne Eastwood</actor>
+      <actor>Art Hindle</actor>
+      <actor>Tammy Isbell</actor>
+      <actor>Elena Juatco</actor>
+      <writer>Courtney McAllister</writer>
+      <composer>Craig McConnell</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/97846134" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220092500 +0000" stop="20221220110500 +0000" channel="TMC.fr">
+    <title lang="fr">Le chalet de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Sophie Bennett est propriétaire d'un hôtel qu'elle a hérité de ses parents, au pied des pistes de ski dans les Rocheuses. Un magnat de l'immobilier s'est mis en tête d'acquérir le Holly Lodge, le chalet de Sophie, et envoie Evan Hunter s'occuper du rachat du prêt. Arrivé sur place, Evan tombe sous le charme de Sophie...</desc>
+    <credits>
+      <director>Jem Garrard</director>
+      <actor>Alison Sweeney</actor>
+      <actor>Jordan Bridges</actor>
+      <actor>Sheryl Lee Ralph</actor>
+      <actor>Crystal Lowe</actor>
+      <actor>Toby Levins</actor>
+      <actor>Audrey Smallman</actor>
+      <writer>Melissa Salmons</writer>
+      <composer>Alex Kovacs</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/80787451" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220110500 +0000" stop="20221220124500 +0000" channel="TMC.fr">
+    <title lang="fr">Coup de foudre sur une mélodie de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Conseillère d'administration scolaire par intérim, Eve a l'habitude de gérer son budget au plus près. Elle considère à ce titre que l'atelier musical animé par Liam représente une dépense qu'il serait bon de supprimer. De retour dans sa ville natale à l'approche des fêtes de Noël, Eve rencontre Liam...</desc>
+    <credits>
+      <director>Tibor Takács</director>
+      <actor>LeAnn Rimes</actor>
+      <actor>Tyler Hynes</actor>
+      <actor>Gwynyth Walsh</actor>
+      <actor>Laurie Murdoch</actor>
+      <actor>Eden Summer Gilmore</actor>
+      <actor>Lara Gilchrist</actor>
+      <writer>Tracy Andreen</writer>
+      <composer>Michael Richard Plowman</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93434361" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220124500 +0000" stop="20221220125000 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220125000 +0000" stop="20221220134500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Double je</sub-title>
+    <desc lang="fr">Monica Dow fait figure de suspecte principale dans une affaire de meurtre. Cette étudiante en arts partageait une chambre avec Corinne Palmer. Or, cette dernière a été retrouvée assassinée dans le spa de l'université. Horatio découvre que Monica souffre de troubles de la personnalité très handicapants...</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <director>Gina Lamar</director>
+      <director>Matt Earl Beesley</director>
+      <director>Allison Liddi</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva LaRue Callahan</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108263163" />
+    <episode-num system="onscreen">S9 E20</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220134500 +0000" stop="20221220144000 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Game Over</sub-title>
+    <desc lang="fr">Une bagarre éclate dans une boîte de nuit après qu'un comptable, un certain Neal, a pris la défense d'une serveuse ayant malencontreusement renversé des boissons sur client. Peu après, aux toilettes, un homme découvre Neal debout à côté du cadavre de l'homme avec lequel il s'est battu durant la soirée...</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <director>Gina Lamar</director>
+      <director>Matt Earl Beesley</director>
+      <director>Allison Liddi</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva LaRue Callahan</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108263163" />
+    <episode-num system="onscreen">S9 E21</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220144000 +0000" stop="20221220153500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Le dernier fugitif</sub-title>
+    <desc lang="fr">Horatio se trouve à bord d'un avion en compagnie de l'un de ses collègues. Ils escortent un dangereux prisonnier, Toller. Tueur en série, il aurait assassiné cinq femmes, et a été arrêté en Arizona. Soudain, le pilote de l'avion change de cap, et des coups de feu retentissent dans la cabine...</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <director>Gina Lamar</director>
+      <director>Matt Earl Beesley</director>
+      <director>Allison Liddi</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva LaRue Callahan</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108263163" />
+    <episode-num system="onscreen">S9 E22</episode-num>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220153500 +0000" stop="20221220163000 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Tireur isolé</sub-title>
+    <desc lang="fr">Trois personnes sont tuées dans le centre de Miami. Horatio et son équipe se lancent sur les traces du tueur, qui a abattu ses victimes en leur tirant une balle entre les deux yeux. Horatio pense qu'il s'agit d'un sniper. Bientôt, une quatrième victime est retrouvée. Les enquêteurs sont inquiets...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221220163000 +0000" stop="20221220172500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Apparences trompeuses</sub-title>
+    <desc lang="fr">Un déséquilibré, qui s'en prend depuis quelque temps à la communauté colombienne de Miami, vient de commettre son dernier méfait : il a posé un collier explosif autour du cou d'un riche industriel. Alors qu'il tente de désamorcer l'engin, le mentor d'Horatio est tué par l'explosion, d'une violence inouïe...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221220172500 +0000" stop="20221220182000 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Quitte ou double</sub-title>
+    <desc lang="fr">Une fois n'est pas coutume, Horatio doit témoigner à la barre. Il travaille en effet sur une affaire de meurtre. Le principal accusé n'est autre que le mari d'une femme célèbre. Le scandale est total. Mais la découverte d'une seconde victime modifie sensiblement la donne : Horatio révise son jugement...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221220182000 +0000" stop="20221220182500 +0000" channel="TMC.fr">
+    <title lang="fr">Profession comédien</title>
+    <desc lang="fr">Bertrand Uzeel a un background d'entrepreneur. Il crée en 2015 avec son meilleur ami, la société  Welcome to the Jungle , qui devient en quelques années le premier média sur l'emploi en France.Aujourd'hui, Bertrand vient tout juste de finir de...</desc>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108480334" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220182500 +0000" stop="20221220193500 +0000" channel="TMC.fr">
+    <title lang="fr">Quotidien, première partie</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">QUOTIDIEN, présenté par Yann BARTHES avec son équipe de journalistes et de chroniqueurs, revient pour une saison 6 sur TMC.   Le Talk-show d'actu et de culture, produit par Bangumi, continue de décrypter toutes les images qui inondent l'époque avec une formule enrichie et une équipe de reporters et d'humoristes élargie.   Superstars internationales, invités d'actualité, nouveaux visages français, reportages à l'étranger et dans les régions, analyses, lives, humour, tous les ingrédients qui font le succès de QUOTIDIEN sont au rendez-vous du lundi au vendredi à 19h20 sur TMC.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104209910" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220193500 +0000" stop="20221220202000 +0000" channel="TMC.fr">
+    <title lang="fr">Quotidien</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">QUOTIDIEN, présenté par Yann BARTHES avec son équipe de journalistes et de chroniqueurs, revient pour une saison 6 sur TMC.   Le Talk-show d'actu et de culture, produit par Bangumi, continue de décrypter toutes les images qui inondent l'époque avec une formule enrichie et une équipe de reporters et d'humoristes élargie.   Superstars internationales, invités d'actualité, nouveaux visages français, reportages à l'étranger et dans les régions, analyses, lives, humour, tous les ingrédients qui font le succès de QUOTIDIEN sont au rendez-vous du lundi au vendredi à 19h20 sur TMC.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100994436" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220202000 +0000" stop="20221220202500 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220202500 +0000" stop="20221220214500 +0000" channel="TMC.fr">
+    <title lang="fr">90' Enquêtes</title>
+    <sub-title lang="fr">Plats de fêtes, décoration : comment fêter Noël sans se ruiner</sub-title>
+    <desc lang="fr">Les Français s'apprêtent à dépenser près de 70 milliards d'euros en quelques semaines pour les fêtes de Noël. Pour voyager et acheter des cadeaux, mais aussi pour la décoration et l'alimentation. Les repas de fêtes...</desc>
+    <date>2021</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/80895445" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220214500 +0000" stop="20221220225500 +0000" channel="TMC.fr">
+    <title lang="fr">90' Enquêtes</title>
+    <sub-title lang="fr">Noël : au coeur d'un hypermarché en ébullition</sub-title>
+    <desc lang="fr">A Saint Maximin, dans le Var, un hypermarché a accepté d'ouvrir ses portes pendant plusieurs mois : commande des jouets, préparation de catalogues, sélection du père Noël, confection de la bûche, décoration du...</desc>
+    <date>2015</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/80895445" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221220225500 +0000" stop="20221221002000 +0000" channel="TMC.fr">
+    <title lang="fr">90' Enquêtes</title>
+    <sub-title lang="fr">Lego, Barbie, Corolle, Playmobil : dans les coulisses de nos jouets préférés</sub-title>
+    <desc lang="fr">Chaque année, plus de 220 millions de jouets sont vendus en France. Lego, Playmobil, Barbie ou poupée Corolle : quels sont les secrets de ces marques pour faire rêver depuis plusieurs générations ? Pour le découvrir,...</desc>
+    <date>2021</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/80895445" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221221002000 +0000" stop="20221221054500 +0000" channel="TMC.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221054500 +0000" stop="20221221074500 +0000" channel="TMC.fr">
+    <title lang="fr">TV achat</title>
+    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221074500 +0000" stop="20221221092500 +0000" channel="TMC.fr">
+    <title lang="fr">Miss Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Chargée de sélectionner le sapin de Noël pour la ville de Chicago, une jeune femme se rend dans une petite bourgade, où elle pense avoir trouvé l'arbre idéal. Mais le propriétaire du sapin refuse de le lui céder. Elle va devoir batailler ferme pour le convaincre de le lui donner. Bientôt, l'amour s'en mêle...</desc>
+    <credits>
+      <director>Michael Rohl</director>
+      <actor>Brooke D'Orsay</actor>
+      <actor>Marc Blucas</actor>
+      <actor>Luke Roessler</actor>
+      <actor>Fiona Vroom</actor>
+      <actor>Greg Rogers</actor>
+      <actor>Erin Boyes</actor>
+      <writer>Joie Botkin</writer>
+      <composer>Patric Caird</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93348917" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221092500 +0000" stop="20221221110500 +0000" channel="TMC.fr">
+    <title lang="fr">Le Noël des héros</title>
+    <sub-title lang="fr">Téléfilm Jeunesse</sub-title>
+    <desc lang="fr">Audrey tient un café avec son amie Jade dans la petite ville de Branford. Son frère, soldat déployé à l'étranger, fait goûter son café à un sergent, et une relation épistolaire commence entre le sergent Evans et Audrey. Il va faire la connaissance d'Audrey après son affectation et ils vont vite tomber sous le charme l'un de l'autre.</desc>
+    <credits>
+      <director>Clare Niederpruem</director>
+      <actor>Melissa Claire Egan</actor>
+      <actor>Marc Blucas</actor>
+      <actor>Latarsha Rose</actor>
+      <actor>Patti Murin</actor>
+      <actor>William Rubio</actor>
+      <actor>Steven Michael Quezada</actor>
+      <writer>Todd Messegee</writer>
+      <writer>Lisa Nanni-Messegee</writer>
+      <writer>Andrea Gyertson Nasfell</writer>
+      <composer>Robert Allen Elliott</composer>
+      <composer>Michael Richard Plowman</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/98131249" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221110500 +0000" stop="20221221124500 +0000" channel="TMC.fr">
+    <title lang="fr">Opération Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Olivia Young, mère célibataire, emmène ses deux enfants skier à Noël et fait la rencontre du sergent Scott McGuigan sur les pistes. Ils se quittent sur un malentendu, mais les hasards de la vie les amènent à se rencontrer à nouveau et même à travailler ensemble. Olivia tombe sous son charme...</desc>
+    <credits>
+      <director>David Weaver</director>
+      <actor>Tricia Helfer</actor>
+      <actor>Marc Blucas</actor>
+      <actor>Lisa Durupt</actor>
+      <actor>Gabrielle Rose</actor>
+      <actor>Benjamin Wosk</actor>
+      <actor>Megan Charpentier</actor>
+      <writer>Nina Weinman</writer>
+      <writer>Ron Oliver</writer>
+      <writer>Donald Martin</writer>
+      <composer>Hal Beckett</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/65391550" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221124500 +0000" stop="20221221125000 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221125000 +0000" stop="20221221135500 +0000" channel="TMC.fr">
+    <title lang="fr">Hercule Poirot</title>
+    <sub-title lang="fr">L'aventure de l'Etoile de l'Ouest</sub-title>
+    <desc lang="fr">Marie Marvelle, une grande star de cinéma belge, informe Hercule Poirot qu'elle a reçu trois lettres exigeant la restitution de son diamant, l'Etoile de l'Ouest, afin qu'il retrouve sa place sur la statue d'un dieu chinois. Quelque temps plus tard, le célèbre détective apprend que le bijou a été volé...</desc>
+    <credits>
+      <director>Renny Rye</director>
+      <director>Edward Bennett</director>
+      <director>Richard Spence</director>
+      <director>Andrew Grieve</director>
+      <actor>Hugh Fraser</actor>
+      <actor>David Suchet</actor>
+      <actor>Philip Jackson</actor>
+      <actor>Pauline Moran</actor>
+      <actor>Polly Walker</actor>
+      <actor>Mary Cunningham</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100145524" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221135500 +0000" stop="20221221150500 +0000" channel="TMC.fr">
+    <title lang="fr">Hercule Poirot</title>
+    <sub-title lang="fr">Tragédie à Marsdon Manor</sub-title>
+    <desc lang="fr">C'est en toute tranquillité que Jonathan Maltravers vit reclus dans son manoir, avec sa jeune et ravissante épouse, Susan, et sa secrétaire, miss Rawlinson. Mais Hercule Poirot et son fidèle ami, le capitaine Hastings, se rendent très vite compte que des actes inavouables ont été perpétrés...</desc>
+    <credits>
+      <director>Ross Devenish</director>
+      <director>Renny Rye</director>
+      <director>Andrew Grieve</director>
+      <director>Andrew Piddington</director>
+      <actor>David Suchet</actor>
+      <actor>Hugh Fraser</actor>
+      <actor>Philip Jackson</actor>
+      <actor>Pauline Moran</actor>
+      <actor>Beatie Edney</actor>
+      <actor>David Rintoul</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106193683" />
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221150500 +0000" stop="20221221161000 +0000" channel="TMC.fr">
+    <title lang="fr">Hercule Poirot</title>
+    <sub-title lang="fr">Un indice de trop</sub-title>
+    <desc lang="fr">Quatre vols viennent d'être commis. Qui a dérobé le collier d'émeraudes ? La comtesse Rossakoff ? Lady Runcorn ? Johnston, le millionnaire sud-africain ? Ou peut-être Bernard Parker, que tout semble accuser ? L'inspecteur Japp, perplexe, appelle son vieil ami Hercule Poirot à la rescousse...</desc>
+    <credits>
+      <director>Ross Devenish</director>
+      <director>Renny Rye</director>
+      <director>Andrew Grieve</director>
+      <director>Andrew Piddington</director>
+      <actor>David Suchet</actor>
+      <actor>Hugh Fraser</actor>
+      <actor>Philip Jackson</actor>
+      <actor>Pauline Moran</actor>
+      <actor>Beatie Edney</actor>
+      <actor>David Rintoul</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106193683" />
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221161000 +0000" stop="20221221172000 +0000" channel="TMC.fr">
+    <title lang="fr">Hercule Poirot</title>
+    <sub-title lang="fr">Le mystère du bahut espagnol</sub-title>
+    <desc lang="fr">Lady Chatterton appelle Hercule Poirot à la rescousse : une de ses amies, Marguerite Clayton, serait menacée de mort par son époux, un homme brutal et jaloux. Mais contre toute attente, c'est le mari, Edward Clayton, qui est assassiné. Les soupçons se tournent vers le major Rich...</desc>
+    <credits>
+      <director>Ross Devenish</director>
+      <director>Renny Rye</director>
+      <director>Andrew Grieve</director>
+      <director>Andrew Piddington</director>
+      <actor>David Suchet</actor>
+      <actor>Hugh Fraser</actor>
+      <actor>Philip Jackson</actor>
+      <actor>Pauline Moran</actor>
+      <actor>Beatie Edney</actor>
+      <actor>David Rintoul</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106193683" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221172000 +0000" stop="20221221182000 +0000" channel="TMC.fr">
+    <title lang="fr">Hercule Poirot</title>
+    <sub-title lang="fr">Un million de dollars de bons volatilisés</sub-title>
+    <desc lang="fr">Monsieur Shaw, l'un des deux directeurs de la Scottish Bank, a failli être tué par un automobiliste alors qu'il se rendait à son travail. Son associé, monsieur Vavasour, est persuadé que Shaw a fait l'objet d'une tentative de meurtre. Ce dernier ne s'apprêtait-il pas à embarquer pour New York avec un million de dollars dans ses bagages ? L'incontournable Hercule Poirot est appelé à la rescousse...</desc>
+    <credits>
+      <director>Ross Devenish</director>
+      <director>Renny Rye</director>
+      <director>Andrew Grieve</director>
+      <director>Andrew Piddington</director>
+      <actor>David Suchet</actor>
+      <actor>Hugh Fraser</actor>
+      <actor>Philip Jackson</actor>
+      <actor>Pauline Moran</actor>
+      <actor>Beatie Edney</actor>
+      <actor>David Rintoul</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106193683" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221182000 +0000" stop="20221221182500 +0000" channel="TMC.fr">
+    <title lang="fr">Profession comédien</title>
+    <desc lang="fr">Bertrand Uzeel a un background d'entrepreneur. Il crée en 2015 avec son meilleur ami, la société  Welcome to the Jungle , qui devient en quelques années le premier média sur l'emploi en France.Aujourd'hui, Bertrand vient tout juste de finir de...</desc>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108480334" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221182500 +0000" stop="20221221193500 +0000" channel="TMC.fr">
+    <title lang="fr">Quotidien, première partie</title>
+    <desc lang="fr">QUOTIDIEN, présenté par Yann BARTHES avec son équipe de journalistes et de chroniqueurs, revient pour une saison 6 sur TMC.   Le Talk-show d'actu et de culture, produit par Bangumi, continue de décrypter toutes les images qui inondent l'époque avec une formule enrichie et une équipe de reporters et d'humoristes élargie.   Superstars internationales, invités d'actualité, nouveaux visages français, reportages à l'étranger et dans les régions, analyses, lives, humour, tous les ingrédients qui font le succès de QUOTIDIEN sont au rendez-vous du lundi au vendredi à 19h20 sur TMC.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104209910" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221193500 +0000" stop="20221221202000 +0000" channel="TMC.fr">
+    <title lang="fr">Quotidien</title>
+    <desc lang="fr">QUOTIDIEN, présenté par Yann BARTHES avec son équipe de journalistes et de chroniqueurs, revient pour une saison 6 sur TMC.   Le Talk-show d'actu et de culture, produit par Bangumi, continue de décrypter toutes les images qui inondent l'époque avec une formule enrichie et une équipe de reporters et d'humoristes élargie.   Superstars internationales, invités d'actualité, nouveaux visages français, reportages à l'étranger et dans les régions, analyses, lives, humour, tous les ingrédients qui font le succès de QUOTIDIEN sont au rendez-vous du lundi au vendredi à 19h20 sur TMC.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100994436" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221202000 +0000" stop="20221221202500 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221202500 +0000" stop="20221221222500 +0000" channel="TMC.fr">
+    <title lang="fr">La grande expérience</title>
+    <sub-title lang="fr">Divertissement</sub-title>
+    <desc lang="fr">Fabien Olicard, le mentaliste nouvelle génération aux 5 millions d'abonnés, partage ses secrets pour nous aider à mieux utiliser notre cerveau. Il révèle ses techniques à travers des expériences ludiques et...</desc>
+    <credits>
+      <presenter>Fabien Olicard</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108480303" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221222500 +0000" stop="20221222001500 +0000" channel="TMC.fr">
+    <title lang="fr">90' Enquêtes</title>
+    <sub-title lang="fr">Révélations sur les produits stars des fêtes : saumon, crevettes, huîtres</sub-title>
+    <desc lang="fr">Pour se faire plaisir avec des produits frais et peu caloriques, il faut consommer les produits de la mer. Depuis les différents scandales alimentaires liés à la consommation de viande, ces produits sont de plus en...</desc>
+    <date>2019</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/80895445" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221222001500 +0000" stop="20221222054500 +0000" channel="TMC.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222054500 +0000" stop="20221222074500 +0000" channel="TMC.fr">
+    <title lang="fr">TV achat</title>
+    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222074500 +0000" stop="20221222092500 +0000" channel="TMC.fr">
+    <title lang="fr">Les 12 cadeaux de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Maggie et Mitch, qui se sont connus lorsqu'ils étaient étudiants, se retrouvent par hasard dix ans plus tard. Naguère, Mitch adorait Noël. Mais désormais, tout l'horripile. Pour lui rendre son âme d'enfant, Maggie décide de devenir son Père Noël secret et de lui envoyer douze cadeaux accompagnés de douze poèmes...</desc>
+    <credits>
+      <director>Harvey Crossland</director>
+      <actor>Brooke Nevin</actor>
+      <actor>Robin Dunne</actor>
+      <actor>Dani Kind</actor>
+      <actor>Geri Hall</actor>
+      <actor>Alar Aedma</actor>
+      <actor>Greg Hovanessian</actor>
+      <writer>Robin Dunne</writer>
+      <writer>Robert Vaughn</writer>
+      <composer>Stacey Hersh</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64361677" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222092500 +0000" stop="20221222110500 +0000" channel="TMC.fr">
+    <title lang="fr">L'ange secret de Noël</title>
+    <sub-title lang="fr">Téléfilm Drame</sub-title>
+    <desc lang="fr">Une journaliste enquête sur un mystérieux bienfaiteur de Noël. Si elle parvient à découvrir son identité, elle obtiendra sa propre rubrique dans son journal.</desc>
+    <credits>
+      <director>Jessica Harmon</director>
+      <actor>Jill Wagner</actor>
+      <actor>Lucas Bryant</actor>
+      <actor>Cassidy Nugent</actor>
+      <actor>Oscar Farrell</actor>
+      <actor>Annabel Kershaw</actor>
+      <actor>Jason Burkart</actor>
+      <writer>Teresa Kale</writer>
+      <composer>Michael Neilson</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103365751" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222110500 +0000" stop="20221222124500 +0000" channel="TMC.fr">
+    <title lang="fr">L'ange de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Susan, secrétaire de rédaction dans un journal, rêve de devenir journaliste. Or pour l'édition de Noël, on lui propose d'écrire un article. Susan choisit comme sujet l'ange que son arrière-grand-père avait sculpté pour une mystérieuse actrice. Elle se met à enquêter sur l'histoire de sa famille...</desc>
+    <credits>
+      <director>Ron Oliver</director>
+      <actor>Jennifer Finnigan</actor>
+      <actor>Jonathan Scarfe</actor>
+      <actor>Holly Robinson Peete</actor>
+      <actor>Christie Laing</actor>
+      <actor>Francis X McCarthy</actor>
+      <actor>Wanda Cannon</actor>
+      <writer>Gary Goldstein</writer>
+      <composer>Michael Richard Plowman</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/47359284" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222124500 +0000" stop="20221222125000 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222125000 +0000" stop="20221222134500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Piqués au vif</sub-title>
+    <desc lang="fr">Le lieutenant Horatio, grièvement blessé après avoir reçu une balle de Randy North, parvient à sauver Natalia de justesse. Emmenés d'urgence à l'hôpital, les deux policiers ne prennent pas le temps de se soigner et quittent précipitamment leur chambre pour se lancer à la recherche de Randy North...</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <director>Gina Lamar</director>
+      <director>Don Tardino</director>
+      <director>Allison Liddi</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva LaRue Callahan</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108196182" />
+    <episode-num system="onscreen">S10 E1</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221222134500 +0000" stop="20221222144000 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">L'effet boule de neige</sub-title>
+    <desc lang="fr">Les experts sont appelés à l'hôtel Ember, où un corps a été découvert dans un bungalow. La victime, un escort boy, louait ce bungalow pour y recevoir ses clientes, des femmes en mal d'affection. En examinant les lieux, Delko découvre une fuite de propane inodore au niveau de la cheminée à gaz. Calleigh et lui réchappent de justesse à l'explosion qui se déclenche tout de suite après....</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <director>Gina Lamar</director>
+      <director>Don Tardino</director>
+      <director>Allison Liddi</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva LaRue Callahan</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108196182" />
+    <episode-num system="onscreen">S10 E2</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221222144000 +0000" stop="20221222153500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Plus dure sera la chute</sub-title>
+    <desc lang="fr">Megan Donner est de retour au CSI. Elle a pour mission d'enquêter sur un crash d'avion. Elle se met à la recherche de survivants et ne tarde pas à retrouver une femme, à quelques miles du lieu de l'accident. Unique survivante, celle-ci lui explique qu'elle a voulu se suicider en sautant de l'appareil...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221222153500 +0000" stop="20221222163000 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Une empreinte de trop</sub-title>
+    <desc lang="fr">Deux dossiers occupent les experts. Le premier concerne le meurtre d'une prostituée. La victime a été retrouvée dans un cottage proche de la plage. Elle a été poignardée à 23 reprises. Parallèlement, Calleigh et Eric tentent de comprendre pourquoi un touriste d'origine allemande a été abattu...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221222163000 +0000" stop="20221222172500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Les experts à la loupe</sub-title>
+    <desc lang="fr">Horatio et Tim sont chargés d'escorter un chargement de stupéfiants jusqu'à un incinérateur, afin de faire disparaître la marchandise. Mais le convoi est attaqué par un commando de professionnels à la solde d'un mystérieux narcotrafiquant, et deux policiers sont abattus dans la fusillade...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221222172500 +0000" stop="20221222181500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Dangereuse collaboration</sub-title>
+    <desc lang="fr">Horatio et son équipe interviennent sur le lieu d'un meurtre. Une femme a été retrouvée au bord de la piscine d'un hôtel, tuée par balles. Deux tirs l'ont atteinte à la tête. Au cours de leurs investigations, les agents découvrent que la victime était fichée au FBI. Mais les fédéraux refusent de collaborer...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221222181500 +0000" stop="20221222182500 +0000" channel="TMC.fr">
+    <title lang="fr">Profession comédien</title>
+    <desc lang="fr">Bertrand Uzeel a un background d'entrepreneur.</desc>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108480334" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222182500 +0000" stop="20221222193500 +0000" channel="TMC.fr">
+    <title lang="fr">Quotidien, première partie</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Best of.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104209910" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222193500 +0000" stop="20221222202000 +0000" channel="TMC.fr">
+    <title lang="fr">Quotidien</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Best of.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100994436" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222202000 +0000" stop="20221222202500 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222202500 +0000" stop="20221222230500 +0000" channel="TMC.fr">
+    <title lang="fr">Harry Potter et les reliques de la mort : 1ère partie</title>
+    <sub-title lang="fr">Film Fantastique</sub-title>
+    <desc lang="fr">Dumbledore est mort. Désormais, Harry, Hermione et Ron devront se débrouiller seuls, sans l'aide de leurs professeurs et sans la protection du sorcier bienveillant. Alors que Harry voyage en compagnie de Hagrid grâce aux membres de l'Ordre du Phénix, qui ont organisé sa fuite, il est repéré par Voldemort...</desc>
+    <credits>
+      <director>David Yates</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Emma Watson</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>Bill Nighy</actor>
+      <writer>Steve Kloves</writer>
+      <composer>Alexandre Desplat</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52833944" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221222230500 +0000" stop="20221223010000 +0000" channel="TMC.fr">
+    <title lang="fr">Harry Potter : Retour à Poudlard</title>
+    <sub-title lang="fr">Doc. Cinéma</sub-title>
+    <desc lang="fr">En compagnie du réalisateur Chris Columbus et d'autres acteurs de la saga Harry Potter, Daniel Radcliffe, Rupert Grint et Emma Watson reviennent pour la première fois à Poudlard pour fêter le 20e anniversaire du tout premier opus, Harry Potter à l'école des sorciers. Ils évoquent ensemble l'histoire de cette épopée hors du commun et racontent leurs souvenirs.</desc>
+    <credits>
+      <director>Eran Creevy</director>
+      <director>Joe Pearlman</director>
+      <director>Giorgio Testi</director>
+      <director>Casey Patterson</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Doc Cinema</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104876579" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223010000 +0000" stop="20221223054500 +0000" channel="TMC.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223054500 +0000" stop="20221223074500 +0000" channel="TMC.fr">
+    <title lang="fr">TV achat</title>
+    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223074500 +0000" stop="20221223092500 +0000" channel="TMC.fr">
+    <title lang="fr">Dernière escale avant Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Une tempête de neige paralyse Cleveland et oblige Nina, pilote de ligne, à rester au sol au moment des fêtes. C'est l'occasion pour elle d'aller passer quelques jours chez ses parents. Elle propose à son collègue Brady de l'accompagner. Sur place, elle découvre qu'ils ont organisé une réception à laquelle son ex-petit ami a été convié...</desc>
+    <credits>
+      <director>Amyn Kaderali</director>
+      <actor>Julianna Guill</actor>
+      <actor>Corey Sevier</actor>
+      <actor>Cheryl Ladd</actor>
+      <actor>Ted Atherton</actor>
+      <actor>Paula Brancatti</actor>
+      <actor>Jacob Blair</actor>
+      <writer>Amyn Kaderali</writer>
+      <composer>Craig McConnell</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/97762627" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223092500 +0000" stop="20221223110500 +0000" channel="TMC.fr">
+    <title lang="fr">Embarquement pour Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">A l'approche des fêtes, Maddie, journaliste, se rend à un bal de la Marine, accompagnée de sa sœur, membre de cette unité. Sur place, elle fait la connaissance de Chet, un pilote qui a servi dans ce corps avec son défunt père. Ce dernier lui suggère de prendre part à une croisière. D'abord réticente, elle finit par accepter d'embarquer...</desc>
+    <credits>
+      <director>Steven R Monroe</director>
+      <actor>Jen Lilley</actor>
+      <actor>Trevor Donovan</actor>
+      <actor>Barbara Niven</actor>
+      <actor>Stefanie Butler</actor>
+      <actor>Brett Rice</actor>
+      <actor>Valerie Sue Love</actor>
+      <writer>Andrea Canning</writer>
+      <composer>Tommy Fields</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103048061" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223110500 +0000" stop="20221223124500 +0000" channel="TMC.fr">
+    <title lang="fr">Un fiancé à louer pour Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Molly, une chef d'entreprise, a créé une application pour permettre à des célibataires de se rendre en couple à des événements. Pour convaincre sa famille que sa trouvaille est un succès, elle s'inscrit sur l'application et fait ainsi la connaissance d'un autre célibataire à l'emploi du temps surchargé...</desc>
+    <credits>
+      <director>Allan Eastman</director>
+      <actor>Jen Lilley</actor>
+      <actor>Brant Daugherty</actor>
+      <actor>Lindsay Wagner</actor>
+      <actor>Casey Manderson</actor>
+      <actor>Sandy Sidhu</actor>
+      <actor>April Telek</actor>
+      <writer>Samantha Herman</writer>
+      <composer>James Jandrisch</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93105942" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223124500 +0000" stop="20221223125000 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223125000 +0000" stop="20221223134500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Vents contraires</sub-title>
+    <desc lang="fr">Walter et Calleigh enquêtent sur le meurtre d'une étudiante lorsqu'une tornade atteint la maison dans laquelle ils se trouvaient. Walter est le premier à émerger des décombres. Il constate que la scène de crime a été totalement détruite. Ryan, en revanche, semble avoir disparu. L'équipe part à sa recherche...</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <director>Gina Lamar</director>
+      <director>Don Tardino</director>
+      <director>Allison Liddi</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva LaRue Callahan</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108196182" />
+    <episode-num system="onscreen">S10 E3</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223134500 +0000" stop="20221223144000 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Un tueur parmi nous</sub-title>
+    <desc lang="fr">Anita Torres, shérif dans une ville proche de Mexico, fait appel à Horatio et à ses agents. Elle vient d'être victime d'une tentative d'attentat, qui a coûté la vie à son mari lorsque sa voiture a explosé. Les experts soupçonnent Memmo Fierro, le chef d'un gang, actuellement en prison à Miami...</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <director>Gina Lamar</director>
+      <director>Don Tardino</director>
+      <director>Allison Liddi</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva LaRue Callahan</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108196182" />
+    <episode-num system="onscreen">S10 E5</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223144000 +0000" stop="20221223153500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Best-seller</sub-title>
+    <desc lang="fr">Une femme de ménage est retrouvée pendue à un lustre. Elle porte sur le cou des marques de morsures, qui font penser à deux empreintes de dents pointues. Le lieu du crime, un manoir vide sur une île abandonnée, ajoute à l'ambiance macabre. Les experts entrent en scène pour trouver le coupable...</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <director>Gina Lamar</director>
+      <director>Don Tardino</director>
+      <director>Allison Liddi</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva LaRue Callahan</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108196182" />
+    <episode-num system="onscreen">S10 E6</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221223153500 +0000" stop="20221223163000 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Les dessous de Miami</sub-title>
+    <desc lang="fr">Un viol suivi d'un meurtre ont été commis sur la plage de Miami. Horatio et son équipe sont immédiatement chargés de l'enquête. Après avoir interrogé le petit ami de la victime, Megan et Horatio apprennent que le couple a assisté à une somptueuse soirée au manoir des Hamilton le soir du drame...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221223163000 +0000" stop="20221223172500 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Soirée torride</sub-title>
+    <desc lang="fr">Un feu gigantesque se déclare dans une boîte de nuit à la mode. Les flammes envahissent rapidement les locaux, faisant seize morts et des centaines de blessés. L'enquête révèle qu'il ne s'agit pas d'un accident. Les agents de la police scientifique ont réuni suffisamment d'indices pour en être certains...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221223172500 +0000" stop="20221223182000 +0000" channel="TMC.fr">
+    <title lang="fr">Les experts : Miami</title>
+    <sub-title lang="fr">Si loin, si proche</sub-title>
+    <desc lang="fr">Horatio et son équipe sont appelés dans une grange, où gît le corps d'un homme battu à mort, ligoté sur une chaise avec de l'adhésif. Alors que ses hommes et lui commencent à peine à examiner les lieux, Horatio comprend qu'une bombe est sur le point d'exploser. Il fait évacuer la grange juste à temps...</desc>
+    <credits>
+      <director>Joe Chappelle</director>
+      <director>Deran Sarafian</director>
+      <director>Charles Correll</director>
+      <director>Greg Yaitanes</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Proctor</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Kim Delaney</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Policiere</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105205391" />
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>3</value>
+    </rating>
+  </programme>
+  <programme start="20221223182000 +0000" stop="20221223182500 +0000" channel="TMC.fr">
+    <title lang="fr">Profession comédien</title>
+    <desc lang="fr">Bertrand Uzeel a un background d'entrepreneur.</desc>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108480334" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223182500 +0000" stop="20221223193500 +0000" channel="TMC.fr">
+    <title lang="fr">Quotidien, première partie</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Best of.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104209910" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223193500 +0000" stop="20221223202000 +0000" channel="TMC.fr">
+    <title lang="fr">Quotidien</title>
+    <sub-title lang="fr">Best of</sub-title>
+    <desc lang="fr">Best of.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100994436" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223202000 +0000" stop="20221223202500 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223202500 +0000" stop="20221223213000 +0000" channel="TMC.fr">
+    <title lang="fr">I love you coiffure</title>
+    <sub-title lang="fr">Téléfilm Comédie</sub-title>
+    <desc lang="fr">Les plus grands sketchs cultes de Muriel Robin prennent vie pour la première fois dans une fiction événement unique en son genre, réalisée et interprétée par Muriel Robin, avec la participation d'une cinquantaine de personnalités prestigieuses venues partager à ses côtés l'affiche le temps d'un rôle.</desc>
+    <credits>
+      <director>Muriel Robin</director>
+      <actor>Ary Abittan</actor>
+      <actor>Muriel Robin</actor>
+      <actor>Vanessa Paradis</actor>
+      <actor>Nikos Aliagas</actor>
+      <actor>Pierre Arditi</actor>
+      <actor>Thierry Ardisson</actor>
+      <writer>Muriel Robin</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105141772" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223213000 +0000" stop="20221223224000 +0000" channel="TMC.fr">
+    <title lang="fr">I love you coiffure</title>
+    <sub-title lang="fr">Téléfilm Comédie</sub-title>
+    <desc lang="fr">Une mise en scène des sketchs de Muriel Robin, montée pour faire le portrait croisé de sœurs jumelles que tout oppose et qui se disputent la garde de leur mère : Liliane, patronne d'un modeste salon de coiffure en province pour lequel elle a consacré sa vie et Maud qui a fondé une famille à Paris où elle vit la grande vie auprès de son mari et ses deux enfants.</desc>
+    <credits>
+      <director>Muriel Robin</director>
+      <actor>Muriel Robin</actor>
+      <actor>Vanessa Paradis</actor>
+      <actor>Pierre Arditi</actor>
+      <actor>Corinne Masiero</actor>
+      <actor>Ary Abittan</actor>
+      <actor>Nikos Aliagas</actor>
+      <writer>Muriel Robin</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105141791" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223224000 +0000" stop="20221224005000 +0000" channel="TMC.fr">
+    <title lang="fr">Muriel Robin - Et pof !</title>
+    <sub-title lang="fr">Divertissement</sub-title>
+    <desc lang="fr">Dans ce spectacle, capté à Nantes, Muriel Robin reprend ses sketchs cultes : L'Addition, Le Noir, La Réunion de chantier et tant d'autres. Sur la scène, le passé et le présent dansent ensemble en une grande fête...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108237933" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224005000 +0000" stop="20221224054000 +0000" channel="TMC.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224054000 +0000" stop="20221224054500 +0000" channel="TMC.fr">
+    <title lang="fr">Monacoscope</title>
+    <desc lang="fr">Episode 44.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/80895448" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224054500 +0000" stop="20221224074500 +0000" channel="TMC.fr">
+    <title lang="fr">TV achat</title>
+    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224074500 +0000" stop="20221224092000 +0000" channel="TMC.fr">
+    <title lang="fr">Opération Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Olivia Young, mère célibataire, emmène ses deux enfants skier à Noël et fait la rencontre du sergent Scott McGuigan sur les pistes. Ils se quittent sur un malentendu, mais les hasards de la vie les amènent à se rencontrer à nouveau et même à travailler ensemble. Olivia tombe sous son charme...</desc>
+    <credits>
+      <director>David Weaver</director>
+      <actor>Tricia Helfer</actor>
+      <actor>Marc Blucas</actor>
+      <actor>Lisa Durupt</actor>
+      <actor>Gabrielle Rose</actor>
+      <actor>Benjamin Wosk</actor>
+      <actor>Megan Charpentier</actor>
+      <writer>Nina Weinman</writer>
+      <writer>Ron Oliver</writer>
+      <writer>Donald Martin</writer>
+      <composer>Hal Beckett</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/65391550" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224092000 +0000" stop="20221224105500 +0000" channel="TMC.fr">
+    <title lang="fr">Une romance de Noël en sucre d'orge</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Cate, qui a repris la fabrique de sucre d'orge de sa grand-mère, fait tout pour perpétuer la tradition familiale. Elle ne voit pas d'un bon oeil l'arrivée de Gabriel, consultant en redressement financier, envoyé par le conseil d'administration de la société. Peu peu pourtant, les choses évoluent...</desc>
+    <credits>
+      <director>Gary Yates</director>
+      <actor>Jodie Sweetin</actor>
+      <actor>Andrew W Walker</actor>
+      <actor>Sharon Lawrence</actor>
+      <actor>Stephanie Moroz</actor>
+      <actor>Darren Martens</actor>
+      <actor>Nancy Sorel</actor>
+      <writer>Karen  Wyscarver</writer>
+      <writer>Sanford Golden</writer>
+      <writer>Erinne Dobson</writer>
+      <composer>Matthew Rogers</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93527993" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224105500 +0000" stop="20221224122500 +0000" channel="TMC.fr">
+    <title lang="fr">Les biscuits préférés du Père Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Allison, sa fille Olivia et sa mère Martha dirigent une boulangerie dans la petite ville de montagne de White Pines. Un jour Matthew, un promoteur immobilier, décide qu'il va faire de la ville une station de ski d'entreprise, Allison et les autres habitants doivent s'unir pour empêcher ce projet d'aboutir...</desc>
+    <credits>
+      <director>Gary Yates</director>
+      <actor>Rachel Boston</actor>
+      <actor>Andrew W Walker</actor>
+      <actor>Patricia Richardson</actor>
+      <actor>Kate Moyer</actor>
+      <actor>Bill Lake</actor>
+      <actor>Stephanie Moroz</actor>
+      <writer>Cassie Doyle</writer>
+      <composer>Shawn Pierce</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93105928" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224122500 +0000" stop="20221224123000 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224123000 +0000" stop="20221224144000 +0000" channel="TMC.fr">
+    <title lang="fr">Charlie et la chocolaterie</title>
+    <sub-title lang="fr">Film Comédie</sub-title>
+    <desc lang="fr">Willy Wonka, le propriétaire d'une fabrique de chocolat, organise un concours, mettant en prix une visite de la fabrique à sucreries. Le petit Charlie se porte candidat. Issu d'une famille très modeste, le garçonnet voit là la solution pour pouvoir enfin réaliser ses rêves les plus fous...</desc>
+    <credits>
+      <director>Tim Burton</director>
+      <actor>Johnny Depp</actor>
+      <actor>Freddie Highmore</actor>
+      <actor>David Kelly</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Noah Taylor</actor>
+      <actor>Missi Pyle</actor>
+      <writer>John August</writer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68281210" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224144000 +0000" stop="20221224171000 +0000" channel="TMC.fr">
+    <title lang="fr">The Holiday</title>
+    <sub-title lang="fr">Film Comédie sentimentale</sub-title>
+    <desc lang="fr">Iris, une journaliste anglaise, apprend que son fiancé en épouse une autre. Loin de là, à Beverly Hills, Amanda découvre aussi l'infidélité de son compagnon. L'une et l'autre décident de tout plaquer. Elles se contactent par Internet afin d'échanger leurs maisons respectives pendant dix jours...</desc>
+    <credits>
+      <director>Nancy Meyers</director>
+      <actor>Cameron Diaz</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Jude Law</actor>
+      <actor>Jack Black</actor>
+      <actor>Eli Wallach</actor>
+      <actor>Edward Burns</actor>
+      <writer>Nancy Meyers</writer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2006</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93456069" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224171000 +0000" stop="20221224184500 +0000" channel="TMC.fr">
+    <title lang="fr">Noël chez les Mitchell !</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Cela fait des années que Bill et Phylis sont mariés, et que les enfants ont pris leur envol. Ils décident d'inviter leurs deux fils Mike et Brandon afin de passer les deux semaines précédant Noël ensemble et de revisiter une tradition familiale. Ils ont décidé de transformer la maison en maison de Noël et de la vendre...</desc>
+    <credits>
+      <director>Michael Grossman</director>
+      <actor>Robert Buckley</actor>
+      <actor>Ana Ayora</actor>
+      <actor>Treat Williams</actor>
+      <actor>Sharon Lawrence</actor>
+      <actor>Jonathan Bennett</actor>
+      <actor>Brad Harder</actor>
+      <writer>Erin Rodman</writer>
+      <composer>Mikel Hurwitz</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102945178" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224184500 +0000" stop="20221224201000 +0000" channel="TMC.fr">
+    <title lang="fr">Duel à Noël chez les Mitchell</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">L'année dernière, pour Noël, Mike a voulu voir les choses en grand, se sentant obligé de garder la tradition intacte, mais cela a été un désastre. Cette année, il ne veut rien faire, simplement rester au calme, en petit comité. Mais c'est sans compter sur Kathleen, qui obtient sa participation dans l'émission Décos de stars...</desc>
+    <credits>
+      <director>Rich Newey</director>
+      <actor>Robert Buckley</actor>
+      <actor>Ana Ayora</actor>
+      <actor>Jonathan Bennett</actor>
+      <actor>Mattia Castrillo</actor>
+      <actor>Matthew James Dowden</actor>
+      <actor>Brad Harder</actor>
+      <writer>Erin Rodman</writer>
+      <composer>Mikel Hurwitz</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108215762" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224201000 +0000" stop="20221224201500 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224201500 +0000" stop="20221224215500 +0000" channel="TMC.fr">
+    <title lang="fr">Restos du coeur</title>
+    <sub-title lang="fr">Un air d'Enfoirés</sub-title>
+    <desc lang="fr">Restos du Coeur - 2022 un air d'Enfoirés.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Varietes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108180327" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224215500 +0000" stop="20221224225000 +0000" channel="TMC.fr">
+    <title lang="fr">Restos du coeur</title>
+    <sub-title lang="fr">Un air d'Enfoirés</sub-title>
+    <desc lang="fr">Restos du Coeur - 2022 un air d'Enfoirés (partie 2).</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Concert Varietes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108180404" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224225000 +0000" stop="20221225004000 +0000" channel="TMC.fr">
+    <title lang="fr">Messe de minuit</title>
+    <desc lang="fr">La retransmission de la messe de minuit, célébrée par le pape depuis la basilique Saint-Pierre du Vatican, à Rome, est une véritable tradition audiovisuelle. Toute l'attention des fidèles se porte sur l'homélie...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103481663" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225004000 +0000" stop="20221225055000 +0000" channel="TMC.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225055000 +0000" stop="20221225064000 +0000" channel="TMC.fr">
+    <title lang="fr">Les mystères de l'amour</title>
+    <sub-title lang="fr">Replay</sub-title>
+    <desc lang="fr">Hélène et Bénédicte s'affairent dans la maison pour les préparatifs de Noël. Elise se retrouve en garde à vue, et Guéant risque de découvrir son secret. Jeanne est de plus en plus focalisée sur Nicolas...</desc>
+    <credits>
+      <director>Maurine Anglard</director>
+      <director>Michel Brugier</director>
+      <director>Julien Dudillieu</director>
+      <director>Guy Famechon</director>
+      <actor>Patrick Puydebat</actor>
+      <actor>Laure Guibert</actor>
+      <actor>Laly Meignan</actor>
+      <actor>Philippe Vasseur</actor>
+      <actor>Hélène Rollès</actor>
+      <actor>Isabelle Bouysse</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100169974" />
+    <episode-num system="onscreen">S30 E22</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225064000 +0000" stop="20221225074500 +0000" channel="TMC.fr">
+    <title lang="fr">Les mystères de l'amour</title>
+    <sub-title lang="fr">Révélations</sub-title>
+    <desc lang="fr">Brad et Bénédicte se retrouvent en secret et se remémorent leurs souvenirs de Love Island. Alors que José s'apprête à passer Noël avec Cathy et ses enfants, Laly se sent délaissée. Fanny, quant à elle, fait sa première échographie...</desc>
+    <credits>
+      <director>Maurine Anglard</director>
+      <director>Michel Brugier</director>
+      <director>Julien Dudillieu</director>
+      <director>Guy Famechon</director>
+      <actor>Patrick Puydebat</actor>
+      <actor>Laure Guibert</actor>
+      <actor>Laly Meignan</actor>
+      <actor>Philippe Vasseur</actor>
+      <actor>Hélène Rollès</actor>
+      <actor>Isabelle Bouysse</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Drame</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100169974" />
+    <episode-num system="onscreen">S30 E23</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225074500 +0000" stop="20221225092500 +0000" channel="TMC.fr">
+    <title lang="fr">L'atelier de jouets du Père Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Anne, acheteuse pour le rayon jouets d'une marque de grande distribution à New York, revient dans sa ville natale peu avant Noël pour aider son père à fermer sa boutique, un magasin de jouets en bois qu'il fabrique lui-même. Durant son séjour, Anne participe à l'organisation des événements de Noël...</desc>
+    <credits>
+      <director>JB Sugar</director>
+      <actor>Brooke D'Orsay</actor>
+      <actor>Trevor Donovan</actor>
+      <actor>Jenna Weir</actor>
+      <actor>Ron Lea</actor>
+      <actor>Tara Joshi</actor>
+      <actor>Eugene Clark</actor>
+      <writer>Raul Inglis</writer>
+      <composer>James Mark Stewart</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/97622304" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225092500 +0000" stop="20221225111000 +0000" channel="TMC.fr">
+    <title lang="fr">Une invitation inattendue pour Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Parents de deux petites filles, Maggie et Jeff parviennent parfaitement à surmonter leur séparation, conscients de la nécessité de conserver des rapports cordiaux. Lorsque Kate, la petite amie de Jeff, invite ce dernier à venir passer Noël avec ses enfants à Aspen, Maggie accepte sans sourciller...</desc>
+    <credits>
+      <director>Rich Newey</director>
+      <actor>Summer H Howell</actor>
+      <actor>Myla Volk</actor>
+      <actor>John B Lowe</actor>
+      <actor>Jan Skene</actor>
+      <actor>Erik Athavale</actor>
+      <actor>Andrea del Campo</actor>
+      <writer>Tamar Laddy</writer>
+      <composer>Mike Fiore</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103003025" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225111000 +0000" stop="20221225125500 +0000" channel="TMC.fr">
+    <title lang="fr">Coup de foudre chez le Père Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Kevin et Jenna, les meilleurs rédacteurs voyages d'un web-magazine new-yorkais, se portent volontaires pour une mission à Aspen. Mais le blizzard force leur avion à atterrir dans l'Indiana et les deux rivaux se retrouvent coincés dans leur hôtel par une tempête de neige. Peu à peu, la magie de Noël opère...</desc>
+    <credits>
+      <director>Gary Yates</director>
+      <actor>Bethany Joy Galeotti</actor>
+      <actor>Andrew W Walker</actor>
+      <actor>Belinda Montgomery</actor>
+      <actor>John B Lowe</actor>
+      <actor>Jefferson Brown</actor>
+      <actor>Tasha Smith</actor>
+      <writer>Carley Smale</writer>
+      <composer>Shawn Pierce</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/80454222" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225125500 +0000" stop="20221225130000 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225130000 +0000" stop="20221225144500 +0000" channel="TMC.fr">
+    <title lang="fr">Coup de foudre dans l'allée des sapins</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Meg Reilly tient un magasin de musique dans l'allée des fêtes de Noël, une rue historique du centre de Denver. Mais la rue est menacée de démolition et des immeubles de bureaux doivent y être construits. Avec l'aide des commerçants, de ses amis et de sa famille, elle se bat pour sauver l'esprit et la tradition que cet endroit représente pour tous...</desc>
+    <credits>
+      <director>Steven R Monroe</director>
+      <actor>Alicia Witt</actor>
+      <actor>Andrew W Walker</actor>
+      <actor>Drake Hogestyn</actor>
+      <actor>Briana Price</actor>
+      <actor>Paul Anthony McLean</actor>
+      <actor>Shannon Engemann</actor>
+      <writer>Michael J Murray</writer>
+      <composer>Lawrence Shragge</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102896687" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225144500 +0000" stop="20221225171000 +0000" channel="TMC.fr">
+    <title lang="fr">Harry Potter et l'ordre du Phénix</title>
+    <sub-title lang="fr">Film Fantastique</sub-title>
+    <desc lang="fr">Un nouveau professeur de défense contre les Forces du Mal arrive à Poudlard : Dolorès Ombrage. Peu appréciée des élèves, à qui elle dispense des cours insipides, elle s'offusque très rapidement de l'insolence du jeune Harry Potter. Mais celui-ci échafaude déjà un plan destiné à contrer les Forces du Mal...</desc>
+    <credits>
+      <director>David Yates</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Emma Watson</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Fiona Shaw</actor>
+      <writer>Michael Goldenberg</writer>
+      <composer>Nicholas Hooper</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52828666" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225171000 +0000" stop="20221225200000 +0000" channel="TMC.fr">
+    <title lang="fr">Harry Potter et le prince de sang-mêlé</title>
+    <sub-title lang="fr">Film Fantastique</sub-title>
+    <desc lang="fr">Lord Voldemort est de retour, semant la terreur sur toute l'Angleterre. Harry Potter, le jeune sorcier, retourne à l'école de magie Poudlard pour sa sixième année. Toujours accompagné de ses fidèles amis, Ron et Hermione, il découvre de terrifiants secrets sur le passé de son ennemi Voldemort...</desc>
+    <credits>
+      <director>David Yates</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+      <actor>Jim Broadbent</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Geraldine Somerville</actor>
+      <writer>Steve Kloves</writer>
+      <composer>John Williams</composer>
+      <composer>Nicholas Hooper</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/52831258" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>2</value>
+    </rating>
+  </programme>
+  <programme start="20221225200000 +0000" stop="20221225200500 +0000" channel="TMC.fr">
+    <title lang="fr">TMC Météo</title>
+    <sub-title lang="fr">Météo</sub-title>
+    <desc lang="fr">Découverte des prévisions météorologiques du jour, ainsi que des bulletins météo de la semaine.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100476441" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225200500 +0000" stop="20221225220500 +0000" channel="TMC.fr">
+    <title lang="fr">Les 3 frères, le retour</title>
+    <sub-title lang="fr">Film Comédie</sub-title>
+    <desc lang="fr">Des années après le décès de leur mère, les frères Latour, qui se détestent toujours autant, sont à nouveau réunis. A l'ouverture du testament de leur mère, ils s'aperçoivent qu'elle ne leur a laissé que des dettes. Avec Sarah, la fille de Bernard, ils décident de se lancer dans le trafic de drogue...</desc>
+    <credits>
+      <director>Didier Bourdon</director>
+      <director>Bernard Campan</director>
+      <director>Pascal Légitimus</director>
+      <actor>Didier Bourdon</actor>
+      <actor>Bernard Campan</actor>
+      <actor>Pascal Légitimus</actor>
+      <actor>Sofia Lesaffre</actor>
+      <actor>Antoine du Merle</actor>
+      <actor>Christian Hecq</actor>
+      <writer>Didier Bourdon</writer>
+      <writer>Bernard Campan</writer>
+      <composer>Olivier Bernard</composer>
+      <composer>Didier Bourdon</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/95624176" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225220500 +0000" stop="20221225231500 +0000" channel="TMC.fr">
+    <title lang="fr">Le meilleur des Inconnus</title>
+    <desc lang="fr">Le trio le plus populaire des années 1990 a enchanté la France avec ses nombreux sketchs. D'abord sur scène, puis à la télévision et enfin au cinéma, les Inconnus ont fait rire des millions de Français. Que ce soit...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107942118" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225231500 +0000" stop="20221226003500 +0000" channel="TMC.fr">
+    <title lang="fr">Le meilleur des Inconnus</title>
+    <desc lang="fr">Trio populaire des années 1990, Les Inconnus ont enchanté la France avec leurs sketchs. D'abord sur scène, puis à la télévision et enfin au cinéma, ils ont fait rire des millions de Français. Avec leurs sketchs, leurs...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107942118" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
   <channel id="TFX.fr">
     <display-name lang="fr">|FR| TFX</display-name>
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/tfx.png" />
