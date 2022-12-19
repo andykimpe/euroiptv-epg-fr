@@ -33,3 +33,5 @@ bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen.sh)
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/CSTAR/install.sh)
 bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen.sh)
+bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/config/France/GULLI/install.sh)
+bash <(wget -qO- https://github.com/andykimpe/euroiptv-epg-fr/raw/master/gen.sh)
