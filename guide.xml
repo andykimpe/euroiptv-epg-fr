@@ -24965,6 +24965,3185 @@
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/m6.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
+  <programme start="20221219050000 +0000" stop="20221219054500 +0000" channel="M6.fr">
+    <title lang="fr">M6 Music</title>
+    <desc lang="fr">Avec M6 Music, découvrez les meilleurs tubes de la Pop. De quoi passer une nuit torride, ou alors de se réveiller le matin avec un plein d'énergie...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104551723" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219054500 +0000" stop="20221219061000 +0000" channel="M6.fr">
+    <title lang="fr">M6 Music Kid</title>
+    <sub-title lang="fr">Clips</sub-title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108439307" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219061000 +0000" stop="20221219062500 +0000" channel="M6.fr">
+    <title lang="fr">Les aventures de Paddington</title>
+    <sub-title lang="fr">Paddington et la lettre perdue</sub-title>
+    <desc lang="fr">Paddington s'est trompé ! Il a envoyé au Pérou la lettre que Jonathan a écrite au Père Noël. Il essaie de se renseigner sur la liste de son ami, et envoie Pigeonton au Pôle Nord pour transmettre la nouvelle liste. Mais le pigeon ne donne plus de nouvelles. Une tempête cause des coupures d'électricité à Windsor Gardens...</desc>
+    <credits>
+      <director>Chris Drew</director>
+      <director>Adam Shaw</director>
+      <director>Marcos Da Silva</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105086228" />
+    <episode-num system="onscreen">S1 E53</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219062500 +0000" stop="20221219063500 +0000" channel="M6.fr">
+    <title lang="fr">Baby Shark : l'aventure sous l'eau</title>
+    <sub-title lang="fr">Amis pour la vie</sub-title>
+    <desc lang="fr">La rivalité entre Baby Shark et Filou s'enflamme lors d'un concours de musique.</desc>
+    <credits>
+      <director>Mike Carlo</director>
+      <director>Raymond Santos</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108332162" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219063500 +0000" stop="20221219065500 +0000" channel="M6.fr">
+    <title lang="fr">Baby Shark : l'aventure sous l'eau</title>
+    <sub-title lang="fr">La poulpicelle</sub-title>
+    <desc lang="fr">Baby apprend que rien ne vaut le repos lorsqu'on est malade.</desc>
+    <credits>
+      <director>Mike Carlo</director>
+      <director>Raymond Santos</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108332162" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219065500 +0000" stop="20221219070500 +0000" channel="M6.fr">
+    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
+    <sub-title lang="fr">Réalité virtuelle</sub-title>
+    <desc lang="fr">Coincé à la maison pendant une tempête, Simon invente un jeu de réalité virtuelle qui devient vite incontrôlable.</desc>
+    <credits>
+      <director>Janice Karman</director>
+      <director>Vincent Waller</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Dessin Anime</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100552131" />
+    <episode-num system="onscreen">S5 E51</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219070500 +0000" stop="20221219071500 +0000" channel="M6.fr">
+    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
+    <sub-title lang="fr">La tournée</sub-title>
+    <desc lang="fr">Les Chipmunks sont impatients de démarrer leur tournée mondiale jusqu'à ce que Théodore et Alvin se rendent compte de ce qu'ils vont laisser derrière eux.</desc>
+    <credits>
+      <director>Janice Karman</director>
+      <director>Vincent Waller</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Dessin Anime</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100552131" />
+    <episode-num system="onscreen">S5 E52</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219071500 +0000" stop="20221219072500 +0000" channel="M6.fr">
+    <title lang="fr">Presto ! Le manoir magique</title>
+    <sub-title lang="fr">Joue-la comme Houdini</sub-title>
+    <desc lang="fr">En l'honneur d'Houdini, Lorenzo a organisé un exercice d'escapologie au Manoir. Partant du grenier, au moins un des kids devra parvenir à sortir de la maison en déjouant les illusions placer par le maître. D'énigmes en tours de magie, nos héros progressent tant bien que mal.</desc>
+    <credits>
+      <director>Fabrice Fouquet</director>
+      <director>David Lopez</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106887836" />
+    <episode-num system="onscreen">S1 E35</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219072500 +0000" stop="20221219075000 +0000" channel="M6.fr">
+    <title lang="fr">Presto ! Le manoir magique</title>
+    <sub-title lang="fr">Opération Dylan</sub-title>
+    <desc lang="fr">Dylan a rendez-vous au Monde des Merveilles pour un duel de magie avec Mick des As de Pique. Mais Daniel a décidé que toute sortie était désormais interdite après 18h. Lisa, Nica et Violette proposent de couvrir leur ami. Grâce à des illusions, elles feront croire que Dylan est au Manoir.</desc>
+    <credits>
+      <director>Fabrice Fouquet</director>
+      <director>David Lopez</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106887836" />
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219075000 +0000" stop="20221219090000 +0000" channel="M6.fr">
+    <title lang="fr">M6 Boutique</title>
+    <desc lang="fr">Retrouvez les dernières innovations et des offres exclusives en matière de bijoux, beauté, cuisine, maison.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104207250" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219090000 +0000" stop="20221219114000 +0000" channel="M6.fr">
+    <title lang="fr">En famille</title>
+    <sub-title lang="fr">Un si joyeux Noël</sub-title>
+    <desc lang="fr">Le quotidien de la famille Le Kervelec, rythmé autour de trois générations : les grands-parents Jacques et Brigitte, leurs filles Marjorie et Roxane, et leurs petits-enfants, les ados Antoine et Chloé et les jumeaux Hugo et Diego.</desc>
+    <credits>
+      <actor>Yves Pignot</actor>
+      <actor>Marie Vincent</actor>
+      <actor>Jeanne Savary</actor>
+      <actor>Charlie Bruneau</actor>
+      <actor>Tarek Boudali</actor>
+      <actor>Axel Huet</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925363" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219114000 +0000" stop="20221219114500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219114500 +0000" stop="20221219123000 +0000" channel="M6.fr">
+    <title lang="fr">Le 12.45</title>
+    <sub-title lang="fr">Le 1245 du 19/12/2022</sub-title>
+    <desc lang="fr">Retrouvez toute l'actualité de la mi-journée.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67551851" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219123000 +0000" stop="20221219123500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219123500 +0000" stop="20221219130000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 26/08/22</sub-title>
+    <desc lang="fr">Votre couple vous désole ? Vous vous lamentez de vivre seul ? Scènes de Ménages va vous aider à relativiser !</desc>
+    <credits>
+      <actor>Audrey Lamy</actor>
+      <actor>Loup-Denis Elion</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Frédéric Bouraly</actor>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219130000 +0000" stop="20221219145500 +0000" channel="M6.fr">
+    <title lang="fr">Joyeuse pagaille à Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Femme d'affaires accomplie, Jacquie reçoit pour la première fois toute sa famille pour Noël. Parallèlement, la jeune femme célibataire est en train de vendre son entreprise. Pour finaliser son projet, elle a fait appel à un vidéaste qui doit tourner une séquence chez elle. Mais la situation tourne rapidement au cauchemar.</desc>
+    <credits>
+      <director>Bosede Williams</director>
+      <actor>Thomas Cadrot</actor>
+      <actor>Jaime Callica</actor>
+      <actor>Thalia Campbell</actor>
+      <actor>Kelly Rowland</actor>
+      <actor>Bresha Webb</actor>
+      <actor>Latonya Williams</actor>
+      <writer>Andrea Stevens</writer>
+      <composer>Terry Frewer</composer>
+      <composer>Trent Phillips</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107807245" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219145500 +0000" stop="20221219163000 +0000" channel="M6.fr">
+    <title lang="fr">Merry Liddle Christmas Wedding</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Un an jour pour jour après leur rencontre, Jacquie et Tyler doivent se marier la veille de Noël. Pour l'occasion, ils invitent leurs soixante convives dans un somptueux hôtel au bord des pistes. Tout est réuni pour que Jacquie vive enfin son mariage de rêve. C'était hélas sans compter sur sa famille pour le moins turbulente.</desc>
+    <credits>
+      <director>Sharon Lewis</director>
+      <actor>Kelly Rowland</actor>
+      <actor>Thomas Cadrot</actor>
+      <actor>Bresha Webb</actor>
+      <actor>Jaime Callica</actor>
+      <actor>Aiden Stoxx</actor>
+      <actor>Nathan Witte</actor>
+      <writer>Andrea Stevens</writer>
+      <composer>Kurt Farquhar</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108439271" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219163000 +0000" stop="20221219174000 +0000" channel="M6.fr">
+    <title lang="fr">Incroyables transformations</title>
+    <sub-title lang="fr">Nadia - Laëtitia - Camille</sub-title>
+    <desc lang="fr">Des experts de la mode (Charla Carter, Léa Djadja et Nicolas Waldorf) ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de...</desc>
+    <credits>
+      <presenter>Charla Carter</presenter>
+      <presenter>Nicolas Waldorf</presenter>
+      <presenter>Léa Djadja</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104508509" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219174000 +0000" stop="20221219184500 +0000" channel="M6.fr">
+    <title lang="fr">Tous en cuisine, menus de fêtes avec Cyril Lignac</title>
+    <sub-title lang="fr">Emission 16</sub-title>
+    <desc lang="fr">Le chef Cyril Lignac et son commis Jérôme Anthony sont de retour pour vous faire passer des fêtes de fin d’année inoubliables.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Culinaire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108246977" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219184500 +0000" stop="20221219191000 +0000" channel="M6.fr">
+    <title lang="fr">Le 19.45</title>
+    <sub-title lang="fr">Le 1945 du 18/12/2022</sub-title>
+    <desc lang="fr">Le journal de M6.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925326" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219191000 +0000" stop="20221219193000 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219193000 +0000" stop="20221219201000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 27/09/22</sub-title>
+    <desc lang="fr">Élections municipales, noces de diamant, enjeux professionnels, passions amoureuses : vos couples préférés ont une vie encore bien mouvementée dans cette nouvelle saison toujours aussi drôle et savoureuse... !</desc>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219201000 +0000" stop="20221219214000 +0000" channel="M6.fr">
+    <title lang="fr">Astérix : le Domaine des dieux</title>
+    <sub-title lang="fr">Film Animation</sub-title>
+    <desc lang="fr">En 50 avant Jésus-Christ, les irréductibles Gaulois du village d'Astérix résistent encore et toujours à l'envahisseur romain. L'empereur César comprend qu'il ne peut rien obtenir par la force. Il décide de construire un ensemble d'immeubles luxueux baptisé le Domaine des dieux, qui encerclera le village...</desc>
+    <credits>
+      <director>Louis Clichy</director>
+      <director>Alexandre Astier</director>
+      <writer>Alexandre Astier</writer>
+      <composer>Philippe Rombi</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105714430" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219214000 +0000" stop="20221219231000 +0000" channel="M6.fr">
+    <title lang="fr">Astérix et Cléopâtre</title>
+    <sub-title lang="fr">Film Animation</sub-title>
+    <desc lang="fr">Pour faire taire les sarcasmes de César au sujet de la décadence du peuple égyptien, Cléopâtre fait le pari de construire un palais en trois mois. Numérobis, l'architecte chargé des travaux, fait appel à son vieil ami Panoramix, qui décide de partir pour Alexandrie en compagnie d'Astérix et Obélix...</desc>
+    <credits>
+      <director>René Goscinny</director>
+      <director>Albert Uderzo</director>
+      <director>Lee Payant</director>
+      <writer>Jos Marissen</writer>
+      <writer>Eddie Lateste</writer>
+      <writer>Pierre Tchernia</writer>
+      <composer>Gérard Calvi</composer>
+    </credits>
+    <date>1968</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/73127705" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219231000 +0000" stop="20221220011000 +0000" channel="M6.fr">
+    <title lang="fr">Edward aux mains d'argent</title>
+    <sub-title lang="fr">Film Fantastique</sub-title>
+    <desc lang="fr">Après la mort de son créateur, un génial inventeur, le jeune Edward, un garçon aux bras terminés par des cisailles, se retrouve seul. Il vit comme un pauvre diable, dans un immense château. C'est là que Peg Boggs, une représentante en cosmétiques, le découvre. Elle l'invite à venir s'installer chez elle...</desc>
+    <credits>
+      <director>Tim Burton</director>
+      <actor>Johnny Depp</actor>
+      <actor>Winona Ryder</actor>
+      <actor>Dianne Wiest</actor>
+      <actor>Anthony Michael Hall</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Robert Oliveri</actor>
+      <writer>Caroline Thompson</writer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>1990</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/90929875" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220011000 +0000" stop="20221220011500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220011500 +0000" stop="20221220050000 +0000" channel="M6.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220050000 +0000" stop="20221220054500 +0000" channel="M6.fr">
+    <title lang="fr">M6 Music</title>
+    <desc lang="fr">Avec M6 Music, découvrez les meilleurs tubes de la Pop. De quoi passer une nuit torride, ou alors de se réveiller le matin avec un plein d'énergie...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104551723" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220054500 +0000" stop="20221220061000 +0000" channel="M6.fr">
+    <title lang="fr">M6 Music Kid</title>
+    <sub-title lang="fr">Clips</sub-title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108439307" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220061000 +0000" stop="20221220062500 +0000" channel="M6.fr">
+    <title lang="fr">Les aventures de Paddington</title>
+    <sub-title lang="fr">Paddington et la lettre perdue</sub-title>
+    <desc lang="fr">Paddington s'est trompé ! Il a envoyé au Pérou la lettre que Jonathan a écrite au Père Noël. Il essaie de se renseigner sur la liste de son ami, et envoie Pigeonton au Pôle Nord pour transmettre la nouvelle liste. Mais le pigeon ne donne plus de nouvelles. Une tempête cause des coupures d'électricité à Windsor Gardens...</desc>
+    <credits>
+      <director>Chris Drew</director>
+      <director>Adam Shaw</director>
+      <director>Marcos Da Silva</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105086228" />
+    <episode-num system="onscreen">S1 E54</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220062500 +0000" stop="20221220063500 +0000" channel="M6.fr">
+    <title lang="fr">Baby Shark : l'aventure sous l'eau</title>
+    <sub-title lang="fr">Ma petite dent</sub-title>
+    <desc lang="fr">Pour retrouver la dent qu'il a perdue, Baby Shark fait équipe avec William et une alliée surprenante.</desc>
+    <credits>
+      <director>Mike Carlo</director>
+      <director>Raymond Santos</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108332162" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220063500 +0000" stop="20221220065500 +0000" channel="M6.fr">
+    <title lang="fr">Baby Shark : l'aventure sous l'eau</title>
+    <sub-title lang="fr">La bestiole baveuse</sub-title>
+    <desc lang="fr">Un match de vase-ball se transforme en mission de sauvetage dans l'antre de la Bestiole Baveuse.</desc>
+    <credits>
+      <director>Mike Carlo</director>
+      <director>Raymond Santos</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108332162" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220065500 +0000" stop="20221220070500 +0000" channel="M6.fr">
+    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
+    <sub-title lang="fr">Jour de chance</sub-title>
+    <desc lang="fr">Theodore trouve un trèfle à quatre feuilles et attire toute la chance à lui, Alvin de son côté devient de plus en plus malchanceux.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Dessin Anime</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100552131" />
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220070500 +0000" stop="20221220071500 +0000" channel="M6.fr">
+    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
+    <sub-title lang="fr">Sécurité incendie</sub-title>
+    <desc lang="fr">Les filles de l'école sont sous le charme du capitaine des pompiers et Alvin décide de jouer les héros à son tour. Les résultats sont catastrophiques.</desc>
+    <credits>
+      <director>Janice Karman</director>
+      <director>Vincent Waller</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Dessin Anime</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100552131" />
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220071500 +0000" stop="20221220072500 +0000" channel="M6.fr">
+    <title lang="fr">Presto ! Le manoir magique</title>
+    <sub-title lang="fr">Kiki la terreur</sub-title>
+    <desc lang="fr">Vincent découvre que Kiki a mis une rouste à Rufus, qui a maintenant peur de son ombre. Vincent exige que Daniel mette le chihuahua dehors.</desc>
+    <credits>
+      <director>Fabrice Fouquet</director>
+      <director>David Lopez</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106887836" />
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220072500 +0000" stop="20221220075000 +0000" channel="M6.fr">
+    <title lang="fr">Presto ! Le manoir magique</title>
+    <sub-title lang="fr">Atout pique pour Dylan</sub-title>
+    <desc lang="fr">Dendedragon donne un spectacle en ville mais un de ses élèves est malade. Il demande à Lorenzo pour qu'un Presto kid le remplace. Voulant faire mousser Vincent, Dylan affirme être le meilleur magicien de l'école. Il est choisi. Mais il va devoir affronter les As de Pique, peu enclins à l'accepter, Kurt et sa manière d'enseigner ainsi que la jalousie de Vincent, prêt à tout pour prendre sa place.</desc>
+    <credits>
+      <director>Fabrice Fouquet</director>
+      <director>David Lopez</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106887836" />
+    <episode-num system="onscreen">S1 E38</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220075000 +0000" stop="20221220090000 +0000" channel="M6.fr">
+    <title lang="fr">M6 Boutique</title>
+    <desc lang="fr">Retrouvez les dernières innovations et des offres exclusives en matière de bijoux, beauté, cuisine, maison.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104207250" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220090000 +0000" stop="20221220114000 +0000" channel="M6.fr">
+    <title lang="fr">En famille</title>
+    <sub-title lang="fr">Un si joyeux Noël</sub-title>
+    <desc lang="fr">Le quotidien de la famille Le Kervelec, rythmé autour de trois générations : les grands-parents Jacques et Brigitte, leurs filles Marjorie et Roxane, et leurs petits-enfants, les ados Antoine et Chloé et les jumeaux Hugo et Diego.</desc>
+    <credits>
+      <actor>Yves Pignot</actor>
+      <actor>Marie Vincent</actor>
+      <actor>Jeanne Savary</actor>
+      <actor>Charlie Bruneau</actor>
+      <actor>Tarek Boudali</actor>
+      <actor>Axel Huet</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925363" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220114000 +0000" stop="20221220114500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220114500 +0000" stop="20221220123000 +0000" channel="M6.fr">
+    <title lang="fr">Le 12.45</title>
+    <sub-title lang="fr">Le 1245 du 19/12/2022</sub-title>
+    <desc lang="fr">Retrouvez toute l'actualité de la mi-journée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67551851" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220123000 +0000" stop="20221220123500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220123500 +0000" stop="20221220130000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 26/08/22</sub-title>
+    <desc lang="fr">Votre couple vous désole ? Vous vous lamentez de vivre seul ? Scènes de Ménages va vous aider à relativiser !</desc>
+    <credits>
+      <actor>Audrey Lamy</actor>
+      <actor>Loup-Denis Elion</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Frédéric Bouraly</actor>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220130000 +0000" stop="20221220145500 +0000" channel="M6.fr">
+    <title lang="fr">Un Noël country</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Charlotte, chanteuse de country à succès, est de retour chez ses parents, dans le Montana, pour fêter Noël. Alors qu'elle cherche l'inspiration pour écrire son nouvel album, Charlotte rencontre Matt, un ex-soldat et ami de son frère Ryan, venu en ville construire des maisons pour les vétérans….</desc>
+    <credits>
+      <director>Catherine Cyran</director>
+      <actor>Stephen Huszar</actor>
+      <actor>P Lynn Johnson</actor>
+      <actor>Jan Bos</actor>
+      <actor>Lossen Chambers</actor>
+      <actor>Laura Osnes</actor>
+      <actor>Jesse Irving</actor>
+      <writer>Zac Hug</writer>
+      <composer>Brian Chan</composer>
+      <composer>Caleb Chan</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108455361" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220145500 +0000" stop="20221220163000 +0000" channel="M6.fr">
+    <title lang="fr">Vivement Noël !</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Darcy Gale travaille dans une agence de relations publiques et aimerait décrocher un contrat avec l'entreprise Austin Tech, qui cherche à redorer son image. Pour convaincre le PDG, William Austin, Darcy s'engage comme bénévole durant la période de Noël dans la fondation caritative gérée par l'entreprise.</desc>
+    <credits>
+      <director>David Weaver</director>
+      <actor>Candace Cameron</actor>
+      <actor>Warren Christie</actor>
+      <actor>Jordana Largy</actor>
+      <actor>Brenda Crichlow</actor>
+      <actor>Robert Markus</actor>
+      <actor>Lucia Walters</actor>
+      <writer>Sarah Montana</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107908669" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220163000 +0000" stop="20221220174000 +0000" channel="M6.fr">
+    <title lang="fr">Incroyables transformations</title>
+    <sub-title lang="fr">Allan - Virginie - Marion</sub-title>
+    <desc lang="fr">Des experts de la mode (Charla Carter, Léa Djadja et Nicolas Waldorf) ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de...</desc>
+    <credits>
+      <presenter>Charla Carter</presenter>
+      <presenter>Nicolas Waldorf</presenter>
+      <presenter>Léa Djadja</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104508509" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220174000 +0000" stop="20221220184500 +0000" channel="M6.fr">
+    <title lang="fr">Tous en cuisine, menus de fêtes avec Cyril Lignac</title>
+    <sub-title lang="fr">Emission 17</sub-title>
+    <desc lang="fr">Le chef Cyril Lignac et son commis Jérôme Anthony sont de retour pour vous faire passer des fêtes de fin d’année inoubliables.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Culinaire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108246977" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220184500 +0000" stop="20221220191000 +0000" channel="M6.fr">
+    <title lang="fr">Le 19.45</title>
+    <sub-title lang="fr">Le 1945 du 18/12/2022</sub-title>
+    <desc lang="fr">Le journal de M6.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925326" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220191000 +0000" stop="20221220193000 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220193000 +0000" stop="20221220201000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 27/09/22</sub-title>
+    <desc lang="fr">Élections municipales, noces de diamant, enjeux professionnels, passions amoureuses : vos couples préférés ont une vie encore bien mouvementée dans cette nouvelle saison toujours aussi drôle et savoureuse... !</desc>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220201000 +0000" stop="20221220222000 +0000" channel="M6.fr">
+    <title lang="fr">La France a un incroyable talent</title>
+    <sub-title lang="fr">Finale</sub-title>
+    <desc lang="fr">La France a un incroyable talent couronne ce soir son 17e grand gagnant. Pour cette dernière émission, ils sont 13 finalistes, chargés de séduire les téléspectateurs pour tenter de décrocher le Graal et les 100 000...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107653833" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220222000 +0000" stop="20221220232000 +0000" channel="M6.fr">
+    <title lang="fr">La France a un incroyable talent, ça continue</title>
+    <sub-title lang="fr">Emission 9</sub-title>
+    <desc lang="fr">Pour cette ultime émission, Pierre-Antoine Damecour dévoile les coulisses de la finale et recueille les réactions des différents candidats et notamment du vainqueur. Cette prolongation permet également de découvrir le...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107653789" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220232000 +0000" stop="20221221000000 +0000" channel="M6.fr">
+    <title lang="fr">Les incroyables talents de la musique</title>
+    <sub-title lang="fr">Émission 9</sub-title>
+    <desc lang="fr">Une sélection des meilleurs chanteurs et artistes vocaux passés sur la scène de La France a un incroyable talent ! Revivez le parcours fabuleux des meilleurs chanteurs et artistes vocaux. Durant leur passage, ils ont...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Mag Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102321448" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221000000 +0000" stop="20221221005000 +0000" channel="M6.fr">
+    <title lang="fr">Les incroyables talents de la musique</title>
+    <sub-title lang="fr">Émission 7</sub-title>
+    <desc lang="fr">Une sélection des meilleurs chanteurs et artistes vocaux passés sur la scène de La France a un incroyable talent ! Revivez le parcours fabuleux des meilleurs chanteurs et artistes vocaux. Durant leur passage, ils ont...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Mag Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102321448" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221005000 +0000" stop="20221221005500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221005500 +0000" stop="20221221050000 +0000" channel="M6.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221050000 +0000" stop="20221221054500 +0000" channel="M6.fr">
+    <title lang="fr">M6 Music</title>
+    <desc lang="fr">Avec M6 Music, découvrez les meilleurs tubes de la Pop. De quoi passer une nuit torride, ou alors de se réveiller le matin avec un plein d'énergie...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104551723" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221054500 +0000" stop="20221221061000 +0000" channel="M6.fr">
+    <title lang="fr">M6 Music Kid</title>
+    <sub-title lang="fr">Clips</sub-title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108439307" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221061000 +0000" stop="20221221062500 +0000" channel="M6.fr">
+    <title lang="fr">Les aventures de Paddington</title>
+    <sub-title lang="fr">Paddington passe Noël dehors</sub-title>
+    <desc lang="fr">Naïf et maladroit, Paddington est un jeune ourson péruvien qui découvre la vie londonienne en compagnie de la famille Brown. Qu'il s'agisse d'apprendre à jouer au foot, de faire des tâches domestiques ou d'aider un voisin malade, le quotidien est toujours une découverte pour Paddington. Et les catastrophes ne sont jamais très loin.</desc>
+    <credits>
+      <director>Marcos Da Silva</director>
+      <director>Chris Drew</director>
+      <director>Adam Shaw</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105536764" />
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221062500 +0000" stop="20221221063500 +0000" channel="M6.fr">
+    <title lang="fr">Baby Shark : l'aventure sous l'eau</title>
+    <sub-title lang="fr">Super requin</sub-title>
+    <desc lang="fr">Baby Shark et William s'inspirent de leur série préférée et deviennent des héros.</desc>
+    <credits>
+      <director>Mike Carlo</director>
+      <director>Raymond Santos</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108332162" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221063500 +0000" stop="20221221065500 +0000" channel="M6.fr">
+    <title lang="fr">Baby Shark : l'aventure sous l'eau</title>
+    <sub-title lang="fr">La forêt de Varech</sub-title>
+    <desc lang="fr">William ment pour avoir l'air courageux et doit en assumer les conséquences.</desc>
+    <credits>
+      <director>Mike Carlo</director>
+      <director>Raymond Santos</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108332162" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221065500 +0000" stop="20221221070500 +0000" channel="M6.fr">
+    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
+    <sub-title lang="fr">Le pou et le contre</sub-title>
+    <desc lang="fr">L'école étant fermée suite à une infestation de poux, Dave installe une salle de classe à la maison et joue les professeurs.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Dessin Anime</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100552131" />
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221070500 +0000" stop="20221221071500 +0000" channel="M6.fr">
+    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
+    <sub-title lang="fr">Catastrophe au château</sub-title>
+    <desc lang="fr">À l'origine d'un accident dans un château, Cheddar et Alvin doivent jouer les figurants dans des reconstitutions pour rembourser les dégâts.</desc>
+    <credits>
+      <director>Janice Karman</director>
+      <director>Vincent Waller</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Dessin Anime</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100552131" />
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221071500 +0000" stop="20221221072500 +0000" channel="M6.fr">
+    <title lang="fr">Presto ! Le manoir magique</title>
+    <sub-title lang="fr">Des parents encombrants</sub-title>
+    <desc lang="fr">Sentant que leur fils a un petit coup de mou, les parents de Vincent décident de passer quelques jours au Manoir. Pour ce dernier, c'est la honte ! Ça fait marrer les kids jusqu'au moment où les parents s'invitent dans toutes leurs activités. Là, ça devient lourd. Mais comment s'en débarrasser ?</desc>
+    <credits>
+      <director>Fabrice Fouquet</director>
+      <director>David Lopez</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106887836" />
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221072500 +0000" stop="20221221075000 +0000" channel="M6.fr">
+    <title lang="fr">Presto ! Le manoir magique</title>
+    <sub-title lang="fr">Vincent des As de pique</sub-title>
+    <desc lang="fr">En voulant intégrer la bande des As de Pique, Vincent se fait piéger. Il doit dérober la nouvelle invention de Lisa afin de la donner aux As sinon il aura des ennuis. Après plusieurs tentatives, il parvient à ses fins mais il est démasqué par Lisa et Dylan.</desc>
+    <credits>
+      <director>Fabrice Fouquet</director>
+      <director>David Lopez</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106887836" />
+    <episode-num system="onscreen">S1 E40</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221075000 +0000" stop="20221221090000 +0000" channel="M6.fr">
+    <title lang="fr">M6 Boutique</title>
+    <desc lang="fr">Retrouvez les dernières innovations et des offres exclusives en matière de bijoux, beauté, cuisine, maison.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104207250" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221090000 +0000" stop="20221221114000 +0000" channel="M6.fr">
+    <title lang="fr">En famille</title>
+    <sub-title lang="fr">Un si joyeux Noël</sub-title>
+    <desc lang="fr">Le quotidien de la famille Le Kervelec, rythmé autour de trois générations : les grands-parents Jacques et Brigitte, leurs filles Marjorie et Roxane, et leurs petits-enfants, les ados Antoine et Chloé et les jumeaux Hugo et Diego.</desc>
+    <credits>
+      <actor>Yves Pignot</actor>
+      <actor>Marie Vincent</actor>
+      <actor>Jeanne Savary</actor>
+      <actor>Charlie Bruneau</actor>
+      <actor>Tarek Boudali</actor>
+      <actor>Axel Huet</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925363" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221114000 +0000" stop="20221221114500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221114500 +0000" stop="20221221123000 +0000" channel="M6.fr">
+    <title lang="fr">Le 12.45</title>
+    <sub-title lang="fr">Le 1245 du 19/12/2022</sub-title>
+    <desc lang="fr">Retrouvez toute l'actualité de la mi-journée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67551851" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221123000 +0000" stop="20221221123500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221123500 +0000" stop="20221221130000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 26/08/22</sub-title>
+    <desc lang="fr">Votre couple vous désole ? Vous vous lamentez de vivre seul ? Scènes de Ménages va vous aider à relativiser !</desc>
+    <credits>
+      <actor>Audrey Lamy</actor>
+      <actor>Loup-Denis Elion</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Frédéric Bouraly</actor>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221130000 +0000" stop="20221221145500 +0000" channel="M6.fr">
+    <title lang="fr">Un Noël de star</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Addison Tate est la principale du collège de la petite ville de Mission City. Cette année, Noël aura un goût amer. En effet, l'établissement est menacé de fermeture en raison de coupes budgétaires. Afin de sauver son école et mobiliser des donateurs, Addison fait alors appel à Dylan Davidson, son premier amour devenu star de cinéma, pour faire la mise en scène du spectacle de Noël...</desc>
+    <credits>
+      <director>Graeme Campbell</director>
+      <actor>Cindy Sampson</actor>
+      <actor>Steve Byers</actor>
+      <actor>Arnold Pinnock</actor>
+      <actor>Samora Smallwood</actor>
+      <actor>Stefan Brogren</actor>
+      <actor>Aidan Vissers</actor>
+      <writer>Jason Delaney</writer>
+      <composer>Tim Jones</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108473795" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221145500 +0000" stop="20221221163000 +0000" channel="M6.fr">
+    <title lang="fr">Un Noël à réinventer</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Gérante d'une boutique de fleurs avec sa meilleure amie, Phoebe adore la période de Noël et attend avec impatience les festivités du Village de Noël. Lorsqu'elle apprend que l'événement est annulé, la jeune femme décide de participer à de nouvelles traditions de Noël. C'est là qu'elle fait une rencontre qui va changer sa vie.</desc>
+    <credits>
+      <director>Adrian Langley</director>
+      <actor>Beverley Mitchell</actor>
+      <actor>Mark Ghanime</actor>
+      <actor>Derek Johns</actor>
+      <actor>Benedicte Belizaire</actor>
+      <actor>Brett Geddes</actor>
+      <actor>Trudy Weiss</actor>
+      <writer>Emily Golden</writer>
+      <composer>Cameron Catalano</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103487466" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221163000 +0000" stop="20221221174000 +0000" channel="M6.fr">
+    <title lang="fr">Incroyables transformations</title>
+    <sub-title lang="fr">Séverine - Jonathan - Suzie</sub-title>
+    <desc lang="fr">Des experts de la mode (Charla Carter, Léa Djadja et Nicolas Waldorf) ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de...</desc>
+    <credits>
+      <presenter>Charla Carter</presenter>
+      <presenter>Nicolas Waldorf</presenter>
+      <presenter>Léa Djadja</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104508509" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221174000 +0000" stop="20221221184500 +0000" channel="M6.fr">
+    <title lang="fr">Tous en cuisine, menus de fêtes avec Cyril Lignac</title>
+    <sub-title lang="fr">Emission 18</sub-title>
+    <desc lang="fr">Le chef Cyril Lignac et son commis Jérôme Anthony sont de retour pour vous faire passer des fêtes de fin d’année inoubliables.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Culinaire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108246977" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221184500 +0000" stop="20221221191000 +0000" channel="M6.fr">
+    <title lang="fr">Le 19.45</title>
+    <sub-title lang="fr">Le 1945 du 18/12/2022</sub-title>
+    <desc lang="fr">Le journal de M6.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925326" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221191000 +0000" stop="20221221193000 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221193000 +0000" stop="20221221201000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 27/09/22</sub-title>
+    <desc lang="fr">Élections municipales, noces de diamant, enjeux professionnels, passions amoureuses : vos couples préférés ont une vie encore bien mouvementée dans cette nouvelle saison toujours aussi drôle et savoureuse... !</desc>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221201000 +0000" stop="20221221214000 +0000" channel="M6.fr">
+    <title lang="fr">Les blagues de Toto</title>
+    <sub-title lang="fr">Film Jeunesse</sub-title>
+    <desc lang="fr">Jérôme traîne  son fils Toto, un enfant blagueur à l’inauguration du musée local dédié à son patron, Roger Justin-Petit. Au moment où ce dernier prononce son discours, une sculpture s’écrase et cela détruit les oeuvres exposées. Immédiatement désigné comme coupable, Toto, qui risque l’internat, va tout tenter pour prouver son innocence...</desc>
+    <credits>
+      <director>Pascal Bourdiaux</director>
+      <actor>Gavril Dartevelle</actor>
+      <actor>Guillaume de Tonquédec</actor>
+      <actor>Anne Marivin</actor>
+      <actor>Ramzy Bedia</actor>
+      <actor>Daniel Prévost</actor>
+      <actor>Isabelle Candelier</actor>
+      <writer>Thierry Coppée</writer>
+      <writer>Mathias Gavarry</writer>
+      <writer>Gaël Leforestier</writer>
+      <writer>Julien Leimdorfer</writer>
+      <composer>Romain Trouillet</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101048175" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221214000 +0000" stop="20221221233000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">Tenue correcte exigée</sub-title>
+    <desc lang="fr">De nouveaux venus s'invitent chez les quatre couples de ce programme. Parmi eux, André Manoukian incarne le professeur de piano de Raymond et Huguette, Frédérique Bel est Pénélope, l'assistante autoritaire de José à la mairie, et Norman joue le rôle du jeune propriétaire de l'appartement de Marion et Cédric...</desc>
+    <credits>
+      <actor>Audrey Lamy</actor>
+      <actor>Loup-Denis Elion</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Frédéric Bouraly</actor>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <episode-num system="onscreen">S0 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221233000 +0000" stop="20221222004500 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 26/08/22</sub-title>
+    <desc lang="fr">Votre couple vous désole ? Vous vous lamentez de vivre seul ? Scènes de Ménages va vous aider à relativiser !</desc>
+    <credits>
+      <actor>Audrey Lamy</actor>
+      <actor>Loup-Denis Elion</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Frédéric Bouraly</actor>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222004500 +0000" stop="20221222005000 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222005000 +0000" stop="20221222050000 +0000" channel="M6.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222050000 +0000" stop="20221222054500 +0000" channel="M6.fr">
+    <title lang="fr">M6 Music</title>
+    <desc lang="fr">Avec M6 Music, découvrez les meilleurs tubes de la Pop. De quoi passer une nuit torride, ou alors de se réveiller le matin avec un plein d'énergie...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104551723" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222054500 +0000" stop="20221222061000 +0000" channel="M6.fr">
+    <title lang="fr">M6 Music Kid</title>
+    <sub-title lang="fr">Clips</sub-title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108439307" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222061000 +0000" stop="20221222062500 +0000" channel="M6.fr">
+    <title lang="fr">Les aventures de Paddington</title>
+    <sub-title lang="fr">Le cadeau de Paddington</sub-title>
+    <desc lang="fr">Pour son anniversaire, les Brown emmènent Paddington à Londres, mais ils le perdent en route !</desc>
+    <credits>
+      <director>Marcos Da Silva</director>
+      <director>Chris Drew</director>
+      <director>Adam Shaw</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105536764" />
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222062500 +0000" stop="20221222063500 +0000" channel="M6.fr">
+    <title lang="fr">Baby Shark : l'aventure sous l'eau</title>
+    <sub-title lang="fr">Le trésor légendaire</sub-title>
+    <desc lang="fr">La famille Shark trouve une carte qui mène au Trésor Légendaire et forme deux équipes pour le chercher.</desc>
+    <credits>
+      <director>Mike Carlo</director>
+      <director>Raymond Santos</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108332162" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222063500 +0000" stop="20221222065500 +0000" channel="M6.fr">
+    <title lang="fr">Baby Shark : l'aventure sous l'eau</title>
+    <sub-title lang="fr">La journée du oui</sub-title>
+    <desc lang="fr">Baby persuade son papa de dire  oui  à tout ce qu'on lui propose pendant toute une journée.</desc>
+    <credits>
+      <director>Mike Carlo</director>
+      <director>Raymond Santos</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108332162" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222065500 +0000" stop="20221222070500 +0000" channel="M6.fr">
+    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
+    <sub-title lang="fr">Bêtes de scène</sub-title>
+    <desc lang="fr">Alvin a accepté que le groupe anime une fête d'anniversaire, mais on leur demande de jouer les animaux de la mini-ferme.</desc>
+    <credits>
+      <director>Janice Karman</director>
+      <director>Vincent Waller</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Dessin Anime</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100552131" />
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222070500 +0000" stop="20221222071500 +0000" channel="M6.fr">
+    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
+    <sub-title lang="fr">L'allergie</sub-title>
+    <desc lang="fr">Alors qu'il s'entraîne pour un concours de pâtisserie télévisé, Théodore développe une allergie à un ingrédient inconnu.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Dessin Anime</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100552131" />
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222071500 +0000" stop="20221222072500 +0000" channel="M6.fr">
+    <title lang="fr">Presto ! Le manoir magique</title>
+    <sub-title lang="fr">La magie de l'amour</sub-title>
+    <desc lang="fr">Alors qu'ils sont réunis au Monde des Merveilles, les kids se rendent compte que Truman en pince pour Emilie. Malheureusement, le garçon est très maladroit. Dylan et Nica aident Truman à travailler un tour pour impressionner Emilie et Lisa et Violette cherchent à savoir si les deux sont compatibles.</desc>
+    <credits>
+      <director>Fabrice Fouquet</director>
+      <director>David Lopez</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106887836" />
+    <episode-num system="onscreen">S1 E29</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222072500 +0000" stop="20221222075000 +0000" channel="M6.fr">
+    <title lang="fr">Presto ! Le manoir magique</title>
+    <sub-title lang="fr">Le théâtre des illusions</sub-title>
+    <desc lang="fr">C'est l'effervescence à Presto : une inspectrice va arriver et tout doit être parfait. C'est alors qu'un accident ruine le théâtre.</desc>
+    <credits>
+      <director>Fabrice Fouquet</director>
+      <director>David Lopez</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106887836" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222075000 +0000" stop="20221222090000 +0000" channel="M6.fr">
+    <title lang="fr">M6 Boutique</title>
+    <desc lang="fr">Retrouvez les dernières innovations et des offres exclusives en matière de bijoux, beauté, cuisine, maison.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104207250" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222090000 +0000" stop="20221222114000 +0000" channel="M6.fr">
+    <title lang="fr">En famille</title>
+    <sub-title lang="fr">Un si joyeux Noël</sub-title>
+    <desc lang="fr">Le quotidien de la famille Le Kervelec, rythmé autour de trois générations : les grands-parents Jacques et Brigitte, leurs filles Marjorie et Roxane, et leurs petits-enfants, les ados Antoine et Chloé et les jumeaux Hugo et Diego.</desc>
+    <credits>
+      <actor>Yves Pignot</actor>
+      <actor>Marie Vincent</actor>
+      <actor>Jeanne Savary</actor>
+      <actor>Charlie Bruneau</actor>
+      <actor>Tarek Boudali</actor>
+      <actor>Axel Huet</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925363" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222114000 +0000" stop="20221222114500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222114500 +0000" stop="20221222123000 +0000" channel="M6.fr">
+    <title lang="fr">Le 12.45</title>
+    <sub-title lang="fr">Le 1245 du 19/12/2022</sub-title>
+    <desc lang="fr">Retrouvez toute l'actualité de la mi-journée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67551851" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222123000 +0000" stop="20221222123500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222123500 +0000" stop="20221222130000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 26/08/22</sub-title>
+    <desc lang="fr">Votre couple vous désole ? Vous vous lamentez de vivre seul ? Scènes de Ménages va vous aider à relativiser !</desc>
+    <credits>
+      <actor>Audrey Lamy</actor>
+      <actor>Loup-Denis Elion</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Frédéric Bouraly</actor>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222130000 +0000" stop="20221222145500 +0000" channel="M6.fr">
+    <title lang="fr">Noël en escarpins</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Chaque année, la grand-mère de Noëlle lui offre une paire de chaussures lui ayant appartenu qui auraient des pouvoirs magiques. Mais depuis une mauvaise expérience passée, Noëlle n'y croit plus. Jusqu'au jour où elle rencontre le charmant John Reid, tout en étant chaussée de magnifiques escarpins roses...</desc>
+    <credits>
+      <director>Robin Dunne</director>
+      <actor>Erin Karpluk</actor>
+      <actor>Damon Runyan</actor>
+      <actor>Genelle Williams</actor>
+      <actor>Drew Nelson</actor>
+      <actor>Howard Hoover</actor>
+      <actor>Connie Wang</actor>
+      <writer>Rickie Castaneda</writer>
+      <writer>Megan Hocking</writer>
+      <composer>Stacey Hersh</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108473762" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222145500 +0000" stop="20221222163000 +0000" channel="M6.fr">
+    <title lang="fr">Un Noël royal</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Kristin, une employée se voit accorder par sa patronne une mission à la hauteur de ses espérances. La jeune femme est chargée du défilé de mode de Noël, organisé pour le roi d'Edgemoor, mais elle ignore que l'évènement est présidé par le prince Patrick en personne. Ce dernier va tomber sous son charme...</desc>
+    <credits>
+      <director>Fred Olen Ray</director>
+      <actor>Cindy Busby</actor>
+      <actor>Diarmaid Murtagh</actor>
+      <actor>Michael Paré</actor>
+      <actor>Adam Levy</actor>
+      <actor>Meredith Thomas</actor>
+      <actor>Jason Cook</actor>
+      <writer>Fred Olen Ray</writer>
+      <composer>Chris Cano</composer>
+      <composer>Chris Ridenhour</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108473683" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222163000 +0000" stop="20221222174000 +0000" channel="M6.fr">
+    <title lang="fr">Incroyables transformations</title>
+    <sub-title lang="fr">Soline / Sylvie / Marie-Christine</sub-title>
+    <desc lang="fr">Des experts de la mode (Charla Carter, Léa Djadja et Nicolas Waldorf) ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de...</desc>
+    <credits>
+      <presenter>Charla Carter</presenter>
+      <presenter>Nicolas Waldorf</presenter>
+      <presenter>Léa Djadja</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104508509" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222174000 +0000" stop="20221222184500 +0000" channel="M6.fr">
+    <title lang="fr">Tous en cuisine, menus de fêtes avec Cyril Lignac</title>
+    <sub-title lang="fr">Emission 19</sub-title>
+    <desc lang="fr">Le chef Cyril Lignac et son commis Jérôme Anthony sont de retour pour vous faire passer des fêtes de fin d'année inoubliables. Cyril Lignac vous propose 25 nouvelles recettes de Noël, toutes gourmandes, raffinées et réalisables en 50 minutes pour impressionner vos convives. Tournedos de bœuf façon Rossini, volaille farcie aux marrons et clémentines, croustillant de boudin blanc à la truffe, pain perdu aux poires et caramel de noisettes, bûche aux agrumes s'invitent au menu et n'auront plus de secrets pour vous.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Culinaire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108246977" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222184500 +0000" stop="20221222191000 +0000" channel="M6.fr">
+    <title lang="fr">Le 19.45</title>
+    <sub-title lang="fr">Le 1945 du 18/12/2022</sub-title>
+    <desc lang="fr">Le journal de M6.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925326" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222191000 +0000" stop="20221222193000 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222193000 +0000" stop="20221222201000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 27/09/22</sub-title>
+    <desc lang="fr">Élections municipales, noces de diamant, enjeux professionnels, passions amoureuses : vos couples préférés ont une vie encore bien mouvementée dans cette nouvelle saison toujours aussi drôle et savoureuse... !</desc>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222201000 +0000" stop="20221222221500 +0000" channel="M6.fr">
+    <title lang="fr">40 ans de bêtisiers : le grand classement</title>
+    <sub-title lang="fr">Divertissement humour</sub-title>
+    <desc lang="fr">A l'occasion des fêtes de fin d'année, M6 a lancé un sondage afin d'élire l'extrait qui a le plus fait rire les Français lors de ces 40 dernières années de télévision. Quel dérapage en direct a fait le plus rire ?...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divertissement humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108473808" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222221500 +0000" stop="20221222230000 +0000" channel="M6.fr">
+    <title lang="fr">Johnny par Laeticia</title>
+    <desc lang="fr">Pendant 20 ans, Laeticia et Johnny ont filmé leur vie, comme un journal intime. A l'occasion des 5 ans de la mort de l'idole des Français, ces images inédites sont dévoilées dans un documentaire exceptionnel, unique et sincère. Laeticia s'y livre comme jamais elle ne l'a fait sur le grand amour de sa vie. Ces images variées permettent de retracer le parcours de Johnny durant ses 20 dernières années.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Doc Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108340840" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222230000 +0000" stop="20221223001500 +0000" channel="M6.fr">
+    <title lang="fr">Johnny par Laeticia</title>
+    <desc lang="fr">Des archives personnelles, tournées au camescope ou via smartphone, retracent les vingt dernières années de la vie de Johnny Hallyday. En fil rouge de ce documentaire, Laeticia évoque les moments marquants passés aux côtés de la rock star, de leur rencontre à Miami en 1995 jusqu'à la mort du chanteur en décembre 2017. Ces images personnelles retracent l'ultime renaissance de Johnny Hallyday.</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Doc Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108340840" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223001500 +0000" stop="20221223015500 +0000" channel="M6.fr">
+    <title lang="fr">Johnny : l'immortel</title>
+    <sub-title lang="fr">Doc. Musique</sub-title>
+    <desc lang="fr">Le parcours de Johnny Hallyday, raconté par lui-même, grâce à un montage d'extraits de ses innombrables interviews télévisées ou radiophoniques, illustrées par des images d'archives. Mais, c'est surtout à travers ses chansons que Johnny se raconte : ses amours avec Sylvie, Nathalie ou Laëticia, ses enfants, sa passion pour la musique, mais aussi ses coups durs, ses ruptures, ses accidents et sa solitude.</desc>
+    <credits>
+      <director>Louis Lanher</director>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Doc Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108292920" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223015500 +0000" stop="20221223020000 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223020000 +0000" stop="20221223050000 +0000" channel="M6.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223050000 +0000" stop="20221223054500 +0000" channel="M6.fr">
+    <title lang="fr">M6 Music</title>
+    <desc lang="fr">Avec M6 Music, découvrez les meilleurs tubes de la Pop. De quoi passer une nuit torride, ou alors de se réveiller le matin avec un plein d'énergie...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104551723" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223054500 +0000" stop="20221223061000 +0000" channel="M6.fr">
+    <title lang="fr">M6 Music Kid</title>
+    <sub-title lang="fr">Clips</sub-title>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108439307" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223061000 +0000" stop="20221223062500 +0000" channel="M6.fr">
+    <title lang="fr">Les aventures de Paddington</title>
+    <sub-title lang="fr">Le cadeau de Paddington</sub-title>
+    <desc lang="fr">Paddington finit à la Tour de Londres et s'approche un peu trop près des joyaux de la couronne, ce qui lui vaut de rencontrer un gardien… et un couple royal !</desc>
+    <credits>
+      <director>Marcos Da Silva</director>
+      <director>Chris Drew</director>
+      <director>Adam Shaw</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105536764" />
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223062500 +0000" stop="20221223065500 +0000" channel="M6.fr">
+    <title lang="fr">Baby Shark : l'aventure sous l'eau</title>
+    <sub-title lang="fr">L'étrange Noalgue de Baby Shark</sub-title>
+    <desc lang="fr">Baby et William ont commandé au Père Noalgue un jouet en vogue, la Rotobulle. Mais ce dernier a disparu ! Ils devront le retrouver pour sauver Noalgue et mettre la nageoire sur leur cadeau.</desc>
+    <credits>
+      <director>Mike Carlo</director>
+      <director>Raymond Santos</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108332162" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223065500 +0000" stop="20221223070500 +0000" channel="M6.fr">
+    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
+    <sub-title lang="fr">Le pire Noël</sub-title>
+    <desc lang="fr">Théodore est confondu avec un lutin et se retrouve au Pôle Nord à fabriquer des jouets dans l'atelier du Père Noël.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Dessin Anime</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100552131" />
+    <episode-num system="onscreen">S4 E26</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223070500 +0000" stop="20221223071500 +0000" channel="M6.fr">
+    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
+    <sub-title lang="fr">Le pire Noël</sub-title>
+    <desc lang="fr">Théodore est confondu avec un lutin et se retrouve au Pôle Nord à fabriquer des jouets dans l'atelier du Père Noël.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Dessin Anime</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100552131" />
+    <episode-num system="onscreen">S4 E26</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223071500 +0000" stop="20221223072500 +0000" channel="M6.fr">
+    <title lang="fr">Presto ! Le manoir magique</title>
+    <sub-title lang="fr">L'incroyable talent de Violette</sub-title>
+    <desc lang="fr">Violette a deux passions, la magie et la harpe métal. Quand elle décide de participer aux auditions d' Etoiles chantantes , ses amis sont embêtés. Elle pourrait quitter l'école mais surtout, elle est vraiment mauvaise. Comment lui dire sans la vexer ? Les animaux, eux, n'en peuvent plus et volent l'instrument.</desc>
+    <credits>
+      <director>Fabrice Fouquet</director>
+      <director>David Lopez</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106887836" />
+    <episode-num system="onscreen">S1 E30</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223072500 +0000" stop="20221223075000 +0000" channel="M6.fr">
+    <title lang="fr">Presto ! Le manoir magique</title>
+    <sub-title lang="fr">Tonnerre disparue</sub-title>
+    <desc lang="fr">Kurt Dendedragon est au Manoir pour tourner un documentaire. Alors qu'il effectue un tour, Tonnerre disparaît.</desc>
+    <credits>
+      <director>Fabrice Fouquet</director>
+      <director>David Lopez</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Serie Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106887836" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223075000 +0000" stop="20221223090000 +0000" channel="M6.fr">
+    <title lang="fr">M6 Boutique</title>
+    <desc lang="fr">Retrouvez les dernières innovations et des offres exclusives en matière de bijoux, beauté, cuisine, maison.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Teleachat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104207250" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223090000 +0000" stop="20221223114000 +0000" channel="M6.fr">
+    <title lang="fr">En famille</title>
+    <sub-title lang="fr">Un si joyeux Noël</sub-title>
+    <desc lang="fr">Le quotidien de la famille Le Kervelec, rythmé autour de trois générations : les grands-parents Jacques et Brigitte, leurs filles Marjorie et Roxane, et leurs petits-enfants, les ados Antoine et Chloé et les jumeaux Hugo et Diego.</desc>
+    <credits>
+      <actor>Yves Pignot</actor>
+      <actor>Marie Vincent</actor>
+      <actor>Jeanne Savary</actor>
+      <actor>Charlie Bruneau</actor>
+      <actor>Tarek Boudali</actor>
+      <actor>Axel Huet</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925363" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223114000 +0000" stop="20221223114500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223114500 +0000" stop="20221223123000 +0000" channel="M6.fr">
+    <title lang="fr">Le 12.45</title>
+    <sub-title lang="fr">Le 1245 du 19/12/2022</sub-title>
+    <desc lang="fr">Retrouvez toute l'actualité de la mi-journée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67551851" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223123000 +0000" stop="20221223123500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223123500 +0000" stop="20221223130000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 26/08/22</sub-title>
+    <desc lang="fr">Votre couple vous désole ? Vous vous lamentez de vivre seul ? Scènes de Ménages va vous aider à relativiser !</desc>
+    <credits>
+      <actor>Audrey Lamy</actor>
+      <actor>Loup-Denis Elion</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Frédéric Bouraly</actor>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223130000 +0000" stop="20221223145500 +0000" channel="M6.fr">
+    <title lang="fr">Sur un air de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Tout oppose Lindsey, chanteuse, et Wes, pianiste, à part la musique. Alors qu'ils se produisent dans le même club, le courant ne passe pas jusqu'à ce qu'ils découvrent qu'ils sont originaires de la même région. Lindsey et Wes décident alors de faire le voyage ensemble en voiture pour rentrer chez eux...</desc>
+    <credits>
+      <director>Peter Sullivan</director>
+      <actor>Marla Sokoloff</actor>
+      <actor>Rob Mayes</actor>
+      <actor>Marie Osmond</actor>
+      <actor>Jacob Young</actor>
+      <actor>Jan Broberg</actor>
+      <actor>Anna Daines</actor>
+      <writer>Cassie Doyle</writer>
+      <composer>Matthew Janszen</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108490612" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223145500 +0000" stop="20221223163000 +0000" channel="M6.fr">
+    <title lang="fr">Le charme de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Alors que Chelsea vient de voir une de ses collègues s'approprier son idée d'application, sa vie est chamboulée par l'arrivée en direct du pôle Nord de la Mère Noël, dont l'aide magique s'avère précieuse. La jeune femme trouve du réconfort auprès de son voisin Fisher, grand adepte de Noël, tout comme elle...</desc>
+    <credits>
+      <director>Jake Helgren</director>
+      <actor>Vanessa Lengies</actor>
+      <actor>Evan Williams</actor>
+      <actor>Katherine Bailess</actor>
+      <actor>Julie McNiven</actor>
+      <actor>Morgan Fairchild</actor>
+      <actor>Nikki SooHoo</actor>
+      <writer>Jake Helgren</writer>
+      <composer>Chad Rehmann</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108490576" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223163000 +0000" stop="20221223174000 +0000" channel="M6.fr">
+    <title lang="fr">Incroyables transformations</title>
+    <sub-title lang="fr">Julie - Aurélie - Virginie</sub-title>
+    <desc lang="fr">Des experts de la mode (Charla Carter, Léa Djadja et Nicolas Waldorf) ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de...</desc>
+    <credits>
+      <presenter>Charla Carter</presenter>
+      <presenter>Nicolas Waldorf</presenter>
+      <presenter>Léa Djadja</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104508509" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223174000 +0000" stop="20221223184500 +0000" channel="M6.fr">
+    <title lang="fr">Tous en cuisine, menus de fêtes avec Cyril Lignac</title>
+    <sub-title lang="fr">Emission 20</sub-title>
+    <desc lang="fr">Le chef Cyril Lignac et son commis Jérôme Anthony sont de retour pour vous faire passer des fêtes de fin d'année inoubliables. Cyril Lignac vous propose 25 nouvelles recettes de Noël, toutes gourmandes, raffinées et réalisables en 50 minutes pour impressionner vos convives. Tournedos de bœuf façon Rossini, volaille farcie aux marrons et clémentines, croustillant de boudin blanc à la truffe, pain perdu aux poires et caramel de noisettes, bûche aux agrumes s'invitent au menu et n'auront plus de secrets pour vous.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Culinaire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108246977" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223184500 +0000" stop="20221223191000 +0000" channel="M6.fr">
+    <title lang="fr">Le 19.45</title>
+    <sub-title lang="fr">Le 1945 du 18/12/2022</sub-title>
+    <desc lang="fr">Le journal de M6.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925326" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223191000 +0000" stop="20221223193000 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223193000 +0000" stop="20221223201000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 27/09/22</sub-title>
+    <desc lang="fr">Élections municipales, noces de diamant, enjeux professionnels, passions amoureuses : vos couples préférés ont une vie encore bien mouvementée dans cette nouvelle saison toujours aussi drôle et savoureuse... !</desc>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223201000 +0000" stop="20221223220000 +0000" channel="M6.fr">
+    <title lang="fr">Le livre de la jungle</title>
+    <sub-title lang="fr">Film Aventure</sub-title>
+    <desc lang="fr">Mowgli, un petit garçon, est recueilli par une panthère noire nommée Bagheera et une meute de loups. Mais un jour, Shere Khan, un terrible tigre mangeur d'hommes, jure de l'éliminer. Mowgli et Bagheera décident donc de quitter la jungle et de trouver refuge dans le village le plus proche...</desc>
+    <credits>
+      <director>Jon Favreau</director>
+      <actor>Ritesh Rajan</actor>
+      <actor>Kendrick Reyes</actor>
+      <writer>Justin  Marks</writer>
+      <composer>John Debney</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Aventure</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67971769" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223220000 +0000" stop="20221223234000 +0000" channel="M6.fr">
+    <title lang="fr">Casse-Noisette et les quatre royaumes</title>
+    <sub-title lang="fr">Film Fantastique</sub-title>
+    <desc lang="fr">Avant sa disparition, une géniale inventrice laisse à sa fille Clara une mystérieuse clé. Mais celle-ci se volatilise dans un monde merveilleux. Clara parvient à y entrer, fait entre autres la connaissance du soldat Philipp et tente de retablir l'harmonie, menacée par Mère Ginger, dans quatre royaumes...</desc>
+    <credits>
+      <director>Lasse Hallström</director>
+      <director>Joe Johnston</director>
+      <actor>Keira Knightley</actor>
+      <actor>Mackenzie Foy</actor>
+      <actor>Helen Mirren</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Eugenio Derbez</actor>
+      <actor>Matthew Macfadyen</actor>
+      <writer>Ashleigh Powell</writer>
+      <writer>Tom McCarthy</writer>
+      <composer>James Newton Howard</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Fantastique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/85250903" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223234000 +0000" stop="20221224011500 +0000" channel="M6.fr">
+    <title lang="fr">Comme les Noëls de mon enfance</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Peu de temps avant Noël, Amélia, qui développe des applications marketing, retourne dans sa petite ville natale de Christmas Creek. Elle y retrouve son oncle Harry, grâce à qui elle va renouer avec une tradition de son enfance. Cela la rapproche de son meilleur ami lorsqu'elle était petite, Mike...</desc>
+    <credits>
+      <director>Don McBrearty</director>
+      <actor>Tori Anderson</actor>
+      <actor>Stephen Huszar</actor>
+      <actor>Steven Weber</actor>
+      <actor>Kari Matchett</actor>
+      <actor>Janet Porter</actor>
+      <actor>Lyla Elliott</actor>
+      <writer>Kirsten Hansen</writer>
+      <composer>Sean Nimmons-Paterson</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103107357" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224011500 +0000" stop="20221224012000 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224012000 +0000" stop="20221224050000 +0000" channel="M6.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224050000 +0000" stop="20221224060000 +0000" channel="M6.fr">
+    <title lang="fr">M6 Music</title>
+    <desc lang="fr">Avec M6 Music, découvrez les meilleurs tubes de la Pop. De quoi passer une nuit torride, ou alors de se réveiller le matin avec un plein d'énergie...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104551723" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224060000 +0000" stop="20221224091000 +0000" channel="M6.fr">
+    <title lang="fr">Absolument stars</title>
+    <desc lang="fr">Une émission qui traite de l'actualité people et musicale. Elle permet de faire découvrir les dessous du show business avec des clips, des interviews de stars, des reportages, les sorties cinéma et DVD, l'agenda...</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag People</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100146196" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224091000 +0000" stop="20221224100000 +0000" channel="M6.fr">
+    <title lang="fr">66 minutes : grand format</title>
+    <sub-title lang="fr">Féérie de Noël au Grand Magasin</sub-title>
+    <desc lang="fr">Reportages, portraits, enquêtes, 66 Minutes : grand format explore l'actualité avec un reportage sur un fait divers, un phénomène de société ou un événement de l'actualité internationale.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224100000 +0000" stop="20221224105000 +0000" channel="M6.fr">
+    <title lang="fr">66 minutes : grand format</title>
+    <sub-title lang="fr">Féérie de Noël au Grand Magasin</sub-title>
+    <desc lang="fr">Reportages, portraits, enquêtes, 66 Minutes : grand format explore l'actualité avec un reportage sur un fait divers, un phénomène de société ou un événement de l'actualité internationale.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224105000 +0000" stop="20221224114000 +0000" channel="M6.fr">
+    <title lang="fr">66 minutes : grand format</title>
+    <sub-title lang="fr">Féérie de Noël au Grand Magasin</sub-title>
+    <desc lang="fr">Reportages, portraits, enquêtes, 66 Minutes : grand format explore l'actualité avec un reportage sur un fait divers, un phénomène de société ou un événement de l'actualité internationale.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224114000 +0000" stop="20221224114500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224114500 +0000" stop="20221224122500 +0000" channel="M6.fr">
+    <title lang="fr">Le 12.45</title>
+    <sub-title lang="fr">Le 1245 du 19/12/2022</sub-title>
+    <desc lang="fr">Retrouvez toute l'actualité de la mi-journée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67551851" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224122500 +0000" stop="20221224133500 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 26/08/22</sub-title>
+    <desc lang="fr">Votre couple vous désole ? Vous vous lamentez de vivre seul ? Scènes de Ménages va vous aider à relativiser !</desc>
+    <credits>
+      <actor>Audrey Lamy</actor>
+      <actor>Loup-Denis Elion</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Frédéric Bouraly</actor>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224133500 +0000" stop="20221224152500 +0000" channel="M6.fr">
+    <title lang="fr">Sous les lumières de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Hazel est une artiste brillante mais en panne d'inspiration. Quand sa sœur Kara lui propose une mission pour décorer un hall d'hôtel sur le thème de Noël, elle accepte ce nouveau défi. Le directeur de l'hôtel, Jonah, est d'abord très sceptique face aux idées de la jeune artiste, mais tous deux vont travailler ensemble pour convaincre Luca, le très exigeant propriétaire de l'hôtel.</desc>
+    <credits>
+      <director>Bill Corcoran</director>
+      <actor>Sara Canning</actor>
+      <actor>Julian Richings</actor>
+      <actor>Robin Dunne</actor>
+      <actor>Farrah Aviva</actor>
+      <actor>Jennifer Gibson</actor>
+      <actor>Kyana Teresa</actor>
+      <writer>Caitlin English</writer>
+      <composer>Stacey Hersh</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108505225" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224152500 +0000" stop="20221224170500 +0000" channel="M6.fr">
+    <title lang="fr">La belle et la bête</title>
+    <sub-title lang="fr">Film Animation</sub-title>
+    <desc lang="fr">Un prince refuse, un soir, l'hospitalité à une vieille dame transie de froid. Celle-ci s'avère être une fée qui ensorcelle aussitôt le prince caractériel. Celui-ci devra vivre le reste de ses jours sous l'apparence d'une effrayante bête, à moins qu'il ne trouve rapidement l'élue de son coeur...</desc>
+    <credits>
+      <director>Gary Trousdale</director>
+      <director>Kirk Wise</director>
+      <writer>Linda Woolverton</writer>
+      <writer>Roger Allers</writer>
+      <writer>Brenda Chapman</writer>
+      <writer>Burny Mattinson</writer>
+      <composer>Alan Menken</composer>
+    </credits>
+    <date>1991</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/77423915" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224170500 +0000" stop="20221224184500 +0000" channel="M6.fr">
+    <title lang="fr">La belle et le clochard</title>
+    <sub-title lang="fr">Film Animation</sub-title>
+    <desc lang="fr">Belle est une femelle cocker qui vit heureuse avec ses maîtres. Chouchoutée, elle est reléguée au second plan lorsqu'un bébé nait dans la maisonnée. La tante Sarah, accompagnée de ses chats siamois, vient s'occuper du rejeton ; c'en est trop pour Belle. Elle fuge et croise la route d'un corniaud roublard...</desc>
+    <credits>
+      <director>Hamilton Luske</director>
+      <director>Clyde Geronimi</director>
+      <director>Wilfred Jackson</director>
+      <composer>Oliver Wallace</composer>
+    </credits>
+    <date>1955</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/65700741" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224184500 +0000" stop="20221224191000 +0000" channel="M6.fr">
+    <title lang="fr">Le 19.45</title>
+    <sub-title lang="fr">Le 1945 du 18/12/2022</sub-title>
+    <desc lang="fr">Le journal de M6.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925326" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224191000 +0000" stop="20221224192500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224192500 +0000" stop="20221224201000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 26/08/22</sub-title>
+    <desc lang="fr">Votre couple vous désole ? Vous vous lamentez de vivre seul ? Scènes de Ménages va vous aider à relativiser !</desc>
+    <credits>
+      <actor>Audrey Lamy</actor>
+      <actor>Loup-Denis Elion</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Frédéric Bouraly</actor>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224201000 +0000" stop="20221224215500 +0000" channel="M6.fr">
+    <title lang="fr">Playmobil : le film</title>
+    <sub-title lang="fr">Film Animation</sub-title>
+    <desc lang="fr">Très inquiète, Marla a perdu la trace de son petit frère Charlie, 10 ans. Elle va tout tenter pour le retrouver dans le monde merveilleux de Playmobil. En chemin, elle rencontre Del, au volant de son food truck qui lui propose de faire équipe avec Rex Dasher, un agent secret élégant à la James Bond...</desc>
+    <credits>
+      <director>Lino DiSalvo</director>
+      <writer>Blaise Hemingway</writer>
+      <writer>Greg Erb</writer>
+      <writer>Jason Oremland</writer>
+      <composer>Heitor Pereira</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93318541" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224215500 +0000" stop="20221224230500 +0000" channel="M6.fr">
+    <title lang="fr">L'affaire Tournesol</title>
+    <sub-title lang="fr">Téléfilm Animation</sub-title>
+    <desc lang="fr">Les riverains comme les habitants du château de Moulinsart sont inquiets. Depuis quelque temps, vitres et bouteilles de lait se brisent mystérieusement aux abords de la paisible demeure. Le phénomène cesse lorsque le professeur Tournesol s'absente pour assister à un congrès de physique nucléaire en Suisse...</desc>
+    <credits>
+      <director>Ray Goossens</director>
+      <writer>Charles Shows</writer>
+    </credits>
+    <date>1964</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Animation</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/105496760" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224230500 +0000" stop="20221225004500 +0000" channel="M6.fr">
+    <title lang="fr">La princesse de Noël</title>
+    <sub-title lang="fr">Téléfilm Comédie sentimentale</sub-title>
+    <desc lang="fr">Jessica vient d'ouvrir son restaurant et peine encore à se faire connaître. Alors que les charges s'accumulent, elle craint de devoir mettre la clé sous la porte. Lorsqu'elle rencontre par hasard le prince Jack, ce dernier lui propose d'organiser le banquet traditionnel de Noël pour sa famille...</desc>
+    <credits>
+      <director>Fred Olen Ray</director>
+      <actor>Shein Mompremier</actor>
+      <actor>Travis Burns</actor>
+      <actor>Erin Gray</actor>
+      <actor>Andy Lauer</actor>
+      <actor>Robert Pierce</actor>
+      <actor>Galyn Görg</actor>
+      <writer>Fred Olen Ray</writer>
+      <writer>Peter Sullivan</writer>
+      <composer>Chris Cano</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Telefilms</category>
+    <category lang="fr">Telefilm Comedie sentimentale</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/103370340" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225004500 +0000" stop="20221225005000 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225005000 +0000" stop="20221225050000 +0000" channel="M6.fr">
+    <title lang="fr">Programmes de la nuit</title>
+    <sub-title lang="fr">Divers</sub-title>
+    <desc lang="fr">Retrouvez tous vos programmes de nuit.</desc>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100372850" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225050000 +0000" stop="20221225080000 +0000" channel="M6.fr">
+    <title lang="fr">M6 Music</title>
+    <desc lang="fr">Avec M6 Music, découvrez les meilleurs tubes de la Pop. De quoi passer une nuit torride, ou alors de se réveiller le matin avec un plein d'énergie...</desc>
+    <date>2022</date>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Clips</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104551723" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225080000 +0000" stop="20221225085000 +0000" channel="M6.fr">
+    <title lang="fr">En famille</title>
+    <sub-title lang="fr">Un si joyeux Noël</sub-title>
+    <desc lang="fr">Série.</desc>
+    <credits>
+      <actor>Yves Pignot</actor>
+      <actor>Marie Vincent</actor>
+      <actor>Jeanne Savary</actor>
+      <actor>Charlie Bruneau</actor>
+      <actor>Tarek Boudali</actor>
+      <actor>Axel Huet</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925363" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225085000 +0000" stop="20221225095000 +0000" channel="M6.fr">
+    <title lang="fr">En famille</title>
+    <sub-title lang="fr">Un si joyeux Noël</sub-title>
+    <desc lang="fr">Série.</desc>
+    <credits>
+      <actor>Yves Pignot</actor>
+      <actor>Marie Vincent</actor>
+      <actor>Jeanne Savary</actor>
+      <actor>Charlie Bruneau</actor>
+      <actor>Tarek Boudali</actor>
+      <actor>Axel Huet</actor>
+    </credits>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925363" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225095000 +0000" stop="20221225102000 +0000" channel="M6.fr">
+    <title lang="fr">Turbo</title>
+    <sub-title lang="fr">Franky Zapata et sa voiture volante</sub-title>
+    <desc lang="fr">Turbo part à la rencontre de Zapata, un inventeur bien connu des Français pour son prototype d’engin volant, le Flyboard.</desc>
+    <date>2022</date>
+    <category lang="fr">Sport</category>
+    <category lang="fr">Mag Sports mecaniques</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64324197" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225102000 +0000" stop="20221225113500 +0000" channel="M6.fr">
+    <title lang="fr">Turbo</title>
+    <sub-title lang="fr">Franky Zapata et sa voiture volante</sub-title>
+    <desc lang="fr">Magazine des conducteurs et de leurs automobiles, Turbo présente les nouvelles tendances sociologiques, économiques et écologiques.</desc>
+    <date>2022</date>
+    <category lang="fr">Sport</category>
+    <category lang="fr">Mag Sports mecaniques</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64324197" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225113500 +0000" stop="20221225114000 +0000" channel="M6.fr">
+    <title lang="fr">Sport 6</title>
+    <sub-title lang="fr">Sport6 du 18/12/2022 (Soir)</sub-title>
+    <desc lang="fr">Retrouvez chaque semaine toute l'actualité et les résultats du sport dans Sport 6. En 6 minutes, priorités aux images : les temps forts de l'actualité et les résultats sportifs sont décryptés pour tout connaître des...</desc>
+    <date>2022</date>
+    <category lang="fr">Sport</category>
+    <category lang="fr">Mag Sport</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/96971744" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225114000 +0000" stop="20221225114500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225114500 +0000" stop="20221225122500 +0000" channel="M6.fr">
+    <title lang="fr">Le 12.45</title>
+    <sub-title lang="fr">Le 1245 du 19/12/2022</sub-title>
+    <desc lang="fr">Retrouvez toute l'actualité de la mi-journée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67551851" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225122500 +0000" stop="20221225124500 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 26/08/22</sub-title>
+    <desc lang="fr">Votre couple vous désole ? Vous vous lamentez de vivre seul ? Scènes de Ménages va vous aider à relativiser !</desc>
+    <credits>
+      <actor>Audrey Lamy</actor>
+      <actor>Loup-Denis Elion</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Frédéric Bouraly</actor>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225124500 +0000" stop="20221225144500 +0000" channel="M6.fr">
+    <title lang="fr">Recherche appartement ou maison</title>
+    <sub-title lang="fr">Sophie et Frédéric / Mélanie et Jérôme / Lise et Alex</sub-title>
+    <desc lang="fr">Sophie et Frédéric vivent à Montréal depuis 4 ans. Ils ont décidé de s'installer à Lille, mais les visites virtuelles n'ont rien donné. Après avoir vendu leurs appartements respectifs pour un projet de construction...</desc>
+    <credits>
+      <presenter>Stéphane Plaza</presenter>
+      <presenter>Sandra Viricel</presenter>
+      <presenter>Mathieu Beyer</presenter>
+      <presenter>Gherman</presenter>
+      <presenter>Sophie Bensaid</presenter>
+      <presenter>Thibault Chanel</presenter>
+      <presenter>Antoine Blandin</presenter>
+      <presenter>Romain Cartier</presenter>
+      <presenter>Agnès Bardoux</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Telerealite</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104735447" />
+    <episode-num system="onscreen">S15 E9</episode-num>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225144500 +0000" stop="20221225165500 +0000" channel="M6.fr">
+    <title lang="fr">Maison à vendre</title>
+    <sub-title lang="fr">Corinne et Alexandre / Onel et Alexandre</sub-title>
+    <desc lang="fr">Au sommaire : Corinne et Alexandre. Corinne vit dans une maison à Bois-d'Arcy, dans les Yvelines, avec son fils Alexandre, 28 ans. Ils ont acheté ensemble une nouvelle maison. - Onel et Alexandre. Onel et...</desc>
+    <credits>
+      <presenter>Sophie Ferjani</presenter>
+      <presenter>Stéphane Plaza</presenter>
+      <presenter>Emmanuelle Rivassoux</presenter>
+      <presenter>Stéphanie Catanzano</presenter>
+      <presenter>Carole Carat</presenter>
+      <presenter>Antoine Blandin</presenter>
+      <presenter>Jeanfi Janssens</presenter>
+      <presenter>Laurent Petitguillaume</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101966776" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225165500 +0000" stop="20221225174500 +0000" channel="M6.fr">
+    <title lang="fr">66 minutes : grand format</title>
+    <sub-title lang="fr">Féérie de Noël au Grand Magasin</sub-title>
+    <desc lang="fr">Reportages, portraits, enquêtes, 66 Minutes : grand format explore l'actualité avec un reportage sur un fait divers, un phénomène de société ou un événement de l'actualité internationale.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225174500 +0000" stop="20221225184500 +0000" channel="M6.fr">
+    <title lang="fr">66 minutes : grand format</title>
+    <sub-title lang="fr">Féérie de Noël au Grand Magasin</sub-title>
+    <desc lang="fr">Reportages, portraits, enquêtes, 66 Minutes : grand format explore l'actualité avec un reportage sur un fait divers, un phénomène de société ou un événement de l'actualité internationale.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925423" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225184500 +0000" stop="20221225190500 +0000" channel="M6.fr">
+    <title lang="fr">Le 19.45</title>
+    <sub-title lang="fr">Le 1945 du 18/12/2022</sub-title>
+    <desc lang="fr">Le journal de M6.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925326" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225190500 +0000" stop="20221225191000 +0000" channel="M6.fr">
+    <title lang="fr">Sport 6</title>
+    <sub-title lang="fr">Sport6 du 18/12/2022 (Soir)</sub-title>
+    <desc lang="fr">Retrouvez chaque semaine toute l'actualité et les résultats du sport dans Sport 6. En 6 minutes, priorités aux images : les temps forts de l'actualité et les résultats sportifs sont décryptés pour tout connaître des...</desc>
+    <date>2022</date>
+    <category lang="fr">Sport</category>
+    <category lang="fr">Mag Sport</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/96971744" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225191000 +0000" stop="20221225192500 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225192500 +0000" stop="20221225201000 +0000" channel="M6.fr">
+    <title lang="fr">Scènes de ménages</title>
+    <sub-title lang="fr">scènes de ménages 13h40 26/08/22</sub-title>
+    <desc lang="fr">Votre couple vous désole ? Vous vous lamentez de vivre seul ? Scènes de Ménages va vous aider à relativiser !</desc>
+    <credits>
+      <actor>Audrey Lamy</actor>
+      <actor>Loup-Denis Elion</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Frédéric Bouraly</actor>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Series</category>
+    <category lang="fr">Serie Humour</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979463" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225201000 +0000" stop="20221225221000 +0000" channel="M6.fr">
+    <title lang="fr">Zone interdite</title>
+    <sub-title lang="fr">Rocher Mistral : le projet fou du nouveau parc de loisirs provençal</sub-title>
+    <desc lang="fr">Au cœur de la Provence, entre le Lubéron, la Camargue et les Alpilles, Vianney d'Alençon veut faire revivre le château de la Barben et raconter la Provence autour de spectacles grandioses. Pour cela, il a mis en place...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79831279" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225221000 +0000" stop="20221225231500 +0000" channel="M6.fr">
+    <title lang="fr">Enquête exclusive</title>
+    <sub-title lang="fr">Orlando (USA), capitale mondiale des parcs d'attractions</sub-title>
+    <desc lang="fr">Orlando, en Floride, est la première destination touristique d'Amérique. C'est la ville qui concentre le plus grand nombre de parcs d'attractions. Un succès planétaire qui a donné l'idée à des petits parcs familiaux...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925412" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225231500 +0000" stop="20221226003500 +0000" channel="M6.fr">
+    <title lang="fr">Enquête exclusive</title>
+    <sub-title lang="fr">Parcs aquatiques à sensations : au royaume de la démesure</sub-title>
+    <desc lang="fr">Les parcs aquatiques se livrent à une véritable surenchère pour attirer les clients. Plongée au cœur de deux des plus spectaculaires au monde : Tropical Islands, au cœur de la forêt de la Spree dans l'ex-Allemagne de...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/57925412" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221226003500 +0000" stop="20221226004000 +0000" channel="M6.fr">
+    <title lang="fr">Météo</title>
+    <desc lang="fr">Les prévisions météo sur M6 c'est, par tous les temps, un vrai moment de fun, car la bonne humeur ne dépend ni du soleil, ne de la pluie, ni de l'épais brouillard, ni de la froidure,...</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Meteo</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101979619" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
   <channel id="ARTE.fr">
     <display-name lang="fr">|FR| Arte</display-name>
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/arte.png" />
