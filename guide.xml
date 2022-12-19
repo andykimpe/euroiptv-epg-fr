@@ -45042,6 +45042,2822 @@
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/lcp-ps.png" />
     <url>https://github.com/andykimpe/euroiptv-epg-fr</url>
   </channel>
+  <programme start="20221219060200 +0000" stop="20221219063000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">La Bretagne mystique</sub-title>
+    <desc lang="fr">Dans un triangle d'or entre Morlaix, Brest et Quimper, des flèches d'Églises défient le ciel. Des portails de pierre s'élèvent, d'imposantes statues de granit s'alignent. Ici, s'est épanouie au XVIe siècle, une architecture unique. Les enclos paroissiaux du Finistère sont des témoignages de la ferveur catholique des Bretons mais aussi de leur savoir-faire qui se transmettent encore.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107894758" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219063000 +0000" stop="20221219080200 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219080200 +0000" stop="20221219093200 +0000" channel="LCP.fr">
+    <title lang="fr">Audition à l'Assemblée nationale</title>
+    <sub-title lang="fr">Indépendance énergétique : audition du président d'honneur d'EDF Pierre Gadonneix</sub-title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108434267" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219093200 +0000" stop="20221219095900 +0000" channel="LCP.fr">
+    <title lang="fr">Etat de santé</title>
+    <sub-title lang="fr">La 5G est-elle dangereuse pour la santé ?</sub-title>
+    <desc lang="fr">La santé publique est au coeur de tous les grands débats qui animent la société. Réforme de l'hôpital, malaise des adolescents, dépendance, handicap, alcool, les enjeux sont nombreux. Pour mieux comprendre les grandes problématiques de santé publique, Elizabeth Martichoux analyse un dossier en compagnie d'un expert. Plusieurs reportages aident à une meilleure compréhension du sujet sous ses divers aspects.</desc>
+    <date>2021</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406900" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219095900 +0000" stop="20221219113100 +0000" channel="LCP.fr">
+    <title lang="fr">100% Sénat</title>
+    <desc lang="fr">Le magazine entièrement consacré à l'actualité de la chambre haute de la Ve République française.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106352429" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219113100 +0000" stop="20221219120000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Peuples de la mer</sub-title>
+    <desc lang="fr">En Normandie, l'épopée des Terre-neuvas. Pendant cinq siècles, des marins ont quitté au péril de leur vie les côtes normandes pour pêcher la morue dans les eaux glacées du Canada. Dans les ports de Fécamp et de Granville, on appelait ces hommes les Terre-neuvas. - Les phares, anges gardiens du Finistère. A l'extrémité ouest de la France, entre l'île d'Ouessant et la Chaussée de Sein, on compte la plus grande concentration de phares au monde.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108446478" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219120000 +0000" stop="20221219123100 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Bergers, gardiens des territoires</sub-title>
+    <desc lang="fr">En Corse, sous l'étoile des bergers. En Corse, les montagnes couvertes de maquis se jettent dans le bleu de la mer Méditerranée. Ces terres escarpées à la beauté envoûtante sont celles des bergers corses et de leur bétail. - Dans les Grands Causses, des brebis et des hommes. Dans le sud du Massif central, des éleveurs et leurs bêtes ont façonné les hauts plateaux des Grands Causses depuis des millénaires.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470296" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219123100 +0000" stop="20221219130100 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">L'or blanc de France</sub-title>
+    <desc lang="fr">Guérande, une fortune née du sel. Dans le sud de la Bretagne s'étendent les plus grands marais salants septentrionaux d'Europe. Entre la cité de Guérande, et la presqu'île du Croisic, ces marais salants racontent une histoire longue de plus de mille ans. - Le destin salé de la Franche-Comté. Sur les reliefs de Franche-Comté, les bois et les pâturages s'étendent à perte de vue et dissimulent un trésor bien caché : le sel.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108469863" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219130100 +0000" stop="20221219150100 +0000" channel="LCP.fr">
+    <title lang="fr">Rembob'INA</title>
+    <sub-title lang="fr">1983 : l'émergence du FN</sub-title>
+    <date>1983</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Multimedia</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406911" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219150100 +0000" stop="20221219152800 +0000" channel="LCP.fr">
+    <title lang="fr">Le journal de la Défense</title>
+    <sub-title lang="fr">Robots : des nouveaux soldats ?</sub-title>
+    <desc lang="fr">Entre reportages et témoignages, un point complet de l'actualité de la Défense et de l'armée française.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101555884" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219152800 +0000" stop="20221219161400 +0000" channel="LCP.fr">
+    <title lang="fr">Manger, c'est voter</title>
+    <sub-title lang="fr">En Haute-Corse</sub-title>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107833846" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219161400 +0000" stop="20221219172400 +0000" channel="LCP.fr">
+    <title lang="fr">J.O. : des îles en or</title>
+    <sub-title lang="fr">Doc. Histoire</sub-title>
+    <desc lang="fr">Au début des années 60, la France met particulièrement en avant ses sportifs d'outre-mer qui, rapidement, se distinguent par leurs performances au plus haut niveau national, voire international. Des premières olympiades modernes jusqu'aux jeux de Rio, en 2016, plongée dans l'épopée humaine et sportive de ces femmes et ces hommes qui, au nom du sport, vont porter au plus haut les couleurs de la France.</desc>
+    <credits>
+      <director>Jean-Pierre Devillers</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101672916" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219172400 +0000" stop="20221219183100 +0000" channel="LCP.fr">
+    <title lang="fr">Le sport, des médailles et après</title>
+    <sub-title lang="fr">Doc. Sport</sub-title>
+    <desc lang="fr">Le sport prend une place grandissante dans la société, et les sportifs deviennent des personnages publics souvent appréciés, suivis, jusqu'à parfois devenir des idoles. Une dimension peu connue sous-tend cette réalité, celle de la vie des sportifs quand leur carrière prend fin. De héros adulé par des foules, il passe au statut d'inconnu demandeur d'emploi, parfois sans perspectives et sans ressources.</desc>
+    <credits>
+      <director>Alex Dell</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Sport</category>
+    <category lang="fr">Doc Sport</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108218112" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219183100 +0000" stop="20221219190000 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Myriam Leroy</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219190000 +0000" stop="20221219193100 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Emmanuel Carrère</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219193100 +0000" stop="20221219203100 +0000" channel="LCP.fr">
+    <title lang="fr">Racisé.e.s : une histoire franco américaine</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">En quelques années, une nouvelle vision de la société et des questions identitaires, initialement centrée sur la question raciale, a déferlé sur la France, égrenant un vocabulaire jusqu'alors inusité, qui contrarie les fondements et les principes mêmes de l'universalisme à la française.</desc>
+    <credits>
+      <director>Michaël Prazan</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108457358" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219203100 +0000" stop="20221219205800 +0000" channel="LCP.fr">
+    <title lang="fr">DébatDoc</title>
+    <sub-title lang="fr">Wokisme : un dangereux malentendu ?</sub-title>
+    <desc lang="fr">Chaque soir, un débat animé par Jean-Pierre Gratien accompagne la diffusion d'un documentaire, en présence de parlementaires, d'acteurs de la société civile et d'experts.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101535652" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219205800 +0000" stop="20221219210000 +0000" channel="LCP.fr">
+    <title lang="fr">L'abécédaire</title>
+    <sub-title lang="fr">Loi constitutionnelle</sub-title>
+    <date>2019</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Mag Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100910326" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219210000 +0000" stop="20221219223100 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219223100 +0000" stop="20221219233000 +0000" channel="LCP.fr">
+    <title lang="fr">Ces idées qui gouvernent le monde</title>
+    <sub-title lang="fr">La Françafrique et ce qu'il en reste</sub-title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100424422" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221219233000 +0000" stop="20221220003000 +0000" channel="LCP.fr">
+    <title lang="fr">Georges Marchais, l'homme qui avait choisi son camp</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">A l'occasion du cinquantième anniversaire de l'élection de Georges Marchais à la tête du Parti communiste français en décembre 1972, et 25 ans après sa disparition, ce documentaire retrace le parcours de l'une des personnalités les plus étonnantes de la Ve République. Quelle logique personnelle a conduit ce fils d'un ouvrier carrier et d'une paysanne du Calvados, né tout juste après la guerre de 14-18, à devenir le dernier monstre sacré du Parti communiste français ?</desc>
+    <credits>
+      <director>Gérard Miller</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108383040" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220003000 +0000" stop="20221220005700 +0000" channel="LCP.fr">
+    <title lang="fr">DébatDoc</title>
+    <sub-title lang="fr">Georges Marchais : un héritage encombrant ?</sub-title>
+    <desc lang="fr">Chaque soir, un débat animé par Jean-Pierre Gratien accompagne la diffusion d'un documentaire, en présence de parlementaires, d'acteurs de la société civile et d'experts.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101535652" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220005700 +0000" stop="20221220010000 +0000" channel="LCP.fr">
+    <title lang="fr">Photo politique</title>
+    <sub-title lang="fr">Le retour de François Fillon</sub-title>
+    <desc lang="fr">Un photographe raconte le moment où il a réussi à prendre un cliché marquant dans l'histoire politique récente.</desc>
+    <date>2020</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100617202" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220010000 +0000" stop="20221220022700 +0000" channel="LCP.fr">
+    <title lang="fr">Audition à l'Assemblée nationale</title>
+    <sub-title lang="fr">Indépendance énergétique : audition du président d'honneur d'EDF Pierre Gadonneix</sub-title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108434267" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220022700 +0000" stop="20221220033000 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <sub-title lang="fr">Hausse des salaires nets de 10 % : proposition de loi du RN</sub-title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220033000 +0000" stop="20221220050000 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220050000 +0000" stop="20221220053200 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Les bijoux cachés de l'Eglise</sub-title>
+    <desc lang="fr">Les églises peintes, merveilles du Moyen Age bourguignon. Les murs des bâtiments religieux de Puisaye abritent d'étonnantes peintures murales datant du Moyen Age qui illustrent des passages de l'ancien testament. - La Savoie, royaume du baroque. Au XVIIe siècle, sous l'impulsion du duc de Savoie Charles-Emmanuel Ier, les habitants s'approprient les codes d'un style qui fleurit partout en Europe.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470366" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220053200 +0000" stop="20221220060200 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">On fait la fête</sub-title>
+    <desc lang="fr">Le Fest noz, une résistance bretonne. La campagne bretonne chante son histoire depuis des millénaires. Dans les Monts d'Arrée, le Fest Noz, ou chant de la nuit, est une véritable transe qui permet à ses adeptes de se reconnecter avec le ciel et la terre. - Dunkerque, quand monte la clameur du carnaval. A Dunkerque, au moment du carnaval, les quartiers ouvriers et les pavillons bourgeois vibrent au son d'une clameur populaire et joyeuse.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470310" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220060200 +0000" stop="20221220063000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Peuples de la mer</sub-title>
+    <desc lang="fr">En Normandie, l'épopée des Terre-neuvas. Pendant cinq siècles, des marins ont quitté au péril de leur vie les côtes normandes pour pêcher la morue dans les eaux glacées du Canada. Dans les ports de Fécamp et de Granville, on appelait ces hommes les Terre-neuvas. - Les phares, anges gardiens du Finistère. A l'extrémité ouest de la France, entre l'île d'Ouessant et la Chaussée de Sein, on compte la plus grande concentration de phares au monde.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108446478" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220063000 +0000" stop="20221220080000 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220080000 +0000" stop="20221220080100 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220080100 +0000" stop="20221220092900 +0000" channel="LCP.fr">
+    <title lang="fr">Audition à l'Assemblée nationale</title>
+    <sub-title lang="fr">Protection de l'enfance : audition d'Éric Dupond-Moretti</sub-title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108434267" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220092900 +0000" stop="20221220095700 +0000" channel="LCP.fr">
+    <title lang="fr">Etat de santé</title>
+    <sub-title lang="fr">Adieu Covid, bonjour angoisse ! Les séquelles du Covid sur la santé mentale des adolescents</sub-title>
+    <desc lang="fr">La santé publique est au coeur de tous les grands débats qui animent la société. Réforme de l'hôpital, malaise des adolescents, dépendance, handicap, alcool, les enjeux sont nombreux. Pour mieux comprendre les grandes problématiques de santé publique, Elizabeth Martichoux analyse un dossier en compagnie d'un expert. Plusieurs reportages aident à une meilleure compréhension du sujet sous ses divers aspects.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406900" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220095700 +0000" stop="20221220095900 +0000" channel="LCP.fr">
+    <title lang="fr">L'abécédaire</title>
+    <sub-title lang="fr">Amendement</sub-title>
+    <date>2020</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Mag Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100910326" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220095900 +0000" stop="20221220113100 +0000" channel="LCP.fr">
+    <title lang="fr">100% Sénat</title>
+    <desc lang="fr">Le magazine entièrement consacré à l'actualité de la chambre haute de la Ve République française.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106352429" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220113100 +0000" stop="20221220120200 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Le génie du commerce</sub-title>
+    <desc lang="fr">La Champagne, l'invention du supermarché médiéval. Si la Champagne a toujours été une région de passage, au Moyen Age elle était au centre des échanges commerciaux avec ses célèbres foires. - Saint-Malo, le génie des affaires et de la mer. Saint-Malo doit sa réputation à d'importantes familles de marchands et d'armateurs bretons. A partir du XVIe siècle, ils transforment cette ville de pêcheurs en une place majeure du commerce maritime.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108482150" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220120200 +0000" stop="20221220123200 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Le bon air de la ville</sub-title>
+    <desc lang="fr">Pau, la belle anglaise. Au XIXe siècle, la situation exceptionnelle de Pau fait le bonheur de la riche communauté britannique qui s'y installe et donne un nouveau visage à la ville béarnaise. - Arcachon, la plus glamour des villes de cure. L'aristocratie et les fortunes de toute de l'Europe venaient se soigner au grand air arcachonnais dans les incroyables villas de sa ville d'hiver.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108462713" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220123200 +0000" stop="20221220130100 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Histoires légendaires</sub-title>
+    <desc lang="fr">Dans le Béarn, la vallée des trois mousquetaires. Au XVIIe siècle, la paisible vallée de Barétous a vu naître des hommes indispensables au roi de France : les mousquetaires. - Les Templiers, maîtres du Larzac. Dans le sud de l'Aveyron, les étendues rocailleuses du plateau du Larzac portent en elle une riche histoire médiévale. A partir du XIIe siècle, la région abrite les Templiers, puis l'ordre des Hospitaliers.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108462779" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220130100 +0000" stop="20221220150000 +0000" channel="LCP.fr">
+    <title lang="fr">Rembob'INA</title>
+    <sub-title lang="fr">Jean Yanne</sub-title>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Multimedia</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406911" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220150000 +0000" stop="20221220160000 +0000" channel="LCP.fr">
+    <title lang="fr">La diaspora des cendres</title>
+    <sub-title lang="fr">Doc. Histoire</sub-title>
+    <desc lang="fr">Sur des images actuelles des vestiges du camp d'extermination nazi d'Auschwitz, accompagnées de photos montrant la situation des Juifs d'Europe avant les déportations, de clichés et de dessins, six comédiens lisent des témoignages. Des textes écrits par des victimes ou des bourreaux, journaux intimes, billets jetés des trains, lettres de prisonniers ou de SS, documents administratifs ou notes de services.</desc>
+    <credits>
+      <director>William Karel</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107288061" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220160000 +0000" stop="20221220162900 +0000" channel="LCP.fr">
+    <title lang="fr">DébatDoc</title>
+    <sub-title lang="fr">Invité : Tal Bruttmann</sub-title>
+    <desc lang="fr">Chaque soir, un débat animé par Jean-Pierre Gratien accompagne la diffusion d'un documentaire, en présence de parlementaires, d'acteurs de la société civile et d'experts.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101535652" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220162900 +0000" stop="20221220164200 +0000" channel="LCP.fr">
+    <title lang="fr">Circo</title>
+    <sub-title lang="fr">La guerre de l'eau avec Lisa Belluco</sub-title>
+    <desc lang="fr">Loin du tumulte des séances de l'Assemblée nationale, une plongée au coeur d'une circonscription en compagnie de son député, pour découvrir le quotidien d'un élu.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406943" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220164200 +0000" stop="20221220165700 +0000" channel="LCP.fr">
+    <title lang="fr">Circo</title>
+    <sub-title lang="fr">Bruno Millienne, un député face au casse-tête des ZFE</sub-title>
+    <desc lang="fr">Loin du tumulte des séances de l'Assemblée nationale, une plongée au coeur d'une circonscription en compagnie de son député, pour découvrir le quotidien d'un élu.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406943" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220165700 +0000" stop="20221220165800 +0000" channel="LCP.fr">
+    <title lang="fr">L'habit ne fait pas le politique</title>
+    <sub-title lang="fr">Cécile Duflot, en robe de combat</sub-title>
+    <date>2021</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100910326" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220165800 +0000" stop="20221220172900 +0000" channel="LCP.fr">
+    <title lang="fr">Un monde, un regard</title>
+    <sub-title lang="fr">Caroline Fourest</sub-title>
+    <desc lang="fr">Rebecca Fitoussi reçoit l'essayiste et journaliste Caroline Fourest dans « un monde, un regard ».</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104416201" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220172900 +0000" stop="20221220183100 +0000" channel="LCP.fr">
+    <title lang="fr">Ténoras, paroles d'avocates</title>
+    <sub-title lang="fr">Doc. Judiciaire</sub-title>
+    <desc lang="fr">Quand on s'imagine une cour de justice, on pense aussitôt aux ténors du barreau, qu'on se représente sous des traits masculins. Mais le métier a beaucoup changé. La journaliste Vignoli a rencontré quatre ténoras, des avocates pénalistes, qu'elle interroge au sujet de leur profession, de leur parcours professionnel et de la question de la parité dans ce secteur.</desc>
+    <credits>
+      <director>Lisa Vignoli</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Judiciaire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107657612" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220183100 +0000" stop="20221220190000 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Olivier Roellinger, chef cuisinier</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220190000 +0000" stop="20221220192700 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Marie-Agnès Gillot, danseuse étoile</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220192700 +0000" stop="20221220193100 +0000" channel="LCP.fr">
+    <title lang="fr">Photo politique</title>
+    <sub-title lang="fr">Marine Le Pen, l'avant-meeting</sub-title>
+    <desc lang="fr">Un photographe raconte le moment où il a réussi à prendre un cliché marquant dans l'histoire politique récente.</desc>
+    <date>2020</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100617202" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220193100 +0000" stop="20221220203100 +0000" channel="LCP.fr">
+    <title lang="fr">Libye - La boîte de Pandore de l'après Kadhafi</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">Malgré de multiples tentatives de médiation, la Libye reste aujourd'hui un pays fragmenté et gangrené par la violence, où tribus et milices se disputent le pouvoir. L'économie s'est effondrée, plus d'un million de personnes ont fui et, comme la Syrie, la Libye se retrouve au centre d'un conflit international par procuration entre la Russie et la Turquie, soutenues par leurs alliés respectifs.</desc>
+    <credits>
+      <director>Emiliano Sacchetti</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102321499" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220203100 +0000" stop="20221220205700 +0000" channel="LCP.fr">
+    <title lang="fr">DébatDoc</title>
+    <sub-title lang="fr">Libye : la guerre sans fin</sub-title>
+    <desc lang="fr">Chaque soir, un débat animé par Jean-Pierre Gratien accompagne la diffusion d'un documentaire, en présence de parlementaires, d'acteurs de la société civile et d'experts.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101535652" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220205700 +0000" stop="20221220210000 +0000" channel="LCP.fr">
+    <title lang="fr">Antisèches</title>
+    <sub-title lang="fr">A quoi sert un groupe parlementaire ?</sub-title>
+    <desc lang="fr">Une collection de programmes court d'utilité civique ! Découvrez ces pépites didactiques et pédagogiques qui innovent dans leur format pour explorer la vie politique et parlementaire autrement. Devenez incollable sur le jargon et les procédures parlementaires !</desc>
+    <date>2020</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100424580" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220210000 +0000" stop="20221220223100 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220223100 +0000" stop="20221220230000 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Myriam Leroy</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220230000 +0000" stop="20221220233100 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Emmanuel Carrère</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221220233100 +0000" stop="20221221003100 +0000" channel="LCP.fr">
+    <title lang="fr">Marilyn, la dernière vérité</title>
+    <sub-title lang="fr">Doc. Histoire</sub-title>
+    <desc lang="fr">Marilyn Monroe n'a jamais connu son père biologique. C'était le dernier mystère dans sa biographie. Pourtant, 60 ans après sa mort, cette énigme vient d'être résolue. Grâce à des mèches de cheveux et aux prouesses de la génétique, ce documentaire suit l'enquête scientifique qui a permis de retrouver le père biologique de Marilyn, et sa nouvelle famille, qui vit encore aux Etats-Unis.</desc>
+    <credits>
+      <director>François Pomès</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108252571" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221003100 +0000" stop="20221221010100 +0000" channel="LCP.fr">
+    <title lang="fr">DébatDoc</title>
+    <sub-title lang="fr">Marilyn Monroe, une étoile parmi les stars</sub-title>
+    <desc lang="fr">Chaque soir, un débat animé par Jean-Pierre Gratien accompagne la diffusion d'un documentaire, en présence de parlementaires, d'acteurs de la société civile et d'experts.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101535652" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221010100 +0000" stop="20221221022800 +0000" channel="LCP.fr">
+    <title lang="fr">Audition à l'Assemblée nationale</title>
+    <sub-title lang="fr">Protection de l'enfance : audition d'Éric Dupond-Moretti</sub-title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108434267" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221022800 +0000" stop="20221221023000 +0000" channel="LCP.fr">
+    <title lang="fr">Audition à l'Assemblée nationale</title>
+    <sub-title lang="fr">Indépendance énergétique : le président du directoire de RTE auditionné</sub-title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108434267" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221023000 +0000" stop="20221221032500 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221032500 +0000" stop="20221221032900 +0000" channel="LCP.fr">
+    <title lang="fr">Conspirations ?</title>
+    <sub-title lang="fr">Les signes cachés du pouvoir</sub-title>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101001768" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221032900 +0000" stop="20221221050100 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221050100 +0000" stop="20221221053100 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Histoires légendaires</sub-title>
+    <desc lang="fr">Dans le Béarn, la vallée des trois mousquetaires. Au XVIIe siècle, la paisible vallée de Barétous a vu naître des hommes indispensables au roi de France : les mousquetaires. - Les Templiers, maîtres du Larzac. Dans le sud de l'Aveyron, les étendues rocailleuses du plateau du Larzac portent en elle une riche histoire médiévale. A partir du XIIe siècle, la région abrite les Templiers, puis l'ordre des Hospitaliers.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108462779" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221053100 +0000" stop="20221221060200 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">La Bretagne mystique</sub-title>
+    <desc lang="fr">Dans un triangle d'or entre Morlaix, Brest et Quimper, des flèches d'Églises défient le ciel. Des portails de pierre s'élèvent, d'imposantes statues de granit s'alignent. Ici, s'est épanouie au XVIe siècle, une architecture unique. Les enclos paroissiaux du Finistère sont des témoignages de la ferveur catholique des Bretons mais aussi de leur savoir-faire qui se transmettent encore.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107894758" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221060200 +0000" stop="20221221063000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Le génie du commerce</sub-title>
+    <desc lang="fr">La Champagne, l'invention du supermarché médiéval. Si la Champagne a toujours été une région de passage, au Moyen Age elle était au centre des échanges commerciaux avec ses célèbres foires. - Saint-Malo, le génie des affaires et de la mer. Saint-Malo doit sa réputation à d'importantes familles de marchands et d'armateurs bretons. A partir du XVIe siècle, ils transforment cette ville de pêcheurs en une place majeure du commerce maritime.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108482150" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221063000 +0000" stop="20221221080000 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221080000 +0000" stop="20221221080100 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221080100 +0000" stop="20221221093100 +0000" channel="LCP.fr">
+    <title lang="fr">Séance publique à l'Assemblée nationale</title>
+    <sub-title lang="fr">Lutte contre les squatteurs : proposition de loi</sub-title>
+    <desc lang="fr">Le point sur l'actualité du Palais Bourbon, les séances pléniaires et le travail des commission permanentes de l'Assemblée nationale.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106100244" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221093100 +0000" stop="20221221094500 +0000" channel="LCP.fr">
+    <title lang="fr">Circo</title>
+    <sub-title lang="fr">La guerre de l'eau avec Lisa Belluco</sub-title>
+    <desc lang="fr">Loin du tumulte des séances de l'Assemblée nationale, une plongée au coeur d'une circonscription en compagnie de son député, pour découvrir le quotidien d'un élu.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406943" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221094500 +0000" stop="20221221100000 +0000" channel="LCP.fr">
+    <title lang="fr">Circo</title>
+    <sub-title lang="fr">Bruno Millienne, un député face au casse-tête des ZFE</sub-title>
+    <desc lang="fr">Loin du tumulte des séances de l'Assemblée nationale, une plongée au coeur d'une circonscription en compagnie de son député, pour découvrir le quotidien d'un élu.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406943" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221100000 +0000" stop="20221221113100 +0000" channel="LCP.fr">
+    <title lang="fr">100% Sénat</title>
+    <desc lang="fr">Le magazine entièrement consacré à l'actualité de la chambre haute de la Ve République française.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106352429" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221113100 +0000" stop="20221221120000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">On se met à l'abri</sub-title>
+    <desc lang="fr">Dans le Nord, les cathédrales héroïques. En Thiérache, des églises fortifiées présentes dans chaque village reflètent un ingénieux système d'entraide des populations locales. - La Bretagne du visionnaire Vauban. Les côtes bretonnes ont été façonnées par la nature, puis par un génie bâtisseur : Vauban. Sébastien le Prestre De Vauban a tiré parti des moindres replis du relief pour construire des forteresses entre terre et mer.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108496989" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221120000 +0000" stop="20221221123100 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Les bijoux cachés de l'Eglise</sub-title>
+    <desc lang="fr">Les églises peintes, merveilles du Moyen Age bourguignon. Les murs des bâtiments religieux de Puisaye abritent d'étonnantes peintures murales datant du Moyen Age qui illustrent des passages de l'ancien testament. - La Savoie, royaume du baroque. Au XVIIe siècle, sous l'impulsion du duc de Savoie Charles-Emmanuel Ier, les habitants s'approprient les codes d'un style qui fleurit partout en Europe.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470366" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221123100 +0000" stop="20221221130100 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">On fait la fête</sub-title>
+    <desc lang="fr">Le Fest noz, une résistance bretonne. La campagne bretonne chante son histoire depuis des millénaires. Dans les Monts d'Arrée, le Fest Noz, ou chant de la nuit, est une véritable transe qui permet à ses adeptes de se reconnecter avec le ciel et la terre. - Dunkerque, quand monte la clameur du carnaval. A Dunkerque, au moment du carnaval, les quartiers ouvriers et les pavillons bourgeois vibrent au son d'une clameur populaire et joyeuse.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470310" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221130100 +0000" stop="20221221140000 +0000" channel="LCP.fr">
+    <title lang="fr">Les nouvelles vagues</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">La marine est une institution singulière au sein des armées. L'école des matelots de Saint Mandrier, près de Toulon, accueille chaque année des centaines de jeunes gens de toute la France qui décident de s'engager. Cinquante-trois d'entre eux, armés de caméras, racontent leur engagement sous le regard de Boris Cyrulnik et de Charles Berling, qui entretiennent aussi un rapport particulier à la mer.</desc>
+    <credits>
+      <director>Ninon Brétécher</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107954857" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221140000 +0000" stop="20221221150200 +0000" channel="LCP.fr">
+    <title lang="fr">Climat : une guerre américaine</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">Paradoxe unique au sein des démocraties occidentales, les Etats-Unis sont à la fois les premiers promoteurs de la science du climat, le pays où sont nées les premières prises de conscience environnementale, mais aussi le pays qui compte le plus de citoyens niant le réchauffement climatique. Depuis quarante ans, l'Amérique persiste à ralentir les négociations internationales pour éviter le pire.</desc>
+    <credits>
+      <director>Cédric Tourbe</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102026211" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221150200 +0000" stop="20221221153100 +0000" channel="LCP.fr">
+    <title lang="fr">Manger, c'est voter</title>
+    <sub-title lang="fr">Dans les Landes</sub-title>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107833846" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221153100 +0000" stop="20221221160000 +0000" channel="LCP.fr">
+    <title lang="fr">Manger, c'est voter</title>
+    <sub-title lang="fr">En Ille-et-Vilaine</sub-title>
+    <desc lang="fr">Vincent Ferniot part à la rencontre des acteurs de notre patrimoine agricole et nourricier, tout ce qui fait de la France un pays où le contenu de l'assiette relève d'un engagement quotidien.</desc>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107833846" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221160000 +0000" stop="20221221163000 +0000" channel="LCP.fr">
+    <title lang="fr">Un monde, un regard</title>
+    <sub-title lang="fr">Jean-Pierre Elkabbach</sub-title>
+    <desc lang="fr">Jean-Pierre Elkabbach comme on ne l'a jamais entendu se dévoile au micro de Rebecca Fitoussi dans "Un monde, un regard".</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104416201" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221163000 +0000" stop="20221221173000 +0000" channel="LCP.fr">
+    <title lang="fr">Réparer la Terre, réparer les hommes</title>
+    <sub-title lang="fr">Doc. Environnement</sub-title>
+    <desc lang="fr">A l'Ile-Saint-Denis, aux portes de Paris, sur un terrain pollué situé en bord de Seine, une association se lance dans un double défi : relancer la filière de fleurs locales, produites sans pesticides et vendues en circuit court, tout en formant à des métiers d'avenir des personnes en recherche d'emploi. Mais rien ne se passe comme prévu : la réparation du sol, devenu stérile, s'avère complexe.</desc>
+    <credits>
+      <director>Marion Stalens</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Environnement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108280446" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221173000 +0000" stop="20221221183100 +0000" channel="LCP.fr">
+    <title lang="fr">Oleron les sentinelles du climat</title>
+    <sub-title lang="fr">Doc. Environnement</sub-title>
+    <desc lang="fr">L'île d'Oléron vit sous la menace d'une submersion. Habitants et pouvoirs publics en ont pris conscience. Alors éleveurs, viticulteurs et même conchyliculteurs ont décidé de revenir à des pratiques durables. Cultiver sans engrais chimiques, laisser paître des moutons sur les marécages, redonner vie aux marais salants devrait permettre au territoire de se défendre contre la montée des eaux.</desc>
+    <credits>
+      <director>Laure-Anne Berrou</director>
+      <director>Martin Courcier</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Environnement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106431388" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221183100 +0000" stop="20221221190000 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Ariane Ascaride</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221190000 +0000" stop="20221221193200 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Philippe Croizon</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221193200 +0000" stop="20221221203200 +0000" channel="LCP.fr">
+    <title lang="fr">Les mensonges de l'histoire</title>
+    <sub-title lang="fr">1996 : la crise de la vache folle</sub-title>
+    <desc lang="fr">En 1996, le ministre de l'Agriculture britannique prend la parole devant la chambre des communes. Ses mots mettent un terme à dix ans de désinformation sur la vache folle.</desc>
+    <credits>
+      <director>Bénédicte Delfaut</director>
+      <director>Mélanie Dalsace</director>
+      <director>Eve Vanderstegen</director>
+    </credits>
+    <date>1996</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104622199" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221203200 +0000" stop="20221221205800 +0000" channel="LCP.fr">
+    <title lang="fr">DébatDoc</title>
+    <sub-title lang="fr">Pandémies : comment mieux les prévenir ?</sub-title>
+    <desc lang="fr">Chaque soir, un débat animé par Jean-Pierre Gratien accompagne la diffusion d'un documentaire, en présence de parlementaires, d'acteurs de la société civile et d'experts.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101535652" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221205800 +0000" stop="20221221223100 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221223100 +0000" stop="20221221230000 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Olivier Roellinger, chef cuisinier</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221230000 +0000" stop="20221221232900 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Marie-Agnès Gillot, danseuse étoile</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221221232900 +0000" stop="20221222002900 +0000" channel="LCP.fr">
+    <title lang="fr">Kaboul-Laon, un aller simple</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">Kaboul-Laon, un aller simple est la rencontre entre des hommes et un territoire, celle des anciens interprètes afghans de l'armée française et la ville de Laon, où 24 d'entre eux et leur famille (soit plus d'une centaine de personnes) ont été accueillis en mars 2016. Depuis, au sein de ces familles afghanes, des enfants sont nés, d'autres sont rentrés à l'université. Ce documentaire met en lumière une histoire d'intégration sur fond de conflit géopolitique complexe.</desc>
+    <credits>
+      <director>Olivier Bauer</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108383253" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222002900 +0000" stop="20221222005500 +0000" channel="LCP.fr">
+    <title lang="fr">DébatDoc</title>
+    <sub-title lang="fr">Que deviennent les auxiliaires afghans de l'armée française ?</sub-title>
+    <desc lang="fr">Chaque soir, un débat animé par Jean-Pierre Gratien accompagne la diffusion d'un documentaire, en présence de parlementaires, d'acteurs de la société civile et d'experts.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101535652" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222005500 +0000" stop="20221222005900 +0000" channel="LCP.fr">
+    <title lang="fr">Histoires de timbres</title>
+    <desc lang="fr">En 1973, ce timbre commémore le centenaire de la disparition d'une institution postale : le relai.</desc>
+    <date>2015</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101230533" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222005900 +0000" stop="20221222010000 +0000" channel="LCP.fr">
+    <title lang="fr">Séance publique à l'Assemblée nationale</title>
+    <sub-title lang="fr">Lutte contre les squatteurs : proposition de loi</sub-title>
+    <desc lang="fr">Le point sur l'actualité du Palais Bourbon, les séances pléniaires et le travail des commission permanentes de l'Assemblée nationale.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106100244" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222010000 +0000" stop="20221222022600 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222022600 +0000" stop="20221222023000 +0000" channel="LCP.fr">
+    <title lang="fr">Audition à l'Assemblée nationale</title>
+    <sub-title lang="fr">Protection de l'enfance : audition d'Éric Dupond-Moretti</sub-title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108434267" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222023000 +0000" stop="20221222032400 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222032400 +0000" stop="20221222032600 +0000" channel="LCP.fr">
+    <title lang="fr">Photo politique</title>
+    <sub-title lang="fr">Donald Trump dans le bureau ovale</sub-title>
+    <desc lang="fr">Un photographe raconte le moment où il a réussi à prendre un cliché marquant dans l'histoire politique récente.</desc>
+    <date>2020</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100617202" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222032600 +0000" stop="20221222032900 +0000" channel="LCP.fr">
+    <title lang="fr">Photo politique</title>
+    <sub-title lang="fr">Le retour en France de Dominique Strauss-Kahn</sub-title>
+    <desc lang="fr">Un photographe raconte le moment où il a réussi à prendre un cliché marquant dans l'histoire politique récente.</desc>
+    <date>2020</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100617202" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222032900 +0000" stop="20221222050200 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222050200 +0000" stop="20221222053200 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Peuples de la mer</sub-title>
+    <desc lang="fr">En Normandie, l'épopée des Terre-neuvas. Pendant cinq siècles, des marins ont quitté au péril de leur vie les côtes normandes pour pêcher la morue dans les eaux glacées du Canada. Dans les ports de Fécamp et de Granville, on appelait ces hommes les Terre-neuvas. - Les phares, anges gardiens du Finistère. A l'extrémité ouest de la France, entre l'île d'Ouessant et la Chaussée de Sein, on compte la plus grande concentration de phares au monde.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108446478" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222053200 +0000" stop="20221222060100 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">L'or blanc de France</sub-title>
+    <desc lang="fr">Guérande, une fortune née du sel. Dans le sud de la Bretagne s'étendent les plus grands marais salants septentrionaux d'Europe. Entre la cité de Guérande, et la presqu'île du Croisic, ces marais salants racontent une histoire longue de plus de mille ans. - Le destin salé de la Franche-Comté. Sur les reliefs de Franche-Comté, les bois et les pâturages s'étendent à perte de vue et dissimulent un trésor bien caché : le sel.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108469863" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222060100 +0000" stop="20221222063000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">On se met à l'abri</sub-title>
+    <desc lang="fr">Dans le Nord, les cathédrales héroïques. En Thiérache, des églises fortifiées présentes dans chaque village reflètent un ingénieux système d'entraide des populations locales. - La Bretagne du visionnaire Vauban. Les côtes bretonnes ont été façonnées par la nature, puis par un génie bâtisseur : Vauban. Sébastien le Prestre De Vauban a tiré parti des moindres replis du relief pour construire des forteresses entre terre et mer.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108496989" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222063000 +0000" stop="20221222080000 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222080000 +0000" stop="20221222080100 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222080100 +0000" stop="20221222093000 +0000" channel="LCP.fr">
+    <title lang="fr">La séance est ouverte !</title>
+    <sub-title lang="fr">Droit à l'IVG dans la Constituti..</sub-title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Emission Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1587" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222093000 +0000" stop="20221222100100 +0000" channel="LCP.fr">
+    <title lang="fr">LCP le mag</title>
+    <sub-title lang="fr">Voyage dans la France des déserts médicaux</sub-title>
+    <desc lang="fr">Un rendez-vous au coeur des grands dossiers d'actualité qui sont débattus à l'Assemblée nationale. Enquêtes, reportages et rencontres servent à éclairer chaque débat.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100994018" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222100100 +0000" stop="20221222113100 +0000" channel="LCP.fr">
+    <title lang="fr">100% Sénat</title>
+    <desc lang="fr">Le magazine entièrement consacré à l'actualité de la chambre haute de la Ve République française.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106352429" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222113100 +0000" stop="20221222120200 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Quand la France régnait sur la c..</sub-title>
+    <desc lang="fr">Quand Avignon était le centre du monde. Sur les bords du Rhône s'étend Avignon, son pont et son Palais des Papes. Construit au XIVe siècle, l'édifice fut l'un des témoins privilégiés d'une brève période durant laquelle la papauté rayonnait depuis le Sud de la France. - Quand Cluny la bourguignonne rayonnait sur la chrétienté. Au coeur de la campagne bourguignonne, les vestiges de l'imposante abbaye de Cluny rayonnent sur des vallons couverts de vignes juteuses.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108509665" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222120200 +0000" stop="20221222123000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Histoires légendaires</sub-title>
+    <desc lang="fr">Dans le Béarn, la vallée des trois mousquetaires. Au XVIIe siècle, la paisible vallée de Barétous a vu naître des hommes indispensables au roi de France : les mousquetaires. - Les Templiers, maîtres du Larzac. Dans le sud de l'Aveyron, les étendues rocailleuses du plateau du Larzac portent en elle une riche histoire médiévale. A partir du XIIe siècle, la région abrite les Templiers, puis l'ordre des Hospitaliers.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108462779" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222123000 +0000" stop="20221222130100 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">La Bretagne mystique</sub-title>
+    <desc lang="fr">Dans un triangle d'or entre Morlaix, Brest et Quimper, des flèches d'Églises défient le ciel. Des portails de pierre s'élèvent, d'imposantes statues de granit s'alignent. Ici, s'est épanouie au XVIe siècle, une architecture unique. Les enclos paroissiaux du Finistère sont des témoignages de la ferveur catholique des Bretons mais aussi de leur savoir-faire qui se transmettent encore.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107894758" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222130100 +0000" stop="20221222150000 +0000" channel="LCP.fr">
+    <title lang="fr">Rembob'INA</title>
+    <sub-title lang="fr">Les enfants du Vel d'Hiv</sub-title>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Multimedia</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406911" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222150000 +0000" stop="20221222151300 +0000" channel="LCP.fr">
+    <title lang="fr">Circo</title>
+    <sub-title lang="fr">La guerre de l'eau avec Lisa Belluco</sub-title>
+    <desc lang="fr">Loin du tumulte des séances de l'Assemblée nationale, une plongée au coeur d'une circonscription en compagnie de son député, pour découvrir le quotidien d'un élu.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406943" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222151300 +0000" stop="20221222152800 +0000" channel="LCP.fr">
+    <title lang="fr">Circo</title>
+    <sub-title lang="fr">Bruno Millienne, un député face au casse-tête des ZFE</sub-title>
+    <desc lang="fr">Loin du tumulte des séances de l'Assemblée nationale, une plongée au coeur d'une circonscription en compagnie de son député, pour découvrir le quotidien d'un élu.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406943" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222152800 +0000" stop="20221222153000 +0000" channel="LCP.fr">
+    <title lang="fr">L'abécédaire</title>
+    <sub-title lang="fr">Loi constitutionnelle</sub-title>
+    <date>2019</date>
+    <category lang="fr">Jeunesse</category>
+    <category lang="fr">Mag Jeunesse</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100910326" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222153000 +0000" stop="20221222160300 +0000" channel="LCP.fr">
+    <title lang="fr">Manger, c'est voter</title>
+    <sub-title lang="fr">En Gironde</sub-title>
+    <desc lang="fr">Vincent Ferniot part en Gironde à la rencontre de la sénatrice Nathalie Delattre.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104416147" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222160300 +0000" stop="20221222163300 +0000" channel="LCP.fr">
+    <title lang="fr">Un monde, un regard</title>
+    <desc lang="fr">Ses photos nous accompagnent depuis les années 60, et chaque cliché nous rappelle combien la vie était belle aux temps des  yéyé . Françoise Hardy, Johnny Hallyday, France Gall ou Jacques Dutronc il a fait plus que les photographier, il a partagé leur vie passionnément. Une vie d'  enfant gâté , comme il le dit lui-même, passée aux côtés des plus grands artistes. Faut-il partager la vie de ceux que l'on photographie ? Faut-il aimer les artistes que l'on croise pour en capter l'âme ? A-t-il fait d'eux les stars qu'ils sont devenus ? Qui aimerait-il photographier dans la nouvelle génération de chanteurs ? Cette semaine Rebecca Fitoussi reçoit Jean-Marie Périer dans  un monde, un regard .</desc>
+    <date>2021</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104416201" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222163300 +0000" stop="20221222173300 +0000" channel="LCP.fr">
+    <title lang="fr">Versailles, construction d'un rêve impossible</title>
+    <sub-title lang="fr">Doc. Sciences et Techniques</sub-title>
+    <desc lang="fr">Avec ses 700 pièces, ses 2153 fenêtres, ses 47 bassins, ses 800 hectares de jardin, ses 63 000 m2 de superficie, Versailles a su relever d'impressionnants défis.</desc>
+    <credits>
+      <director>Muriel Montossé</director>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Sciences et Techniques</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108478263" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222173300 +0000" stop="20221222183100 +0000" channel="LCP.fr">
+    <title lang="fr">Les nouvelles vagues</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">La marine est une institution singulière au sein des armées. L'école des matelots de Saint Mandrier, près de Toulon, accueille chaque année des centaines de jeunes gens de toute la France qui décident de s'engager. Cinquante-trois d'entre eux, armés de caméras, racontent leur engagement sous le regard de Boris Cyrulnik et de Charles Berling, qui entretiennent aussi un rapport particulier à la mer.</desc>
+    <credits>
+      <director>Ninon Brétécher</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107954857" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222183100 +0000" stop="20221222190000 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Olivier Marchal</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222190000 +0000" stop="20221222193200 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Cyril Dion, réalisateur, poète et militant</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222193200 +0000" stop="20221222203200 +0000" channel="LCP.fr">
+    <title lang="fr">La vie après l'alcool</title>
+    <sub-title lang="fr">Émission du 2009 à 20:50</sub-title>
+    <desc lang="fr">L'excès d'alcool n'est ni un vice, ni une tare, ni un manque de volonté. Il s'agit d'une maladie chronique, qui se soigne. Laurence Cottet, ex-haut cadre dirigeant, en a fait son combat. Après avoir été licenciée, elle a quitté Paris et s'est installée dans la Drôme. Elle a passé un diplôme en addictologie et tous les mardis, elle encadre un groupe de parole de malades alcooliques désireux de s'en sortir.</desc>
+    <credits>
+      <director>Marie Agostini</director>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Sante</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108049161" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222203200 +0000" stop="20221222205900 +0000" channel="LCP.fr">
+    <title lang="fr">DébatDoc</title>
+    <sub-title lang="fr">Alcool : les pouvoirs publics hypocrites ?</sub-title>
+    <desc lang="fr">Chaque soir, un débat animé par Jean-Pierre Gratien accompagne la diffusion d'un documentaire, en présence de parlementaires, d'acteurs de la société civile et d'experts.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101535652" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222205900 +0000" stop="20221222223100 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222223100 +0000" stop="20221222230100 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Ariane Ascaride</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222230100 +0000" stop="20221222233200 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Philippe Croizon</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221222233200 +0000" stop="20221223003200 +0000" channel="LCP.fr">
+    <title lang="fr">La diaspora des cendres</title>
+    <sub-title lang="fr">Doc. Histoire</sub-title>
+    <desc lang="fr">Sur des images actuelles des vestiges du camp d'extermination nazi d'Auschwitz, accompagnées de photos montrant la situation des Juifs d'Europe avant les déportations, de clichés et de dessins, six comédiens lisent des témoignages. Des textes écrits par des victimes ou des bourreaux, journaux intimes, billets jetés des trains, lettres de prisonniers ou de SS, documents administratifs ou notes de services.</desc>
+    <credits>
+      <director>William Karel</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107288061" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223003200 +0000" stop="20221223010000 +0000" channel="LCP.fr">
+    <title lang="fr">DébatDoc</title>
+    <sub-title lang="fr">Shoah : le long chemin de la mémoire</sub-title>
+    <desc lang="fr">Chaque soir, un débat animé par Jean-Pierre Gratien accompagne la diffusion d'un documentaire, en présence de parlementaires, d'acteurs de la société civile et d'experts.</desc>
+    <date>2021</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101535652" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223010000 +0000" stop="20221223022700 +0000" channel="LCP.fr">
+    <title lang="fr">La séance est ouverte !</title>
+    <sub-title lang="fr">Droit à l'IVG dans la Constituti..</sub-title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Emission Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1587" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223022700 +0000" stop="20221223023000 +0000" channel="LCP.fr">
+    <title lang="fr">Audition à l'Assemblée nationale</title>
+    <sub-title lang="fr">Indépendance énergétique : audition du président d'honneur d'EDF Pierre Gadonneix</sub-title>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108434267" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223023000 +0000" stop="20221223032500 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223032500 +0000" stop="20221223033000 +0000" channel="LCP.fr">
+    <title lang="fr">Conspirations ?</title>
+    <sub-title lang="fr">Un plan de dépopulation ?</sub-title>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101001768" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223033000 +0000" stop="20221223050100 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223050100 +0000" stop="20221223053000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Bergers, gardiens des territoires</sub-title>
+    <desc lang="fr">En Corse, sous l'étoile des bergers. En Corse, les montagnes couvertes de maquis se jettent dans le bleu de la mer Méditerranée. Ces terres escarpées à la beauté envoûtante sont celles des bergers corses et de leur bétail. - Dans les Grands Causses, des brebis et des hommes. Dans le sud du Massif central, des éleveurs et leurs bêtes ont façonné les hauts plateaux des Grands Causses depuis des millénaires.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470296" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223053000 +0000" stop="20221223060200 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Ils ont dessiné la Provence</sub-title>
+    <desc lang="fr">En Provence, il est un élément contre lequel les hommes ne peuvent pas lutter : le mistral. Soufflant plus de cent jours par an, ce vent froid et sec balaye les flots méditerranéens, fait se coucher les arbres et occupe une place à part dans l'imaginaire des Provençaux. Au fil des siècles, cette terrible bourrasque, honnie autant que chérie, a contribué à façonner les paysages, l'architecture et la culture de toute la région.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107894758" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223060200 +0000" stop="20221223063000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Quand la France régnait sur la c..</sub-title>
+    <desc lang="fr">Quand Avignon était le centre du monde. Sur les bords du Rhône s'étend Avignon, son pont et son Palais des Papes. Construit au XIVe siècle, l'édifice fut l'un des témoins privilégiés d'une brève période durant laquelle la papauté rayonnait depuis le Sud de la France. - Quand Cluny la bourguignonne rayonnait sur la chrétienté. Au coeur de la campagne bourguignonne, les vestiges de l'imposante abbaye de Cluny rayonnent sur des vallons couverts de vignes juteuses.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108509665" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223063000 +0000" stop="20221223080000 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223080000 +0000" stop="20221223093000 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223093000 +0000" stop="20221223100000 +0000" channel="LCP.fr">
+    <title lang="fr">Le journal de la Défense</title>
+    <desc lang="fr">Entre reportages et témoignages, un point complet de l'actualité de la Défense et de l'armée française.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101555884" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223100000 +0000" stop="20221223103000 +0000" channel="LCP.fr">
+    <title lang="fr">Un monde, un regard</title>
+    <sub-title lang="fr">Pauline Déroulède</sub-title>
+    <desc lang="fr">Cette semaine Rebecca Fitoussi reçoit Pauline Déroulède dans « un monde, un regard ».</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104416201" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223103000 +0000" stop="20221223113700 +0000" channel="LCP.fr">
+    <title lang="fr">J.O. : des îles en or</title>
+    <sub-title lang="fr">Doc. Histoire</sub-title>
+    <desc lang="fr">Au début des années 60, la France met particulièrement en avant ses sportifs d'outre-mer qui, rapidement, se distinguent par leurs performances au plus haut niveau national, voire international. Des premières olympiades modernes jusqu'aux jeux de Rio, en 2016, plongée dans l'épopée humaine et sportive de ces femmes et ces hommes qui, au nom du sport, vont porter au plus haut les couleurs de la France.</desc>
+    <credits>
+      <director>Jean-Pierre Devillers</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101672916" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223113700 +0000" stop="20221223120500 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">L'or blanc de France</sub-title>
+    <desc lang="fr">Guérande, une fortune née du sel. Dans le sud de la Bretagne s'étendent les plus grands marais salants septentrionaux d'Europe. Entre la cité de Guérande, et la presqu'île du Croisic, ces marais salants racontent une histoire longue de plus de mille ans. - Le destin salé de la Franche-Comté. Sur les reliefs de Franche-Comté, les bois et les pâturages s'étendent à perte de vue et dissimulent un trésor bien caché : le sel.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108469863" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223120500 +0000" stop="20221223123200 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Peuples de la mer</sub-title>
+    <desc lang="fr">En Normandie, l'épopée des Terre-neuvas. Pendant cinq siècles, des marins ont quitté au péril de leur vie les côtes normandes pour pêcher la morue dans les eaux glacées du Canada. Dans les ports de Fécamp et de Granville, on appelait ces hommes les Terre-neuvas. - Les phares, anges gardiens du Finistère. A l'extrémité ouest de la France, entre l'île d'Ouessant et la Chaussée de Sein, on compte la plus grande concentration de phares au monde.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108446478" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223123200 +0000" stop="20221223130000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Le génie du commerce</sub-title>
+    <desc lang="fr">La Champagne, l'invention du supermarché médiéval. Si la Champagne a toujours été une région de passage, au Moyen Age elle était au centre des échanges commerciaux avec ses célèbres foires. - Saint-Malo, le génie des affaires et de la mer. Saint-Malo doit sa réputation à d'importantes familles de marchands et d'armateurs bretons. A partir du XVIe siècle, ils transforment cette ville de pêcheurs en une place majeure du commerce maritime.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108482150" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223130000 +0000" stop="20221223150000 +0000" channel="LCP.fr">
+    <title lang="fr">Rembob'INA</title>
+    <sub-title lang="fr">K2 : pour quelle victoire ?</sub-title>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Multimedia</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406911" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223150000 +0000" stop="20221223153000 +0000" channel="LCP.fr">
+    <title lang="fr">Etat de santé</title>
+    <sub-title lang="fr">La 5G est-elle dangereuse pour la santé ?</sub-title>
+    <desc lang="fr">La santé publique est au coeur de tous les grands débats qui animent la société. Réforme de l'hôpital, malaise des adolescents, dépendance, handicap, alcool, les enjeux sont nombreux. Pour mieux comprendre les grandes problématiques de santé publique, Elizabeth Martichoux analyse un dossier en compagnie d'un expert. Plusieurs reportages aident à une meilleure compréhension du sujet sous ses divers aspects.</desc>
+    <date>2021</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406900" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223153000 +0000" stop="20221223160100 +0000" channel="LCP.fr">
+    <title lang="fr">Manger, c'est voter</title>
+    <sub-title lang="fr">En Savoie</sub-title>
+    <desc lang="fr">Cette semaine, Vincent Ferniot vous emmène en Savoie.</desc>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107833846" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223160100 +0000" stop="20221223163400 +0000" channel="LCP.fr">
+    <title lang="fr">Un monde, un regard</title>
+    <sub-title lang="fr">Pierre Gagnaire</sub-title>
+    <desc lang="fr">Rebecca Fitoussi reçoit le chef Pierre Gagnaire dans « un monde, un regard ».</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104416201" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223163400 +0000" stop="20221223183000 +0000" channel="LCP.fr">
+    <title lang="fr">Paysans cinéastes</title>
+    <sub-title lang="fr">Doc. Environnement</sub-title>
+    <desc lang="fr">Agriculteurs en Ile-de-France, des hommes et des femmes ont filmé en 8 mm ou super 8 la vie de la ferme, le travail des champs, les fêtes de famille et de village.</desc>
+    <credits>
+      <director>Louis Aucoin</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Environnement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108545746" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223183000 +0000" stop="20221223193000 +0000" channel="LCP.fr">
+    <title lang="fr">Politiques, à table !</title>
+    <desc lang="fr">L'interview d'une personnalité politique menée lors d'un déjeuner. Outre des questions d'actualité, sont abordés des sujets comme le rapport de l'invité avec la gastronomie, sa gourmandise ou ses orientations culinaires. Des reportages se penchent également sur les préoccupations alimentaires et sociales des Français.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106650086" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223193000 +0000" stop="20221223203000 +0000" channel="LCP.fr">
+    <title lang="fr">Des traîtres dans la Résistance</title>
+    <sub-title lang="fr">Doc. Histoire</sub-title>
+    <desc lang="fr">Pendant la Seconde Guerre mondiale, la plupart des réseaux de la Résistance française ont été infiltrés par des traîtres, les V Man, au service de l'occupant. Le recrutement de Français prêts à trahir et donner des renseignements était alors une des priorités des Allemands. Ce sont ces Français, dont le nombre est estimé entre 20 000 et 30 000, qui ont porté des coups fatals à la Résistance.</desc>
+    <credits>
+      <director>Patrick Benquet</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107970672" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223203000 +0000" stop="20221223210100 +0000" channel="LCP.fr">
+    <title lang="fr">DébatDoc</title>
+    <sub-title lang="fr">1940-1944 : la résistance infiltrée</sub-title>
+    <desc lang="fr">Chaque soir, un débat animé par Jean-Pierre Gratien accompagne la diffusion d'un documentaire, en présence de parlementaires, d'acteurs de la société civile et d'experts.</desc>
+    <date>1940</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101535652" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223210100 +0000" stop="20221223220000 +0000" channel="LCP.fr">
+    <title lang="fr">Versailles, construction d'un rêve impossible</title>
+    <sub-title lang="fr">Doc. Sciences et Techniques</sub-title>
+    <desc lang="fr">Avec ses 700 pièces, ses 2153 fenêtres, ses 47 bassins, ses 800 hectares de jardin, ses 63 000 m2 de superficie, Versailles a su relever d'impressionnants défis.</desc>
+    <credits>
+      <director>Muriel Montossé</director>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Sciences et Techniques</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108478263" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223220000 +0000" stop="20221223223000 +0000" channel="LCP.fr">
+    <title lang="fr">Au bonheur des livres</title>
+    <sub-title lang="fr">L'Art de représenter le monde</sub-title>
+    <desc lang="fr">Chaque semaine, Denis Olivennes reçoit deux auteurs : romanciers, essayistes ou, biographes pour parler de leur travail. Egalement au programme, une séquence dédiée aux lecteurs et une sélection d'ouvrages à ne pas manquer.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Lettres</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107833841" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223223000 +0000" stop="20221223225900 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Olivier Marchal</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223225900 +0000" stop="20221223233000 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens de Daphné Roulier</title>
+    <sub-title lang="fr">Cyril Dion, réalisateur, poète et militant</sub-title>
+    <desc lang="fr">Serge Klarsfeld a dédié sa vie à la traque des anciens nazis. Menant un travail acharné d'historien et de juriste, il a su ouvrir les archives officielles et écrire l'histoire de la solution finale en France. S'il ne formule pas d'inquiétude concernant l'avenir de la mémoire du génocide juif, il insiste sur le rôle clé du politique dans l'évolution de l'antisémitisme.</desc>
+    <date>2021</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101431057" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221223233000 +0000" stop="20221224010000 +0000" channel="LCP.fr">
+    <title lang="fr">Lettre à l'enfant que tu nous as donné</title>
+    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">A chaque élection, un critère attire tout particulièrement les regards : l'abstention. Pour tenter de séduire une jeunesse qui se détourne de plus en plus facilement de la politique, ce documentaire compile des extraits ou images d'archives et des témoignages qui évoquent l'importance de leur opinion.</desc>
+    <credits>
+      <director>Charlotte Silvera</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108441393" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224010000 +0000" stop="20221224020000 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224020000 +0000" stop="20221224023000 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224023000 +0000" stop="20221224030000 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224030000 +0000" stop="20221224032900 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224032900 +0000" stop="20221224043000 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224043000 +0000" stop="20221224045900 +0000" channel="LCP.fr">
+    <title lang="fr">Séance à l'Assemblée nationale</title>
+    <desc lang="fr">Retransmission quotidienne des séances publiques ou des réunions de commissions de l'Assemblée.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Debat</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363889" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224045900 +0000" stop="20221224053000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Made in Corsica</sub-title>
+    <desc lang="fr">Sur les coteaux rocheux et dans les plaines ensoleillées de Corse s'étendent de précieuses vignes qui ont contribué à façonner le territoire et les traditions locales. Fruit de l'histoire de l'île, le vignoble est dès l'Antiquité au coeur des échanges commerciaux et des luttes d'influence entre les grandes puissances maritimes. Maintes fois menacé de disparition, les cépages corses ont réussi à traverser les époques.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107894758" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224053000 +0000" stop="20221224060100 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Made in Marseille</sub-title>
+    <desc lang="fr">Le savon de Marseille raconte à lui seul l'histoire de ce petit port devenu grande cité industrielle. Grâce à la Méditerranée, les matières premières nécessaires à sa fabrication débarquent en plein coeur de la ville. Le mistral, lui, sèche la pâte en un temps record. Dans ces conditions, Marseille gagne le quasi-monopole sur la fabrication de ce petit cube qui marquera le visage de la ville et même au-delà.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107894758" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224060100 +0000" stop="20221224062900 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Histoires légendaires</sub-title>
+    <desc lang="fr">Dans le Béarn, la vallée des trois mousquetaires. Au XVIIe siècle, la paisible vallée de Barétous a vu naître des hommes indispensables au roi de France : les mousquetaires. - Les Templiers, maîtres du Larzac. Dans le sud de l'Aveyron, les étendues rocailleuses du plateau du Larzac portent en elle une riche histoire médiévale. A partir du XIIe siècle, la région abrite les Templiers, puis l'ordre des Hospitaliers.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108462779" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224062900 +0000" stop="20221224070000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">La Bretagne mystique</sub-title>
+    <desc lang="fr">Dans un triangle d'or entre Morlaix, Brest et Quimper, des flèches d'Églises défient le ciel. Des portails de pierre s'élèvent, d'imposantes statues de granit s'alignent. Ici, s'est épanouie au XVIe siècle, une architecture unique. Les enclos paroissiaux du Finistère sont des témoignages de la ferveur catholique des Bretons mais aussi de leur savoir-faire qui se transmettent encore.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107894758" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224070000 +0000" stop="20221224073000 +0000" channel="LCP.fr">
+    <title lang="fr">LCP le mag</title>
+    <sub-title lang="fr">Voyage dans la France des déserts médicaux</sub-title>
+    <desc lang="fr">Un rendez-vous au coeur des grands dossiers d'actualité qui sont débattus à l'Assemblée nationale. Enquêtes, reportages et rencontres servent à éclairer chaque débat.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100994018" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224073000 +0000" stop="20221224080000 +0000" channel="LCP.fr">
+    <title lang="fr">Etat de santé</title>
+    <sub-title lang="fr">La 5G est-elle dangereuse pour la santé ?</sub-title>
+    <desc lang="fr">La santé publique est au coeur de tous les grands débats qui animent la société. Réforme de l'hôpital, malaise des adolescents, dépendance, handicap, alcool, les enjeux sont nombreux. Pour mieux comprendre les grandes problématiques de santé publique, Elizabeth Martichoux analyse un dossier en compagnie d'un expert. Plusieurs reportages aident à une meilleure compréhension du sujet sous ses divers aspects.</desc>
+    <date>2021</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406900" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224080000 +0000" stop="20221224083000 +0000" channel="LCP.fr">
+    <title lang="fr">Etat de santé</title>
+    <sub-title lang="fr">Adieu Covid, bonjour angoisse ! Les séquelles du Covid sur la santé mentale des adolescents</sub-title>
+    <desc lang="fr">La santé publique est au coeur de tous les grands débats qui animent la société. Réforme de l'hôpital, malaise des adolescents, dépendance, handicap, alcool, les enjeux sont nombreux. Pour mieux comprendre les grandes problématiques de santé publique, Elizabeth Martichoux analyse un dossier en compagnie d'un expert. Plusieurs reportages aident à une meilleure compréhension du sujet sous ses divers aspects.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Societe</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406900" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224083000 +0000" stop="20221224090000 +0000" channel="LCP.fr">
+    <title lang="fr">Le grand journal des territoires</title>
+    <desc lang="fr">En collaboration avec les chaînes de télévision et les rédactions de la presse locales, un tour des régions à la rencontre des acteurs de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104416168" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224090000 +0000" stop="20221224093000 +0000" channel="LCP.fr">
+    <title lang="fr">Le journal de la Défense</title>
+    <sub-title lang="fr">Plongeurs des armées : une passion, des métiers</sub-title>
+    <desc lang="fr">Entre reportages et témoignages, un point complet de l'actualité de la Défense et de l'armée française.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Actualites</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/101555884" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224093000 +0000" stop="20221224113000 +0000" channel="LCP.fr">
+    <title lang="fr">Reconstitution du débat sur la loi de 1905 de séparation des églises et de l'état</title>
+    <sub-title lang="fr">Emission Politique</sub-title>
+    <credits>
+      <presenter>Brigitte Boucher</presenter>
+      <presenter>Marco Marco</presenter>
+      <presenter>Bruno Fuligini</presenter>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Emission Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/1945" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224113000 +0000" stop="20221224123000 +0000" channel="LCP.fr">
+    <title lang="fr">Politiques, à table !</title>
+    <desc lang="fr">L'interview d'une personnalité politique menée lors d'un déjeuner. Outre des questions d'actualité, sont abordés des sujets comme le rapport de l'invité avec la gastronomie, sa gourmandise ou ses orientations culinaires. Des reportages se penchent également sur les préoccupations alimentaires et sociales des Français.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106650086" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224123000 +0000" stop="20221224130000 +0000" channel="LCP.fr">
+    <title lang="fr">LCP le mag</title>
+    <sub-title lang="fr">Usines textiles : le grand retour ?</sub-title>
+    <desc lang="fr">Un rendez-vous au coeur des grands dossiers d'actualité qui sont débattus à l'Assemblée nationale. Enquêtes, reportages et rencontres servent à éclairer chaque débat.</desc>
+    <date>2021</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100994018" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224130000 +0000" stop="20221224150000 +0000" channel="LCP.fr">
+    <title lang="fr">Rembob'INA</title>
+    <sub-title lang="fr">Demain les hommes (1979)</sub-title>
+    <date>1979</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Multimedia</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406911" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224150000 +0000" stop="20221224151500 +0000" channel="LCP.fr">
+    <title lang="fr">Circo</title>
+    <sub-title lang="fr">Jimmy Pahun, son combat pour éloigner les éoliennes flottantes des côtes</sub-title>
+    <desc lang="fr">Loin du tumulte des séances de l'Assemblée nationale, une plongée au coeur d'une circonscription en compagnie de son député, pour découvrir le quotidien d'un élu.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406943" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224151500 +0000" stop="20221224153000 +0000" channel="LCP.fr">
+    <title lang="fr">Circo</title>
+    <sub-title lang="fr">Emmanuel Taché de la Pagerie, un député dans l'arène</sub-title>
+    <desc lang="fr">Loin du tumulte des séances de l'Assemblée nationale, une plongée au coeur d'une circonscription en compagnie de son député, pour découvrir le quotidien d'un élu.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406943" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224153000 +0000" stop="20221224171500 +0000" channel="LCP.fr">
+    <title lang="fr">Knock</title>
+    <sub-title lang="fr">Film Comédie</sub-title>
+    <desc lang="fr">Knock est le nouveau médecin du petit village de Saint-Maurice. L'enthousiasme qu'il affiche à son arrivée disparaît rapidement quand il apprend que son prédécesseur n'avait pas un seul client, tous les habitants de Saint-Maurice étant en parfaite santé. Le nouveau praticien ne désarme pas pour autant...</desc>
+    <credits>
+      <director>Guy Lefranc</director>
+      <actor>Louis Jouvet</actor>
+      <actor>Jean Brochard</actor>
+      <actor>Yves Deniaud</actor>
+      <actor>Pierre Bertin</actor>
+      <actor>Pierre Renoir</actor>
+      <actor>Jane Marken</actor>
+      <writer>Jules Romains</writer>
+      <writer>Georges Neveux</writer>
+      <composer>Paul Misraki</composer>
+    </credits>
+    <date>1951</date>
+    <category lang="fr">Cinema</category>
+    <category lang="fr">Film Comedie</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108530056" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224171500 +0000" stop="20221224174500 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">On fait la fête</sub-title>
+    <desc lang="fr">Le Fest noz, une résistance bretonne. La campagne bretonne chante son histoire depuis des millénaires. Dans les Monts d'Arrée, le Fest Noz, ou chant de la nuit, est une véritable transe qui permet à ses adeptes de se reconnecter avec le ciel et la terre. - Dunkerque, quand monte la clameur du carnaval. A Dunkerque, au moment du carnaval, les quartiers ouvriers et les pavillons bourgeois vibrent au son d'une clameur populaire et joyeuse.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470310" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224174500 +0000" stop="20221224181500 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Le bon air de la ville</sub-title>
+    <desc lang="fr">Pau, la belle anglaise. Au XIXe siècle, la situation exceptionnelle de Pau fait le bonheur de la riche communauté britannique qui s'y installe et donne un nouveau visage à la ville béarnaise. - Arcachon, la plus glamour des villes de cure. L'aristocratie et les fortunes de toute de l'Europe venaient se soigner au grand air arcachonnais dans les incroyables villas de sa ville d'hiver.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108462713" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224181500 +0000" stop="20221224184400 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Bergers, gardiens des territoires</sub-title>
+    <desc lang="fr">En Corse, sous l'étoile des bergers. En Corse, les montagnes couvertes de maquis se jettent dans le bleu de la mer Méditerranée. Ces terres escarpées à la beauté envoûtante sont celles des bergers corses et de leur bétail. - Dans les Grands Causses, des brebis et des hommes. Dans le sud du Massif central, des éleveurs et leurs bêtes ont façonné les hauts plateaux des Grands Causses depuis des millénaires.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470296" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224184400 +0000" stop="20221224191300 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Sur les chemins des pèlerins</sub-title>
+    <desc lang="fr">Au sud du Massif central s'étend le plateau de l'Aubrac, une terre envoûtante au rude climat et à la nature préservée. Depuis le Moyen Age, la région est traversée par les pèlerins en chemin vers Saint-Jacques-de-Compostelle. Ce plateau a longtemps constitué l'une des portions les plus périlleuses du pèlerinage et a accouché de nombreux mythes et légendes qui habitent encore ces monts.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107894758" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224191300 +0000" stop="20221224200000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Les bijoux cachés de l'Eglise</sub-title>
+    <desc lang="fr">Les églises peintes, merveilles du Moyen Age bourguignon. Les murs des bâtiments religieux de Puisaye abritent d'étonnantes peintures murales datant du Moyen Age qui illustrent des passages de l'ancien testament. - La Savoie, royaume du baroque. Au XVIIe siècle, sous l'impulsion du duc de Savoie Charles-Emmanuel Ier, les habitants s'approprient les codes d'un style qui fleurit partout en Europe.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470366" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224200000 +0000" stop="20221224211500 +0000" channel="LCP.fr">
+    <title lang="fr">Brigitte Bardot, le serment fait aux animaux</title>
+    <sub-title lang="fr">Émission du 1204 à 22:55</sub-title>
+    <desc lang="fr">En 1973, à l'apogée de sa gloire, Brigitte Bardot abandonne le cinéma pour la défense des animaux, dans l'incrédulité générale. Personne n'acceptait que la blonde la plus abrasive du monde plaque le cinéma pour s'occuper d'une cause qui, à l'époque, n'intéressait personne. A travers des archives et une interview inédite de Brigitte Bardot, ce film retrace cette épopée qui n'est pas terminée.</desc>
+    <credits>
+      <director>Rachel Kahn</director>
+      <director>François Chaumont</director>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100489089" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224211500 +0000" stop="20221224224900 +0000" channel="LCP.fr">
+    <title lang="fr">Dans les bals populaires</title>
+    <sub-title lang="fr">Doc. Culture</sub-title>
+    <desc lang="fr">Des fêtes de village aux clubs des années 1950, des grands bals nocturnes de la Belle Époque aux supermarchés de la danse des Trente Glorieuses, des guinguettes des bords de Marne aux discothèques des années 1980, des dancings de l'entre-deux-guerres, aux raves-parties en passant par l'incontournable bal des pompiers, la tradition du bal a perduré tout en évoluant. Le bal s'adapte aux changements sociaux.</desc>
+    <credits>
+      <director>Yann Coquart</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106253436" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224224900 +0000" stop="20221224234600 +0000" channel="LCP.fr">
+    <title lang="fr">Paysans cinéastes</title>
+    <sub-title lang="fr">Doc. Environnement</sub-title>
+    <desc lang="fr">Agriculteurs en Ile-de-France, des hommes et des femmes ont filmé en 8 mm ou super 8 la vie de la ferme, le travail des champs, les fêtes de famille et de village.</desc>
+    <credits>
+      <director>Louis Aucoin</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Environnement</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108545746" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221224234600 +0000" stop="20221225001500 +0000" channel="LCP.fr">
+    <title lang="fr">Manger, c'est voter</title>
+    <sub-title lang="fr">En Haute-Corse</sub-title>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107833846" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225001500 +0000" stop="20221225010000 +0000" channel="LCP.fr">
+    <title lang="fr">Manger, c'est voter</title>
+    <sub-title lang="fr">En Ille-et-Vilaine</sub-title>
+    <desc lang="fr">Vincent Ferniot part à la rencontre des acteurs de notre patrimoine agricole et nourricier, tout ce qui fait de la France un pays où le contenu de l'assiette relève d'un engagement quotidien.</desc>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107833846" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225010000 +0000" stop="20221225023000 +0000" channel="LCP.fr">
+    <title lang="fr">Sens public</title>
+    <sub-title lang="fr">Sens public</sub-title>
+    <desc lang="fr">Présentée par Thomas Hugues, « Sens public » est l'émission qui donne du sens et permet de comprendre les grands enjeux de l'actualité.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/104164623" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225023000 +0000" stop="20221225040000 +0000" channel="LCP.fr">
+    <title lang="fr">100% Sénat</title>
+    <desc lang="fr">Le magazine entièrement consacré à l'actualité de la chambre haute de la Ve République française.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Infos</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106352429" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225040000 +0000" stop="20221225042900 +0000" channel="LCP.fr">
+    <title lang="fr">Manger, c'est voter</title>
+    <sub-title lang="fr">En Haute-Corse</sub-title>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107833846" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225042900 +0000" stop="20221225050000 +0000" channel="LCP.fr">
+    <title lang="fr">Manger, c'est voter</title>
+    <sub-title lang="fr">En Ille-et-Vilaine</sub-title>
+    <desc lang="fr">Vincent Ferniot part à la rencontre des acteurs de notre patrimoine agricole et nourricier, tout ce qui fait de la France un pays où le contenu de l'assiette relève d'un engagement quotidien.</desc>
+    <date>2021</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Mag Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107833846" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225050000 +0000" stop="20221225053000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Au fil du canal</sub-title>
+    <desc lang="fr">C'est un des plus grands chefs-d'oeuvre de génie civil de France. Un projet colossal du XVIIe siècle. S'étendant sur 240 kilomètres, le Canal du Midi est une voie d'eau artificielle creusée pour relier l'Atlantique à la Méditerranée. Rêvé depuis l'Antiquité pour contourner la péninsule ibérique et les attaques de pirates, le projet se concrétisera sous le règne de Louis XIV.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107894758" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225053000 +0000" stop="20221225060000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">La France en couleurs</sub-title>
+    <desc lang="fr">Au coeur du Luberon s'étendent des reliefs rougeoyants qu'on dirait tout droit sortis du Grand canyon du Colorado. Cette couleur, c'est celle du pigment ocre, présent en quantité dans le sous-sol de la région et utilisé depuis toujours dans l'artisanat et l'architecture locale.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107894758" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225060000 +0000" stop="20221225070000 +0000" channel="LCP.fr">
+    <title lang="fr">Politiques, à table !</title>
+    <desc lang="fr">L'interview d'une personnalité politique menée lors d'un déjeuner. Outre des questions d'actualité, sont abordés des sujets comme le rapport de l'invité avec la gastronomie, sa gourmandise ou ses orientations culinaires. Des reportages se penchent également sur les préoccupations alimentaires et sociales des Français.</desc>
+    <date>2022</date>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Mag Politique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/106650086" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225070000 +0000" stop="20221225075000 +0000" channel="LCP.fr">
+    <title lang="fr">La tournée royale des Windsor</title>
+    <desc lang="fr">La jeune princesse Elizabeth est au Kenya lorsqu'elle apprend la nouvelle du décès de son père le roi George VI. Elle est couronnée peu après à l'âge de 25 ans.</desc>
+    <date>2018</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107295440" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225075000 +0000" stop="20221225084000 +0000" channel="LCP.fr">
+    <title lang="fr">La tournée royale des Windsor</title>
+    <desc lang="fr">Dans le monde des années 60-70, marqué par les bouleversements politiques liés à la décolonisation, gros plan sur les relations entre les Windsor et le Commonwealth.</desc>
+    <date>2018</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107295440" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225084000 +0000" stop="20221225092900 +0000" channel="LCP.fr">
+    <title lang="fr">La tournée royale des Windsor</title>
+    <desc lang="fr">Dans les années 1980, le prince Charles épouse Lady Diana et commence à assumer les fonctions d'ambassadeur en effectuant des tournées avec sa femme.</desc>
+    <date>2018</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107295440" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225092900 +0000" stop="20221225102100 +0000" channel="LCP.fr">
+    <title lang="fr">La tournée royale des Windsor</title>
+    <desc lang="fr">L'héritage des Windsor continue de résister à l'épreuve du temps, en grande partie grâce aux relations et aux liens avec le public, formés par les tournées royales.</desc>
+    <date>2018</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Histoire</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/107295440" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225102100 +0000" stop="20221225105000 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Quand la France régnait sur la c..</sub-title>
+    <desc lang="fr">Quand Avignon était le centre du monde. Sur les bords du Rhône s'étend Avignon, son pont et son Palais des Papes. Construit au XIVe siècle, l'édifice fut l'un des témoins privilégiés d'une brève période durant laquelle la papauté rayonnait depuis le Sud de la France. - Quand Cluny la bourguignonne rayonnait sur la chrétienté. Au coeur de la campagne bourguignonne, les vestiges de l'imposante abbaye de Cluny rayonnent sur des vallons couverts de vignes juteuses.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108509665" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225105000 +0000" stop="20221225111900 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Les bijoux cachés de l'Eglise</sub-title>
+    <desc lang="fr">Les églises peintes, merveilles du Moyen Age bourguignon. Les murs des bâtiments religieux de Puisaye abritent d'étonnantes peintures murales datant du Moyen Age qui illustrent des passages de l'ancien testament. - La Savoie, royaume du baroque. Au XVIIe siècle, sous l'impulsion du duc de Savoie Charles-Emmanuel Ier, les habitants s'approprient les codes d'un style qui fleurit partout en Europe.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108470366" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225111900 +0000" stop="20221225115700 +0000" channel="LCP.fr">
+    <title lang="fr">Patrimoines de France</title>
+    <sub-title lang="fr">Histoires légendaires</sub-title>
+    <desc lang="fr">Dans le Béarn, la vallée des trois mousquetaires. Au XVIIe siècle, la paisible vallée de Barétous a vu naître des hommes indispensables au roi de France : les mousquetaires. - Les Templiers, maîtres du Larzac. Dans le sud de l'Aveyron, les étendues rocailleuses du plateau du Larzac portent en elle une riche histoire médiévale. A partir du XIIe siècle, la région abrite les Templiers, puis l'ordre des Hospitaliers.</desc>
+    <date>2022</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Decouvertes</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108462779" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225115700 +0000" stop="20221225125000 +0000" channel="LCP.fr">
+    <title lang="fr">Versailles, construction d'un rêve impossible</title>
+    <sub-title lang="fr">Doc. Sciences et Techniques</sub-title>
+    <desc lang="fr">Avec ses 700 pièces, ses 2153 fenêtres, ses 47 bassins, ses 800 hectares de jardin, ses 63 000 m2 de superficie, Versailles a su relever d'impressionnants défis.</desc>
+    <credits>
+      <director>Muriel Montossé</director>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Sciences et Techniques</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/108478263" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225125000 +0000" stop="20221225140000 +0000" channel="LCP.fr">
+    <title lang="fr">Brigitte Bardot, le serment fait aux animaux</title>
+    <sub-title lang="fr">Émission du 1204 à 22:55</sub-title>
+    <desc lang="fr">En 1973, à l'apogée de sa gloire, Brigitte Bardot abandonne le cinéma pour la défense des animaux, dans l'incrédulité générale. Personne n'acceptait que la blonde la plus abrasive du monde plaque le cinéma pour s'occuper d'une cause qui, à l'époque, n'intéressait personne. A travers des archives et une interview inédite de Brigitte Bardot, ce film retrace cette épopée qui n'est pas terminée.</desc>
+    <credits>
+      <director>Rachel Kahn</director>
+      <director>François Chaumont</director>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Decouverte</category>
+    <category lang="fr">Doc Culture</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100489089" />
+    <video>
+      <quality>HD</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225140000 +0000" stop="20221225160000 +0000" channel="LCP.fr">
+    <title lang="fr">Rembob'INA</title>
+    <sub-title lang="fr">L'Espagnol : la célèbre dramatique du réalisateur Jean Prat (1967)</sub-title>
+    <date>1967</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Multimedia</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406911" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225160000 +0000" stop="20221225180000 +0000" channel="LCP.fr">
+    <title lang="fr">Rembob'INA</title>
+    <sub-title lang="fr">Pierre Desgraupes : un pionnier de la télévision</sub-title>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Multimedia</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406911" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225180000 +0000" stop="20221225200000 +0000" channel="LCP.fr">
+    <title lang="fr">Rembob'INA</title>
+    <sub-title lang="fr">René Goscinny : la création dans tous ses états</sub-title>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Multimedia</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406911" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225200000 +0000" stop="20221225220000 +0000" channel="LCP.fr">
+    <title lang="fr">Rembob'INA</title>
+    <sub-title lang="fr">Le mythe Bardot</sub-title>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Multimedia</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406911" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221225220000 +0000" stop="20221226000000 +0000" channel="LCP.fr">
+    <title lang="fr">Rembob'INA</title>
+    <sub-title lang="fr">Joseph Kessel : sur les traces de l'écrivain voyageur en Afghanistan</sub-title>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Mag Multimedia</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100406911" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme start="20221226000000 +0000" stop="20221226003000 +0000" channel="LCP.fr">
+    <title lang="fr">Les grands entretiens d'Yves Thréard</title>
+    <sub-title lang="fr">Une certaine idée de la France</sub-title>
+    <date>2022</date>
+    <category lang="fr">Divertissement</category>
+    <category lang="fr">Divers</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/img-hapi.canalplus.pro:80/ServiceImage/ImageID/102045426" />
+    <rating system="CSA">
+      <value>1</value>
+    </rating>
+  </programme>
   <channel id="France4.fr">
     <display-name lang="fr">|FR| France 4</display-name>
     <icon src="https://raw.githubusercontent.com/andykimpe/euroiptv-epg-fr/master/logo/France/france4.png" />
